@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24T09:27:15Z",
+  "as_of": "2026-08-24T10:19:36Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -125,10 +125,10 @@
         "published": "2026-08-19T17:41:32Z"
       },
       {
-        "title": "Heights Finance data breach: What customers need to know",
-        "outlet": "Malwarebytes",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzhqdklkQy1pNy1kNmEyNmg4VDdvOS1XODNyN3MxLURFVzBhcHZkM3RILXlESjdkNFZXRmlYenE4Uk03TDh6MlhCdVNpM1NGTXUxN3V4R1ltRlpuQTlXOGoxQ0tUS2pNTGltWFo0LVZWUTdfV1ZLd1NxU3NNdjZVQXZjWlBOeTNfcllNMHVvdG1rVUpGcEY5SU83d0hwcXk0S251SDB5RmFkYWdQT29YUA?oc=5",
-        "published": "2026-08-18T11:00:53Z"
+        "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
+        "published": "2026-08-21T13:23:53Z"
       }
     ]
   },
@@ -176,7 +176,5 @@
       "url": "https://cybernews.com/security/millions-login-records-allegedly-stolen-from-roblox/"
     }
   ],
-  "errors": [
-    "news: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
