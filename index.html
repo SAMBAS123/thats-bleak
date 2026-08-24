@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BLEAK — B + LEAK</title>
+  <meta name="description" content="BLEAK: public leak blotter. Have I Been Pwned catalog plus this week's leak headlines. Not a mirror. Not GTA footage. Unofficial." />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:title" content="BLEAK — B + LEAK" />
+  <meta property="og:description" content="OOF energy on leaks. Public catalog, not a pirate bay." />
+  <meta property="og:image" content="https://sambas123.github.io/thats-bleak/bleak.png" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&family=Newsreader:ital,opsz,wght@0,6..72,500;1,6..72,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="mast">
+      <h1 class="wordmark">B<em>LEAK</em></h1>
+      <div class="stamp">public leak<br />blotter</div>
+    </header>
+
+    <p class="lede">
+      <strong>BLEAK</strong> — B + LEAK.
+      OOF was the docket. This is the dump.
+      A public count of what already leaked, who reported it, and whether
+      new ones are still landing. We do not host files. We do not host footage.
+    </p>
+
+    <section class="hero">
+      <div class="kicker">have i been pwned · breach date 2026</div>
+      <div class="num" id="total">—</div>
+      <p class="num-label">
+        accounts in public breaches dated 2026, per
+        <em>Have I Been Pwned</em>.
+        That is a catalog sum, not unique humans and not a verdict.
+        Query: HIBP <code>/breaches</code>, <code>BreachDate</code> starts with 2026.
+      </p>
+      <div class="stats">
+        <div class="stat"><b id="n2026">—</b><span>public breaches dated 2026</span></div>
+        <div class="stat"><b id="d7">—</b><span>added to the catalog, 7 days</span></div>
+        <div class="stat"><b id="n7">—</b><span>leak headlines, 7 days — is it still moving?</span></div>
+      </div>
+      <p class="checked" id="checked">loading tape…</p>
+      <p class="status" id="status"></p>
+    </section>
+
+    <section class="so-what">
+      <h2>So what?</h2>
+      <ol class="points">
+        <li>
+          <strong>It is not a pirate bay.</strong>
+          Rows link to HIBP and to reporting. If the ticker dies, the catalog
+          is still the useful part. We do not mirror dumps or GTA clips.
+        </li>
+        <li>
+          <strong>Not every leak is a hack.</strong>
+          <a href="https://bitquery.io/investigations/cyberleek-gta6-leak-coin" target="_blank" rel="noopener noreferrer">CyberLeek’s token traded on Aug 15</a>
+          and the footage landed on Aug 18 with QR codes for the coin.
+          The leak was the advertisement. That is on this tape as news, not as files.
+        </li>
+        <li>
+          <strong>HIBP is the honest number.</strong>
+          A Google search for “leak” is junk. The catalog is verified public
+          breaches. <code>PwnCount</code> can overlap people across dumps.
+        </li>
+        <li>
+          <strong>The useful signal is velocity.</strong>
+          A quiet week of new catalog rows is information.
+          A week of new “leak” headlines — including a $15M GTA token — is information.
+        </li>
+      </ol>
+    </section>
+
+    <section class="do-this">
+      <h2>How to read a leak</h2>
+      <p>
+        Three things, or it is gossip: a named source, a date, a public
+        write-up. Credential listings on a forum are alleged until a
+        company or a catalog like HIBP says so. Do not download “the build.”
+      </p>
+      <ul class="links">
+        <li><a href="https://haveibeenpwned.com/" target="_blank" rel="noopener noreferrer">Have I Been Pwned</a> — the catalog this page counts</li>
+        <li><a href="https://bitquery.io/investigations/cyberleek-gta6-leak-coin" target="_blank" rel="noopener noreferrer">Bitquery on CyberLeek</a> — token first, leak second</li>
+        <li><a href="https://beincrypto.com/gta-vi-cyberleek-meme-coin-rally/" target="_blank" rel="noopener noreferrer">Take-Two subpoenas</a> — Microsoft, Discord, X</li>
+      </ul>
+    </section>
+
+    <aside class="ca" id="ca" hidden>
+      <div class="kicker">$BLEAK</div>
+      <a id="ca-mint" href="#" target="_blank" rel="noopener noreferrer"></a>
+      <div class="ca-links">
+        <a id="ca-pump" href="#" target="_blank" rel="noopener noreferrer">pump.fun</a>
+        <a id="ca-solscan" href="#" target="_blank" rel="noopener noreferrer">solscan</a>
+      </div>
+    </aside>
+
+    <section class="split">
+      <div>
+        <h2>Catalog</h2>
+        <ol id="breaches"></ol>
+      </div>
+      <div>
+        <h2>Wire</h2>
+        <ol id="news"></ol>
+      </div>
+    </section>
+
+    <section class="record">
+      <h2>On the record</h2>
+      <div class="chips" id="record"></div>
+    </section>
+
+    <footer class="foot">
+      <p>
+        Unofficial public blotter. Not affiliated with Have I Been Pwned,
+        Rockstar, Take-Two, or any named company. Not legal advice.
+        We do not host breach files, credentials, or unreleased game footage.
+        A headline is not a confirmation. A dark-web listing is not a
+        confirmed platform breach.
+        <strong>PwnCount</strong> is HIBP’s published account total for that
+        incident and can overlap.
+      </p>
+      <p>
+        Catalog:
+        <a id="hibp-link" href="https://haveibeenpwned.com/PwnedWebsites">Have I Been Pwned</a>.
+        Headlines: Google News RSS. Hand-cited facts link to their original
+        reporting. The tape refreshes about once an hour from this repo.
+        If a source fails, the last good slice stays up.
+      </p>
+      <p>
+        Sister page:
+        <a href="https://sambas123.github.io/thats-weird/">OOF — Open Oversight Filings</a>
+        · Source:
+        <a href="https://github.com/SAMBAS123/thats-bleak">github.com/SAMBAS123/thats-bleak</a>
+        · <span id="token-line">no ticker yet</span>
+      </p>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
