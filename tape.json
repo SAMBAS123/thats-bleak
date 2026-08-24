@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24T07:41:49Z",
+  "as_of": "2026-08-24T09:27:15Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -176,5 +176,7 @@
       "url": "https://cybernews.com/security/millions-login-records-allegedly-stolen-from-roblox/"
     }
   ],
-  "errors": []
+  "errors": [
+    "news: HTTP Error 503: Service Unavailable"
+  ]
 }
