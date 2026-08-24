@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24T06:06:15Z",
+  "as_of": "2026-08-24T07:41:49Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -119,16 +119,16 @@
         "published": "2026-08-21T14:38:03Z"
       },
       {
-        "title": "CyberLeek Price: CYBERLEEK/USD Live Price Chart, Market Cap & News Today",
-        "outlet": "CoinGecko",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pNDU1N0pqaVZxQTFkYkFTMkhiXzdCdFFpZE1GYjNRaE5TYTFFV2g4SGJTb2JRcUhQakFOTWhvaDdILWNWQVBWd1JqZFk2bmxLVTg3YzBKVQ?oc=5",
-        "published": "2026-08-19T06:01:07Z"
-      },
-      {
         "title": "'GTA 6' Gameplay Leaks Turn Ugly As Hackers Mock Rockstar",
         "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYXpWWUNWWHhTaFd0X0xQUGhUbHRDTzNpRmZTRjl0ZWdXdExRRFgxQmZ2S2ZFNUhBd3RjMTg1UmZob0Z4YmpMbll5MWo4UG5tbXRsMTlTTlA4UGxPMXhVNktSY0h2dnBKa2VXSDZ5d3o1OFRSNF84ZDZNMnNWT0Q4TzVYNA?oc=5",
         "published": "2026-08-19T17:41:32Z"
+      },
+      {
+        "title": "Heights Finance data breach: What customers need to know",
+        "outlet": "Malwarebytes",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzhqdklkQy1pNy1kNmEyNmg4VDdvOS1XODNyN3MxLURFVzBhcHZkM3RILXlESjdkNFZXRmlYenE4Uk03TDh6MlhCdVNpM1NGTXUxN3V4R1ltRlpuQTlXOGoxQ0tUS2pNTGltWFo0LVZWUTdfV1ZLd1NxU3NNdjZVQXZjWlBOeTNfcllNMHVvdG1rVUpGcEY5SU83d0hwcXk0S251SDB5RmFkYWdQT29YUA?oc=5",
+        "published": "2026-08-18T11:00:53Z"
       }
     ]
   },
