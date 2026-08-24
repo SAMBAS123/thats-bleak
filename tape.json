@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24T22:57:03Z",
+  "as_of": "2026-08-24T23:52:32Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,10 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 CyberLeek update: Everything leaked so far, what might be next",
+        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0R2NENwN2k0djA3Z3FYNjBkeDJJRWNtMUlKZjlHSzdweDY4Ymo0Ym9GQVpOblZWOGRMenlpZndMdmQ3RDU5UVd5TDlRRnp0TU9nS2NEZzRtZlU0MmJJdVQ3ZzZfN3JoUHJuQ1Q3cXl5VUEtbjhKR0JkZkdhTXY0QzdPSmRUM0ViRXJfYm5yS1FnUQ?oc=5",
-        "published": "2026-08-21T19:00:00Z"
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3F4ektQSnl5elZuV3dMVHpSM0lQZ3hmZVRDUHFzVGZ5T1I0QldxZFEyRlF3UHVqLTBMcVhYaUZZQjVxTjBlU3NqNzFCRU1aSTg2Tk5qbmFubUo3V0NfRzRXcHhQdVVHbzZfX2xremNQUGlUX0lXeU9idUVpT2gzbzMwTkVSZm9lYnRFOUZReUswTXEwY0FkYWZn?oc=5",
+        "published": "2026-08-23T15:35:33Z"
       },
       {
         "title": "CyberLeek Price: CYBERLEEK/USD Live Price Chart, Market Cap & News Today",
@@ -107,12 +107,6 @@
         "published": "2026-08-21T13:23:53Z"
       },
       {
-        "title": "CareCloud Data Breach Affects 3.75 Million Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T1I5Wk9PYi03M0VZV2pENjFiRmx2NHNQQWpMVXNZeHE0MGxWTUpmcDZPOWZVaFRoSDd2dXVpWVR4MVJZRDczYnc2bl9ubW9rN25ucE1PNXNQU3VCSUpDNA?oc=5",
-        "published": "2026-08-18T07:00:00Z"
-      },
-      {
         "title": "The ‘GTA 6’ Leaks Get Higher Quality With No End In Sight",
         "outlet": "Forbes",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTlwcFFDQzJZZWNaamdaaW00em1LODJsVi1LNDBkdURBeks4TDlzNDljTlM4dkVOM184UmF3SVBOajVkdWdLTW9UZGJaaDFRdVpTbVdxYjZIMUhuMEsxLTB0TWtOMHpzZFN2empIREhtWWl5akVXdUdFX2trZkpsbl9ySVM2ZjhnMW4yRmZKYUpDMGJZMmdwTnA2WUZYazJPVVd5Y1AwVkd0QQ?oc=5",
@@ -129,6 +123,12 @@
         "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYXpWWUNWWHhTaFd0X0xQUGhUbHRDTzNpRmZTRjl0ZWdXdExRRFgxQmZ2S2ZFNUhBd3RjMTg1UmZob0Z4YmpMbll5MWo4UG5tbXRsMTlTTlA4UGxPMXhVNktSY0h2dnBKa2VXSDZ5d3o1OFRSNF84ZDZNMnNWT0Q4TzVYNA?oc=5",
         "published": "2026-08-19T17:41:32Z"
+      },
+      {
+        "title": "CareCloud Data Breach Affects 3.75 Million Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T1I5Wk9PYi03M0VZV2pENjFiRmx2NHNQQWpMVXNZeHE0MGxWTUpmcDZPOWZVaFRoSDd2dXVpWVR4MVJZRDczYnc2bl9ubW9rN25ucE1PNXNQU3VCSUpDNA?oc=5",
+        "published": "2026-08-18T07:00:00Z"
       }
     ]
   },
