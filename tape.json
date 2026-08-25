@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-08-25T20:58:31Z",
+  "as_of": "2026-08-25T21:56:11Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1031,
-    "breaches_2026": 78,
-    "pwn_2026": 260039472,
-    "added_2026": 96,
-    "added_7d": 4,
-    "added_30d": 11,
+    "catalog_total": 1032,
+    "breaches_2026": 79,
+    "pwn_2026": 272972885,
+    "added_2026": 97,
+    "added_7d": 5,
+    "added_30d": 12,
     "latest": [
+      {
+        "name": "Carhartt",
+        "title": "Carhartt",
+        "added": "2026-08-25T21:34:25Z",
+        "breach_date": "2026-08-13",
+        "pwn_count": 12933413,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#Carhartt"
+      },
       {
         "name": "NIUS",
         "title": "NIUS",
@@ -66,14 +74,6 @@
         "breach_date": "2026-07-13",
         "pwn_count": 732162,
         "url": "https://haveibeenpwned.com/PwnedWebsites#BrinksHome"
-      },
-      {
-        "name": "ExactSciences",
-        "title": "Exact Sciences",
-        "added": "2026-08-07T06:27:29Z",
-        "breach_date": "2026-07-15",
-        "pwn_count": 10869543,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#ExactSciences"
       }
     ]
   },
@@ -107,16 +107,16 @@
         "published": "2026-08-19T17:41:32Z"
       },
       {
-        "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
-        "published": "2026-08-21T13:23:53Z"
-      },
-      {
         "title": "Catastrophic GTA VI leak is a full working build — notorious hacker CyberLeek taunts Rockstar Games by spraying the word 'leek' onto a wall in-game with bullets",
         "outlet": "Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQM2hheXNsaXlySGVkUTlxYkVRbzh1ZDVPVmV1QmNCbUxTekVzd1hRMnZfN2YtLTdWNVg5aGlxZWw0bFJPVFBqUTE0VllaX2xKMWdBNVFzQXExeG1hRzdCZjJ1eUhBRk9PNVdJVm5yYndrQ2hTOWFlbWtwLUljNDZ4cmFNdDdrZ3c1cU93YjMteGExLVViUkdUbHp5WjdHRGc0MUZ3cUFIRDB5RjBvVzhzUWtTYndvWTZFVzBGUE1BeFBhT0JqQXVlUmN0TWZqWVlYeXF2N3M5aHg5bHdoM0ctZ1FUSk5rOVVTUHdEcUUwRF9NekFkMVhZb3JlSXZOUXJjZE4yVmh3Ml84UktyUkZ6ODQtcXFac3hkSkVUVF9YNjJVWHM?oc=5",
         "published": "2026-08-20T13:55:32Z"
+      },
+      {
+        "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
+        "published": "2026-08-21T13:23:53Z"
       },
       {
         "title": "GTA 6 Leak: Cyberleek Exposes Map, Cites Digital Rights Protest",
@@ -125,10 +125,10 @@
         "published": "2026-08-19T16:40:24Z"
       },
       {
-        "title": "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
-        "outlet": "PC Gamer",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONjBqX0FPYU94SXIwZ19aMi0wVnFtMWxBTXdTZk5vcDJQV1c3S2FtZXpUVnFoWEdudGEyQW1DTFFkejRwMEREWjVtSU9ubjNaUG9pUUoxSnk0ZXJudDNGX1ZxeTRBRFZGTXNBeXBHTWNHbVdrRFA2Z3pLYThpdkkzMEdubkphZ0FkY29lQmNxN0xyTDJKNEFGcURTTFVzZFhBTkR5OFo5OUc4dWxYSVJWVUJ6OWdRNDBzaWJ2VzhvNkVkLWY0NDFWQUtYU3h6d0p4ZVJuZWt0dGMzY0JCX0FUN0U0Z2VFQUlCcl9pbVpB?oc=5",
-        "published": "2026-08-21T14:38:03Z"
+        "title": "Data breach at health product company impacts 48,000 Vermonters",
+        "outlet": "WCAX",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlBubjNKeWtSN1hBNW1lLTRDZzI4VF9SOGVlaDFrV1RKeVBDclctaFN6YS0wT24yYU9XaVlJdXFvclFzU05OZmtXcUdNa29MRnFuU0d4b0V5OGVaVEhYMzlhUEpLWkVBd1dpaU5wRkRWaWM2dDl6UXRkTUtXRVlObGdQQXBLdVAwMTlGUmlZeG9qekFuMXJn0gGrAUFVX3lxTFB4ODFTbHJXUVo2ck1LNU5pMkNpMktSLUp3N2dYb2c2OFlqcHRDYlhhSU8xNmFWU3dBRHZpbzgxOUxzQ1FDX2VHUGg0Wnh0MndoWlI0TTJONXlaQm8wNkRhRUtZRlNfRlFvaXliajM2VDlvRERWU0Flb29TckNERWdkanB4Qk8zbmJqeENia2hMazU0SmNUTC1PWEpVNVk2RFVYcl96dWZKdmpLQQ?oc=5",
+        "published": "2026-08-21T10:43:00Z"
       }
     ]
   },
