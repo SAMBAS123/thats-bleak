@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25T14:23:49Z",
+  "as_of": "2026-08-25T15:24:52Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
-        "outlet": "Kotaku",
+        "outlet": "kotaku.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmpOVHFTMzFVQnBFVHZCT3NMLVgtTU9LUnVGVmt0d2FfdDNkbHlFWHBPMGtxZ01KM0xaWXVJbEtmbEJMc2tfOHROb1cyak5TdTJzM2xKeGkxUEFncXh6QUtXZi1DendJOUFTNnhEVHFlZlQ1WGdJM25iMU1GcGFqVEM3SFZLdjBwLTZJbjhFVEg0LUk4S21xZGJhZTE2RDAybll0eVNDcEgtcU1Ed3NyeVBMVnNOV2V1R1E?oc=5",
         "published": "2026-08-20T22:05:50Z"
       },
@@ -107,12 +107,6 @@
         "published": "2026-08-19T17:41:32Z"
       },
       {
-        "title": "CyberLeek Price: CYBERLEEK/USD Live Price Chart, Market Cap & News Today",
-        "outlet": "CoinGecko",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pNDU1N0pqaVZxQTFkYkFTMkhiXzdCdFFpZE1GYjNRaE5TYTFFV2g4SGJTb2JRcUhQakFOTWhvaDdILWNWQVBWd1JqZFk2bmxLVTg3YzBKVQ?oc=5",
-        "published": "2026-08-19T06:01:07Z"
-      },
-      {
         "title": "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
         "outlet": "PC Gamer",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONjBqX0FPYU94SXIwZ19aMi0wVnFtMWxBTXdTZk5vcDJQV1c3S2FtZXpUVnFoWEdudGEyQW1DTFFkejRwMEREWjVtSU9ubjNaUG9pUUoxSnk0ZXJudDNGX1ZxeTRBRFZGTXNBeXBHTWNHbVdrRFA2Z3pLYThpdkkzMEdubkphZ0FkY29lQmNxN0xyTDJKNEFGcURTTFVzZFhBTkR5OFo5OUc4dWxYSVJWVUJ6OWdRNDBzaWJ2VzhvNkVkLWY0NDFWQUtYU3h6d0p4ZVJuZWt0dGMzY0JCX0FUN0U0Z2VFQUlCcl9pbVpB?oc=5",
@@ -123,6 +117,12 @@
         "outlet": "Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQM2hheXNsaXlySGVkUTlxYkVRbzh1ZDVPVmV1QmNCbUxTekVzd1hRMnZfN2YtLTdWNVg5aGlxZWw0bFJPVFBqUTE0VllaX2xKMWdBNVFzQXExeG1hRzdCZjJ1eUhBRk9PNVdJVm5yYndrQ2hTOWFlbWtwLUljNDZ4cmFNdDdrZ3c1cU93YjMteGExLVViUkdUbHp5WjdHRGc0MUZ3cUFIRDB5RjBvVzhzUWtTYndvWTZFVzBGUE1BeFBhT0JqQXVlUmN0TWZqWVlYeXF2N3M5aHg5bHdoM0ctZ1FUSk5rOVVTUHdEcUUwRF9NekFkMVhZb3JlSXZOUXJjZE4yVmh3Ml84UktyUkZ6ODQtcXFac3hkSkVUVF9YNjJVWHM?oc=5",
         "published": "2026-08-20T13:55:32Z"
+      },
+      {
+        "title": "CyberLeek Price: CYBERLEEK/USD Live Price Chart, Market Cap & News Today",
+        "outlet": "CoinGecko",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pNDU1N0pqaVZxQTFkYkFTMkhiXzdCdFFpZE1GYjNRaE5TYTFFV2g4SGJTb2JRcUhQakFOTWhvaDdILWNWQVBWd1JqZFk2bmxLVTg3YzBKVQ?oc=5",
+        "published": "2026-08-19T06:01:07Z"
       },
       {
         "title": "GTA 6 Leak: Cyberleek Exposes Map, Cites Digital Rights Protest",
@@ -176,7 +176,5 @@
       "url": "https://cybernews.com/security/millions-login-records-allegedly-stolen-from-roblox/"
     }
   ],
-  "errors": [
-    "news: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
