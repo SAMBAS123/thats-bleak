@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25T23:53:45Z",
+  "as_of": "2026-08-26T02:11:37Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 79,
     "pwn_2026": 272972885,
     "added_2026": 97,
-    "added_7d": 5,
+    "added_7d": 4,
     "added_30d": 12,
     "latest": [
       {
@@ -119,16 +119,16 @@
         "published": "2026-08-20T13:55:32Z"
       },
       {
-        "title": "[UPDATE] GTA 6 Leaks Continue Into Fourth Day With Yet Another Gameplay Video Amid Radio Silence From Rockstar",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2pPdVNfZlNRX3gxdmx6X0NGNzM2a3N6WGFfYzE3dVNIMjlsMTBOSEZsTXJKbElGQkc3U0pHc0xHblBTVDlUT1VxV2hYYnQzQ2FMMy1UTmxWQUpqMl9zSXBNTDQ5TmhIM1NGYWtvU0RkanE5aE00S09QZFc2bkQ2Q3lZeGxUV2YzU1BlTzFEX3JrMlVOTTRzY1VhcElrOC1sNUhCRjZWVDVJazRqQlVDeVBlZEh6RThSSkNMbEpCOWdOMHFvczFEelo4dzNFSVJsNDh2a2pFdUN0N0xjYXc?oc=5",
-        "published": "2026-08-21T13:23:53Z"
-      },
-      {
         "title": "GTA 6 Leak: Cyberleek Exposes Map, Cites Digital Rights Protest",
         "outlet": "GodisaGeek.com",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04QU5PT0FkQXFKdUZPMEE1MHpWdldUR0t0Z2I4U0FuclZ5VDh3QlZ6X0t1VXVkc0l1b1MzZHFpS2JEVnBCQ2R2OFlNb2JNM3FkMkpGZHRIdWhoeDNBZU54c3RPT3BiTjZoZjdxR215RU9GUQ?oc=5",
         "published": "2026-08-19T16:40:24Z"
+      },
+      {
+        "title": "Data breach at health product company impacts 48,000 Vermonters",
+        "outlet": "WCAX",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlBubjNKeWtSN1hBNW1lLTRDZzI4VF9SOGVlaDFrV1RKeVBDclctaFN6YS0wT24yYU9XaVlJdXFvclFzU05OZmtXcUdNa29MRnFuU0d4b0V5OGVaVEhYMzlhUEpLWkVBd1dpaU5wRkRWaWM2dDl6UXRkTUtXRVlObGdQQXBLdVAwMTlGUmlZeG9qekFuMXJn0gGrAUFVX3lxTFB4ODFTbHJXUVo2ck1LNU5pMkNpMktSLUp3N2dYb2c2OFlqcHRDYlhhSU8xNmFWU3dBRHZpbzgxOUxzQ1FDX2VHUGg0Wnh0MndoWlI0TTJONXlaQm8wNkRhRUtZRlNfRlFvaXliajM2VDlvRERWU0Flb29TckNERWdkanB4Qk8zbmJqeENia2hMazU0SmNUTC1PWEpVNVk2RFVYcl96dWZKdmpLQQ?oc=5",
+        "published": "2026-08-21T10:43:00Z"
       }
     ]
   },
