@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26T02:11:37Z",
+  "as_of": "2026-08-26T03:34:55Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 79,
     "pwn_2026": 272972885,
     "added_2026": 97,
-    "added_7d": 4,
+    "added_7d": 3,
     "added_30d": 12,
     "latest": [
       {
@@ -125,10 +125,10 @@
         "published": "2026-08-19T16:40:24Z"
       },
       {
-        "title": "Data breach at health product company impacts 48,000 Vermonters",
-        "outlet": "WCAX",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlBubjNKeWtSN1hBNW1lLTRDZzI4VF9SOGVlaDFrV1RKeVBDclctaFN6YS0wT24yYU9XaVlJdXFvclFzU05OZmtXcUdNa29MRnFuU0d4b0V5OGVaVEhYMzlhUEpLWkVBd1dpaU5wRkRWaWM2dDl6UXRkTUtXRVlObGdQQXBLdVAwMTlGUmlZeG9qekFuMXJn0gGrAUFVX3lxTFB4ODFTbHJXUVo2ck1LNU5pMkNpMktSLUp3N2dYb2c2OFlqcHRDYlhhSU8xNmFWU3dBRHZpbzgxOUxzQ1FDX2VHUGg0Wnh0MndoWlI0TTJONXlaQm8wNkRhRUtZRlNfRlFvaXliajM2VDlvRERWU0Flb29TckNERWdkanB4Qk8zbmJqeENia2hMazU0SmNUTC1PWEpVNVk2RFVYcl96dWZKdmpLQQ?oc=5",
-        "published": "2026-08-21T10:43:00Z"
+        "title": "A New ‘GTA 6’ Nudist Town Leak Is Stunning, And Lucia Spoilers Are Next",
+        "outlet": "Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXdMMnRxeWFUczJUZzlDOWpwQm5maEswY1lWSWd3OUJzVFY4MUR4RThPRml6T3BfOU4tbjJKRzB4ZDhXcjNXSzZCMDd4VTNqZTk1aEp6WWRYUkxEOFE0WC1Ob1UydUI1WTRxRkctNG42RUdRbHFjeFg5ZEpfMFlzd2plcExlLUwta3E2cnQxUmI1T0YxWm9xbnR2UW9lSHV4TW5uSUVpMW40cGN3VUdmU3ZnS0tlN1h1Qlk0?oc=5",
+        "published": "2026-08-24T13:47:06Z"
       }
     ]
   },
