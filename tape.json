@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-27T01:01:25Z",
+  "as_of": "2026-08-27T11:58:45Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 272972885,
     "added_2026": 97,
     "added_7d": 3,
-    "added_30d": 12,
+    "added_30d": 11,
     "latest": [
       {
         "name": "Carhartt",
@@ -83,10 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 CyberLeek update: Everything leaked so far, what might be next",
+        "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0R2NENwN2k0djA3Z3FYNjBkeDJJRWNtMUlKZjlHSzdweDY4Ymo0Ym9GQVpOblZWOGRMenlpZndMdmQ3RDU5UVd5TDlRRnp0TU9nS2NEZzRtZlU0MmJJdVQ3ZzZfN3JoUHJuQ1Q3cXl5VUEtbjhKR0JkZkdhTXY0QzdPSmRUM0ViRXJfYm5yS1FnUQ?oc=5",
-        "published": "2026-08-21T19:00:00Z"
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
+        "published": "2026-08-27T01:39:17Z"
+      },
+      {
+        "title": "Data breach at health product company impacts 48,000 Vermonters",
+        "outlet": "WCAX",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlBubjNKeWtSN1hBNW1lLTRDZzI4VF9SOGVlaDFrV1RKeVBDclctaFN6YS0wT24yYU9XaVlJdXFvclFzU05OZmtXcUdNa29MRnFuU0d4b0V5OGVaVEhYMzlhUEpLWkVBd1dpaU5wRkRWaWM2dDl6UXRkTUtXRVlObGdQQXBLdVAwMTlGUmlZeG9qekFuMXJn0gGrAUFVX3lxTFB4ODFTbHJXUVo2ck1LNU5pMkNpMktSLUp3N2dYb2c2OFlqcHRDYlhhSU8xNmFWU3dBRHZpbzgxOUxzQ1FDX2VHUGg0Wnh0MndoWlI0TTJONXlaQm8wNkRhRUtZRlNfRlFvaXliajM2VDlvRERWU0Flb29TckNERWdkanB4Qk8zbmJqeENia2hMazU0SmNUTC1PWEpVNVk2RFVYcl96dWZKdmpLQQ?oc=5",
+        "published": "2026-08-21T10:43:00Z"
       },
       {
         "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
@@ -101,28 +107,22 @@
         "published": "2026-08-25T10:20:35Z"
       },
       {
-        "title": "Who is Cyberleek? What we know about the GTA 6 leaker",
-        "outlet": "PC Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3laQ1VxeHJmZk80d21PZjB3YkRaWGpuVVJlSGE4UERCa0ZJeGNQWGdMaUFiNlIwVWpTcW5xZWI5MnlVdWZNWThNVmpjYlEtQTc5NjlTbVlyaFVWQ2l4STdTZU9Jc29iUHdLOGxuTHMxeU1mb3RUMDhtUXgwQnE1U2pTaGVUUFBHaHVRM2VWSTJRWFhFbUZ5amtnajdPc3EyZGc?oc=5",
-        "published": "2026-08-20T21:09:46Z"
-      },
-      {
-        "title": "Catastrophic GTA VI leak is a full working build — notorious hacker CyberLeek taunts Rockstar Games by spraying the word 'leek' onto a wall in-game with bullets",
-        "outlet": "Tom's Hardware",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQM2hheXNsaXlySGVkUTlxYkVRbzh1ZDVPVmV1QmNCbUxTekVzd1hRMnZfN2YtLTdWNVg5aGlxZWw0bFJPVFBqUTE0VllaX2xKMWdBNVFzQXExeG1hRzdCZjJ1eUhBRk9PNVdJVm5yYndrQ2hTOWFlbWtwLUljNDZ4cmFNdDdrZ3c1cU93YjMteGExLVViUkdUbHp5WjdHRGc0MUZ3cUFIRDB5RjBvVzhzUWtTYndvWTZFVzBGUE1BeFBhT0JqQXVlUmN0TWZqWVlYeXF2N3M5aHg5bHdoM0ctZ1FUSk5rOVVTUHdEcUUwRF9NekFkMVhZb3JlSXZOUXJjZE4yVmh3Ml84UktyUkZ6ODQtcXFac3hkSkVUVF9YNjJVWHM?oc=5",
-        "published": "2026-08-20T13:55:32Z"
-      },
-      {
         "title": "GTA VI Footage Leak and Take-Two's Legal Fightback Explained",
         "outlet": "Cyber Magazine",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDZZTGM4d2lxSV9MbGhQeUM1akljQUpoeFgxdFRTLTFESTlYWXgtc3hNZXNYU1ZDel9rQ21BREdwLUc4aHRiZW0wSWN3c1hCRHZKOXNlNDJPb2dKUEtPelNwUzdSTzZWN2QxTjJ0OTh6VjNoVXYzTzlSTlo2ZFZ3TVo1NXA2eV9qOTdINkpONklTd0pl?oc=5",
         "published": "2026-08-26T14:34:13Z"
       },
       {
-        "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-08-26T21:08:29Z"
+        "title": "Cognizant notifies individuals of data breach; offers $1 mn identity theft cover",
+        "outlet": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeU93SlpUVkVSM0JwRjZZTlBCRGNQdG1DM000VjEzcXYwblNETzJNRllGczNzSXlxSWFNbndOYzhkdEgwY0JjaU9HeWtvWUxqTlVrZ0hLa2tNRThpdnV5TGlLUXpOWXNCZkpIWkN5b0hFUndUNE9qd1l5cl9ncjR0ZG1mZ21wOXlQdGc4Qk9kX2Y5a2V4V3plVnZ3bWJWdGdxWkpob1JmbEhlZnlsUm9oSmNyb2pJMjVJRFl0WVA4clVlUEJkMnBwaHE5dUhialFvcUVnZGZ5clltVmF0Y1ZyY0s4YkNnZk1DS2x30gHwAUFVX3lxTFBhcDE3cVZXSHpFbGF1SFRhVVZoZE1mZUhYakN0OWh3eXFaYVQ0REJlZGdhZ2swdmp5TVAxOEFzWTliUEtwNjlqN2lOS1R6UDBGU2p0R0c4VnVIMEtGMS1pYWVFRFlCM19mcndubWVJTGFZbzZTaFBuOXlwWEhmelZ2TXNBVWhhRVd0ZzFNOU9FalNjaU9XYUlPVHF3QWFpc2xMbEk4Z0N5QzB6aHhRaTk0TDcxREJlNzRVUGJqRW1CT2Mtd3ZiSlBmRDZTX3ZKbVU5SnJGOE5Dcmw2UkN5cUhDdjBpQnMwRFA0RFc2WWtzSw?oc=5",
+        "published": "2026-08-21T18:36:00Z"
+      },
+      {
+        "title": "GTA 6 Leak Coin CYBERLEEK Crashes Nearly 60% After Its Biggest Spoiler Yet",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmlIOHlhQ05XejJXQmh3UmQ0d0VVUGttQXdRQnd3VDFiVkJUbE96UERISWpHWGlOWUhXRTI2N3ZlQ1pCMTZtME9jdGlIWWtseXJRRlJmUXVPaFEtbUxtcmR1S0tmZ0R3RDRleUV3aVhvODBUS0syaVR5OXhfMF9Mc0Y4djJ3M2tNWmpjTTl5VkVWbDBU?oc=5",
+        "published": "2026-08-27T09:49:44Z"
       },
       {
         "title": "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
