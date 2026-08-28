@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-28T06:16:33Z",
+  "as_of": "2026-08-28T18:58:24Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -86,13 +86,7 @@
         "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-08-27T15:13:59Z"
-      },
-      {
-        "title": "Data breach at health product company impacts 48,000 Vermonters",
-        "outlet": "WCAX",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlBubjNKeWtSN1hBNW1lLTRDZzI4VF9SOGVlaDFrV1RKeVBDclctaFN6YS0wT24yYU9XaVlJdXFvclFzU05OZmtXcUdNa29MRnFuU0d4b0V5OGVaVEhYMzlhUEpLWkVBd1dpaU5wRkRWaWM2dDl6UXRkTUtXRVlObGdQQXBLdVAwMTlGUmlZeG9qekFuMXJn0gGrAUFVX3lxTFB4ODFTbHJXUVo2ck1LNU5pMkNpMktSLUp3N2dYb2c2OFlqcHRDYlhhSU8xNmFWU3dBRHZpbzgxOUxzQ1FDX2VHUGg0Wnh0MndoWlI0TTJONXlaQm8wNkRhRUtZRlNfRlFvaXliajM2VDlvRERWU0Flb29TckNERWdkanB4Qk8zbmJqeENia2hMazU0SmNUTC1PWEpVNVk2RFVYcl96dWZKdmpLQQ?oc=5",
-        "published": "2026-08-21T10:43:00Z"
+        "published": "2026-08-26T17:32:50Z"
       },
       {
         "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
@@ -107,28 +101,34 @@
         "published": "2026-08-26T14:34:13Z"
       },
       {
-        "title": "Cognizant notifies individuals of data breach; offers $1 mn identity theft cover",
-        "outlet": "The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeU93SlpUVkVSM0JwRjZZTlBCRGNQdG1DM000VjEzcXYwblNETzJNRllGczNzSXlxSWFNbndOYzhkdEgwY0JjaU9HeWtvWUxqTlVrZ0hLa2tNRThpdnV5TGlLUXpOWXNCZkpIWkN5b0hFUndUNE9qd1l5cl9ncjR0ZG1mZ21wOXlQdGc4Qk9kX2Y5a2V4V3plVnZ3bWJWdGdxWkpob1JmbEhlZnlsUm9oSmNyb2pJMjVJRFl0WVA4clVlUEJkMnBwaHE5dUhialFvcUVnZGZ5clltVmF0Y1ZyY0s4YkNnZk1DS2x30gHwAUFVX3lxTFBhcDE3cVZXSHpFbGF1SFRhVVZoZE1mZUhYakN0OWh3eXFaYVQ0REJlZGdhZ2swdmp5TVAxOEFzWTliUEtwNjlqN2lOS1R6UDBGU2p0R0c4VnVIMEtGMS1pYWVFRFlCM19mcndubWVJTGFZbzZTaFBuOXlwWEhmelZ2TXNBVWhhRVd0ZzFNOU9FalNjaU9XYUlPVHF3QWFpc2xMbEk4Z0N5QzB6aHhRaTk0TDcxREJlNzRVUGJqRW1CT2Mtd3ZiSlBmRDZTX3ZKbVU5SnJGOE5Dcmw2UkN5cUhDdjBpQnMwRFA0RFc2WWtzSw?oc=5",
-        "published": "2026-08-21T18:36:00Z"
-      },
-      {
-        "title": "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
-        "outlet": "PC Gamer",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONjBqX0FPYU94SXIwZ19aMi0wVnFtMWxBTXdTZk5vcDJQV1c3S2FtZXpUVnFoWEdudGEyQW1DTFFkejRwMEREWjVtSU9ubjNaUG9pUUoxSnk0ZXJudDNGX1ZxeTRBRFZGTXNBeXBHTWNHbVdrRFA2Z3pLYThpdkkzMEdubkphZ0FkY29lQmNxN0xyTDJKNEFGcURTTFVzZFhBTkR5OFo5OUc4dWxYSVJWVUJ6OWdRNDBzaWJ2VzhvNkVkLWY0NDFWQUtYU3h6d0p4ZVJuZWt0dGMzY0JCX0FUN0U0Z2VFQUlCcl9pbVpB?oc=5",
-        "published": "2026-08-21T14:38:03Z"
-      },
-      {
         "title": "The GTA VI leaks are breaking the internet. Security researchers have seen this before.",
         "outlet": "CyberScoop",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Rbk9kNlpVWnNtSUlLcEJDWnBURTdVRFpXbzBEbjJURUxWbG94c0lwc2dBSVBvNlFnT2NXMUxiTVRiUUNLc2RVUTZwSllZNnhKdU40Sm1NbUliaXVxQzlUOHJMdWNNSktGekJzWWo3U3NicDR3Q25CVQ?oc=5",
         "published": "2026-08-25T20:51:54Z"
       },
       {
+        "title": "'GTA 6' Leaks Take Dire Turn As Hackers Urge Fans To Harass Rockstar IRL",
+        "outlet": "Polygon.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON05QUWRyYWZ4T0g1OTVjZjFpOFpTOWNVcVpIUE02WGd5ZlZLNGJFZ3BhcHBtZlExOWNJRThCQVktbmRSUkx6LTFpZWVIbWhJSEhodVlRR0oyblZlUk5QY2pEU2IwNEJDcF9FdF9SVnpsNVFNX21ydVczYjdRdDZObzZycms?oc=5",
+        "published": "2026-08-24T18:00:11Z"
+      },
+      {
+        "title": "Cyberleek Explained: Everything We Know About The GTA 6 Leaks",
+        "outlet": "svg.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OVWh5RkZ5V0hpWHBZS01mNVNQZnRSMHpfUk1oMHhhSDF3d3JBaHRoZHlqMEZJRHU0Tnc0OF9wSmM4aE02UV9nc3ZJbjV3VjR0TE9GUEtROHdqRkhuOFMzbFBjTlBaSVlJQ1U3Rg?oc=5",
+        "published": "2026-08-26T14:13:23Z"
+      },
+      {
         "title": "GTA 6 CyberLeek update: Everything leaked so far, what might be next",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0R2NENwN2k0djA3Z3FYNjBkeDJJRWNtMUlKZjlHSzdweDY4Ymo0Ym9GQVpOblZWOGRMenlpZndMdmQ3RDU5UVd5TDlRRnp0TU9nS2NEZzRtZlU0MmJJdVQ3ZzZfN3JoUHJuQ1Q3cXl5VUEtbjhKR0JkZkdhTXY0QzdPSmRUM0ViRXJfYm5yS1FnUQ?oc=5",
         "published": "2026-08-21T19:00:00Z"
+      },
+      {
+        "title": "'GTA 6' Leaks May Finally Be Coming To An End",
+        "outlet": "Polygon.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KZ2tkbEVmd3owejM1MXdYMEZyMGNzWFBQQklYNXZNNG13NDc4cU40UjdBQnBzVGpLdE9iS3pRM2pqby00Ujhqcms4WS02SjZKdEpTc1prc3FvV0pPYnM5dlZwemV4cU5rZ0ZZ?oc=5",
+        "published": "2026-08-22T14:45:52Z"
       }
     ]
   },
