@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-29T02:25:20Z",
+  "as_of": "2026-08-29T09:20:38Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 79,
     "pwn_2026": 272972885,
     "added_2026": 97,
-    "added_7d": 3,
+    "added_7d": 2,
     "added_30d": 11,
     "latest": [
       {
@@ -86,7 +86,7 @@
         "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-08-26T17:32:50Z"
+        "published": "2026-08-29T09:16:45Z"
       },
       {
         "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
@@ -95,16 +95,16 @@
         "published": "2026-08-25T10:20:35Z"
       },
       {
-        "title": "GTA VI Footage Leak and Take-Two's Legal Fightback Explained",
-        "outlet": "Cyber Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDZZTGM4d2lxSV9MbGhQeUM1akljQUpoeFgxdFRTLTFESTlYWXgtc3hNZXNYU1ZDel9rQ21BREdwLUc4aHRiZW0wSWN3c1hCRHZKOXNlNDJPb2dKUEtPelNwUzdSTzZWN2QxTjJ0OTh6VjNoVXYzTzlSTlo2ZFZ3TVo1NXA2eV9qOTdINkpONklTd0pl?oc=5",
-        "published": "2026-08-26T14:34:13Z"
-      },
-      {
         "title": "The GTA VI leaks are breaking the internet. Security researchers have seen this before.",
         "outlet": "CyberScoop",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Rbk9kNlpVWnNtSUlLcEJDWnBURTdVRFpXbzBEbjJURUxWbG94c0lwc2dBSVBvNlFnT2NXMUxiTVRiUUNLc2RVUTZwSllZNnhKdU40Sm1NbUliaXVxQzlUOHJMdWNNSktGekJzWWo3U3NicDR3Q25CVQ?oc=5",
         "published": "2026-08-25T20:51:54Z"
+      },
+      {
+        "title": "Cyberleek may have just cashed out on their GTA 6 leak, earning over $200,000 in the most predictable crypto rugpull ever performed",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1ZvcUl0eUROZy1qZXNpUkE2ajhhZkU3TDEyQk4tdm9uRGdtc2tRblJNYzUyS1Q3ZTZON1B3c2hvVGcxZXpaR0Nuc1NtdmpCb1JpNDZXRjVhUVN1X3MtLU14c2NsSkNBalMwY1pSYkZwcGRfZzBDZmxsZ2dNUEcteWRuZHZha3FfSmQwV0JlTERPUlUxQWJad2V3?oc=5",
+        "published": "2026-08-27T19:05:17Z"
       },
       {
         "title": "'GTA 6' Leaks Take Dire Turn As Hackers Urge Fans To Harass Rockstar IRL",
@@ -113,22 +113,22 @@
         "published": "2026-08-24T18:00:11Z"
       },
       {
+        "title": "LACMA Sued Over Extensive Data Breach",
+        "outlet": "Artforum",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzhkaE5VX3ZkZnJxdzZDcWNJM0pOUVBoZVNGM1V0SzFCSVRHT0d4ZkhxM0NwdFdkRDM5UXJyWGt2NVBwVUdUbVhmREQ2dHVLbEZCdGdXZzdaNV82X3NvWTFIZWdoSFM4cWZtVS1IVktPMHZSekxYV3BWc0pVX00?oc=5",
+        "published": "2026-08-27T15:23:55Z"
+      },
+      {
         "title": "Cyberleek Explained: Everything We Know About The GTA 6 Leaks",
         "outlet": "svg.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OVWh5RkZ5V0hpWHBZS01mNVNQZnRSMHpfUk1oMHhhSDF3d3JBaHRoZHlqMEZJRHU0Tnc0OF9wSmM4aE02UV9nc3ZJbjV3VjR0TE9GUEtROHdqRkhuOFMzbFBjTlBaSVlJQ1U3Rg?oc=5",
         "published": "2026-08-26T14:13:23Z"
       },
       {
-        "title": "'GTA VI' Cyberleek update: Everything leaked Tuesday, this week",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXY0UGdJYnBoOWFObmw4LUJxTlhhd3FnR3BoaF9JZ2ZZSmlISVlkZlpsYW1FUXpQYlBSOGxQdUFWSHFsaTBmdzNGTDdQOGlDM0RneE8yc1pITVpfazVGY3V5MllBOW4ya3JMVjlRUHlTSm44UzNaeUROSkZncVhrd0xURVBha1k?oc=5",
-        "published": "2026-08-25T15:12:20Z"
-      },
-      {
-        "title": "'GTA 6' Leaks May Finally Be Coming To An End",
-        "outlet": "Polygon.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KZ2tkbEVmd3owejM1MXdYMEZyMGNzWFBQQklYNXZNNG13NDc4cU40UjdBQnBzVGpLdE9iS3pRM2pqby00Ujhqcms4WS02SjZKdEpTc1prc3FvV0pPYnM5dlZwemV4cU5rZ0ZZ?oc=5",
-        "published": "2026-08-22T14:45:52Z"
+        "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
+        "outlet": "FOX 26 Houston",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
+        "published": "2026-08-29T01:26:58Z"
       }
     ]
   },
