@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-29T14:40:08Z",
+  "as_of": "2026-08-29T17:53:12Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -86,7 +86,7 @@
         "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-08-29T12:13:25Z"
+        "published": "2026-08-29T15:13:46Z"
       },
       {
         "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
@@ -107,28 +107,28 @@
         "published": "2026-08-27T19:05:17Z"
       },
       {
-        "title": "LACMA Sued Over Extensive Data Breach",
-        "outlet": "Artforum",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzhkaE5VX3ZkZnJxdzZDcWNJM0pOUVBoZVNGM1V0SzFCSVRHT0d4ZkhxM0NwdFdkRDM5UXJyWGt2NVBwVUdUbVhmREQ2dHVLbEZCdGdXZzdaNV82X3NvWTFIZWdoSFM4cWZtVS1IVktPMHZSekxYV3BWc0pVX00?oc=5",
-        "published": "2026-08-27T15:23:55Z"
-      },
-      {
         "title": "'GTA 6' Leaks Take Dire Turn As Hackers Urge Fans To Harass Rockstar IRL",
         "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON05QUWRyYWZ4T0g1OTVjZjFpOFpTOWNVcVpIUE02WGd5ZlZLNGJFZ3BhcHBtZlExOWNJRThCQVktbmRSUkx6LTFpZWVIbWhJSEhodVlRR0oyblZlUk5QY2pEU2IwNEJDcF9FdF9SVnpsNVFNX21ydVczYjdRdDZObzZycms?oc=5",
         "published": "2026-08-24T18:00:11Z"
       },
       {
+        "title": "White River Junction VA reports data breach of veterans’ information",
+        "outlet": "WCAX",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkdHQnkzc2d2VG1wLXpfZEhfMVFOUjFBTVhNRDBxdjNUNVlMbi1tMncwOS0tbDNzMGtjNnlJN05JWkZlWExTdjdwT3lDeHNYeDNiWm1OZWJ1V1BUWlhoenBEV1oyc3dpbE5tbU5LcjF1dzJYc2YzcC11b0xNSS1sRHBpclJOVy1LSWlfX3ZpSUxDUWpIR25nXy1BWnpZUdIBsgFBVV95cUxPdU1hLTd6SERyQk1NVU1pQm03emR4ZTQtOUw2NUJoUUtoRkM1eHpRTUFzZ19vcDRPTXhiR2NpMDVyV2F1N2NMOEtkM0tNZ1hHVjRtd0xQMDRiMUZSSXQteHlEVFRQX3dpSUVIZFZDbENlZzVDMnd2VkthWmh2U1lVOHV1eHFiMjNTLXpwN05mSFRFWHR2cGN3VVhyZUhUWWFPcWlqV3NtbDI4YjVIamtpbzV3?oc=5",
+        "published": "2026-08-28T21:59:00Z"
+      },
+      {
+        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+        "outlet": "Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
+        "published": "2026-08-29T10:30:00Z"
+      },
+      {
         "title": "Rockstar finally responds to ‘heartbreaking’ GTA VI leaks",
         "outlet": "The Verge",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXdoemwtZUQ0eVlhQXVOMXdXQm5naEk1SzlYVE9OUkhTRndqLVlDcUxqbjBJTk5QTUdhRGhTZWtQdm52MzB0SldEckY3N2xUOTI5am1vMUZwbTUxYXJmR0NJWnJZNXJpdGs3RDdPMEVheXBjQWdGS0F6RU9rLVZ1blpkRkswWGFfTXdwUEdOZS1MaVlyZXZ4M3Y0bmFmdFk?oc=5",
         "published": "2026-08-26T12:04:15Z"
-      },
-      {
-        "title": "Amzur Technologies Data Breach? Lawyers Investigate Hackers' Claims",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWcxTGhKX1RVSklWcllIdFdUVWdQaVN6LUZ1NWMwdk8zc2NMYXVtWTh6ZGpuOTRtbnN1X09ORlRIcmp3bEZseDNJdnNMUUFBWG5fRFQwTmNBN2puTUlYTGk4NkR0WUVickl4cmV0WThjS3BqTUQ4cVRTazg0SnE3OHV3T2Zfdw?oc=5",
-        "published": "2026-08-28T18:29:36Z"
       }
     ]
   },
