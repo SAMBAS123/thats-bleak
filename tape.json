@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-31T06:01:49Z",
+  "as_of": "2026-08-31T14:21:40Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-08-31T03:32:34Z"
-      },
-      {
         "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
         "outlet": "FOX 26 Houston",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
         "published": "2026-08-29T01:26:58Z"
+      },
+      {
+        "title": "GTA 6 Netflix extended look: 12 details not seen in the Cyberleek videos",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUl9aVXJyRElMMmtFRmdwdEd3UEo5ZHQwendRSHRIMDVVRV9vYmpIamZRV0NYcmVUNFFEQ0szakJzQlZpOHFUc2QwNDBLXzhTRjhrQ2NJVHhmZDhqSTc3SjlWUGZGX3VmdXpSNmxPTU93dFI3QkxtdHlBR05KeXB1eTZReElJZTE5bFVhdFpFdFhSQXF2QlRodEg5QzlfR3M?oc=5",
+        "published": "2026-08-27T19:57:36Z"
       },
       {
         "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
@@ -101,10 +101,10 @@
         "published": "2026-08-25T10:20:35Z"
       },
       {
-        "title": "The GTA VI leaks are breaking the internet. Security researchers have seen this before.",
-        "outlet": "CyberScoop",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Rbk9kNlpVWnNtSUlLcEJDWnBURTdVRFpXbzBEbjJURUxWbG94c0lwc2dBSVBvNlFnT2NXMUxiTVRiUUNLc2RVUTZwSllZNnhKdU40Sm1NbUliaXVxQzlUOHJMdWNNSktGekJzWWo3U3NicDR3Q25CVQ?oc=5",
-        "published": "2026-08-25T20:51:54Z"
+        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+        "outlet": "Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
+        "published": "2026-08-29T10:30:00Z"
       },
       {
         "title": "'GTA 6' Leaks Take Dire Turn As Hackers Urge Fans To Harass Rockstar IRL",
@@ -119,16 +119,16 @@
         "published": "2026-08-27T19:05:17Z"
       },
       {
-        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-        "outlet": "Tom's Hardware",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
-        "published": "2026-08-29T10:30:00Z"
-      },
-      {
         "title": "Rockstar finally responds to ‘heartbreaking’ GTA VI leaks",
         "outlet": "The Verge",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXdoemwtZUQ0eVlhQXVOMXdXQm5naEk1SzlYVE9OUkhTRndqLVlDcUxqbjBJTk5QTUdhRGhTZWtQdm52MzB0SldEckY3N2xUOTI5am1vMUZwbTUxYXJmR0NJWnJZNXJpdGs3RDdPMEVheXBjQWdGS0F6RU9rLVZ1blpkRkswWGFfTXdwUEdOZS1MaVlyZXZ4M3Y0bmFmdFk?oc=5",
         "published": "2026-08-26T12:04:15Z"
+      },
+      {
+        "title": "LACMA Sued Over Extensive Data Breach",
+        "outlet": "Artforum",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzhkaE5VX3ZkZnJxdzZDcWNJM0pOUVBoZVNGM1V0SzFCSVRHT0d4ZkhxM0NwdFdkRDM5UXJyWGt2NVBwVUdUbVhmREQ2dHVLbEZCdGdXZzdaNV82X3NvWTFIZWdoSFM4cWZtVS1IVktPMHZSekxYV3BWc0pVX00?oc=5",
+        "published": "2026-08-27T15:23:55Z"
       }
     ]
   },
