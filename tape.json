@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-30T23:47:32Z",
+  "as_of": "2026-08-31T06:01:49Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 272972885,
     "added_2026": 97,
     "added_7d": 1,
-    "added_30d": 11,
+    "added_30d": 10,
     "latest": [
       {
         "name": "Carhartt",
@@ -86,7 +86,7 @@
         "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-08-26T19:30:00Z"
+        "published": "2026-08-31T03:32:34Z"
       },
       {
         "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
