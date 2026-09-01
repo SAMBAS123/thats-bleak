@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-09-01T00:03:28Z",
+  "as_of": "2026-09-01T05:35:03Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1032,
-    "breaches_2026": 79,
-    "pwn_2026": 272972885,
-    "added_2026": 97,
-    "added_7d": 1,
-    "added_30d": 10,
+    "catalog_total": 1033,
+    "breaches_2026": 80,
+    "pwn_2026": 274199094,
+    "added_2026": 98,
+    "added_7d": 2,
+    "added_30d": 11,
     "latest": [
+      {
+        "name": "Questel",
+        "title": "Questel",
+        "added": "2026-09-01T04:49:35Z",
+        "breach_date": "2026-08-01",
+        "pwn_count": 1226209,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#Questel"
+      },
       {
         "name": "Carhartt",
         "title": "Carhartt",
@@ -66,14 +74,6 @@
         "breach_date": "2026-08-01",
         "pwn_count": 218395,
         "url": "https://haveibeenpwned.com/PwnedWebsites#Alcon"
-      },
-      {
-        "name": "BrinksHome",
-        "title": "Brinks Home",
-        "added": "2026-08-08T10:44:52Z",
-        "breach_date": "2026-07-13",
-        "pwn_count": 732162,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#BrinksHome"
       }
     ]
   },
@@ -86,11 +86,11 @@
         "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-08-31T21:51:41Z"
+        "published": "2026-09-01T03:52:49Z"
       },
       {
         "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
-        "outlet": "fox26houston.com",
+        "outlet": "FOX 26 Houston",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
         "published": "2026-08-29T01:26:58Z"
       },
@@ -99,6 +99,12 @@
         "outlet": "Malwarebytes",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWFkbS1jX2hmcFJzWjJhTHhUNVlRS3dNMHRVb1F1alpnOUJ4WkZGUHFaaE52VE9NTDlzR3ZPblpmZkhFeGNaNmExdnp3bVhRYUtoWF95Wm1YUXFPTXIwck84MGRvQmtDUnUtVm1heERsRFJ0a0JPZjdEVktjVHZJcGtsUVY0Tk10OGN0eTV2RS1ZVXBSZ2FkTmdUTDhfc2dZaHFFOWRXTk5zdUZBS19sMlE5dGxRRk1iQ1NjUlYwdTQ?oc=5",
         "published": "2026-08-25T10:20:35Z"
+      },
+      {
+        "title": "Cyberleek may have just cashed out on their GTA 6 leak, earning over $200,000 in the most predictable crypto rugpull ever performed",
+        "outlet": "finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1ZvcUl0eUROZy1qZXNpUkE2ajhhZkU3TDEyQk4tdm9uRGdtc2tRblJNYzUyS1Q3ZTZON1B3c2hvVGcxZXpaR0Nuc1NtdmpCb1JpNDZXRjVhUVN1X3MtLU14c2NsSkNBalMwY1pSYkZwcGRfZzBDZmxsZ2dNUEcteWRuZHZha3FfSmQwV0JlTERPUlUxQWJad2V3?oc=5",
+        "published": "2026-08-27T19:05:17Z"
       },
       {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
@@ -113,12 +119,6 @@
         "published": "2026-08-26T14:13:23Z"
       },
       {
-        "title": "Cyberleek may have just cashed out on their GTA 6 leak, earning over $200,000 in the most predictable crypto rugpull ever performed",
-        "outlet": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1ZvcUl0eUROZy1qZXNpUkE2ajhhZkU3TDEyQk4tdm9uRGdtc2tRblJNYzUyS1Q3ZTZON1B3c2hvVGcxZXpaR0Nuc1NtdmpCb1JpNDZXRjVhUVN1X3MtLU14c2NsSkNBalMwY1pSYkZwcGRfZzBDZmxsZ2dNUEcteWRuZHZha3FfSmQwV0JlTERPUlUxQWJad2V3?oc=5",
-        "published": "2026-08-27T19:05:17Z"
-      },
-      {
         "title": "Hasbro Data Breach Exposed Employee Personal Information",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
@@ -126,7 +126,7 @@
       },
       {
         "title": "Rockstar finally responds to ‘heartbreaking’ GTA VI leaks",
-        "outlet": "The Verge",
+        "outlet": "theverge.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXdoemwtZUQ0eVlhQXVOMXdXQm5naEk1SzlYVE9OUkhTRndqLVlDcUxqbjBJTk5QTUdhRGhTZWtQdm52MzB0SldEckY3N2xUOTI5am1vMUZwbTUxYXJmR0NJWnJZNXJpdGs3RDdPMEVheXBjQWdGS0F6RU9rLVZ1blpkRkswWGFfTXdwUEdOZS1MaVlyZXZ4M3Y0bmFmdFk?oc=5",
         "published": "2026-08-26T12:04:15Z"
       }
