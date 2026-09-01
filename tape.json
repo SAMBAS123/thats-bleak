@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T18:46:56Z",
+  "as_of": "2026-09-01T21:58:13Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 80,
     "pwn_2026": 274199094,
     "added_2026": 98,
-    "added_7d": 2,
+    "added_7d": 1,
     "added_30d": 11,
     "latest": [
       {
@@ -84,15 +84,27 @@
     "latest": [
       {
         "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
-        "outlet": "Mashable",
+        "outlet": "mashable.com",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-09-01T16:09:11Z"
+        "published": "2026-08-26T19:30:00Z"
       },
       {
-        "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
-        "outlet": "FOX 26 Houston",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
-        "published": "2026-08-29T01:26:58Z"
+        "title": "Cyberleek may have just cashed out on their GTA 6 leak, earning over $200,000 in the most predictable crypto rugpull ever performed",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1ZvcUl0eUROZy1qZXNpUkE2ajhhZkU3TDEyQk4tdm9uRGdtc2tRblJNYzUyS1Q3ZTZON1B3c2hvVGcxZXpaR0Nuc1NtdmpCb1JpNDZXRjVhUVN1X3MtLU14c2NsSkNBalMwY1pSYkZwcGRfZzBDZmxsZ2dNUEcteWRuZHZha3FfSmQwV0JlTERPUlUxQWJad2V3?oc=5",
+        "published": "2026-08-27T19:05:17Z"
+      },
+      {
+        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+        "outlet": "Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
+        "published": "2026-08-29T10:30:00Z"
+      },
+      {
+        "title": "Cyberleek Explained: Everything We Know About The GTA 6 Leaks",
+        "outlet": "svg.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OVWh5RkZ5V0hpWHBZS01mNVNQZnRSMHpfUk1oMHhhSDF3d3JBaHRoZHlqMEZJRHU0Tnc0OF9wSmM4aE02UV9nc3ZJbjV3VjR0TE9GUEtROHdqRkhuOFMzbFBjTlBaSVlJQ1U3Rg?oc=5",
+        "published": "2026-08-26T14:13:23Z"
       },
       {
         "title": "Hasbro Data Breach Exposed Employee Personal Information",
@@ -101,8 +113,14 @@
         "published": "2026-08-29T11:55:00Z"
       },
       {
+        "title": "Rockstar finally responds to ‘heartbreaking’ GTA VI leaks",
+        "outlet": "The Verge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXdoemwtZUQ0eVlhQXVOMXdXQm5naEk1SzlYVE9OUkhTRndqLVlDcUxqbjBJTk5QTUdhRGhTZWtQdm52MzB0SldEckY3N2xUOTI5am1vMUZwbTUxYXJmR0NJWnJZNXJpdGs3RDdPMEVheXBjQWdGS0F6RU9rLVZ1blpkRkswWGFfTXdwUEdOZS1MaVlyZXZ4M3Y0bmFmdFk?oc=5",
+        "published": "2026-08-26T12:04:15Z"
+      },
+      {
         "title": "LACMA Sued Over Extensive Data Breach",
-        "outlet": "artforum.com",
+        "outlet": "Artforum",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzhkaE5VX3ZkZnJxdzZDcWNJM0pOUVBoZVNGM1V0SzFCSVRHT0d4ZkhxM0NwdFdkRDM5UXJyWGt2NVBwVUdUbVhmREQ2dHVLbEZCdGdXZzdaNV82X3NvWTFIZWdoSFM4cWZtVS1IVktPMHZSekxYV3BWc0pVX00?oc=5",
         "published": "2026-08-27T15:23:55Z"
       },
@@ -111,24 +129,6 @@
         "outlet": "WCAX",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkdHQnkzc2d2VG1wLXpfZEhfMVFOUjFBTVhNRDBxdjNUNVlMbi1tMncwOS0tbDNzMGtjNnlJN05JWkZlWExTdjdwT3lDeHNYeDNiWm1OZWJ1V1BUWlhoenBEV1oyc3dpbE5tbU5LcjF1dzJYc2YzcC11b0xNSS1sRHBpclJOVy1LSWlfX3ZpSUxDUWpIR25nXy1BWnpZUdIBsgFBVV95cUxPdU1hLTd6SERyQk1NVU1pQm03emR4ZTQtOUw2NUJoUUtoRkM1eHpRTUFzZ19vcDRPTXhiR2NpMDVyV2F1N2NMOEtkM0tNZ1hHVjRtd0xQMDRiMUZSSXQteHlEVFRQX3dpSUVIZFZDbENlZzVDMnd2VkthWmh2U1lVOHV1eHFiMjNTLXpwN05mSFRFWHR2cGN3VVhyZUhUWWFPcWlqV3NtbDI4YjVIamtpbzV3?oc=5",
         "published": "2026-08-28T21:59:00Z"
-      },
-      {
-        "title": "Griswold’s GOP opponent among the victims of secretary of state data breach",
-        "outlet": "Colorado Public Radio",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb25KQkZqTGpoWGYzVU5GMUJBTzFiRDRua1ROSVZCam0xZ2d2UEJNcy1ESVNZZ1J4MzBnWm5POGhBR3hCN3lWY2NvczBZUm9yUFFSTnE0N2d3bER2dzRHdHlmbzFVVjlLWlVvRHBrd3JRMnVIc0tjYk9vMWJrc25TWjczUHlxcS1SVk5JUDRGVQ?oc=5",
-        "published": "2026-08-31T21:16:29Z"
-      },
-      {
-        "title": "(UPDATE) Cyberleek May Have Cashed Out On Their GTA 6 Leak Crypto Scheme, And Now We Can Reproduce The Trail",
-        "outlet": "wolfsgamingblog.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0RNNFZQMElMaUFaRjNHazRPREQteUtDMFFJWXJVQWRvemRBZzgwLWtfZEMzSFJwV0xucTA3WFFqb0Mwa2t0bUlQRFVZcEF3Q2VxNWExaUlmblNhR0Z6N3BtWDBwenR1UjQ4TVVvWDRCN2wzQUVMUktMN1pwQTNkazJRWWN6QW1pXzFhQ3hJaWdIQ2JoZkYwZG9PbDJIT2s2QTFmVWx3?oc=5",
-        "published": "2026-08-28T21:51:15Z"
-      },
-      {
-        "title": "Genetics company data breach may have exposed medical conditions, Social Security numbers.",
-        "outlet": "KCRA",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzU0ZYMWxHR2wxTHJ2UGVjMDR4bjg5TEc0a1dpS0cyeUJXVHBObUdvZ0xOWFFHdHc3QlIzOGltMU1jTHFjLWtUU1lDUlVySDc3Ty1LUWRSaWNpUmdSOWw3bVVmUGducE5VTTdVNlNoM3U2LVBtcWxjcEtBMWRGUQ?oc=5",
-        "published": "2026-08-28T20:36:00Z"
       }
     ]
   },
