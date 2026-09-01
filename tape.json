@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T05:35:03Z",
+  "as_of": "2026-09-01T10:23:23Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -86,19 +86,13 @@
         "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
-        "published": "2026-09-01T03:52:49Z"
+        "published": "2026-09-01T10:08:18Z"
       },
       {
         "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
         "outlet": "FOX 26 Houston",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
         "published": "2026-08-29T01:26:58Z"
-      },
-      {
-        "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
-        "outlet": "Malwarebytes",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWFkbS1jX2hmcFJzWjJhTHhUNVlRS3dNMHRVb1F1alpnOUJ4WkZGUHFaaE52VE9NTDlzR3ZPblpmZkhFeGNaNmExdnp3bVhRYUtoWF95Wm1YUXFPTXIwck84MGRvQmtDUnUtVm1heERsRFJ0a0JPZjdEVktjVHZJcGtsUVY0Tk10OGN0eTV2RS1ZVXBSZ2FkTmdUTDhfc2dZaHFFOWRXTk5zdUZBS19sMlE5dGxRRk1iQ1NjUlYwdTQ?oc=5",
-        "published": "2026-08-25T10:20:35Z"
       },
       {
         "title": "Cyberleek may have just cashed out on their GTA 6 leak, earning over $200,000 in the most predictable crypto rugpull ever performed",
@@ -126,9 +120,15 @@
       },
       {
         "title": "Rockstar finally responds to ‘heartbreaking’ GTA VI leaks",
-        "outlet": "theverge.com",
+        "outlet": "The Verge",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXdoemwtZUQ0eVlhQXVOMXdXQm5naEk1SzlYVE9OUkhTRndqLVlDcUxqbjBJTk5QTUdhRGhTZWtQdm52MzB0SldEckY3N2xUOTI5am1vMUZwbTUxYXJmR0NJWnJZNXJpdGs3RDdPMEVheXBjQWdGS0F6RU9rLVZ1blpkRkswWGFfTXdwUEdOZS1MaVlyZXZ4M3Y0bmFmdFk?oc=5",
         "published": "2026-08-26T12:04:15Z"
+      },
+      {
+        "title": "LACMA Sued Over Extensive Data Breach",
+        "outlet": "Artforum",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzhkaE5VX3ZkZnJxdzZDcWNJM0pOUVBoZVNGM1V0SzFCSVRHT0d4ZkhxM0NwdFdkRDM5UXJyWGt2NVBwVUdUbVhmREQ2dHVLbEZCdGdXZzdaNV82X3NvWTFIZWdoSFM4cWZtVS1IVktPMHZSekxYV3BWc0pVX00?oc=5",
+        "published": "2026-08-27T15:23:55Z"
       }
     ]
   },
