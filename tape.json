@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-31T20:20:15Z",
+  "as_of": "2026-09-01T00:03:28Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
-        "outlet": "FOX 26 Houston",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
-        "published": "2026-08-29T01:26:58Z"
+        "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
+        "published": "2026-08-31T21:51:41Z"
       },
       {
-        "title": "GTA 6 makers subpoena X, Google in hunt for Cyberleek",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnk2TDdpRWdoUUpZRTZwLTRyZnN4SVB5Sk9NQmpCdFJ5cUM1NmJoUTM4R0MwVDh3WkZ6emNLazU2S1htR0FZak82UU1sN3c3cmRXWGJ2NWZoLXJtM180RHBzSFRhLWJOVDZ4TjVLRzNQNzBKVEJfU3FSV1ZueHpORFpkclY2aEdrTHRv?oc=5",
-        "published": "2026-08-24T21:12:10Z"
+        "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
+        "outlet": "fox26houston.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
+        "published": "2026-08-29T01:26:58Z"
       },
       {
         "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
