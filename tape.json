@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-09-02T04:59:35Z",
+  "as_of": "2026-09-02T09:51:59Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1033,
-    "breaches_2026": 80,
-    "pwn_2026": 274199094,
-    "added_2026": 98,
-    "added_7d": 1,
-    "added_30d": 11,
+    "catalog_total": 1034,
+    "breaches_2026": 81,
+    "pwn_2026": 282927545,
+    "added_2026": 99,
+    "added_7d": 2,
+    "added_30d": 12,
     "latest": [
+      {
+        "name": "ManchesterAirportsGroup",
+        "title": "Manchester Airports Group",
+        "added": "2026-09-02T07:36:59Z",
+        "breach_date": "2026-08-27",
+        "pwn_count": 8728451,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#ManchesterAirportsGroup"
+      },
       {
         "name": "Questel",
         "title": "Questel",
@@ -66,14 +74,6 @@
         "breach_date": "2026-07-27",
         "pwn_count": 1596490,
         "url": "https://haveibeenpwned.com/PwnedWebsites#RingCentral"
-      },
-      {
-        "name": "Alcon",
-        "title": "Alcon",
-        "added": "2026-08-09T10:04:34Z",
-        "breach_date": "2026-08-01",
-        "pwn_count": 218395,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#Alcon"
       }
     ]
   },
@@ -83,22 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Cyberleek posts first major 'GTA 6' spoilers in Lucia prologue leak",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2hZZHBiZURtWkxQajNGRHhPSFFtRlAyU0xiSUwxQW8tRWZrMnMxMllfVmYwZ2phM3RlWTdvWkwxdmtSRC10U3FfUEJuU0gtYkQzZWNkVjU2VDAtaE40VUc2QS1wVzU4akxiQ1hMT2JLY2tyRUtKbjNyYUtSYmkzZmtqd2ROZw?oc=5",
-        "published": "2026-08-26T19:24:51Z"
+        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
+        "outlet": "mashable.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
+        "published": "2026-08-28T17:41:49Z"
       },
       {
         "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
-        "outlet": "fox26houston.com",
+        "outlet": "FOX 26 Houston",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
         "published": "2026-08-29T01:26:58Z"
-      },
-      {
-        "title": "GTA VI Footage Leak and Take-Two's Legal Fightback Explained",
-        "outlet": "Cyber Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDZZTGM4d2lxSV9MbGhQeUM1akljQUpoeFgxdFRTLTFESTlYWXgtc3hNZXNYU1ZDel9rQ21BREdwLUc4aHRiZW0wSWN3c1hCRHZKOXNlNDJPb2dKUEtPelNwUzdSTzZWN2QxTjJ0OTh6VjNoVXYzTzlSTlo2ZFZ3TVo1NXA2eV9qOTdINkpONklTd0pl?oc=5",
-        "published": "2026-08-26T14:34:13Z"
       },
       {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
@@ -117,6 +111,12 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
         "published": "2026-08-29T11:55:00Z"
+      },
+      {
+        "title": "LACMA Sued Over Extensive Data Breach",
+        "outlet": "artforum.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzhkaE5VX3ZkZnJxdzZDcWNJM0pOUVBoZVNGM1V0SzFCSVRHT0d4ZkhxM0NwdFdkRDM5UXJyWGt2NVBwVUdUbVhmREQ2dHVLbEZCdGdXZzdaNV82X3NvWTFIZWdoSFM4cWZtVS1IVktPMHZSekxYV3BWc0pVX00?oc=5",
+        "published": "2026-08-27T15:23:55Z"
       },
       {
         "title": "White River Junction VA reports data breach of veterans’ information",
