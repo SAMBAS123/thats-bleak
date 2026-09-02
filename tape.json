@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-02T09:51:59Z",
+  "as_of": "2026-09-02T14:39:56Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,10 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
-        "outlet": "mashable.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
-        "published": "2026-08-28T17:41:49Z"
+        "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
+        "published": "2026-08-26T19:30:00Z"
       },
       {
         "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
@@ -95,26 +95,20 @@
         "published": "2026-08-29T01:26:58Z"
       },
       {
+        "title": "Cyberleek may have just cashed out on their GTA 6 leak, earning over $200,000 in the most predictable crypto rugpull ever performed",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1ZvcUl0eUROZy1qZXNpUkE2ajhhZkU3TDEyQk4tdm9uRGdtc2tRblJNYzUyS1Q3ZTZON1B3c2hvVGcxZXpaR0Nuc1NtdmpCb1JpNDZXRjVhUVN1X3MtLU14c2NsSkNBalMwY1pSYkZwcGRfZzBDZmxsZ2dNUEcteWRuZHZha3FfSmQwV0JlTERPUlUxQWJad2V3?oc=5",
+        "published": "2026-08-27T19:05:17Z"
+      },
+      {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-        "outlet": "Tom's Hardware",
+        "outlet": "tomshardware.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
         "published": "2026-08-29T10:30:00Z"
       },
       {
-        "title": "Rockstar finally responds to ‘heartbreaking’ GTA VI leaks",
-        "outlet": "The Verge",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXdoemwtZUQ0eVlhQXVOMXdXQm5naEk1SzlYVE9OUkhTRndqLVlDcUxqbjBJTk5QTUdhRGhTZWtQdm52MzB0SldEckY3N2xUOTI5am1vMUZwbTUxYXJmR0NJWnJZNXJpdGs3RDdPMEVheXBjQWdGS0F6RU9rLVZ1blpkRkswWGFfTXdwUEdOZS1MaVlyZXZ4M3Y0bmFmdFk?oc=5",
-        "published": "2026-08-26T12:04:15Z"
-      },
-      {
-        "title": "Hasbro Data Breach Exposed Employee Personal Information",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
-        "published": "2026-08-29T11:55:00Z"
-      },
-      {
         "title": "LACMA Sued Over Extensive Data Breach",
-        "outlet": "artforum.com",
+        "outlet": "Artforum",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzhkaE5VX3ZkZnJxdzZDcWNJM0pOUVBoZVNGM1V0SzFCSVRHT0d4ZkhxM0NwdFdkRDM5UXJyWGt2NVBwVUdUbVhmREQ2dHVLbEZCdGdXZzdaNV82X3NvWTFIZWdoSFM4cWZtVS1IVktPMHZSekxYV3BWc0pVX00?oc=5",
         "published": "2026-08-27T15:23:55Z"
       },
@@ -129,6 +123,12 @@
         "outlet": "wolfsgamingblog.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0RNNFZQMElMaUFaRjNHazRPREQteUtDMFFJWXJVQWRvemRBZzgwLWtfZEMzSFJwV0xucTA3WFFqb0Mwa2t0bUlQRFVZcEF3Q2VxNWExaUlmblNhR0Z6N3BtWDBwenR1UjQ4TVVvWDRCN2wzQUVMUktMN1pwQTNkazJRWWN6QW1pXzFhQ3hJaWdIQ2JoZkYwZG9PbDJIT2s2QTFmVWx3?oc=5",
         "published": "2026-08-28T21:51:15Z"
+      },
+      {
+        "title": "Northern Inyo Hospital Data Breach Confirmed; Linked to Aesto Health",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc3F6ZFFodFdEZ2VGNl9DQ2k2ZUM4Z0U1bjJlNkN2SzRsVnBxZVZxTnpvQnFNRE9HbW83cGxxSGU2Rlo1eUR2Z3UyWjVGMHYxOTJCbml2bXJQV3p1ODZkSVFBTWFLeVY0LUZzLXFzWng1TkIwWENta29weTNRZ1RTYnF6YmZlM3NfVUFJ?oc=5",
+        "published": "2026-08-31T07:00:00Z"
       }
     ]
   },
