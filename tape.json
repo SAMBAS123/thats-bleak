@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-03T01:24:37Z",
+  "as_of": "2026-09-03T06:26:22Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,22 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
+        "title": "'GTA 6' Cyberleek update: Meme coin crashes as leaker cashes out",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
-        "published": "2026-08-28T17:41:49Z"
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFpKb1hJUnYtMjRadnI4WDFnbHVROGhFRXlqeXAzY3l0eUlySWU3WnN3eG9WQ0VZQ21GX0dxRXhnZ3lxZjZ3R2xlTUhlSVBENTNtVWpCTDBJeVNDRy1yRWZ0d2RVMXhxTVZJQk94QVZLMlIzeTBVRUNsODE2ejJLcWtOZTAxRmpMbXc?oc=5",
+        "published": "2026-09-02T21:51:16Z"
       },
       {
         "title": "DaVita agrees to pay $15M to settle claims from data breach",
         "outlet": "Healthcare Dive",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
         "published": "2026-09-02T16:14:01Z"
+      },
+      {
+        "title": "GTA 6 Leak Coin CYBERLEEK Crashes Nearly 60% After Its Biggest Spoiler Yet",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmlIOHlhQ05XejJXQmh3UmQ0d0VVUGttQXdRQnd3VDFiVkJUbE96UERISWpHWGlOWUhXRTI2N3ZlQ1pCMTZtME9jdGlIWWtseXJRRlJmUXVPaFEtbUxtcmR1S0tmZ0R3RDRleUV3aVhvODBUS0syaVR5OXhfMF9Mc0Y4djJ3M2tNWmpjTTl5VkVWbDBU?oc=5",
+        "published": "2026-08-27T09:49:44Z"
       },
       {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
@@ -102,33 +108,27 @@
       },
       {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-        "outlet": "tomshardware.com",
+        "outlet": "Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
         "published": "2026-08-29T10:30:00Z"
       },
       {
-        "title": "Minnesota Judicial Branch reports data breach at tech vendor",
-        "outlet": "KTTC | Rochester, MN",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
-        "published": "2026-09-02T20:06:00Z"
-      },
-      {
-        "title": "9.5 Million Impacted by Aesto Health Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZko3SW5TQVpPajh1ZHRNczdfSXloS3NEZ1VqZktaYjNtMTBsSGZZRE9icE9yaVJONUZfc1UyQXhOYTZFZlhURFpWX2ExZzlOZk5ETG1rVFpua3E3RThQdVR4eUFCNTNZRXhJQURHeHkyVGNnQWpSUlRBTFFOLUNCSDFqRTnSAYoBQVVfeXFMTkVRdFZlOEdWRkhEbWtGc0hlMTBWUkk3aWJqYklFdFBuSU1wTHdUTDdzSnp2bmdYVU9NMFVMa1NOMnoxMlFCQms2QlNQMWdGMFptZUg1RzdZaTI3Wmp1WGJYeVZhVGFKbWx0MXpqMVlsdVc4Y0t1YTdnakJZZnNMMGJYTWM1c2dFZlJB?oc=5",
-        "published": "2026-09-01T09:09:34Z"
-      },
-      {
-        "title": "Case system used by Oregon's appellate courts part of data breach",
-        "outlet": "Statesman Journal",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWpqc1NQaEI5akdxSE43UkEwNEJhRk9meFRlaG9fV044NDd5blBrUS1Xei1ZQUpsVGtZaFdKUDAwMndTLVcwY2F3bnRKZk1pMENyLXNGdWJpa3o1NW9GN0Vzbzd1ZWhVVENmMWgtZUxyYTBKVTJERGIwWEpoY0dUeUx6M2dlcjhvZENmV2ZHMjdNNWhRSG5UTFRTRkZKWVAzRm5NRGhrcnU1b2Vmc25GTGNjendsWEhVZzlrWk5xLTEwQTNIVzVpcWln?oc=5",
-        "published": "2026-09-02T22:23:00Z"
+        "title": "(UPDATE) CyberLeek May Have Cashed Out Their GTA 6 Crypto Scheme — But Now A New Memecoin Has Appeared",
+        "outlet": "wolfsgamingblog.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhLVmhmR0s2TVpEeGRPZVRJS2I0WmhURGFXSmpFWFdmaGo5MFJibkRCREl1d0VuS3V1UndXa3lmU3pVcll0OUFRNGsxYlR5QWE3a003b1hiWmoyOWRteGdQeDZYT2NReUgwMFh0c2szX0pBak9INm1FR3QyMDhWOGdNelZlTW5GLXV1VTM0R0h0eXR3Z3E2RnRyM1ZGUF9TZU5DbGdB?oc=5",
+        "published": "2026-08-30T10:35:49Z"
       },
       {
         "title": "Amzur Technologies Data Breach? Lawyers Investigate Hackers' Claims",
-        "outlet": "classaction.org",
+        "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWcxTGhKX1RVSklWcllIdFdUVWdQaVN6LUZ1NWMwdk8zc2NMYXVtWTh6ZGpuOTRtbnN1X09ORlRIcmp3bEZseDNJdnNMUUFBWG5fRFQwTmNBN2puTUlYTGk4NkR0WUVickl4cmV0WThjS3BqTUQ4cVRTazg0SnE3OHV3T2Zfdw?oc=5",
         "published": "2026-08-28T18:29:36Z"
+      },
+      {
+        "title": "Griswold’s GOP opponent among the victims of secretary of state data breach",
+        "outlet": "Colorado Public Radio",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb25KQkZqTGpoWGYzVU5GMUJBTzFiRDRua1ROSVZCam0xZ2d2UEJNcy1ESVNZZ1J4MzBnWm5POGhBR3hCN3lWY2NvczBZUm9yUFFSTnE0N2d3bER2dzRHdHlmbzFVVjlLWlVvRHBrd3JRMnVIc0tjYk9vMWJrc25TWjczUHlxcS1SVk5JUDRGVQ?oc=5",
+        "published": "2026-08-31T16:54:51Z"
       }
     ]
   },
