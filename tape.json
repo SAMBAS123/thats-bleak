@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-09-02T23:31:52Z",
+  "as_of": "2026-09-03T01:24:37Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
     "catalog_total": 1034,
     "breaches_2026": 81,
-    "pwn_2026": 282927545,
+    "pwn_2026": 283048751,
     "added_2026": 99,
     "added_7d": 2,
     "added_30d": 12,
@@ -16,7 +16,7 @@
         "title": "Manchester Airports Group",
         "added": "2026-09-02T07:36:59Z",
         "breach_date": "2026-08-27",
-        "pwn_count": 8728451,
+        "pwn_count": 8849657,
         "url": "https://haveibeenpwned.com/PwnedWebsites#ManchesterAirportsGroup"
       },
       {
@@ -90,7 +90,7 @@
       },
       {
         "title": "DaVita agrees to pay $15M to settle claims from data breach",
-        "outlet": "healthcaredive.com",
+        "outlet": "Healthcare Dive",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
         "published": "2026-09-02T16:14:01Z"
       },
@@ -102,7 +102,7 @@
       },
       {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-        "outlet": "Tom's Hardware",
+        "outlet": "tomshardware.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
         "published": "2026-08-29T10:30:00Z"
       },
@@ -119,16 +119,16 @@
         "published": "2026-09-01T09:09:34Z"
       },
       {
-        "title": "Neogen Corporation Data Breach? Lawyers Investigate Hackers' Claims",
-        "outlet": "classaction.org",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOW1ZNUZvOHRrWUxzTFZJSWd6ZU0yamVBUEFxR296Z3Y1ekxhYk5QQno3N1JEWVM4b2RJSEEtWHIwcUVtMzJTZlR3MU1IOGVrZkg0NmwzQkNOSnJ4czRWU1pmMDFjUU1RdElha2czT0ZOMHowNWN5UkdrMzAyZWpOVS1kYXYydw?oc=5",
-        "published": "2026-09-01T14:47:28Z"
+        "title": "Case system used by Oregon's appellate courts part of data breach",
+        "outlet": "Statesman Journal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWpqc1NQaEI5akdxSE43UkEwNEJhRk9meFRlaG9fV044NDd5blBrUS1Xei1ZQUpsVGtZaFdKUDAwMndTLVcwY2F3bnRKZk1pMENyLXNGdWJpa3o1NW9GN0Vzbzd1ZWhVVENmMWgtZUxyYTBKVTJERGIwWEpoY0dUeUx6M2dlcjhvZENmV2ZHMjdNNWhRSG5UTFRTRkZKWVAzRm5NRGhrcnU1b2Vmc25GTGNjendsWEhVZzlrWk5xLTEwQTNIVzVpcWln?oc=5",
+        "published": "2026-09-02T22:23:00Z"
       },
       {
-        "title": "(UPDATE) CyberLeek May Have Cashed Out Their GTA 6 Crypto Scheme — But Now A New Memecoin Has Appeared",
-        "outlet": "wolfsgamingblog.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhLVmhmR0s2TVpEeGRPZVRJS2I0WmhURGFXSmpFWFdmaGo5MFJibkRCREl1d0VuS3V1UndXa3lmU3pVcll0OUFRNGsxYlR5QWE3a003b1hiWmoyOWRteGdQeDZYT2NReUgwMFh0c2szX0pBak9INm1FR3QyMDhWOGdNelZlTW5GLXV1VTM0R0h0eXR3Z3E2RnRyM1ZGUF9TZU5DbGdB?oc=5",
-        "published": "2026-08-30T10:35:49Z"
+        "title": "Amzur Technologies Data Breach? Lawyers Investigate Hackers' Claims",
+        "outlet": "classaction.org",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWcxTGhKX1RVSklWcllIdFdUVWdQaVN6LUZ1NWMwdk8zc2NMYXVtWTh6ZGpuOTRtbnN1X09ORlRIcmp3bEZseDNJdnNMUUFBWG5fRFQwTmNBN2puTUlYTGk4NkR0WUVickl4cmV0WThjS3BqTUQ4cVRTazg0SnE3OHV3T2Zfdw?oc=5",
+        "published": "2026-08-28T18:29:36Z"
       }
     ]
   },
