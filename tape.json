@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-03T06:26:22Z",
+  "as_of": "2026-09-03T11:39:49Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,10 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "'GTA 6' Cyberleek update: Meme coin crashes as leaker cashes out",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFpKb1hJUnYtMjRadnI4WDFnbHVROGhFRXlqeXAzY3l0eUlySWU3WnN3eG9WQ0VZQ21GX0dxRXhnZ3lxZjZ3R2xlTUhlSVBENTNtVWpCTDBJeVNDRy1yRWZ0d2RVMXhxTVZJQk94QVZLMlIzeTBVRUNsODE2ejJLcWtOZTAxRmpMbXc?oc=5",
-        "published": "2026-09-02T21:51:16Z"
+        "title": "'GTA 6' Cyberleek update: Everything leaked Thursday ahead of Netflix reveal",
+        "outlet": "mashable.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMZ3NNUlg2TGJUbzNMNzVfUVdaaXEtRV85ZU9BSV9mUTJKd044UjI0OGtyc1BYUFlaWTdZUTFaTGl4c0xxU0h6OWhvQUdvaWJGX19uOTFFYnZDYzhFaWpGTXk0dHc5SzJzd0pLWWg2OXhfLVBP?oc=5",
+        "published": "2026-08-27T15:14:23Z"
       },
       {
         "title": "DaVita agrees to pay $15M to settle claims from data breach",
@@ -95,22 +95,16 @@
         "published": "2026-09-02T16:14:01Z"
       },
       {
-        "title": "GTA 6 Leak Coin CYBERLEEK Crashes Nearly 60% After Its Biggest Spoiler Yet",
-        "outlet": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmlIOHlhQ05XejJXQmh3UmQ0d0VVUGttQXdRQnd3VDFiVkJUbE96UERISWpHWGlOWUhXRTI2N3ZlQ1pCMTZtME9jdGlIWWtseXJRRlJmUXVPaFEtbUxtcmR1S0tmZ0R3RDRleUV3aVhvODBUS0syaVR5OXhfMF9Mc0Y4djJ3M2tNWmpjTTl5VkVWbDBU?oc=5",
-        "published": "2026-08-27T09:49:44Z"
-      },
-      {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
         "outlet": "HealthExec",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
         "published": "2026-09-01T23:15:23Z"
       },
       {
-        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-        "outlet": "Tom's Hardware",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
-        "published": "2026-08-29T10:30:00Z"
+        "title": "Genetics company data breach may have exposed medical conditions, Social Security numbers.",
+        "outlet": "KCRA",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzU0ZYMWxHR2wxTHJ2UGVjMDR4bjg5TEc0a1dpS0cyeUJXVHBObUdvZ0xOWFFHdHc3QlIzOGltMU1jTHFjLWtUU1lDUlVySDc3Ty1LUWRSaWNpUmdSOWw3bVVmUGducE5VTTdVNlNoM3U2LVBtcWxjcEtBMWRGUQ?oc=5",
+        "published": "2026-08-28T20:36:00Z"
       },
       {
         "title": "(UPDATE) CyberLeek May Have Cashed Out Their GTA 6 Crypto Scheme — But Now A New Memecoin Has Appeared",
@@ -129,6 +123,12 @@
         "outlet": "Colorado Public Radio",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb25KQkZqTGpoWGYzVU5GMUJBTzFiRDRua1ROSVZCam0xZ2d2UEJNcy1ESVNZZ1J4MzBnWm5POGhBR3hCN3lWY2NvczBZUm9yUFFSTnE0N2d3bER2dzRHdHlmbzFVVjlLWlVvRHBrd3JRMnVIc0tjYk9vMWJrc25TWjczUHlxcS1SVk5JUDRGVQ?oc=5",
         "published": "2026-08-31T16:54:51Z"
+      },
+      {
+        "title": "LACMA Data Breach Exposed Social Security, Payment Info",
+        "outlet": "LAmag",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHp0c2hDVzJHSWs2bGJCX05iTzlTb3RGUVBjVXF5TFFzYUg4a2RPWE1GNlNHYVF4b1JZTlAxd2xEYnBoM2lCVHR3LUNidVl4ckhWSkktUWlQdVplZ0pNYW1uWGUtb3duSkZ5aWNuWE9vbFlCU1ZyZFo5RGU5ckpyeVlqbUxiN1puZVc4bW1oLTA?oc=5",
+        "published": "2026-08-31T22:05:54Z"
       }
     ]
   },
