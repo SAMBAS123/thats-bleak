@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-03T11:39:49Z",
+  "as_of": "2026-09-03T15:09:44Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "'GTA 6' Cyberleek update: Everything leaked Thursday ahead of Netflix reveal",
-        "outlet": "mashable.com",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMZ3NNUlg2TGJUbzNMNzVfUVdaaXEtRV85ZU9BSV9mUTJKd044UjI0OGtyc1BYUFlaWTdZUTFaTGl4c0xxU0h6OWhvQUdvaWJGX19uOTFFYnZDYzhFaWpGTXk0dHc5SzJzd0pLWWg2OXhfLVBP?oc=5",
-        "published": "2026-08-27T15:14:23Z"
+        "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
+        "outlet": "FOX 26 Houston",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
+        "published": "2026-08-29T01:26:58Z"
       },
       {
-        "title": "DaVita agrees to pay $15M to settle claims from data breach",
-        "outlet": "Healthcare Dive",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
-        "published": "2026-09-02T16:14:01Z"
+        "title": "'GTA 6' Cyberleek update: Meme coin crashes as leaker cashes out",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFpKb1hJUnYtMjRadnI4WDFnbHVROGhFRXlqeXAzY3l0eUlySWU3WnN3eG9WQ0VZQ21GX0dxRXhnZ3lxZjZ3R2xlTUhlSVBENTNtVWpCTDBJeVNDRy1yRWZ0d2RVMXhxTVZJQk94QVZLMlIzeTBVRUNsODE2ejJLcWtOZTAxRmpMbXc?oc=5",
+        "published": "2026-08-28T14:48:48Z"
       },
       {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
@@ -101,16 +101,16 @@
         "published": "2026-09-01T23:15:23Z"
       },
       {
+        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+        "outlet": "Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
+        "published": "2026-08-29T10:30:00Z"
+      },
+      {
         "title": "Genetics company data breach may have exposed medical conditions, Social Security numbers.",
         "outlet": "KCRA",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzU0ZYMWxHR2wxTHJ2UGVjMDR4bjg5TEc0a1dpS0cyeUJXVHBObUdvZ0xOWFFHdHc3QlIzOGltMU1jTHFjLWtUU1lDUlVySDc3Ty1LUWRSaWNpUmdSOWw3bVVmUGducE5VTTdVNlNoM3U2LVBtcWxjcEtBMWRGUQ?oc=5",
         "published": "2026-08-28T20:36:00Z"
-      },
-      {
-        "title": "(UPDATE) CyberLeek May Have Cashed Out Their GTA 6 Crypto Scheme — But Now A New Memecoin Has Appeared",
-        "outlet": "wolfsgamingblog.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhLVmhmR0s2TVpEeGRPZVRJS2I0WmhURGFXSmpFWFdmaGo5MFJibkRCREl1d0VuS3V1UndXa3lmU3pVcll0OUFRNGsxYlR5QWE3a003b1hiWmoyOWRteGdQeDZYT2NReUgwMFh0c2szX0pBak9INm1FR3QyMDhWOGdNelZlTW5GLXV1VTM0R0h0eXR3Z3E2RnRyM1ZGUF9TZU5DbGdB?oc=5",
-        "published": "2026-08-30T10:35:49Z"
       },
       {
         "title": "Amzur Technologies Data Breach? Lawyers Investigate Hackers' Claims",
@@ -125,10 +125,10 @@
         "published": "2026-08-31T16:54:51Z"
       },
       {
-        "title": "LACMA Data Breach Exposed Social Security, Payment Info",
-        "outlet": "LAmag",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHp0c2hDVzJHSWs2bGJCX05iTzlTb3RGUVBjVXF5TFFzYUg4a2RPWE1GNlNHYVF4b1JZTlAxd2xEYnBoM2lCVHR3LUNidVl4ckhWSkktUWlQdVplZ0pNYW1uWGUtb3duSkZ5aWNuWE9vbFlCU1ZyZFo5RGU5ckpyeVlqbUxiN1puZVc4bW1oLTA?oc=5",
-        "published": "2026-08-31T22:05:54Z"
+        "title": "MN court data breach: Private user data exposed after third-party vendor hacked",
+        "outlet": "FOX 9 Minneapolis-St. Paul",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRFVBWHdZdDZrOW9sQ3BoRV80MkxOMUE0S2VGUXhhLUR2WVFzSXdJOS00eEl2LVpYNkJTZ0R6RU9QOVI2QkZpazJTcmxURjdTaFdSMWp2M2w0M1RZcEROZ0thX1psVFZ1VS1NNjNxdUR5UzEyMkdlWDB3dlJfUXZrdmVuekpSZENSMzlNbzNoMDdiN2cwXzBXX2prMm12S3FEUjdWT0o3ckE?oc=5",
+        "published": "2026-09-02T22:06:51Z"
       }
     ]
   },
