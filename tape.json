@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04T05:01:18Z",
+  "as_of": "2026-09-04T09:54:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,28 +95,16 @@
         "published": "2026-09-02T16:14:01Z"
       },
       {
-        "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
-        "outlet": "HealthExec",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
-        "published": "2026-09-01T23:15:23Z"
-      },
-      {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
         "outlet": "Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
         "published": "2026-08-29T10:30:00Z"
       },
       {
-        "title": "Minnesota Judicial Branch reports data breach at tech vendor",
-        "outlet": "KTTC | Rochester, MN",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
-        "published": "2026-09-02T20:06:00Z"
-      },
-      {
-        "title": "9.5 Million Impacted by Aesto Health Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZko3SW5TQVpPajh1ZHRNczdfSXloS3NEZ1VqZktaYjNtMTBsSGZZRE9icE9yaVJONUZfc1UyQXhOYTZFZlhURFpWX2ExZzlOZk5ETG1rVFpua3E3RThQdVR4eUFCNTNZRXhJQURHeHkyVGNnQWpSUlRBTFFOLUNCSDFqRTnSAYoBQVVfeXFMTkVRdFZlOEdWRkhEbWtGc0hlMTBWUkk3aWJqYklFdFBuSU1wTHdUTDdzSnp2bmdYVU9NMFVMa1NOMnoxMlFCQms2QlNQMWdGMFptZUg1RzdZaTI3Wmp1WGJYeVZhVGFKbWx0MXpqMVlsdVc4Y0t1YTdnakJZZnNMMGJYTWM1c2dFZlJB?oc=5",
-        "published": "2026-09-01T09:09:34Z"
+        "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
+        "outlet": "HealthExec",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
+        "published": "2026-09-01T23:15:23Z"
       },
       {
         "title": "Montana court filing system part of nationwide ‘data breach’",
@@ -125,10 +113,22 @@
         "published": "2026-09-03T20:14:13Z"
       },
       {
-        "title": "FBI probes report of data breach exposing millions of drivers' licenses in US, Canada",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDItYm9XQjBxZHFNa3JoTEctM0tfbUljV0cyUHo1UEs0RjRaeEVRZXVyZVZCQTV4T3ZnWDFScE1kbEVJZW93Sm5pZWdjZmVaZGM5WUtPZEpkSmRueFZWbk9pTG10MUFZTXFzRTNmNWJDLVl0dks3Vkx1ZWVJcGlTYlVVX1hiTWw4dDFqZTNXcWtVMWs0aG5KMlEwNnY0YTFzVXRoOHhrWnlidUMydF9aTDZNRDV6NE5NR0lSMXdVWQ?oc=5",
-        "published": "2026-09-02T21:11:00Z"
+        "title": "Hasbro Data Breach Exposed Employee Personal Information",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
+        "published": "2026-08-29T11:55:00Z"
+      },
+      {
+        "title": "Minnesota Judicial Branch reports data breach at tech vendor",
+        "outlet": "KTTC | Rochester, MN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
+        "published": "2026-09-02T20:06:00Z"
+      },
+      {
+        "title": "Roanoke tells city residents about data breach three months after it happened",
+        "outlet": "cardinalnews.org",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
+        "published": "2026-09-04T08:08:00Z"
       }
     ]
   },
