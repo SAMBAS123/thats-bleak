@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-03T21:52:10Z",
+  "as_of": "2026-09-04T00:19:25Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,16 +89,16 @@
         "published": "2026-08-28T17:41:49Z"
       },
       {
-        "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
-        "outlet": "FOX 26 Houston",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
-        "published": "2026-08-29T01:26:58Z"
-      },
-      {
         "title": "DaVita agrees to pay $15M to settle claims from data breach",
         "outlet": "Healthcare Dive",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
         "published": "2026-09-02T16:14:01Z"
+      },
+      {
+        "title": "FBI probes report of data breach exposing millions of drivers' licenses in US, Canada",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDItYm9XQjBxZHFNa3JoTEctM0tfbUljV0cyUHo1UEs0RjRaeEVRZXVyZVZCQTV4T3ZnWDFScE1kbEVJZW93Sm5pZWdjZmVaZGM5WUtPZEpkSmRueFZWbk9pTG10MUFZTXFzRTNmNWJDLVl0dks3Vkx1ZWVJcGlTYlVVX1hiTWw4dDFqZTNXcWtVMWs0aG5KMlEwNnY0YTFzVXRoOHhrWnlidUMydF9aTDZNRDV6NE5NR0lSMXdVWQ?oc=5",
+        "published": "2026-09-02T21:11:00Z"
       },
       {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
@@ -114,21 +114,21 @@
       },
       {
         "title": "Minnesota Judicial Branch reports data breach at tech vendor",
-        "outlet": "kttc.com",
+        "outlet": "KTTC | Rochester, MN",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
         "published": "2026-09-02T20:06:00Z"
-      },
-      {
-        "title": "White River Junction VA reports data breach of veterans’ information",
-        "outlet": "WCAX",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkdHQnkzc2d2VG1wLXpfZEhfMVFOUjFBTVhNRDBxdjNUNVlMbi1tMncwOS0tbDNzMGtjNnlJN05JWkZlWExTdjdwT3lDeHNYeDNiWm1OZWJ1V1BUWlhoenBEV1oyc3dpbE5tbU5LcjF1dzJYc2YzcC11b0xNSS1sRHBpclJOVy1LSWlfX3ZpSUxDUWpIR25nXy1BWnpZUdIBsgFBVV95cUxPdU1hLTd6SERyQk1NVU1pQm03emR4ZTQtOUw2NUJoUUtoRkM1eHpRTUFzZ19vcDRPTXhiR2NpMDVyV2F1N2NMOEtkM0tNZ1hHVjRtd0xQMDRiMUZSSXQteHlEVFRQX3dpSUVIZFZDbENlZzVDMnd2VkthWmh2U1lVOHV1eHFiMjNTLXpwN05mSFRFWHR2cGN3VVhyZUhUWWFPcWlqV3NtbDI4YjVIamtpbzV3?oc=5",
-        "published": "2026-08-28T21:59:00Z"
       },
       {
         "title": "Ransomware Gang Claims Nutex Health Data Breach",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
         "published": "2026-09-01T10:47:47Z"
+      },
+      {
+        "title": "Cyber security gaps lead to U.S. water system hacks",
+        "outlet": "LiveNOW from FOX",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaENsM1dZMzIwYllnVGZoM203NW9OU1d0eTZkOHJGaGZKWG9GcHVOOVV4NjE5NTdhcVdnTFVQUzBoUFp0X0Z5UzVBbVhRa3JYNS0yUU0xcEFuQ1BuWW5raFpJbG9ZSnBkRjBYNFlBOE1xakYtYVJSbmdIS1pvYmVsa19TalRSYzhvb201VThkNjdRTHN1NnZqT3VsREhYQdIBowFBVV95cUxOYU5QVjVUZTBMbkpoUEhEXzJiVThtUDN1S2gwV3JsZ05oMTZpaXZ2UFRuZi11YUN2aGpwUzN5bWQzSjhFTTFicWtTbmc3NDRVSndQaHVoT3I0QVR4MGlUMThJdVFtRkItMm1tTkJJRTRtU3JnNWE2ckFZa1FKMVZtOTNxOWdKbEFIU3N2R09iaG1KUWU5SjFhS2IyYUROcU5Pd3Nv?oc=5",
+        "published": "2026-09-03T16:49:27Z"
       }
     ]
   },
