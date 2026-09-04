@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04T20:59:52Z",
+  "as_of": "2026-09-04T23:14:34Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -80,8 +80,57 @@
   "news": {
     "query": "CyberLeek OR \"GTA 6 leak\" OR \"GTA VI leak\" OR \"data breach\" OR \"data leak\" when:7d",
     "source": "Google News RSS",
-    "hits_7d": 0,
-    "latest": []
+    "hits_7d": 100,
+    "latest": [
+      {
+        "title": "DaVita agrees to pay $15M to settle claims from data breach",
+        "outlet": "Healthcare Dive",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
+        "published": "2026-09-02T16:14:01Z"
+      },
+      {
+        "title": "Roanoke tells city residents about data breach three months after it happened",
+        "outlet": "Cardinal News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
+        "published": "2026-09-04T08:08:00Z"
+      },
+      {
+        "title": "Rockstar breaks silence on 'heartbreaking' GTA VI leaks",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjlPY2lsSUJIVzFxdGdsNDk3Y2ZqYkJjZFg4aEhHbkhPYTRWd1pCUXpNTXFkS29mSHZCM2dxMnNTa3NIYzVDam4yR2RqajFNWUUxYmV6WGYzRUVSaUduaXlXUGUzWlc0dFBERkR2Wk1QLVRkcWpCb0g2bnNncllnSEZselk2dw?oc=5",
+        "published": "2026-09-04T14:15:48Z"
+      },
+      {
+        "title": "Montana court filing system part of nationwide ‘data breach’",
+        "outlet": "Daily Montanan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGEtOVoyRVM2bUNkaDdsSjVJVVdYUjRUekJvdnRocWwxd21SRC15TThrMy1UanNOMHdEZExmOW9adUF5ZXRtaktHZ2MtNURCRkIwb05QUjY0MFJrS05rdi1fYnRnZDNoMjFRcFVLM1lHYUVlMDk0NnF3NGNBQ2tPdVVWM0k4YUFoUUFsSDBBdHN0Z1RaUm9Fc01meGc?oc=5",
+        "published": "2026-09-03T20:14:13Z"
+      },
+      {
+        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+        "outlet": "Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
+        "published": "2026-08-29T10:30:00Z"
+      },
+      {
+        "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
+        "outlet": "HealthExec",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
+        "published": "2026-09-01T23:15:23Z"
+      },
+      {
+        "title": "Minnesota Judicial Branch reports data breach at tech vendor",
+        "outlet": "KTTC | Rochester, MN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
+        "published": "2026-09-02T20:06:00Z"
+      },
+      {
+        "title": "Hasbro Data Breach Exposed Employee Personal Information",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
+        "published": "2026-08-29T11:55:00Z"
+      }
+    ]
   },
   "record": [
     {
