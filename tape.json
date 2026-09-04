@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04T09:54:01Z",
+  "as_of": "2026-09-04T14:31:05Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,6 +95,12 @@
         "published": "2026-09-02T16:14:01Z"
       },
       {
+        "title": "Roanoke tells city residents about data breach three months after it happened",
+        "outlet": "Cardinal News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
+        "published": "2026-09-04T08:08:00Z"
+      },
+      {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
         "outlet": "Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
@@ -107,28 +113,22 @@
         "published": "2026-09-01T23:15:23Z"
       },
       {
-        "title": "Montana court filing system part of nationwide ‘data breach’",
-        "outlet": "Daily Montanan",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGEtOVoyRVM2bUNkaDdsSjVJVVdYUjRUekJvdnRocWwxd21SRC15TThrMy1UanNOMHdEZExmOW9adUF5ZXRtaktHZ2MtNURCRkIwb05QUjY0MFJrS05rdi1fYnRnZDNoMjFRcFVLM1lHYUVlMDk0NnF3NGNBQ2tPdVVWM0k4YUFoUUFsSDBBdHN0Z1RaUm9Fc01meGc?oc=5",
-        "published": "2026-09-03T20:14:13Z"
-      },
-      {
-        "title": "Hasbro Data Breach Exposed Employee Personal Information",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
-        "published": "2026-08-29T11:55:00Z"
-      },
-      {
         "title": "Minnesota Judicial Branch reports data breach at tech vendor",
         "outlet": "KTTC | Rochester, MN",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "Roanoke tells city residents about data breach three months after it happened",
-        "outlet": "cardinalnews.org",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
-        "published": "2026-09-04T08:08:00Z"
+        "title": "Ransomware Gang Claims Nutex Health Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
+        "published": "2026-09-01T10:47:47Z"
+      },
+      {
+        "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
+        "outlet": "Security Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDV3aGg2cmpIOVVxVnI1NDBkSnY4MERjZXA1aGJzeVZJMDg3Tzk4b0U5TFZJOURoenpVa1YwWHhnaDduZFl0TkJnSkUzS2dDSHdxcy05dno4OXdYYjlSQVg4MEUtODR1TXBOemhEZ3VTY1pyVERXS1VHSlJlNHJ3Rjl1RGhabWVSYWJDQ251UklkZDBFNzVkRDVlTQ?oc=5",
+        "published": "2026-09-02T16:00:00Z"
       }
     ]
   },
