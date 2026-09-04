@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04T14:31:05Z",
+  "as_of": "2026-09-04T17:44:53Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,22 +83,28 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
-        "published": "2026-08-28T17:41:49Z"
-      },
-      {
         "title": "DaVita agrees to pay $15M to settle claims from data breach",
-        "outlet": "Healthcare Dive",
+        "outlet": "healthcaredive.com",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
         "published": "2026-09-02T16:14:01Z"
+      },
+      {
+        "title": "Rockstar breaks silence on 'heartbreaking' GTA VI leaks",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjlPY2lsSUJIVzFxdGdsNDk3Y2ZqYkJjZFg4aEhHbkhPYTRWd1pCUXpNTXFkS29mSHZCM2dxMnNTa3NIYzVDam4yR2RqajFNWUUxYmV6WGYzRUVSaUduaXlXUGUzWlc0dFBERkR2Wk1QLVRkcWpCb0g2bnNncllnSEZselk2dw?oc=5",
+        "published": "2026-09-04T14:15:48Z"
       },
       {
         "title": "Roanoke tells city residents about data breach three months after it happened",
         "outlet": "Cardinal News",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
         "published": "2026-09-04T08:08:00Z"
+      },
+      {
+        "title": "Montana court filing system part of nationwide ‘data breach’",
+        "outlet": "dailymontanan.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGEtOVoyRVM2bUNkaDdsSjVJVVdYUjRUekJvdnRocWwxd21SRC15TThrMy1UanNOMHdEZExmOW9adUF5ZXRtaktHZ2MtNURCRkIwb05QUjY0MFJrS05rdi1fYnRnZDNoMjFRcFVLM1lHYUVlMDk0NnF3NGNBQ2tPdVVWM0k4YUFoUUFsSDBBdHN0Z1RaUm9Fc01meGc?oc=5",
+        "published": "2026-09-03T20:14:13Z"
       },
       {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
@@ -123,12 +129,6 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
         "published": "2026-09-01T10:47:47Z"
-      },
-      {
-        "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
-        "outlet": "Security Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDV3aGg2cmpIOVVxVnI1NDBkSnY4MERjZXA1aGJzeVZJMDg3Tzk4b0U5TFZJOURoenpVa1YwWHhnaDduZFl0TkJnSkUzS2dDSHdxcy05dno4OXdYYjlSQVg4MEUtODR1TXBOemhEZ3VTY1pyVERXS1VHSlJlNHJ3Rjl1RGhabWVSYWJDQ251UklkZDBFNzVkRDVlTQ?oc=5",
-        "published": "2026-09-02T16:00:00Z"
       }
     ]
   },
