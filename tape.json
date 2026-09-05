@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04T23:14:34Z",
+  "as_of": "2026-09-05T01:20:52Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 283048751,
     "added_2026": 99,
     "added_7d": 2,
-    "added_30d": 12,
+    "added_30d": 11,
     "latest": [
       {
         "name": "ManchesterAirportsGroup",
@@ -90,15 +90,9 @@
       },
       {
         "title": "Roanoke tells city residents about data breach three months after it happened",
-        "outlet": "Cardinal News",
+        "outlet": "cardinalnews.org",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
         "published": "2026-09-04T08:08:00Z"
-      },
-      {
-        "title": "Rockstar breaks silence on 'heartbreaking' GTA VI leaks",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjlPY2lsSUJIVzFxdGdsNDk3Y2ZqYkJjZFg4aEhHbkhPYTRWd1pCUXpNTXFkS29mSHZCM2dxMnNTa3NIYzVDam4yR2RqajFNWUUxYmV6WGYzRUVSaUduaXlXUGUzWlc0dFBERkR2Wk1QLVRkcWpCb0g2bnNncllnSEZselk2dw?oc=5",
-        "published": "2026-09-04T14:15:48Z"
       },
       {
         "title": "Montana court filing system part of nationwide ‘data breach’",
@@ -108,7 +102,7 @@
       },
       {
         "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-        "outlet": "Tom's Hardware",
+        "outlet": "tomshardware.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
         "published": "2026-08-29T10:30:00Z"
       },
@@ -129,6 +123,12 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
         "published": "2026-08-29T11:55:00Z"
+      },
+      {
+        "title": "Patients in East Tennessee face potential exposure in LHC Group data breach",
+        "outlet": "wate.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mMmd5bHBxUE1BZEEwb21MZGx4WlhIMkgtTlJRT05yTDNFaVBRYjJsNVVjLVpLQUhUT1lFLUFySEJSVHlDcTlYeHlPR0IxWG9MbVRIZkZFWFYyN1djODAxV1dqZ2xiNDQyQ0Jn0gFwQVVfeXFMT0tjaV9pc1huRENfQ2VzQ1gyVHhqZUVGNHVjcEJUejllaXA5cU5jSkF5SlR6WGVybEh0a0I4NlVpcl9aVmhEMjd3VlUxLWVrYUJCeFd6QjZWalBabmx5UmNFMmR4TTdBVXVzOUtkTTJzZw?oc=5",
+        "published": "2026-09-04T20:31:41Z"
       }
     ]
   },
