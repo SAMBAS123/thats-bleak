@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-05T06:16:28Z",
+  "as_of": "2026-09-05T10:52:55Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -96,15 +96,9 @@
       },
       {
         "title": "Montana court filing system part of nationwide ‘data breach’",
-        "outlet": "Daily Montanan",
+        "outlet": "dailymontanan.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGEtOVoyRVM2bUNkaDdsSjVJVVdYUjRUekJvdnRocWwxd21SRC15TThrMy1UanNOMHdEZExmOW9adUF5ZXRtaktHZ2MtNURCRkIwb05QUjY0MFJrS05rdi1fYnRnZDNoMjFRcFVLM1lHYUVlMDk0NnF3NGNBQ2tPdVVWM0k4YUFoUUFsSDBBdHN0Z1RaUm9Fc01meGc?oc=5",
         "published": "2026-09-03T20:14:13Z"
-      },
-      {
-        "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-        "outlet": "Tom's Hardware",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
-        "published": "2026-08-29T10:30:00Z"
       },
       {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
@@ -129,6 +123,12 @@
         "outlet": "WATE 6 On Your Side",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mMmd5bHBxUE1BZEEwb21MZGx4WlhIMkgtTlJRT05yTDNFaVBRYjJsNVVjLVpLQUhUT1lFLUFySEJSVHlDcTlYeHlPR0IxWG9MbVRIZkZFWFYyN1djODAxV1dqZ2xiNDQyQ0Jn0gFwQVVfeXFMT0tjaV9pc1huRENfQ2VzQ1gyVHhqZUVGNHVjcEJUejllaXA5cU5jSkF5SlR6WGVybEh0a0I4NlVpcl9aVmhEMjd3VlUxLWVrYUJCeFd6QjZWalBabmx5UmNFMmR4TTdBVXVzOUtkTTJzZw?oc=5",
         "published": "2026-09-04T20:31:41Z"
+      },
+      {
+        "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
+        "outlet": "Security Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDV3aGg2cmpIOVVxVnI1NDBkSnY4MERjZXA1aGJzeVZJMDg3Tzk4b0U5TFZJOURoenpVa1YwWHhnaDduZFl0TkJnSkUzS2dDSHdxcy05dno4OXdYYjlSQVg4MEUtODR1TXBOemhEZ3VTY1pyVERXS1VHSlJlNHJ3Rjl1RGhabWVSYWJDQ251UklkZDBFNzVkRDVlTQ?oc=5",
+        "published": "2026-09-02T16:00:00Z"
       }
     ]
   },
