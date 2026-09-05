@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-05T16:55:07Z",
+  "as_of": "2026-09-05T19:24:26Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,6 +89,12 @@
         "published": "2026-09-02T16:14:01Z"
       },
       {
+        "title": "Aesto Health Data Breach Affects 9.5 Million Patients",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jV3BNUFZzZVhKT3JQUWZxMFk4OHY0TVIzRVIzcUlQQkdoRFp2dVhUS2tqbmRER0VsV085QVZQb0htMUphZnFxbWowZmZQZTNCdTRiNWtDd19URFZNWkpITkh3a2k?oc=5",
+        "published": "2026-09-01T07:00:00Z"
+      },
+      {
         "title": "Roanoke tells city residents about data breach three months after it happened",
         "outlet": "Cardinal News",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
@@ -123,12 +129,6 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZko3SW5TQVpPajh1ZHRNczdfSXloS3NEZ1VqZktaYjNtMTBsSGZZRE9icE9yaVJONUZfc1UyQXhOYTZFZlhURFpWX2ExZzlOZk5ETG1rVFpua3E3RThQdVR4eUFCNTNZRXhJQURHeHkyVGNnQWpSUlRBTFFOLUNCSDFqRTnSAYoBQVVfeXFMTkVRdFZlOEdWRkhEbWtGc0hlMTBWUkk3aWJqYklFdFBuSU1wTHdUTDdzSnp2bmdYVU9NMFVMa1NOMnoxMlFCQms2QlNQMWdGMFptZUg1RzdZaTI3Wmp1WGJYeVZhVGFKbWx0MXpqMVlsdVc4Y0t1YTdnakJZZnNMMGJYTWM1c2dFZlJB?oc=5",
         "published": "2026-09-01T09:09:34Z"
-      },
-      {
-        "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
-        "outlet": "Security Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDV3aGg2cmpIOVVxVnI1NDBkSnY4MERjZXA1aGJzeVZJMDg3Tzk4b0U5TFZJOURoenpVa1YwWHhnaDduZFl0TkJnSkUzS2dDSHdxcy05dno4OXdYYjlSQVg4MEUtODR1TXBOemhEZ3VTY1pyVERXS1VHSlJlNHJ3Rjl1RGhabWVSYWJDQ251UklkZDBFNzVkRDVlTQ?oc=5",
-        "published": "2026-09-02T16:00:00Z"
       }
     ]
   },
