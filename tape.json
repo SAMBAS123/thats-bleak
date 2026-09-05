@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-05T10:52:55Z",
+  "as_of": "2026-09-05T13:59:04Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,8 +95,14 @@
         "published": "2026-09-04T08:08:00Z"
       },
       {
+        "title": "Nearly 3,150 Labor employees seeking disability accommodations impacted by data leak, internal memo says",
+        "outlet": "GovExec.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVlnNUNSU0EtMGU1Wm13NEhUM0RjR2s3TTl5YVBCaUJxQkhQbWZGdnppMVVmall3S3RqV0ZKTlRacEZ4d0Z3NW4tZGRTLUp0WUNMa29tenh4N0RYaFBYckgwOVdWQkUxZWtPTm5GNXlpQzIydmtwdE5Tb2d4a2ZkZTlVQno3U1hpaExWUWdvV3RKdjFnS18wcmpucW5rZmY0czFjbjBxZ29jZXE4SUpibGYxV2RJRnRMcWVxX3RiUEVONUJ1S29PM1ptSElfcGdGX3BTaGNGdmFuUElI?oc=5",
+        "published": "2026-08-31T21:35:19Z"
+      },
+      {
         "title": "Montana court filing system part of nationwide ‘data breach’",
-        "outlet": "dailymontanan.com",
+        "outlet": "Daily Montanan",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGEtOVoyRVM2bUNkaDdsSjVJVVdYUjRUekJvdnRocWwxd21SRC15TThrMy1UanNOMHdEZExmOW9adUF5ZXRtaktHZ2MtNURCRkIwb05QUjY0MFJrS05rdi1fYnRnZDNoMjFRcFVLM1lHYUVlMDk0NnF3NGNBQ2tPdVVWM0k4YUFoUUFsSDBBdHN0Z1RaUm9Fc01meGc?oc=5",
         "published": "2026-09-03T20:14:13Z"
       },
@@ -108,21 +114,15 @@
       },
       {
         "title": "Minnesota Judicial Branch reports data breach at tech vendor",
-        "outlet": "KTTC | Rochester, MN",
+        "outlet": "kttc.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "Hasbro Data Breach Exposed Employee Personal Information",
+        "title": "9.5 Million Impacted by Aesto Health Data Breach",
         "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY29vVVFiVFFCTFdPdTJIeDc3NkJyeWU0azJlQWk3OWpRX3pRYXZfWWwwTElYZWtBTzNNM09maHV1ZXBJT1JfUmRmcGtQRk53bmplRTZ0dEw1SmhwNDRWclBXallJeHAxSW93Uy1McXpNSUxwWUpWODQwNVYzR3YyNlRQQlVISFJkVVNKd0NxRdIBlAFBVV95cUxNMHkzLWNzSmRFdHcwNzF3QURkMEJ4bm9NRUpiSWE0Zl93UUlkX1BVNUJXWEZBYjNiM2lCV1lJb1NMUmoxaFhNTTVUWFBxRVZmMEZnOXNRMHk0bVBwU1BrblRQT3lXLXExZFhJZ0xVNDktUjhXX3JJR1NUblBvajZ5YnJEX0h2RW5CMnlMZjVWeTBrVHFW?oc=5",
-        "published": "2026-08-29T11:55:00Z"
-      },
-      {
-        "title": "Patients in East Tennessee face potential exposure in LHC Group data breach",
-        "outlet": "WATE 6 On Your Side",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mMmd5bHBxUE1BZEEwb21MZGx4WlhIMkgtTlJRT05yTDNFaVBRYjJsNVVjLVpLQUhUT1lFLUFySEJSVHlDcTlYeHlPR0IxWG9MbVRIZkZFWFYyN1djODAxV1dqZ2xiNDQyQ0Jn0gFwQVVfeXFMT0tjaV9pc1huRENfQ2VzQ1gyVHhqZUVGNHVjcEJUejllaXA5cU5jSkF5SlR6WGVybEh0a0I4NlVpcl9aVmhEMjd3VlUxLWVrYUJCeFd6QjZWalBabmx5UmNFMmR4TTdBVXVzOUtkTTJzZw?oc=5",
-        "published": "2026-09-04T20:31:41Z"
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZko3SW5TQVpPajh1ZHRNczdfSXloS3NEZ1VqZktaYjNtMTBsSGZZRE9icE9yaVJONUZfc1UyQXhOYTZFZlhURFpWX2ExZzlOZk5ETG1rVFpua3E3RThQdVR4eUFCNTNZRXhJQURHeHkyVGNnQWpSUlRBTFFOLUNCSDFqRTnSAYoBQVVfeXFMTkVRdFZlOEdWRkhEbWtGc0hlMTBWUkk3aWJqYklFdFBuSU1wTHdUTDdzSnp2bmdYVU9NMFVMa1NOMnoxMlFCQms2QlNQMWdGMFptZUg1RzdZaTI3Wmp1WGJYeVZhVGFKbWx0MXpqMVlsdVc4Y0t1YTdnakJZZnNMMGJYTWM1c2dFZlJB?oc=5",
+        "published": "2026-09-01T09:09:34Z"
       },
       {
         "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
