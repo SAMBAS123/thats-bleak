@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06T19:27:29Z",
+  "as_of": "2026-09-06T21:39:36Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -102,7 +102,7 @@
       },
       {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
-        "outlet": "healthexec.com",
+        "outlet": "HealthExec",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
         "published": "2026-09-01T23:15:23Z"
       },
@@ -125,10 +125,10 @@
         "published": "2026-09-02T23:27:43Z"
       },
       {
-        "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
-        "outlet": "gamingbible.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
-        "published": "2026-09-03T10:00:02Z"
+        "title": "Bennett College Data Breach Affected 30,000 People",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjdPZVBxN0ZVQldjRXMzT1lLT0Z1cXZfSnljQVBuYXNXOHFrTWJoLUstT1NPSGFEOU9Ub3JOMjFEdld4YnUzTTd0dGxsbDY0LWlMTEVKbTV3cWUxUXpXbHJsTW1BaWZpZTVuRmVKemhKQmJfWG5NdHBZV0ptSzBtZ0xrbkFGbW5nMHZDbDhIdFlWaUttOC1QbE93?oc=5",
+        "published": "2026-09-02T18:34:31Z"
       }
     ]
   },
