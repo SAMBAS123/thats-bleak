@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06T01:17:35Z",
+  "as_of": "2026-09-06T06:27:41Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 283048751,
     "added_2026": 99,
     "added_7d": 2,
-    "added_30d": 11,
+    "added_30d": 10,
     "latest": [
       {
         "name": "ManchesterAirportsGroup",
@@ -113,22 +113,22 @@
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "9.5 Million Impacted by Aesto Health Data Breach",
+        "title": "Ransomware Gang Claims Nutex Health Data Breach",
         "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZko3SW5TQVpPajh1ZHRNczdfSXloS3NEZ1VqZktaYjNtMTBsSGZZRE9icE9yaVJONUZfc1UyQXhOYTZFZlhURFpWX2ExZzlOZk5ETG1rVFpua3E3RThQdVR4eUFCNTNZRXhJQURHeHkyVGNnQWpSUlRBTFFOLUNCSDFqRTnSAYoBQVVfeXFMTkVRdFZlOEdWRkhEbWtGc0hlMTBWUkk3aWJqYklFdFBuSU1wTHdUTDdzSnp2bmdYVU9NMFVMa1NOMnoxMlFCQms2QlNQMWdGMFptZUg1RzdZaTI3Wmp1WGJYeVZhVGFKbWx0MXpqMVlsdVc4Y0t1YTdnakJZZnNMMGJYTWM1c2dFZlJB?oc=5",
-        "published": "2026-09-01T09:09:34Z"
-      },
-      {
-        "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
-        "outlet": "Security Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDV3aGg2cmpIOVVxVnI1NDBkSnY4MERjZXA1aGJzeVZJMDg3Tzk4b0U5TFZJOURoenpVa1YwWHhnaDduZFl0TkJnSkUzS2dDSHdxcy05dno4OXdYYjlSQVg4MEUtODR1TXBOemhEZ3VTY1pyVERXS1VHSlJlNHJ3Rjl1RGhabWVSYWJDQ251UklkZDBFNzVkRDVlTQ?oc=5",
-        "published": "2026-09-02T16:00:00Z"
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
+        "published": "2026-09-01T10:47:47Z"
       },
       {
         "title": "Bennett College Data Breach Affected 30,000 People",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjdPZVBxN0ZVQldjRXMzT1lLT0Z1cXZfSnljQVBuYXNXOHFrTWJoLUstT1NPSGFEOU9Ub3JOMjFEdld4YnUzTTd0dGxsbDY0LWlMTEVKbTV3cWUxUXpXbHJsTW1BaWZpZTVuRmVKemhKQmJfWG5NdHBZV0ptSzBtZ0xrbkFGbW5nMHZDbDhIdFlWaUttOC1QbE93?oc=5",
         "published": "2026-09-02T18:34:31Z"
+      },
+      {
+        "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
+        "outlet": "Security Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDV3aGg2cmpIOVVxVnI1NDBkSnY4MERjZXA1aGJzeVZJMDg3Tzk4b0U5TFZJOURoenpVa1YwWHhnaDduZFl0TkJnSkUzS2dDSHdxcy05dno4OXdYYjlSQVg4MEUtODR1TXBOemhEZ3VTY1pyVERXS1VHSlJlNHJ3Rjl1RGhabWVSYWJDQ251UklkZDBFNzVkRDVlTQ?oc=5",
+        "published": "2026-09-02T16:00:00Z"
       }
     ]
   },
