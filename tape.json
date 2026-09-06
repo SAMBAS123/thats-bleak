@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-05T23:14:25Z",
+  "as_of": "2026-09-06T01:17:35Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "DaVita agrees to pay $15M to settle claims from data breach",
-        "outlet": "Healthcare Dive",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
-        "published": "2026-09-02T16:14:01Z"
-      },
-      {
         "title": "Aesto Health Data Breach Affects 9.5 Million Patients",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jV3BNUFZzZVhKT3JQUWZxMFk4OHY0TVIzRVIzcUlQQkdoRFp2dVhUS2tqbmRER0VsV085QVZQb0htMUphZnFxbWowZmZQZTNCdTRiNWtDd19URFZNWkpITkh3a2k?oc=5",
@@ -119,16 +113,22 @@
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "Patients in East Tennessee face potential exposure in LHC Group data breach",
-        "outlet": "WATE 6 On Your Side",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mMmd5bHBxUE1BZEEwb21MZGx4WlhIMkgtTlJRT05yTDNFaVBRYjJsNVVjLVpLQUhUT1lFLUFySEJSVHlDcTlYeHlPR0IxWG9MbVRIZkZFWFYyN1djODAxV1dqZ2xiNDQyQ0Jn0gFwQVVfeXFMT0tjaV9pc1huRENfQ2VzQ1gyVHhqZUVGNHVjcEJUejllaXA5cU5jSkF5SlR6WGVybEh0a0I4NlVpcl9aVmhEMjd3VlUxLWVrYUJCeFd6QjZWalBabmx5UmNFMmR4TTdBVXVzOUtkTTJzZw?oc=5",
-        "published": "2026-09-04T20:31:41Z"
-      },
-      {
         "title": "9.5 Million Impacted by Aesto Health Data Breach",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZko3SW5TQVpPajh1ZHRNczdfSXloS3NEZ1VqZktaYjNtMTBsSGZZRE9icE9yaVJONUZfc1UyQXhOYTZFZlhURFpWX2ExZzlOZk5ETG1rVFpua3E3RThQdVR4eUFCNTNZRXhJQURHeHkyVGNnQWpSUlRBTFFOLUNCSDFqRTnSAYoBQVVfeXFMTkVRdFZlOEdWRkhEbWtGc0hlMTBWUkk3aWJqYklFdFBuSU1wTHdUTDdzSnp2bmdYVU9NMFVMa1NOMnoxMlFCQms2QlNQMWdGMFptZUg1RzdZaTI3Wmp1WGJYeVZhVGFKbWx0MXpqMVlsdVc4Y0t1YTdnakJZZnNMMGJYTWM1c2dFZlJB?oc=5",
         "published": "2026-09-01T09:09:34Z"
+      },
+      {
+        "title": "Dropbox Data Breach: 5,000 Accounts Compromised",
+        "outlet": "Security Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDV3aGg2cmpIOVVxVnI1NDBkSnY4MERjZXA1aGJzeVZJMDg3Tzk4b0U5TFZJOURoenpVa1YwWHhnaDduZFl0TkJnSkUzS2dDSHdxcy05dno4OXdYYjlSQVg4MEUtODR1TXBOemhEZ3VTY1pyVERXS1VHSlJlNHJ3Rjl1RGhabWVSYWJDQ251UklkZDBFNzVkRDVlTQ?oc=5",
+        "published": "2026-09-02T16:00:00Z"
+      },
+      {
+        "title": "Bennett College Data Breach Affected 30,000 People",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjdPZVBxN0ZVQldjRXMzT1lLT0Z1cXZfSnljQVBuYXNXOHFrTWJoLUstT1NPSGFEOU9Ub3JOMjFEdld4YnUzTTd0dGxsbDY0LWlMTEVKbTV3cWUxUXpXbHJsTW1BaWZpZTVuRmVKemhKQmJfWG5NdHBZV0ptSzBtZ0xrbkFGbW5nMHZDbDhIdFlWaUttOC1QbE93?oc=5",
+        "published": "2026-09-02T18:34:31Z"
       }
     ]
   },
