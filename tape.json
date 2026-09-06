@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06T06:27:41Z",
+  "as_of": "2026-09-06T11:17:48Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,12 +95,6 @@
         "published": "2026-09-04T08:08:00Z"
       },
       {
-        "title": "Nearly 3,150 Labor employees seeking disability accommodations impacted by data leak, internal memo says",
-        "outlet": "GovExec.com",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVlnNUNSU0EtMGU1Wm13NEhUM0RjR2s3TTl5YVBCaUJxQkhQbWZGdnppMVVmall3S3RqV0ZKTlRacEZ4d0Z3NW4tZGRTLUp0WUNMa29tenh4N0RYaFBYckgwOVdWQkUxZWtPTm5GNXlpQzIydmtwdE5Tb2d4a2ZkZTlVQno3U1hpaExWUWdvV3RKdjFnS18wcmpucW5rZmY0czFjbjBxZ29jZXE4SUpibGYxV2RJRnRMcWVxX3RiUEVONUJ1S29PM1ptSElfcGdGX3BTaGNGdmFuUElI?oc=5",
-        "published": "2026-08-31T21:35:19Z"
-      },
-      {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
         "outlet": "HealthExec",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
@@ -117,6 +111,12 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
         "published": "2026-09-01T10:47:47Z"
+      },
+      {
+        "title": "FBI investigating suspected data breach that may have leaked millions of American driver’s licenses",
+        "outlet": "POLITICO Pro",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGFleHV5eEMwMXdjWVdRbmQ5UFNpZjdnVlFqMjBTUWROUFVUZWlqQ0xDTi1sYUtWUFZrdktfWHV6LXl4MkV0OS1HOVNGMklaSE42Wkw1LVFhRTV4ZEhRNmR4QS1hV1pCOVpNRzBKT3NWTUZoUC05Z1ZsNmxpaHQtSTVRUllETXpSemc1X1NUS3JNQVcw?oc=5",
+        "published": "2026-09-02T23:27:43Z"
       },
       {
         "title": "Bennett College Data Breach Affected 30,000 People",
