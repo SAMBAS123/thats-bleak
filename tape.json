@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06T21:39:36Z",
+  "as_of": "2026-09-06T23:07:14Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,7 +90,7 @@
       },
       {
         "title": "CyberLeek: Extortion Built for an Audience, Not a Victim",
-        "outlet": "Bitdefender",
+        "outlet": "bitdefender.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2FNa1Mza0xzaEs3bXBrQjVqYU03enhzcnpSU09qZTN0Tm1WOUxWNERra3gyVVdMTjZSX3BIdU9wTjl1WG1FRDFqM25wcU1vNFN3ZkgtMGhmclhJTU8zeW5yQmpiRTNaTlFzNHUwQWNXLUVNdVlDV0RtNFJQVl9yMmk4ZnMyYW9zZTNPTEYzSEVFc0ZoRk5xMEwxNkNmUGs?oc=5",
         "published": "2026-09-01T21:01:25Z"
       },
@@ -113,22 +113,22 @@
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "Ransomware Gang Claims Nutex Health Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
-        "published": "2026-09-01T10:47:47Z"
-      },
-      {
-        "title": "FBI investigating suspected data breach that may have leaked millions of American driver’s licenses",
-        "outlet": "POLITICO Pro",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGFleHV5eEMwMXdjWVdRbmQ5UFNpZjdnVlFqMjBTUWROUFVUZWlqQ0xDTi1sYUtWUFZrdktfWHV6LXl4MkV0OS1HOVNGMklaSE42Wkw1LVFhRTV4ZEhRNmR4QS1hV1pCOVpNRzBKT3NWTUZoUC05Z1ZsNmxpaHQtSTVRUllETXpSemc1X1NUS3JNQVcw?oc=5",
-        "published": "2026-09-02T23:27:43Z"
+        "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
+        "outlet": "GAMINGbible",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
+        "published": "2026-09-03T10:00:02Z"
       },
       {
         "title": "Bennett College Data Breach Affected 30,000 People",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjdPZVBxN0ZVQldjRXMzT1lLT0Z1cXZfSnljQVBuYXNXOHFrTWJoLUstT1NPSGFEOU9Ub3JOMjFEdld4YnUzTTd0dGxsbDY0LWlMTEVKbTV3cWUxUXpXbHJsTW1BaWZpZTVuRmVKemhKQmJfWG5NdHBZV0ptSzBtZ0xrbkFGbW5nMHZDbDhIdFlWaUttOC1QbE93?oc=5",
         "published": "2026-09-02T18:34:31Z"
+      },
+      {
+        "title": "Ransomware Gang Claims Nutex Health Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
+        "published": "2026-09-01T10:47:47Z"
       }
     ]
   },
