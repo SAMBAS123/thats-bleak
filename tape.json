@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-07T01:16:38Z",
+  "as_of": "2026-09-07T06:36:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,16 +89,16 @@
         "published": "2026-09-01T07:00:00Z"
       },
       {
-        "title": "Nearly 3,150 Labor employees seeking disability accommodations impacted by data leak, internal memo says",
-        "outlet": "GovExec.com",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVlnNUNSU0EtMGU1Wm13NEhUM0RjR2s3TTl5YVBCaUJxQkhQbWZGdnppMVVmall3S3RqV0ZKTlRacEZ4d0Z3NW4tZGRTLUp0WUNMa29tenh4N0RYaFBYckgwOVdWQkUxZWtPTm5GNXlpQzIydmtwdE5Tb2d4a2ZkZTlVQno3U1hpaExWUWdvV3RKdjFnS18wcmpucW5rZmY0czFjbjBxZ29jZXE4SUpibGYxV2RJRnRMcWVxX3RiUEVONUJ1S29PM1ptSElfcGdGX3BTaGNGdmFuUElI?oc=5",
-        "published": "2026-08-31T21:35:19Z"
-      },
-      {
         "title": "CyberLeek: Extortion Built for an Audience, Not a Victim",
         "outlet": "Bitdefender",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2FNa1Mza0xzaEs3bXBrQjVqYU03enhzcnpSU09qZTN0Tm1WOUxWNERra3gyVVdMTjZSX3BIdU9wTjl1WG1FRDFqM25wcU1vNFN3ZkgtMGhmclhJTU8zeW5yQmpiRTNaTlFzNHUwQWNXLUVNdVlDV0RtNFJQVl9yMmk4ZnMyYW9zZTNPTEYzSEVFc0ZoRk5xMEwxNkNmUGs?oc=5",
         "published": "2026-09-01T21:01:25Z"
+      },
+      {
+        "title": "Nearly 3,150 Labor employees seeking disability accommodations impacted by data leak, internal memo says",
+        "outlet": "GovExec.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVlnNUNSU0EtMGU1Wm13NEhUM0RjR2s3TTl5YVBCaUJxQkhQbWZGdnppMVVmall3S3RqV0ZKTlRacEZ4d0Z3NW4tZGRTLUp0WUNMa29tenh4N0RYaFBYckgwOVdWQkUxZWtPTm5GNXlpQzIydmtwdE5Tb2d4a2ZkZTlVQno3U1hpaExWUWdvV3RKdjFnS18wcmpucW5rZmY0czFjbjBxZ29jZXE4SUpibGYxV2RJRnRMcWVxX3RiUEVONUJ1S29PM1ptSElfcGdGX3BTaGNGdmFuUElI?oc=5",
+        "published": "2026-08-31T21:35:19Z"
       },
       {
         "title": "Roanoke tells city residents about data breach three months after it happened",
@@ -114,7 +114,7 @@
       },
       {
         "title": "Minnesota Judicial Branch reports data breach at tech vendor",
-        "outlet": "KTTC | Rochester, MN",
+        "outlet": "kttc.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
         "published": "2026-09-02T20:06:00Z"
       },
@@ -125,10 +125,10 @@
         "published": "2026-09-03T10:00:02Z"
       },
       {
-        "title": "FBI investigating suspected data breach that may have leaked millions of American driver’s licenses",
-        "outlet": "POLITICO Pro",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGFleHV5eEMwMXdjWVdRbmQ5UFNpZjdnVlFqMjBTUWROUFVUZWlqQ0xDTi1sYUtWUFZrdktfWHV6LXl4MkV0OS1HOVNGMklaSE42Wkw1LVFhRTV4ZEhRNmR4QS1hV1pCOVpNRzBKT3NWTUZoUC05Z1ZsNmxpaHQtSTVRUllETXpSemc1X1NUS3JNQVcw?oc=5",
-        "published": "2026-09-02T23:27:43Z"
+        "title": "Bennett College Data Breach Affected 30,000 People",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjdPZVBxN0ZVQldjRXMzT1lLT0Z1cXZfSnljQVBuYXNXOHFrTWJoLUstT1NPSGFEOU9Ub3JOMjFEdld4YnUzTTd0dGxsbDY0LWlMTEVKbTV3cWUxUXpXbHJsTW1BaWZpZTVuRmVKemhKQmJfWG5NdHBZV0ptSzBtZ0xrbkFGbW5nMHZDbDhIdFlWaUttOC1QbE93?oc=5",
+        "published": "2026-09-02T18:34:31Z"
       }
     ]
   },
