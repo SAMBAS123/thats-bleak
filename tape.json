@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-08T00:38:51Z",
+  "as_of": "2026-09-08T05:10:18Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 81,
     "pwn_2026": 283048751,
     "added_2026": 99,
-    "added_7d": 2,
+    "added_7d": 1,
     "added_30d": 9,
     "latest": [
       {
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "DaVita agrees to pay $15M to settle claims from data breach",
-        "outlet": "Healthcare Dive",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
-        "published": "2026-09-02T16:14:01Z"
-      },
-      {
         "title": "Aesto Health Data Breach Affects 9.5 Million Patients",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jV3BNUFZzZVhKT3JQUWZxMFk4OHY0TVIzRVIzcUlQQkdoRFp2dVhUS2tqbmRER0VsV085QVZQb0htMUphZnFxbWowZmZQZTNCdTRiNWtDd19URFZNWkpITkh3a2k?oc=5",
@@ -113,22 +107,28 @@
         "published": "2026-09-01T23:15:23Z"
       },
       {
+        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
+        "outlet": "WWLTV.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
+        "published": "2026-09-07T21:55:00Z"
+      },
+      {
         "title": "Minnesota Judicial Branch reports data breach at tech vendor",
         "outlet": "KTTC | Rochester, MN",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
-        "outlet": "wwltv.com",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
-        "published": "2026-09-07T21:55:00Z"
-      },
-      {
         "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
         "outlet": "GAMINGbible",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
         "published": "2026-09-03T10:00:02Z"
+      },
+      {
+        "title": "FBI investigating suspected data breach that may have leaked millions of American driver’s licenses",
+        "outlet": "POLITICO Pro",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGFleHV5eEMwMXdjWVdRbmQ5UFNpZjdnVlFqMjBTUWROUFVUZWlqQ0xDTi1sYUtWUFZrdktfWHV6LXl4MkV0OS1HOVNGMklaSE42Wkw1LVFhRTV4ZEhRNmR4QS1hV1pCOVpNRzBKT3NWTUZoUC05Z1ZsNmxpaHQtSTVRUllETXpSemc1X1NUS3JNQVcw?oc=5",
+        "published": "2026-09-02T23:27:43Z"
       }
     ]
   },
