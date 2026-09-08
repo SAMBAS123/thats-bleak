@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-08T05:10:18Z",
+  "as_of": "2026-09-08T10:02:58Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,22 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Aesto Health Data Breach Affects 9.5 Million Patients",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jV3BNUFZzZVhKT3JQUWZxMFk4OHY0TVIzRVIzcUlQQkdoRFp2dVhUS2tqbmRER0VsV085QVZQb0htMUphZnFxbWowZmZQZTNCdTRiNWtDd19URFZNWkpITkh3a2k?oc=5",
-        "published": "2026-09-01T07:00:00Z"
-      },
-      {
         "title": "CyberLeek: Extortion Built for an Audience, Not a Victim",
         "outlet": "Bitdefender",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2FNa1Mza0xzaEs3bXBrQjVqYU03enhzcnpSU09qZTN0Tm1WOUxWNERra3gyVVdMTjZSX3BIdU9wTjl1WG1FRDFqM25wcU1vNFN3ZkgtMGhmclhJTU8zeW5yQmpiRTNaTlFzNHUwQWNXLUVNdVlDV0RtNFJQVl9yMmk4ZnMyYW9zZTNPTEYzSEVFc0ZoRk5xMEwxNkNmUGs?oc=5",
         "published": "2026-09-01T21:01:25Z"
-      },
-      {
-        "title": "Roanoke tells city residents about data breach three months after it happened",
-        "outlet": "Cardinal News",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
-        "published": "2026-09-04T08:08:00Z"
       },
       {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
@@ -107,10 +95,10 @@
         "published": "2026-09-01T23:15:23Z"
       },
       {
-        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
-        "outlet": "WWLTV.com",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
-        "published": "2026-09-07T21:55:00Z"
+        "title": "June 2026 Healthcare Data Breach Report",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRHhMcU9fWkF2S2NLYk5nSUEwdGdoWjk5c3pVclh4SmxfdUFCS09leXJYbFNWcGM0eVFqSEFaeVJ5aW9Kd3lMNWpvQ0Juajh3M2VadHpLZFdia2g2U1lXUVRIeEJMSlFMc05VSE9zTkFLcndxRzZCWQ?oc=5",
+        "published": "2026-09-07T13:11:24Z"
       },
       {
         "title": "Minnesota Judicial Branch reports data breach at tech vendor",
@@ -119,16 +107,28 @@
         "published": "2026-09-02T20:06:00Z"
       },
       {
+        "title": "Roanoke tells city residents about data breach three months after it happened",
+        "outlet": "Cardinal News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
+        "published": "2026-09-04T08:08:00Z"
+      },
+      {
         "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
         "outlet": "GAMINGbible",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
         "published": "2026-09-03T10:00:02Z"
       },
       {
-        "title": "FBI investigating suspected data breach that may have leaked millions of American driver’s licenses",
-        "outlet": "POLITICO Pro",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGFleHV5eEMwMXdjWVdRbmQ5UFNpZjdnVlFqMjBTUWROUFVUZWlqQ0xDTi1sYUtWUFZrdktfWHV6LXl4MkV0OS1HOVNGMklaSE42Wkw1LVFhRTV4ZEhRNmR4QS1hV1pCOVpNRzBKT3NWTUZoUC05Z1ZsNmxpaHQtSTVRUllETXpSemc1X1NUS3JNQVcw?oc=5",
-        "published": "2026-09-02T23:27:43Z"
+        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
+        "outlet": "WWLTV.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
+        "published": "2026-09-07T21:55:00Z"
+      },
+      {
+        "title": "Bennett College Data Breach Affected 30,000 People",
+        "outlet": "govtech.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjdPZVBxN0ZVQldjRXMzT1lLT0Z1cXZfSnljQVBuYXNXOHFrTWJoLUstT1NPSGFEOU9Ub3JOMjFEdld4YnUzTTd0dGxsbDY0LWlMTEVKbTV3cWUxUXpXbHJsTW1BaWZpZTVuRmVKemhKQmJfWG5NdHBZV0ptSzBtZ0xrbkFGbW5nMHZDbDhIdFlWaUttOC1QbE93?oc=5",
+        "published": "2026-09-02T18:34:31Z"
       }
     ]
   },
