@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-08T10:02:58Z",
+  "as_of": "2026-09-08T14:44:45Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 283048751,
     "added_2026": 99,
     "added_7d": 1,
-    "added_30d": 9,
+    "added_30d": 8,
     "latest": [
       {
         "name": "ManchesterAirportsGroup",
@@ -83,16 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "DaVita agrees to pay $15M to settle claims from data breach",
+        "outlet": "Healthcare Dive",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3FmYmZTSGlYTF9yX0VhMl83NjVXTVRWd2ZLOU1DUHB6dFpPMUNXSEFINHhJY1FlOHpxMmJFenRUbElyWlRxNXQyTmVyMURicGNmX3g1UkwzVm5MUkVjeG15OFJZd1l5ek4zMHZYRG1MdWJwZmw5ZFJYMURtdEp4WnJCbXZBaFVObnY4d29wSEkyazRTd1BMVXBrSklkS1JBSXFiMQ?oc=5",
+        "published": "2026-09-02T16:14:01Z"
+      },
+      {
         "title": "CyberLeek: Extortion Built for an Audience, Not a Victim",
         "outlet": "Bitdefender",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2FNa1Mza0xzaEs3bXBrQjVqYU03enhzcnpSU09qZTN0Tm1WOUxWNERra3gyVVdMTjZSX3BIdU9wTjl1WG1FRDFqM25wcU1vNFN3ZkgtMGhmclhJTU8zeW5yQmpiRTNaTlFzNHUwQWNXLUVNdVlDV0RtNFJQVl9yMmk4ZnMyYW9zZTNPTEYzSEVFc0ZoRk5xMEwxNkNmUGs?oc=5",
         "published": "2026-09-01T21:01:25Z"
-      },
-      {
-        "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
-        "outlet": "HealthExec",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
-        "published": "2026-09-01T23:15:23Z"
       },
       {
         "title": "June 2026 Healthcare Data Breach Report",
@@ -107,28 +107,28 @@
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "Roanoke tells city residents about data breach three months after it happened",
-        "outlet": "Cardinal News",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
-        "published": "2026-09-04T08:08:00Z"
-      },
-      {
-        "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
-        "outlet": "GAMINGbible",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
-        "published": "2026-09-03T10:00:02Z"
-      },
-      {
         "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
         "outlet": "WWLTV.com",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
         "published": "2026-09-07T21:55:00Z"
       },
       {
-        "title": "Bennett College Data Breach Affected 30,000 People",
-        "outlet": "govtech.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjdPZVBxN0ZVQldjRXMzT1lLT0Z1cXZfSnljQVBuYXNXOHFrTWJoLUstT1NPSGFEOU9Ub3JOMjFEdld4YnUzTTd0dGxsbDY0LWlMTEVKbTV3cWUxUXpXbHJsTW1BaWZpZTVuRmVKemhKQmJfWG5NdHBZV0ptSzBtZ0xrbkFGbW5nMHZDbDhIdFlWaUttOC1QbE93?oc=5",
-        "published": "2026-09-02T18:34:31Z"
+        "title": "Roanoke tells city residents about data breach three months after it happened",
+        "outlet": "cardinalnews.org",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
+        "published": "2026-09-04T08:08:00Z"
+      },
+      {
+        "title": "How to Protect Your Credit After a Data Breach",
+        "outlet": "nerdwallet.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUNzMllCWWNkZmVnN1hIQmFZMlpseVRnNnFhR1VldjZBX1RGY21qNmw1TTM1bW5OVFQtU2RIZExscmw4QTRON2pZOWhMT2k1QWo3ZnFvWEhlSk5SNElfNG5nUkNTUmFkaXFYc05HallXNWotNDUybGV1NHRkcUZDVDM3NHdnX3dCclE?oc=5",
+        "published": "2026-09-04T07:00:00Z"
+      },
+      {
+        "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
+        "outlet": "GAMINGbible",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
+        "published": "2026-09-03T10:00:02Z"
       }
     ]
   },
