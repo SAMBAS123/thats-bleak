@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-07T21:44:58Z",
+  "as_of": "2026-09-08T00:38:51Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Aesto Health Data Breach Affects 9.5 Million Patients",
-        "outlet": "hipaajournal.com",
+        "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jV3BNUFZzZVhKT3JQUWZxMFk4OHY0TVIzRVIzcUlQQkdoRFp2dVhUS2tqbmRER0VsV085QVZQb0htMUphZnFxbWowZmZQZTNCdTRiNWtDd19URFZNWkpITkh3a2k?oc=5",
         "published": "2026-09-01T07:00:00Z"
       },
@@ -108,7 +108,7 @@
       },
       {
         "title": "Hackers say McKesson data breach exposed records from tens of millions of patients",
-        "outlet": "healthexec.com",
+        "outlet": "HealthExec",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFVYLVVITWpzQWFzY05iVmFyZ0tDbTZRcjREeVFtQWdKNE5qNC00ZDYxUjlKcmNEdE9xdW55QXU2UkRJUk1JbEZDWUN5TGctZDljengzdzAta2RLNnE5bm5TMUFZTF9aSEdlU0hvQXIwM0xjbTRQbHFoMUdqXzZmUFk1R2N5YWlBM19Nc3pKUHEyQVZ2cGxrRFB1V00yMzFZbXJEdjJDdXYzNEJiazVyWUN5ZktuMTNuTEx5XzBmWlNRdkU?oc=5",
         "published": "2026-09-01T23:15:23Z"
       },
@@ -119,16 +119,16 @@
         "published": "2026-09-02T20:06:00Z"
       },
       {
-        "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
-        "outlet": "gamingbible.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
-        "published": "2026-09-03T10:00:02Z"
+        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
+        "outlet": "wwltv.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
+        "published": "2026-09-07T21:55:00Z"
       },
       {
-        "title": "Montana court filing system part of nationwide ‘data breach’",
-        "outlet": "Bozeman Daily Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXJCNUhrQW9rVmpMdlM3NWRXRjZ0UjFxbmd2VmkwMmtjd2JtQzY5TzA3cFRhQjkzbU9RYS1SUUFUdGpaTzFPV0Vpb2o4bi1HMk9vbzJUSUN6OEdiTTVnaHU3NndXdldEam9kbF8xVUlBT1N4Q2FVWXNjeXZ3UlFPVkZTVE9IazhyenJNZV8yVnhuVi1jeFg4VExMbHRpNnZVNldQTERRY0lJWXZKVGkwcWVmRHdYMGF0NllMZ1pSd0NabERpN1JLbUYzT3JKN21LeU1jSjFaUXlveU1OOWhLTVlZV0NxNkRWVDlDVFNPZ00?oc=5",
-        "published": "2026-09-06T15:40:00Z"
+        "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
+        "outlet": "GAMINGbible",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVB2ZHhCblZlM0Q1bWFXd0ZRSlFwUXZ0Zjh0VnQ5emhjMm9yMU1QMjNiNFlMeVpIdU16WWtKd192LUhwb0JTNFlPUjlaRkhteWVHa0p5RGFwbTdHYkpYZV9yUGp2bWVIWThCTFpyUVJKT0FWN0xGWDdpMHpjSnFYenZTRExjdw?oc=5",
+        "published": "2026-09-03T10:00:02Z"
       }
     ]
   },
