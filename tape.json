@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09T05:07:30Z",
+  "as_of": "2026-09-09T10:03:48Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 81,
     "pwn_2026": 283048751,
     "added_2026": 99,
-    "added_7d": 1,
+    "added_7d": 0,
     "added_30d": 8,
     "latest": [
       {
@@ -101,16 +101,16 @@
         "published": "2026-09-04T08:08:00Z"
       },
       {
-        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
-        "outlet": "WWLTV.com",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
-        "published": "2026-09-07T21:55:00Z"
-      },
-      {
         "title": "How to Protect Your Credit After a Data Breach",
         "outlet": "NerdWallet",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUNzMllCWWNkZmVnN1hIQmFZMlpseVRnNnFhR1VldjZBX1RGY21qNmw1TTM1bW5OVFQtU2RIZExscmw4QTRON2pZOWhMT2k1QWo3ZnFvWEhlSk5SNElfNG5nUkNTUmFkaXFYc05HallXNWotNDUybGV1NHRkcUZDVDM3NHdnX3dCclE?oc=5",
         "published": "2026-09-04T07:00:00Z"
+      },
+      {
+        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
+        "outlet": "WWLTV.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
+        "published": "2026-09-07T21:55:00Z"
       },
       {
         "title": "GTA 6 gamers given 'I told you so' warning after CyberLeek reaches endgame",
@@ -119,16 +119,16 @@
         "published": "2026-09-03T10:00:02Z"
       },
       {
-        "title": "Montana court filing system part of nationwide ‘data breach’",
-        "outlet": "Bozeman Daily Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXJCNUhrQW9rVmpMdlM3NWRXRjZ0UjFxbmd2VmkwMmtjd2JtQzY5TzA3cFRhQjkzbU9RYS1SUUFUdGpaTzFPV0Vpb2o4bi1HMk9vbzJUSUN6OEdiTTVnaHU3NndXdldEam9kbF8xVUlBT1N4Q2FVWXNjeXZ3UlFPVkZTVE9IazhyenJNZV8yVnhuVi1jeFg4VExMbHRpNnZVNldQTERRY0lJWXZKVGkwcWVmRHdYMGF0NllMZ1pSd0NabERpN1JLbUYzT3JKN21LeU1jSjFaUXlveU1OOWhLTVlZV0NxNkRWVDlDVFNPZ00?oc=5",
-        "published": "2026-09-06T15:40:00Z"
-      },
-      {
         "title": "Veradigm Data Breach? Lawyers Investigate Hackers' Claims",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tTFRhelJaYTRtLXg5N2pSajdaMWZaUFk1N2FuTlNwOC1LZUVkYzNLZkphLUlmTkJ4Y25iTDlXd0hYUENaMHpwQUlZWlZ1LS1neE94Wk82YjAxaThWNmItZmstZHpaa2NNWTJkOFpNT1Q5TENmbUR0akY3UEE?oc=5",
         "published": "2026-09-08T15:46:29Z"
+      },
+      {
+        "title": "Montana court filing system part of nationwide ‘data breach’",
+        "outlet": "Bozeman Daily Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXJCNUhrQW9rVmpMdlM3NWRXRjZ0UjFxbmd2VmkwMmtjd2JtQzY5TzA3cFRhQjkzbU9RYS1SUUFUdGpaTzFPV0Vpb2o4bi1HMk9vbzJUSUN6OEdiTTVnaHU3NndXdldEam9kbF8xVUlBT1N4Q2FVWXNjeXZ3UlFPVkZTVE9IazhyenJNZV8yVnhuVi1jeFg4VExMbHRpNnZVNldQTERRY0lJWXZKVGkwcWVmRHdYMGF0NllMZ1pSd0NabERpN1JLbUYzT3JKN21LeU1jSjFaUXlveU1OOWhLTVlZV0NxNkRWVDlDVFNPZ00?oc=5",
+        "published": "2026-09-06T15:40:00Z"
       }
     ]
   },
