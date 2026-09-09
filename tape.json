@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09T14:46:43Z",
+  "as_of": "2026-09-09T18:49:29Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
-        "outlet": "sourcenm.com",
+        "outlet": "Source New Mexico",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
         "published": "2026-09-09T12:29:04Z"
       },
@@ -95,20 +95,14 @@
         "published": "2026-09-07T13:11:24Z"
       },
       {
-        "title": "Minnesota Judicial Branch reports data breach at tech vendor",
-        "outlet": "KTTC",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJBcms1ZjMwNmFkcmVzUlhaaXo4dVQwYUFFTFloX3c3aE40UW5FT0lPTFlYUkNGcGQyRkJhOXdxcXFXMlhudnNIb3R5cEUxcUdHVm1OcHNsQkZ6UGlpV3Y4Y0pkVEVfUE53UkpkUXRvOGw4UW1GMElncnN6VW1raFNVcHJuSThjUEhleFR3R0M3clM30gGoAUFVX3lxTE52SlJvV0RUSjN0T2tmYWw3WTAtbVQ0cXpxSG5sSzJwdWpEMjJWaTN4aDEtNzBOOU1zRWY5NFdlenM5MnRZMW0tMk11b0VvSWJxYjJkSGJ0RVd3bW5EaURxOU54RlRjeXZ2MlZlQVFEVG1rYWxINldRdGNYZllRSkdfOFNqeVgzaWktRGI2c2I2d1M2WC1uY2xjVlJ0X1pPRncwUGVfbHVzaQ?oc=5",
-        "published": "2026-09-02T20:06:00Z"
-      },
-      {
         "title": "Roanoke tells city residents about data breach three months after it happened",
-        "outlet": "cardinalnews.org",
+        "outlet": "Cardinal News",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
         "published": "2026-09-04T08:08:00Z"
       },
       {
         "title": "How to Protect Your Credit After a Data Breach",
-        "outlet": "nerdwallet.com",
+        "outlet": "NerdWallet",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUNzMllCWWNkZmVnN1hIQmFZMlpseVRnNnFhR1VldjZBX1RGY21qNmw1TTM1bW5OVFQtU2RIZExscmw4QTRON2pZOWhMT2k1QWo3ZnFvWEhlSk5SNElfNG5nUkNTUmFkaXFYc05HallXNWotNDUybGV1NHRkcUZDVDM3NHdnX3dCclE?oc=5",
         "published": "2026-09-04T07:00:00Z"
       },
@@ -126,9 +120,15 @@
       },
       {
         "title": "Montana court filing system part of nationwide ‘data breach’",
-        "outlet": "bozemandailychronicle.com",
+        "outlet": "Bozeman Daily Chronicle",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXJCNUhrQW9rVmpMdlM3NWRXRjZ0UjFxbmd2VmkwMmtjd2JtQzY5TzA3cFRhQjkzbU9RYS1SUUFUdGpaTzFPV0Vpb2o4bi1HMk9vbzJUSUN6OEdiTTVnaHU3NndXdldEam9kbF8xVUlBT1N4Q2FVWXNjeXZ3UlFPVkZTVE9IazhyenJNZV8yVnhuVi1jeFg4VExMbHRpNnZVNldQTERRY0lJWXZKVGkwcWVmRHdYMGF0NllMZ1pSd0NabERpN1JLbUYzT3JKN21LeU1jSjFaUXlveU1OOWhLTVlZV0NxNkRWVDlDVFNPZ00?oc=5",
         "published": "2026-09-06T15:40:00Z"
+      },
+      {
+        "title": "LHC Group data breach impacts thousands",
+        "outlet": "WFSB",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55WG9RTVR5OUI0S1FjT19yLWVaWjhONjQ2b1BiMHVNYnRwWUFnX0NnWEtTc1Z5QUh6eTNVdzJ2b0VzdjRUSXhweUcwbzY5YjhuM0ZrU2lRZHFOejdrdGwyUTVES0lJbjhNdUdYMmZfRUsxdXpOYlotOXlwbnPSAZABQVVfeXFMTlBLVW5EOXc5a1dRUXZsRUd6WFpzLXZScEMzNXA3V0owaDI1VmgzQzY5d1NsVUktZlE0YU1sbHFMQ3RTY0Z1M0tsekV3bE5udTl3NHJyNkNDLXRBeEJ4VkR4X1FxRG1ZQlhBMkEwenEwOVRMMHRoYTQ1MkVJb0dBSlRiNFNaSkJrYVlIN1FaOWpC?oc=5",
+        "published": "2026-09-04T22:03:00Z"
       }
     ]
   },
