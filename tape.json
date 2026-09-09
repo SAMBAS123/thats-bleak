@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09T10:03:48Z",
+  "as_of": "2026-09-09T14:46:43Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,8 +83,14 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
+        "outlet": "sourcenm.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
+        "published": "2026-09-09T12:29:04Z"
+      },
+      {
         "title": "June 2026 Healthcare Data Breach Report",
-        "outlet": "The HIPAA Journal",
+        "outlet": "hipaajournal.com",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRHhMcU9fWkF2S2NLYk5nSUEwdGdoWjk5c3pVclh4SmxfdUFCS09leXJYbFNWcGM0eVFqSEFaeVJ5aW9Kd3lMNWpvQ0Juajh3M2VadHpLZFdia2g2U1lXUVRIeEJMSlFMc05VSE9zTkFLcndxRzZCWQ?oc=5",
         "published": "2026-09-07T13:11:24Z"
       },
@@ -96,13 +102,13 @@
       },
       {
         "title": "Roanoke tells city residents about data breach three months after it happened",
-        "outlet": "Cardinal News",
+        "outlet": "cardinalnews.org",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
         "published": "2026-09-04T08:08:00Z"
       },
       {
         "title": "How to Protect Your Credit After a Data Breach",
-        "outlet": "NerdWallet",
+        "outlet": "nerdwallet.com",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUNzMllCWWNkZmVnN1hIQmFZMlpseVRnNnFhR1VldjZBX1RGY21qNmw1TTM1bW5OVFQtU2RIZExscmw4QTRON2pZOWhMT2k1QWo3ZnFvWEhlSk5SNElfNG5nUkNTUmFkaXFYc05HallXNWotNDUybGV1NHRkcUZDVDM3NHdnX3dCclE?oc=5",
         "published": "2026-09-04T07:00:00Z"
       },
@@ -119,14 +125,8 @@
         "published": "2026-09-03T10:00:02Z"
       },
       {
-        "title": "Veradigm Data Breach? Lawyers Investigate Hackers' Claims",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tTFRhelJaYTRtLXg5N2pSajdaMWZaUFk1N2FuTlNwOC1LZUVkYzNLZkphLUlmTkJ4Y25iTDlXd0hYUENaMHpwQUlZWlZ1LS1neE94Wk82YjAxaThWNmItZmstZHpaa2NNWTJkOFpNT1Q5TENmbUR0akY3UEE?oc=5",
-        "published": "2026-09-08T15:46:29Z"
-      },
-      {
         "title": "Montana court filing system part of nationwide ‘data breach’",
-        "outlet": "Bozeman Daily Chronicle",
+        "outlet": "bozemandailychronicle.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXJCNUhrQW9rVmpMdlM3NWRXRjZ0UjFxbmd2VmkwMmtjd2JtQzY5TzA3cFRhQjkzbU9RYS1SUUFUdGpaTzFPV0Vpb2o4bi1HMk9vbzJUSUN6OEdiTTVnaHU3NndXdldEam9kbF8xVUlBT1N4Q2FVWXNjeXZ3UlFPVkZTVE9IazhyenJNZV8yVnhuVi1jeFg4VExMbHRpNnZVNldQTERRY0lJWXZKVGkwcWVmRHdYMGF0NllMZ1pSd0NabERpN1JLbUYzT3JKN21LeU1jSjFaUXlveU1OOWhLTVlZV0NxNkRWVDlDVFNPZ00?oc=5",
         "published": "2026-09-06T15:40:00Z"
       }
