@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09T21:54:57Z",
+  "as_of": "2026-09-10T00:32:23Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,7 +90,7 @@
       },
       {
         "title": "June 2026 Healthcare Data Breach Report",
-        "outlet": "hipaajournal.com",
+        "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRHhMcU9fWkF2S2NLYk5nSUEwdGdoWjk5c3pVclh4SmxfdUFCS09leXJYbFNWcGM0eVFqSEFaeVJ5aW9Kd3lMNWpvQ0Juajh3M2VadHpLZFdia2g2U1lXUVRIeEJMSlFMc05VSE9zTkFLcndxRzZCWQ?oc=5",
         "published": "2026-09-07T13:11:24Z"
       },
