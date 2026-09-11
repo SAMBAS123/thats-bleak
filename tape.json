@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-11T06:35:58Z",
+  "as_of": "2026-09-11T11:44:22Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,40 +83,28 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Patients in East Tennessee face potential exposure in LHC Group data breach",
-        "outlet": "WATE 6 On Your Side",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mMmd5bHBxUE1BZEEwb21MZGx4WlhIMkgtTlJRT05yTDNFaVBRYjJsNVVjLVpLQUhUT1lFLUFySEJSVHlDcTlYeHlPR0IxWG9MbVRIZkZFWFYyN1djODAxV1dqZ2xiNDQyQ0Jn0gFwQVVfeXFMT0tjaV9pc1huRENfQ2VzQ1gyVHhqZUVGNHVjcEJUejllaXA5cU5jSkF5SlR6WGVybEh0a0I4NlVpcl9aVmhEMjd3VlUxLWVrYUJCeFd6QjZWalBabmx5UmNFMmR4TTdBVXVzOUtkTTJzZw?oc=5",
-        "published": "2026-09-04T20:31:41Z"
+        "title": "Data breach settlement nets victims $75 to $5K",
+        "outlet": "Cleveland.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEcyeXRyd3hHTk5VbUU3QmZQY1VVcnVDZ0prQjRpTzdyVTllSWhGN2xKYU9MbUgyalhEOXJHNkZRdFVMTTZpNUtNSGRkakZEMlg1ZXBXbHpLNlBxc3NEVURla2NYMExiM3Q3eWdSNTMtNnhVQUJpMGtfQ29JV015UkFSUXdKYng0QUpoSHhhZ2FoQdIBpgFBVV95cUxQeTVKc2ZGZGZkemtyQkVrYVhMTHVpVVhwM05RTDAzUGlqSzJkZ2ZPQkZ1SE9Za19EZ1YxTzJha1dZOHprYlNmRWktbVVDbXJUQzV4eGhITWhUVUNuakIxaWJhQlFTM2ozbC1ncnYxWVpCRWtyWndVdnJuOXRyMnp0QU95bFRXM3RsNE8xeWJVSVc3VDNVS0hJa29SSEpTWTNubFNVTGp3?oc=5",
+        "published": "2026-09-04T14:45:00Z"
       },
       {
         "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
-        "outlet": "sourcenm.com",
+        "outlet": "Source New Mexico",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
         "published": "2026-09-09T12:29:04Z"
+      },
+      {
+        "title": "NFI North Data Breach Affects Almost 50,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGxKc016eUFYaXhUdWY4YzlGM0hwM2RqblMtemJRZmI2Ui1BT3dHcjFGd1pGajhKb2QyYjJTTm9YN3RfUThCX2h4VGpGbnljQ2FwRy1jNTdhMklHRlRxMktpaTByc0FRbmEzSGpjRlNiSGc5ZDc2SEZSQ3RSeVFJNA?oc=5",
+        "published": "2026-09-08T10:06:58Z"
       },
       {
         "title": "Roanoke City data breach: What happened and how to protect your information",
         "outlet": "WSLS",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
         "published": "2026-09-09T22:57:10Z"
-      },
-      {
-        "title": "Roanoke tells city residents about data breach three months after it happened",
-        "outlet": "Cardinal News",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzNyenU4OF9peE5ZUV8xQkxPLXZYeDlzT2YycnNsVUJmQU5LU0p1S3NTT3ppeGIxTHNoUnV0ejhlVEpEa3dJTHpnZzJzVkJmRElvOXlCeUdjMV9PSlphRFBrem8xNTY0dTBkWWY2WUlNbjE4bGswcTN3ZmJCc0w4elJyeWd3dFhBei00VFdhdkE5ZnJkbmxwMk8wbU14RXhodDNtb25DT21UcWc5TUdMOThTYVBuZw?oc=5",
-        "published": "2026-09-04T08:08:00Z"
-      },
-      {
-        "title": "How to Protect Your Credit After a Data Breach",
-        "outlet": "NerdWallet",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUNzMllCWWNkZmVnN1hIQmFZMlpseVRnNnFhR1VldjZBX1RGY21qNmw1TTM1bW5OVFQtU2RIZExscmw4QTRON2pZOWhMT2k1QWo3ZnFvWEhlSk5SNElfNG5nUkNTUmFkaXFYc05HallXNWotNDUybGV1NHRkcUZDVDM3NHdnX3dCclE?oc=5",
-        "published": "2026-09-04T07:00:00Z"
-      },
-      {
-        "title": "June 2026 Healthcare Data Breach Report",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRHhMcU9fWkF2S2NLYk5nSUEwdGdoWjk5c3pVclh4SmxfdUFCS09leXJYbFNWcGM0eVFqSEFaeVJ5aW9Kd3lMNWpvQ0Juajh3M2VadHpLZFdia2g2U1lXUVRIeEJMSlFMc05VSE9zTkFLcndxRzZCWQ?oc=5",
-        "published": "2026-09-07T13:11:24Z"
       },
       {
         "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
@@ -129,6 +117,18 @@
         "outlet": "Bozeman Daily Chronicle",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXJCNUhrQW9rVmpMdlM3NWRXRjZ0UjFxbmd2VmkwMmtjd2JtQzY5TzA3cFRhQjkzbU9RYS1SUUFUdGpaTzFPV0Vpb2o4bi1HMk9vbzJUSUN6OEdiTTVnaHU3NndXdldEam9kbF8xVUlBT1N4Q2FVWXNjeXZ3UlFPVkZTVE9IazhyenJNZV8yVnhuVi1jeFg4VExMbHRpNnZVNldQTERRY0lJWXZKVGkwcWVmRHdYMGF0NllMZ1pSd0NabERpN1JLbUYzT3JKN21LeU1jSjFaUXlveU1OOWhLTVlZV0NxNkRWVDlDVFNPZ00?oc=5",
         "published": "2026-09-06T15:40:00Z"
+      },
+      {
+        "title": "University of San Francisco Data Breach? Lawyers Investigate Reports",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNNYy05YXNocS0tVVdBMF9Bbm1aVk9jTXZ5anBIRFZpNWVKRmp4dFpOY0lHX1dFWXJ1NUZJTzhBSDFoaVQzamcxTkxobGl4QWtQTl9PLXhMZFBvczktZHR0VDhXX1VVRjNuZmlIX19rczctTFNQRzgwYzBycjdBSjlsMnhKRDZuaXpVZE9MTkFqeUR6NXc?oc=5",
+        "published": "2026-09-08T18:34:57Z"
+      },
+      {
+        "title": "Mathspace Data Breach Exposes Over 1 Million People",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlFCaVBJTHhXVGlrUDdybW8zMk9ma0xLWE50YzNSTzJIQm43b1E4M3E2VXNxei1TUVk5a1FvcnI5VmlFd2ZfWjV0V2ZncUFuX0hyUVhaVUpnci1LQUstZGdNMUdFRVBqOEw5YzhyTVliWnFnUnZEQnczUm01UldUT2tRX0oweElH0gGOAUFVX3lxTFA5dkt0QmpzN1piZFVSajkteGVjYmNhWE1JeGdEemRya21VcEFoTkNlYjE3TlM0LWpJd1NncWs1ckp6d2FNNE8zT2Vnejd5Q1VIcTc0ZDdzWFpIemtSeFZyZDZjencyUWtha3ZZU1NoenZUbnN1RnF4MlFyQm5kWENsQVp3WGF0NnYyZVdpVnc?oc=5",
+        "published": "2026-09-08T10:47:36Z"
       }
     ]
   },
