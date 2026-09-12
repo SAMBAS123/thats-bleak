@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T17:24:54Z",
+  "as_of": "2026-09-12T19:36:56Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -108,7 +108,7 @@
       },
       {
         "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
-        "outlet": "wwltv.com",
+        "outlet": "WWLTV.com",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
         "published": "2026-09-07T21:55:00Z"
       },
@@ -125,10 +125,10 @@
         "published": "2026-09-08T18:34:57Z"
       },
       {
-        "title": "Mathspace Data Breach Exposes Over 1 Million People",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlFCaVBJTHhXVGlrUDdybW8zMk9ma0xLWE50YzNSTzJIQm43b1E4M3E2VXNxei1TUVk5a1FvcnI5VmlFd2ZfWjV0V2ZncUFuX0hyUVhaVUpnci1LQUstZGdNMUdFRVBqOEw5YzhyTVliWnFnUnZEQnczUm01UldUT2tRX0oweElH0gGOAUFVX3lxTFA5dkt0QmpzN1piZFVSajkteGVjYmNhWE1JeGdEemRya21VcEFoTkNlYjE3TlM0LWpJd1NncWs1ckp6d2FNNE8zT2Vnejd5Q1VIcTc0ZDdzWFpIemtSeFZyZDZjencyUWtha3ZZU1NoenZUbnN1RnF4MlFyQm5kWENsQVp3WGF0NnYyZVdpVnc?oc=5",
-        "published": "2026-09-08T10:47:36Z"
+        "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydXd6cmxsMlRxN2ExdmpySGJaSC1lMktCVEhQb1pWUG0xQ2hjaGdRWUZFSGhIVlJfaGhrNGVHMEVMSVduVWhtNG1Xbm1sMDdFbzVXbk9Ec3VJWDg5VTFyVHZXZkdvaXVrbnY4?oc=5",
+        "published": "2026-09-11T20:19:45Z"
       }
     ]
   },
