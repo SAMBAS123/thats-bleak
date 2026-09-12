@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T11:12:35Z",
+  "as_of": "2026-09-12T14:20:29Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
-        "outlet": "Source New Mexico",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
-        "published": "2026-09-09T12:29:04Z"
-      },
-      {
         "title": "The GTA VI leak is unfortunate, but it doesn’t matter.",
         "outlet": "Indianapolis Recorder",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNTVZkeDlvWHc3Z1BZNWNUN0Y0UzVXTlI4OHJLMFlmTndzeGJPWXl0WnluT2Fua3RmcjdQMXpsOHV6SlVUY2pVaTFGM1V2aDlkNXd1VHE0NnYycHBBUnQ1blRmRHpsXzhLeXZrZw?oc=5",
         "published": "2026-09-08T16:19:13Z"
+      },
+      {
+        "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
+        "outlet": "Source New Mexico",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
+        "published": "2026-09-09T12:29:04Z"
       },
       {
         "title": "NFI North Data Breach Affects Almost 50,000 Individuals",
@@ -102,7 +102,7 @@
       },
       {
         "title": "Roanoke City data breach: What happened and how to protect your information",
-        "outlet": "WSLS",
+        "outlet": "wsls.com",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
         "published": "2026-09-09T22:57:10Z"
       },
@@ -120,7 +120,7 @@
       },
       {
         "title": "University of San Francisco Data Breach? Lawyers Investigate Reports",
-        "outlet": "ClassAction.org",
+        "outlet": "classaction.org",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNNYy05YXNocS0tVVdBMF9Bbm1aVk9jTXZ5anBIRFZpNWVKRmp4dFpOY0lHX1dFWXJ1NUZJTzhBSDFoaVQzamcxTkxobGl4QWtQTl9PLXhMZFBvczktZHR0VDhXX1VVRjNuZmlIX19rczctTFNQRzgwYzBycjdBSjlsMnhKRDZuaXpVZE9MTkFqeUR6NXc?oc=5",
         "published": "2026-09-08T18:34:57Z"
       },
