@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T06:25:52Z",
+  "as_of": "2026-09-12T11:12:35Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 289453091,
     "added_2026": 100,
     "added_7d": 1,
-    "added_30d": 9,
+    "added_30d": 8,
     "latest": [
       {
         "name": "McKesson",
