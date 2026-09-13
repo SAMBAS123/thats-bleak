@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-13T17:02:35Z",
+  "as_of": "2026-09-13T19:42:34Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "The GTA VI leak is unfortunate, but it doesn’t matter.",
-        "outlet": "Indianapolis Recorder",
+        "outlet": "indianapolisrecorder.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNTVZkeDlvWHc3Z1BZNWNUN0Y0UzVXTlI4OHJLMFlmTndzeGJPWXl0WnluT2Fua3RmcjdQMXpsOHV6SlVUY2pVaTFGM1V2aDlkNXd1VHE0NnYycHBBUnQ1blRmRHpsXzhLeXZrZw?oc=5",
         "published": "2026-09-08T16:19:13Z"
       },
@@ -107,16 +107,16 @@
         "published": "2026-09-07T21:55:00Z"
       },
       {
+        "title": "University of San Francisco Data Breach? Lawyers Investigate Reports",
+        "outlet": "classaction.org",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNNYy05YXNocS0tVVdBMF9Bbm1aVk9jTXZ5anBIRFZpNWVKRmp4dFpOY0lHX1dFWXJ1NUZJTzhBSDFoaVQzamcxTkxobGl4QWtQTl9PLXhMZFBvczktZHR0VDhXX1VVRjNuZmlIX19rczctTFNQRzgwYzBycjdBSjlsMnhKRDZuaXpVZE9MTkFqeUR6NXc?oc=5",
+        "published": "2026-09-08T18:34:57Z"
+      },
+      {
         "title": "June 2026 Healthcare Data Breach Report",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRHhMcU9fWkF2S2NLYk5nSUEwdGdoWjk5c3pVclh4SmxfdUFCS09leXJYbFNWcGM0eVFqSEFaeVJ5aW9Kd3lMNWpvQ0Juajh3M2VadHpLZFdia2g2U1lXUVRIeEJMSlFMc05VSE9zTkFLcndxRzZCWQ?oc=5",
         "published": "2026-09-07T13:11:24Z"
-      },
-      {
-        "title": "University of San Francisco Data Breach? Lawyers Investigate Reports",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNNYy05YXNocS0tVVdBMF9Bbm1aVk9jTXZ5anBIRFZpNWVKRmp4dFpOY0lHX1dFWXJ1NUZJTzhBSDFoaVQzamcxTkxobGl4QWtQTl9PLXhMZFBvczktZHR0VDhXX1VVRjNuZmlIX19rczctTFNQRzgwYzBycjdBSjlsMnhKRDZuaXpVZE9MTkFqeUR6NXc?oc=5",
-        "published": "2026-09-08T18:34:57Z"
       },
       {
         "title": "Florida investigates data breach tied to cybercriminal organization",
