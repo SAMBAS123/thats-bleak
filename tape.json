@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-13T01:22:34Z",
+  "as_of": "2026-09-13T06:43:56Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -102,7 +102,7 @@
       },
       {
         "title": "Roanoke City data breach: What happened and how to protect your information",
-        "outlet": "WSLS",
+        "outlet": "wsls.com",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
         "published": "2026-09-09T22:57:10Z"
       },
@@ -120,15 +120,15 @@
       },
       {
         "title": "University of San Francisco Data Breach? Lawyers Investigate Reports",
-        "outlet": "classaction.org",
+        "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNNYy05YXNocS0tVVdBMF9Bbm1aVk9jTXZ5anBIRFZpNWVKRmp4dFpOY0lHX1dFWXJ1NUZJTzhBSDFoaVQzamcxTkxobGl4QWtQTl9PLXhMZFBvczktZHR0VDhXX1VVRjNuZmlIX19rczctTFNQRzgwYzBycjdBSjlsMnhKRDZuaXpVZE9MTkFqeUR6NXc?oc=5",
         "published": "2026-09-08T18:34:57Z"
       },
       {
-        "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
-        "outlet": "The Record from Recorded Future News",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydXd6cmxsMlRxN2ExdmpySGJaSC1lMktCVEhQb1pWUG0xQ2hjaGdRWUZFSGhIVlJfaGhrNGVHMEVMSVduVWhtNG1Xbm1sMDdFbzVXbk9Ec3VJWDg5VTFyVHZXZkdvaXVrbnY4?oc=5",
-        "published": "2026-09-11T20:19:45Z"
+        "title": "Florida investigates data breach tied to cybercriminal organization",
+        "outlet": "WPBF",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk5adnNhanlQdi1pSUtDSHhKMFk4U3ZKVFI0NE1vRjcyQkIzTDdTaGp6SEFFclA5SEh6alQzY0lkcDJLTG9TNzVXOHFLT1Q4ejNmNGNQeWRiYkZzazBSR2gteE1mbml2YTI2d2FqQVIwNDJ0dXB0QmNQbnpIdGthT1FwT19PVFFhSGl5NThFMnhIRUNmei1sMk1mNmZBVFVXWGl3djVkN1I?oc=5",
+        "published": "2026-09-12T21:09:00Z"
       }
     ]
   },
