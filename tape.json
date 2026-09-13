@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-13T06:43:56Z",
+  "as_of": "2026-09-13T12:49:22Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -96,13 +96,13 @@
       },
       {
         "title": "NFI North Data Breach Affects Almost 50,000 Individuals",
-        "outlet": "The HIPAA Journal",
+        "outlet": "hipaajournal.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGxKc016eUFYaXhUdWY4YzlGM0hwM2RqblMtemJRZmI2Ui1BT3dHcjFGd1pGajhKb2QyYjJTTm9YN3RfUThCX2h4VGpGbnljQ2FwRy1jNTdhMklHRlRxMktpaTByc0FRbmEzSGpjRlNiSGc5ZDc2SEZSQ3RSeVFJNA?oc=5",
         "published": "2026-09-08T10:06:58Z"
       },
       {
         "title": "Roanoke City data breach: What happened and how to protect your information",
-        "outlet": "wsls.com",
+        "outlet": "WSLS",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
         "published": "2026-09-09T22:57:10Z"
       },
