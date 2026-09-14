@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T21:02:00Z",
+  "as_of": "2026-09-14T23:58:22Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,40 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
-        "outlet": "Source New Mexico",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
-        "published": "2026-09-09T12:29:04Z"
-      },
-      {
         "title": "Roanoke City data breach: What happened and how to protect your information",
         "outlet": "WSLS",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
         "published": "2026-09-09T22:57:10Z"
       },
       {
-        "title": "At least 9 lawsuits filed over alleged ID Scan data breach affecting millions",
-        "outlet": "WWLTV.com",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWFR6ajBwQkhXV2FRZ2Y0SW9LNlQ5NHBWVVRGcktsTy1Nb0t3UWF5QTd3dEk1WktjbDRlRDl5WE5XNUhNSUs1VktvMmhhSkdfMFQ1U0U2N1NJYkNPeE5ITmdfSE41TkZjR2E0SGYyd0llYW5HaWVwZTYzQTcxOHpSQnZUTkhzOFpFSjJMZ0tSRVdWZnBYd0xEcUhFbVVpYjhGazF0OXg2Z2VDZm5EQjFlUlVTa3NEd0gxbS1KQzhpU3VwT3Awb1pLRVkzeDdTVExPNG12THZFTFVXSVhqeFlYNER5UFNEUFJlRzIzd3FYSTBfVWpKZl9ZT2JiSWhDZnFpOGpXUG9R?oc=5",
-        "published": "2026-09-07T21:55:00Z"
-      },
-      {
         "title": "Harley-Davidson Data Breach? Lawyers Investigate Hackers' Claims",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX24zenVtbXdFUWVpcUswSmpHYU81OXU1R3ZvUGlYakpmZk42bzlBaENONm9MM0ptZk0xU253cEh2cWhUMkxTVjZDX1hRWWlnVTFpMkM0ZE11dU9laER0dHdodGVGNTRHeG1TbjkyUjdmdlFnWjJ2VDlYZkprdFN3Nm9QcVhjUQ?oc=5",
         "published": "2026-09-10T14:24:19Z"
-      },
-      {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
-        "published": "2026-09-12T14:40:00Z"
-      },
-      {
-        "title": "Department of Labor admits accidental data leak at Bangor CareerCenter",
-        "outlet": "WABI",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHJTenh2azJpX29qWnNHcnlNTE1KY2U4bEJSd05oRFBLdHN6VzFobm13NWdWNlkwQW1SRlZ3a1BzU2ltbUJCVlg3a2hoYXF2YUs1eDBURU9nOFpETzFFZmcxVldySFh0Qk54eVFSTVREWXl5a2RDckNiVFFMV1VxVlNDRy1Ja2RyNjBDMXVsU0VlNFRtRUZYbXNkaThUd9IBsgFBVV95cUxQVXdwOFpMVDNraFdyaGRBZkFOcXZnZFJfSE9fUE13MkRYQjlRaU5yMXhxdzRWSkpzMzExS094VEZ6MWM5NXF5SW91UlJfeGN4NnZwOHFsN0g3NDZNMXRzLTh6WGR3amdQWFladTR0SU13Z21PTlFHdXZUbmd0WEY5U3QtalhTYUVZam5IYWVKSmFZRnZISXR3eFZybzIwU0JWNWJVYjVGeDgxSl9VN3BPRFZR?oc=5",
-        "published": "2026-09-09T15:34:00Z"
       },
       {
         "title": "Roanoke Valley Field Notes: Roanoke data breach caused by phishing email",
@@ -129,6 +105,30 @@
         "outlet": "HealthExec",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2ljbHFSQklVUFMwZ1VPdHdRM2lUQmRlc3VwZF9qYkF3ZmktdFFyTTc4T2xiUmM5QW04Umw3NlVTMlRaVDY5bjVsN1hnQU91blltd3VzLWNmVFRlMkNDYXVNZm5VQzVMQktuUnRVN0M4REx3OS1oYUlmdktxNkp4SDVGRHlrNkNJSXE5WnRXZHRBV0Y2YWszOUJQY2U1eE1xcVZwZ3FqeEdlb0hhRXBRWXN3Y3dOSVBHa01FVVkzRjVua2tia2JkeEt2WGhldFdsaVlXNA?oc=5",
         "published": "2026-09-11T22:49:45Z"
+      },
+      {
+        "title": "Department of Labor admits accidental data leak at Bangor CareerCenter",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHJTenh2azJpX29qWnNHcnlNTE1KY2U4bEJSd05oRFBLdHN6VzFobm13NWdWNlkwQW1SRlZ3a1BzU2ltbUJCVlg3a2hoYXF2YUs1eDBURU9nOFpETzFFZmcxVldySFh0Qk54eVFSTVREWXl5a2RDckNiVFFMV1VxVlNDRy1Ja2RyNjBDMXVsU0VlNFRtRUZYbXNkaThUd9IBsgFBVV95cUxQVXdwOFpMVDNraFdyaGRBZkFOcXZnZFJfSE9fUE13MkRYQjlRaU5yMXhxdzRWSkpzMzExS094VEZ6MWM5NXF5SW91UlJfeGN4NnZwOHFsN0g3NDZNMXRzLTh6WGR3amdQWFladTR0SU13Z21PTlFHdXZUbmd0WEY5U3QtalhTYUVZam5IYWVKSmFZRnZISXR3eFZybzIwU0JWNWJVYjVGeDgxSl9VN3BPRFZR?oc=5",
+        "published": "2026-09-09T15:34:00Z"
+      },
+      {
+        "title": "Florida investigates data breach tied to cybercriminal organization",
+        "outlet": "WPBF",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk5adnNhanlQdi1pSUtDSHhKMFk4U3ZKVFI0NE1vRjcyQkIzTDdTaGp6SEFFclA5SEh6alQzY0lkcDJLTG9TNzVXOHFLT1Q4ejNmNGNQeWRiYkZzazBSR2gteE1mbml2YTI2d2FqQVIwNDJ0dXB0QmNQbnpIdGthT1FwT19PVFFhSGl5NThFMnhIRUNmei1sMk1mNmZBVFVXWGl3djVkN1I?oc=5",
+        "published": "2026-09-12T21:09:00Z"
+      },
+      {
+        "title": "4.1M Impacted by AdaptHealth Data Breach",
+        "outlet": "Security Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0NaMTZXVFp6Vi13M0U5aGhmVnpqZ1ZFQzZNUm9hTUh0OTN0a3lFbUF0UGhpT0tDTWUzYkF5TWZibmlpMHZZZWstSk5wTkh5V0drY2NyamFDSE4wVk1haTR2ZWFDVkFqbFpNcjZudF9tdno4MTBsb2ctYklFVWdJUmhJLXdRcFc5UEJlcDJTM1dfdw?oc=5",
+        "published": "2026-09-10T18:11:00Z"
+      },
+      {
+        "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+        "outlet": "therecord.media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydXd6cmxsMlRxN2ExdmpySGJaSC1lMktCVEhQb1pWUG0xQ2hjaGdRWUZFSGhIVlJfaGhrNGVHMEVMSVduVWhtNG1Xbm1sMDdFbzVXbk9Ec3VJWDg5VTFyVHZXZkdvaXVrbnY4?oc=5",
+        "published": "2026-09-11T20:19:45Z"
       }
     ]
   },
