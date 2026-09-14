@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T17:01:50Z",
+  "as_of": "2026-09-14T21:02:00Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "The GTA VI leak is unfortunate, but it doesn’t matter.",
-        "outlet": "Indianapolis Recorder",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNTVZkeDlvWHc3Z1BZNWNUN0Y0UzVXTlI4OHJLMFlmTndzeGJPWXl0WnluT2Fua3RmcjdQMXpsOHV6SlVUY2pVaTFGM1V2aDlkNXd1VHE0NnYycHBBUnQ1blRmRHpsXzhLeXZrZw?oc=5",
-        "published": "2026-09-08T16:19:13Z"
-      },
-      {
         "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
         "outlet": "Source New Mexico",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
@@ -96,7 +90,7 @@
       },
       {
         "title": "Roanoke City data breach: What happened and how to protect your information",
-        "outlet": "wsls.com",
+        "outlet": "WSLS",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
         "published": "2026-09-09T22:57:10Z"
       },
@@ -107,28 +101,34 @@
         "published": "2026-09-07T21:55:00Z"
       },
       {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
-        "published": "2026-09-12T14:40:00Z"
-      },
-      {
         "title": "Harley-Davidson Data Breach? Lawyers Investigate Hackers' Claims",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX24zenVtbXdFUWVpcUswSmpHYU81OXU1R3ZvUGlYakpmZk42bzlBaENONm9MM0ptZk0xU253cEh2cWhUMkxTVjZDX1hRWWlnVTFpMkM0ZE11dU9laER0dHdodGVGNTRHeG1TbjkyUjdmdlFnWjJ2VDlYZkprdFN3Nm9QcVhjUQ?oc=5",
         "published": "2026-09-10T14:24:19Z"
       },
       {
-        "title": "Ukrainian national linked to Conti ransomware attacks on U.S. hospitals gets 4-year sentence",
-        "outlet": "HealthExec",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2ljbHFSQklVUFMwZ1VPdHdRM2lUQmRlc3VwZF9qYkF3ZmktdFFyTTc4T2xiUmM5QW04Umw3NlVTMlRaVDY5bjVsN1hnQU91blltd3VzLWNmVFRlMkNDYXVNZm5VQzVMQktuUnRVN0M4REx3OS1oYUlmdktxNkp4SDVGRHlrNkNJSXE5WnRXZHRBV0Y2YWszOUJQY2U1eE1xcVZwZ3FqeEdlb0hhRXBRWXN3Y3dOSVBHa01FVVkzRjVua2tia2JkeEt2WGhldFdsaVlXNA?oc=5",
-        "published": "2026-09-11T22:49:45Z"
+        "title": "Revolut confirms customer data breach through fake government requests",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
+        "published": "2026-09-12T14:40:00Z"
+      },
+      {
+        "title": "Department of Labor admits accidental data leak at Bangor CareerCenter",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHJTenh2azJpX29qWnNHcnlNTE1KY2U4bEJSd05oRFBLdHN6VzFobm13NWdWNlkwQW1SRlZ3a1BzU2ltbUJCVlg3a2hoYXF2YUs1eDBURU9nOFpETzFFZmcxVldySFh0Qk54eVFSTVREWXl5a2RDckNiVFFMV1VxVlNDRy1Ja2RyNjBDMXVsU0VlNFRtRUZYbXNkaThUd9IBsgFBVV95cUxQVXdwOFpMVDNraFdyaGRBZkFOcXZnZFJfSE9fUE13MkRYQjlRaU5yMXhxdzRWSkpzMzExS094VEZ6MWM5NXF5SW91UlJfeGN4NnZwOHFsN0g3NDZNMXRzLTh6WGR3amdQWFladTR0SU13Z21PTlFHdXZUbmd0WEY5U3QtalhTYUVZam5IYWVKSmFZRnZISXR3eFZybzIwU0JWNWJVYjVGeDgxSl9VN3BPRFZR?oc=5",
+        "published": "2026-09-09T15:34:00Z"
       },
       {
         "title": "Roanoke Valley Field Notes: Roanoke data breach caused by phishing email",
         "outlet": "Cardinal News",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0ZnVXBIQTJHc3FfcmVoNTZvTFQ1YzNMSEQ0MWYxMjZIZEJ3bXdqdU12N280V3pPWkozNnBVVVhkSFBNSmoxVmFXU2RuTklWWDk4S3NRY0FUZXFWd1Q2UHQ3em1mX003UzJZYVpoVWhKZjd4WnpTNmRBd0hQS29HN1VVNlFiVFJ6eVNaQ01JMHhWLTAxVTlYX0I0aGljZ0VxeVJHdmNfUzFoa0JT?oc=5",
         "published": "2026-09-10T08:05:00Z"
+      },
+      {
+        "title": "Ukrainian national linked to Conti ransomware attacks on U.S. hospitals gets 4-year sentence",
+        "outlet": "HealthExec",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2ljbHFSQklVUFMwZ1VPdHdRM2lUQmRlc3VwZF9qYkF3ZmktdFFyTTc4T2xiUmM5QW04Umw3NlVTMlRaVDY5bjVsN1hnQU91blltd3VzLWNmVFRlMkNDYXVNZm5VQzVMQktuUnRVN0M4REx3OS1oYUlmdktxNkp4SDVGRHlrNkNJSXE5WnRXZHRBV0Y2YWszOUJQY2U1eE1xcVZwZ3FqeEdlb0hhRXBRWXN3Y3dOSVBHa01FVVkzRjVua2tia2JkeEt2WGhldFdsaVlXNA?oc=5",
+        "published": "2026-09-11T22:49:45Z"
       }
     ]
   },
