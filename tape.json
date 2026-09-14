@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T00:22:28Z",
+  "as_of": "2026-09-14T05:22:39Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -108,7 +108,7 @@
       },
       {
         "title": "University of San Francisco Data Breach? Lawyers Investigate Reports",
-        "outlet": "classaction.org",
+        "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNNYy05YXNocS0tVVdBMF9Bbm1aVk9jTXZ5anBIRFZpNWVKRmp4dFpOY0lHX1dFWXJ1NUZJTzhBSDFoaVQzamcxTkxobGl4QWtQTl9PLXhMZFBvczktZHR0VDhXX1VVRjNuZmlIX19rczctTFNQRzgwYzBycjdBSjlsMnhKRDZuaXpVZE9MTkFqeUR6NXc?oc=5",
         "published": "2026-09-08T18:34:57Z"
       },
@@ -119,16 +119,16 @@
         "published": "2026-09-07T13:11:24Z"
       },
       {
-        "title": "Roanoke Valley Field Notes: Roanoke data breach caused by phishing email",
-        "outlet": "Cardinal News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0ZnVXBIQTJHc3FfcmVoNTZvTFQ1YzNMSEQ0MWYxMjZIZEJ3bXdqdU12N280V3pPWkozNnBVVVhkSFBNSmoxVmFXU2RuTklWWDk4S3NRY0FUZXFWd1Q2UHQ3em1mX003UzJZYVpoVWhKZjd4WnpTNmRBd0hQS29HN1VVNlFiVFJ6eVNaQ01JMHhWLTAxVTlYX0I0aGljZ0VxeVJHdmNfUzFoa0JT?oc=5",
-        "published": "2026-09-10T08:05:00Z"
-      },
-      {
         "title": "Florida investigates data breach tied to cybercriminal organization",
         "outlet": "WPBF",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk5adnNhanlQdi1pSUtDSHhKMFk4U3ZKVFI0NE1vRjcyQkIzTDdTaGp6SEFFclA5SEh6alQzY0lkcDJLTG9TNzVXOHFLT1Q4ejNmNGNQeWRiYkZzazBSR2gteE1mbml2YTI2d2FqQVIwNDJ0dXB0QmNQbnpIdGthT1FwT19PVFFhSGl5NThFMnhIRUNmei1sMk1mNmZBVFVXWGl3djVkN1I?oc=5",
         "published": "2026-09-12T21:09:00Z"
+      },
+      {
+        "title": "Roanoke Valley Field Notes: Roanoke data breach caused by phishing email",
+        "outlet": "Cardinal News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0ZnVXBIQTJHc3FfcmVoNTZvTFQ1YzNMSEQ0MWYxMjZIZEJ3bXdqdU12N280V3pPWkozNnBVVVhkSFBNSmoxVmFXU2RuTklWWDk4S3NRY0FUZXFWd1Q2UHQ3em1mX003UzJZYVpoVWhKZjd4WnpTNmRBd0hQS29HN1VVNlFiVFJ6eVNaQ01JMHhWLTAxVTlYX0I0aGljZ0VxeVJHdmNfUzFoa0JT?oc=5",
+        "published": "2026-09-10T08:05:00Z"
       }
     ]
   },
