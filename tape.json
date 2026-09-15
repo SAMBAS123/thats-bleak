@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T10:23:31Z",
+  "as_of": "2026-09-15T15:14:38Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,22 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "New Mexico’s trial against Facebook for alleged role in Cambridge Analytica data breach begins",
-        "outlet": "Source New Mexico",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXdnTnoyUGtpSld5YVJWVUt6VTZMMTFHakcwOFAxWHowZ1NIOEg2THZxYmMxa3FqLUFaa09rTDlDMDh2VS1GQ0hBYmlvOFR5UHdGWHRLYklYM0lhZW44RlpaRm9ScmUyZ3NOdkc2TG1UMEE1QmJfMzNoc09PSnpyc295Qm8xcXBJRmJ6clUzTWpUMzFPcElwMncwVWY4ZFRGNzdsUkpvWW9MakwwSzdvemhkSThSU2hHcEFUTW9sZC10dVFK?oc=5",
-        "published": "2026-09-09T12:29:04Z"
-      },
-      {
         "title": "Roanoke City data breach: What happened and how to protect your information",
         "outlet": "WSLS",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
         "published": "2026-09-09T22:57:10Z"
-      },
-      {
-        "title": "CenterPoint Energy discloses customer data breach in SEC filing",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0h5UFZNTkk1UnI0eHNSN0x5S0VwOFNnU3VvTGZ1SUxjTHk3bWJQalpWZndmQzN5YWpyVzl3eWdaX2VWU0NkeWZmd3U4NEVSM2R4b1E0eDRuNlY3RVo4UkthRDRPVmNLMXl5WFJtRWVXOWU5Rnc5WGhuMEM2SThZeTZ0S1pJMUk5Qjc4YlhmblEyZzUteXNHLVZZYzZUOGVCWVVWak8zUk51SUQ1Um5HYllVTQ?oc=5",
-        "published": "2026-09-14T22:10:33Z"
       },
       {
         "title": "Compunnel Data Breach? Lawyers Investigate Hackers' Claims",
@@ -125,10 +113,22 @@
         "published": "2026-09-12T21:09:00Z"
       },
       {
-        "title": "4.1M Impacted by AdaptHealth Data Breach",
-        "outlet": "Security Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0NaMTZXVFp6Vi13M0U5aGhmVnpqZ1ZFQzZNUm9hTUh0OTN0a3lFbUF0UGhpT0tDTWUzYkF5TWZibmlpMHZZZWstSk5wTkh5V0drY2NyamFDSE4wVk1haTR2ZWFDVkFqbFpNcjZudF9tdno4MTBsb2ctYklFVWdJUmhJLXdRcFc5UEJlcDJTM1dfdw?oc=5",
-        "published": "2026-09-10T18:11:00Z"
+        "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+        "outlet": "therecord.media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydXd6cmxsMlRxN2ExdmpySGJaSC1lMktCVEhQb1pWUG0xQ2hjaGdRWUZFSGhIVlJfaGhrNGVHMEVMSVduVWhtNG1Xbm1sMDdFbzVXbk9Ec3VJWDg5VTFyVHZXZkdvaXVrbnY4?oc=5",
+        "published": "2026-09-11T20:19:45Z"
+      },
+      {
+        "title": "Central Maine Medical Center & Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits",
+        "outlet": "hipaajournal.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzhCZzVBcl9GV3dTUnBodEoyY04wYkg5V1cyMGI3UHRyakJ0X190WGFvMEJwLWkwN1Z5dW8zYUdKMkxTWXYyQjhLeWI4c1J3LWhvUllSRWpLbVB0NFRrVUNjanRxRWUtTllucXpGMDVwYkpoalhtQk9zQjhSUEI0d0NENVF3Z2hIdUpkdUtCTXVCNnlIckhpYXhnTmpoQkdQTnp4T2hkVXhOWHNNN3dpZkVzS0M?oc=5",
+        "published": "2026-09-11T10:07:19Z"
+      },
+      {
+        "title": "Revolut confirms customer data breach through fake government requests",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
+        "published": "2026-09-12T14:40:00Z"
       }
     ]
   },
