@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T19:10:08Z",
+  "as_of": "2026-09-15T22:25:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,16 +89,28 @@
         "published": "2026-09-09T22:57:10Z"
       },
       {
-        "title": "What Do Experts Have to Say About the Revolut Data Breach?",
-        "outlet": "cybermagazine.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGpnaXNVYTNZeGw2R1dkbm1lUUlsTFRhQzc1S251Q0xaQ2tFM2tOQzNJVldpemRaY2dVajVFQ3JLTFhxbDM4M1lxUW5IekVEem95T0xscG1hX0htTGVHSWp1S3M4RktwNkZSV2hhb21TU0w2TW5sczloMFFEdmZKOTR1YmRZaWo5UTlPaWRvWGY1UQ?oc=5",
-        "published": "2026-09-15T13:32:20Z"
+        "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydXd6cmxsMlRxN2ExdmpySGJaSC1lMktCVEhQb1pWUG0xQ2hjaGdRWUZFSGhIVlJfaGhrNGVHMEVMSVduVWhtNG1Xbm1sMDdFbzVXbk9Ec3VJWDg5VTFyVHZXZkdvaXVrbnY4?oc=5",
+        "published": "2026-09-11T20:19:45Z"
       },
       {
-        "title": "Compunnel Data Breach? Lawyers Investigate Hackers' Claims",
+        "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWNFY1ZFc1E5NUhsbGlLVmNSYVVKa2IxeFRWai1panRpR193Q1NWd0dYZXRMamFJREJoS1ZmZUQxUVNFZTBvdk93VUpKTXB0a3BRck1ZempNVmhVdFlpRVJZSGRkd3FEQ1lXUmVuc3llUEptbHhDSlpLeEdvNElfdnRTd0xyeDDSAYwBQVVfeXFMT05GRVItbXA1dU5oVGUzS1BhMm9ET283NmRDNzZXVGt3OHVUSFRxeW5rSWVUYzd1WGZOVDFwS3U1aldnUHVTQnUtQzdRejNZY05sVWM3b2JnRW1MNllRVEdYdWpvZTEwVEpCbnRRT0VMSGhBVjV6T0xtS1hITl9hNU4yQjYwbUhtSVQ0MzQ?oc=5",
+        "published": "2026-09-15T11:45:31Z"
+      },
+      {
+        "title": "PANTHERx Rare Data Breach? Lawyers Investigate Hackers' Claims",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PTTEwWWdfNkFXenEtU3NPLWtDQjk2bjZpYWY3di1jdXh1MENzWjVWUHlnQXVpSWFyZmJYckxycWw5bF9WQ19iUW9iN1Z0RmFtNzJ2OGFYclJRTmFWQ1A1X29yZ2lyOXpueVJRUl9QcWlCQnk0eVI0Vi0yZTMwUQ?oc=5",
-        "published": "2026-09-14T15:01:09Z"
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHdIUEI1QXB6OGdOV1Z4dnRwbHlNOEViVUQ4WDFLX3FoZVQxRWQ1YmNLWVdTUm5aWjlvQ0hjeDhTYk1Eb1pEaVMyUkgxR2l1eXZYLXo4SUJ2SVNNc0NfRnN2M0VfdW9KazNuelRqZnpOZ2hVLVNrMl9IMXM3eDVxRFd3aw?oc=5",
+        "published": "2026-09-15T16:01:29Z"
+      },
+      {
+        "title": "What Do Experts Have to Say About the Revolut Data Breach?",
+        "outlet": "Cyber Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGpnaXNVYTNZeGw2R1dkbm1lUUlsTFRhQzc1S251Q0xaQ2tFM2tOQzNJVldpemRaY2dVajVFQ3JLTFhxbDM4M1lxUW5IekVEem95T0xscG1hX0htTGVHSWp1S3M4RktwNkZSV2hhb21TU0w2TW5sczloMFFEdmZKOTR1YmRZaWo5UTlPaWRvWGY1UQ?oc=5",
+        "published": "2026-09-15T13:32:20Z"
       },
       {
         "title": "Department of Labor admits accidental data leak at Bangor CareerCenter",
@@ -107,28 +119,16 @@
         "published": "2026-09-09T15:34:00Z"
       },
       {
-        "title": "Ukrainian national linked to Conti ransomware attacks on U.S. hospitals gets 4-year sentence",
-        "outlet": "HealthExec",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2ljbHFSQklVUFMwZ1VPdHdRM2lUQmRlc3VwZF9qYkF3ZmktdFFyTTc4T2xiUmM5QW04Umw3NlVTMlRaVDY5bjVsN1hnQU91blltd3VzLWNmVFRlMkNDYXVNZm5VQzVMQktuUnRVN0M4REx3OS1oYUlmdktxNkp4SDVGRHlrNkNJSXE5WnRXZHRBV0Y2YWszOUJQY2U1eE1xcVZwZ3FqeEdlb0hhRXBRWXN3Y3dOSVBHa01FVVkzRjVua2tia2JkeEt2WGhldFdsaVlXNA?oc=5",
-        "published": "2026-09-11T22:49:45Z"
+        "title": "CenterPoint Energy discloses customer data breach in SEC filing",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0h5UFZNTkk1UnI0eHNSN0x5S0VwOFNnU3VvTGZ1SUxjTHk3bWJQalpWZndmQzN5YWpyVzl3eWdaX2VWU0NkeWZmd3U4NEVSM2R4b1E0eDRuNlY3RVo4UkthRDRPVmNLMXl5WFJtRWVXOWU5Rnc5WGhuMEM2SThZeTZ0S1pJMUk5Qjc4YlhmblEyZzUteXNHLVZZYzZUOGVCWVVWak8zUk51SUQ1Um5HYllVTQ?oc=5",
+        "published": "2026-09-14T22:08:00Z"
       },
       {
         "title": "Florida investigates data breach tied to cybercriminal organization",
         "outlet": "WPBF",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk5adnNhanlQdi1pSUtDSHhKMFk4U3ZKVFI0NE1vRjcyQkIzTDdTaGp6SEFFclA5SEh6alQzY0lkcDJLTG9TNzVXOHFLT1Q4ejNmNGNQeWRiYkZzazBSR2gteE1mbml2YTI2d2FqQVIwNDJ0dXB0QmNQbnpIdGthT1FwT19PVFFhSGl5NThFMnhIRUNmei1sMk1mNmZBVFVXWGl3djVkN1I?oc=5",
         "published": "2026-09-12T21:09:00Z"
-      },
-      {
-        "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
-        "outlet": "therecord.media",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydXd6cmxsMlRxN2ExdmpySGJaSC1lMktCVEhQb1pWUG0xQ2hjaGdRWUZFSGhIVlJfaGhrNGVHMEVMSVduVWhtNG1Xbm1sMDdFbzVXbk9Ec3VJWDg5VTFyVHZXZkdvaXVrbnY4?oc=5",
-        "published": "2026-09-11T20:19:45Z"
-      },
-      {
-        "title": "Central Maine Medical Center & Susan B. Allen Memorial Hospital Settle Data Breach Lawsuits",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzhCZzVBcl9GV3dTUnBodEoyY04wYkg5V1cyMGI3UHRyakJ0X190WGFvMEJwLWkwN1Z5dW8zYUdKMkxTWXYyQjhLeWI4c1J3LWhvUllSRWpLbVB0NFRrVUNjanRxRWUtTllucXpGMDVwYkpoalhtQk9zQjhSUEI0d0NENVF3Z2hIdUpkdUtCTXVCNnlIckhpYXhnTmpoQkdQTnp4T2hkVXhOWHNNN3dpZkVzS0M?oc=5",
-        "published": "2026-09-11T10:07:19Z"
       }
     ]
   },
