@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T06:39:14Z",
+  "as_of": "2026-09-16T12:00:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,6 +83,12 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "AdaptHealth Data Breach Affects 4.1 Million Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zQjhBT2kyaGxGM1RKMHBBUE9WbUtKSmxZTU9CN2hZQjNsNUFzRy1hR01jTlRINjZBRmpISzFEODlHOTJRcGI5Y09lWFFZN0RtSHVoMWRzZjJzSGJBdGt3RE0zbw?oc=5",
+        "published": "2026-09-10T07:00:00Z"
+      },
+      {
         "title": "Roanoke City data breach: What happened and how to protect your information",
         "outlet": "WSLS",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM29UWmZtTHZzQUtDaFYtU0tWUVlveC12bm5oQzVGNkVFVDlHeFpBV3U4a1hTZ3F6NEJWYl9pU2Fhbi1RVHNzZC05OUQzYXI0MVBkSjMxYU0xX2JmREtHMTRvcktiTkZBZ0dubVpvY0xpbklvYklB?oc=5",
@@ -96,7 +102,7 @@
       },
       {
         "title": "What Do Experts Have to Say About the Revolut Data Breach?",
-        "outlet": "Cyber Magazine",
+        "outlet": "cybermagazine.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGpnaXNVYTNZeGw2R1dkbm1lUUlsTFRhQzc1S251Q0xaQ2tFM2tOQzNJVldpemRaY2dVajVFQ3JLTFhxbDM4M1lxUW5IekVEem95T0xscG1hX0htTGVHSWp1S3M4RktwNkZSV2hhb21TU0w2TW5sczloMFFEdmZKOTR1YmRZaWo5UTlPaWRvWGY1UQ?oc=5",
         "published": "2026-09-15T13:32:20Z"
       },
@@ -107,28 +113,22 @@
         "published": "2026-09-15T11:45:31Z"
       },
       {
-        "title": "Department of Labor admits accidental data leak at Bangor CareerCenter",
-        "outlet": "WABI",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHJTenh2azJpX29qWnNHcnlNTE1KY2U4bEJSd05oRFBLdHN6VzFobm13NWdWNlkwQW1SRlZ3a1BzU2ltbUJCVlg3a2hoYXF2YUs1eDBURU9nOFpETzFFZmcxVldySFh0Qk54eVFSTVREWXl5a2RDckNiVFFMV1VxVlNDRy1Ja2RyNjBDMXVsU0VlNFRtRUZYbXNkaThUd9IBsgFBVV95cUxQVXdwOFpMVDNraFdyaGRBZkFOcXZnZFJfSE9fUE13MkRYQjlRaU5yMXhxdzRWSkpzMzExS094VEZ6MWM5NXF5SW91UlJfeGN4NnZwOHFsN0g3NDZNMXRzLTh6WGR3amdQWFladTR0SU13Z21PTlFHdXZUbmd0WEY5U3QtalhTYUVZam5IYWVKSmFZRnZISXR3eFZybzIwU0JWNWJVYjVGeDgxSl9VN3BPRFZR?oc=5",
-        "published": "2026-09-09T15:34:00Z"
-      },
-      {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
         "outlet": "NEPM",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
       },
       {
-        "title": "CenterPoint Energy confirms data breach of customer personal information",
-        "outlet": "FOX 26 Houston",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
-        "published": "2026-09-16T00:37:38Z"
+        "title": "Department of Labor admits accidental data leak at Bangor CareerCenter",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHJTenh2azJpX29qWnNHcnlNTE1KY2U4bEJSd05oRFBLdHN6VzFobm13NWdWNlkwQW1SRlZ3a1BzU2ltbUJCVlg3a2hoYXF2YUs1eDBURU9nOFpETzFFZmcxVldySFh0Qk54eVFSTVREWXl5a2RDckNiVFFMV1VxVlNDRy1Ja2RyNjBDMXVsU0VlNFRtRUZYbXNkaThUd9IBsgFBVV95cUxQVXdwOFpMVDNraFdyaGRBZkFOcXZnZFJfSE9fUE13MkRYQjlRaU5yMXhxdzRWSkpzMzExS094VEZ6MWM5NXF5SW91UlJfeGN4NnZwOHFsN0g3NDZNMXRzLTh6WGR3amdQWFladTR0SU13Z21PTlFHdXZUbmd0WEY5U3QtalhTYUVZam5IYWVKSmFZRnZISXR3eFZybzIwU0JWNWJVYjVGeDgxSl9VN3BPRFZR?oc=5",
+        "published": "2026-09-09T15:34:00Z"
       },
       {
-        "title": "CenterPoint Energy discloses customer data breach in SEC filing",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0h5UFZNTkk1UnI0eHNSN0x5S0VwOFNnU3VvTGZ1SUxjTHk3bWJQalpWZndmQzN5YWpyVzl3eWdaX2VWU0NkeWZmd3U4NEVSM2R4b1E0eDRuNlY3RVo4UkthRDRPVmNLMXl5WFJtRWVXOWU5Rnc5WGhuMEM2SThZeTZ0S1pJMUk5Qjc4YlhmblEyZzUteXNHLVZZYzZUOGVCWVVWak8zUk51SUQ1Um5HYllVTQ?oc=5",
-        "published": "2026-09-14T22:08:00Z"
+        "title": "CenterPoint reports customer data breach",
+        "outlet": "KFDM",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
+        "published": "2026-09-16T01:03:56Z"
       }
     ]
   },
