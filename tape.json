@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17T06:37:13Z",
+  "as_of": "2026-09-17T12:00:39Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,28 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "AdaptHealth Data Breach Affects 4.1 Million Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zQjhBT2kyaGxGM1RKMHBBUE9WbUtKSmxZTU9CN2hZQjNsNUFzRy1hR01jTlRINjZBRmpISzFEODlHOTJRcGI5Y09lWFFZN0RtSHVoMWRzZjJzSGJBdGt3RE0zbw?oc=5",
-        "published": "2026-09-10T07:00:00Z"
-      },
-      {
         "title": "zHealth Data Breach Exposes Medical, Health Insurance Info",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRN3ZJNlhNUno4aGZteENvVHVkYzh4ZzJjdXE4X3hMU1dWekZtOXhHaGNVcU1ncUc4RDM4VDE3bEFWRnpMd0tkZWd0RXV6Y0Z5M1NzOWFhcFJHYkNPb0I3VEhNcncyVjVpTmJ3TnpIXzd0Z29KTGhmNHVnMA?oc=5",
         "published": "2026-09-15T18:27:06Z"
       },
       {
-        "title": "What Do Experts Have to Say About the Revolut Data Breach?",
-        "outlet": "Cyber Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGpnaXNVYTNZeGw2R1dkbm1lUUlsTFRhQzc1S251Q0xaQ2tFM2tOQzNJVldpemRaY2dVajVFQ3JLTFhxbDM4M1lxUW5IekVEem95T0xscG1hX0htTGVHSWp1S3M4RktwNkZSV2hhb21TU0w2TW5sczloMFFEdmZKOTR1YmRZaWo5UTlPaWRvWGY1UQ?oc=5",
-        "published": "2026-09-15T13:32:20Z"
-      },
-      {
-        "title": "280,000 Impacted by Premier Medical Group Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlJxSThTeEc2SDBiYlJqZFVrbWpiYXMzSnNrejZIeVJWX1o4ZHhXNnhKTGlQM1VQSlhFMDVlQWI2LU9zWDl0TnVzVDFOSjB2djAwT3JDeC1oNWJFdWkyLUdJZG8xRVEyMDBmZGRmQTAtcUlJSV8tVmM4NkxVcFpPc1YxNlRZMzZST2fSAY8BQVVfeXFMT3p6bkNiMzFjOHR0NEQyMEh5OG1TTkowc0c1c0pEVV9WeTZqV21SU05sazBWVTVaNkE5UTZRTHVoTUduVTdKYmRMUnp1U1l3ME1nZGlBbTFFQ0QxRUNuMWpkT3dlcWpQN1ZFVDZuYWV6S3lVQmxxUUV1dkdhai04V0tCSUFqR1pBbXpQRlVIVjA?oc=5",
-        "published": "2026-09-16T10:47:18Z"
+        "title": "xHealth Data Breach Affects 118,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
+        "published": "2026-09-16T08:44:26Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
@@ -113,14 +101,14 @@
         "published": "2026-09-16T01:31:00Z"
       },
       {
-        "title": "CenterPoint Energy confirms data breach of customer personal information",
-        "outlet": "FOX 26 Houston",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
-        "published": "2026-09-16T00:37:38Z"
+        "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWNFY1ZFc1E5NUhsbGlLVmNSYVVKa2IxeFRWai1panRpR193Q1NWd0dYZXRMamFJREJoS1ZmZUQxUVNFZTBvdk93VUpKTXB0a3BRck1ZempNVmhVdFlpRVJZSGRkd3FEQ1lXUmVuc3llUEptbHhDSlpLeEdvNElfdnRTd0xyeDDSAYwBQVVfeXFMT05GRVItbXA1dU5oVGUzS1BhMm9ET283NmRDNzZXVGt3OHVUSFRxeW5rSWVUYzd1WGZOVDFwS3U1aldnUHVTQnUtQzdRejNZY05sVWM3b2JnRW1MNllRVEdYdWpvZTEwVEpCbnRRT0VMSGhBVjV6T0xtS1hITl9hNU4yQjYwbUhtSVQ0MzQ?oc=5",
+        "published": "2026-09-15T11:45:31Z"
       },
       {
         "title": "CenterPoint Energy confirms data breach following claims on hacking forum",
-        "outlet": "Help Net Security",
+        "outlet": "helpnetsecurity.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR28tOUQ2emdhX1MyRHMxUzlHa09jcVcyeW5wZW96bm0xUVdtRXk4eE81SmxGTlFQQ2xnMmpDbUdBUmRNbTVGX3E4Y0tGanhBWkVDNHo1bkpqMEctQWV2dVdobEcxR2d1SzhYdmlQRlNoa0t2NDkzLUxTUm93NmFTQVV4RkNGTWZVZm1QaEJVSERsQQ?oc=5",
         "published": "2026-09-16T10:35:02Z"
       },
@@ -129,6 +117,18 @@
         "outlet": "Western Mass News",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZQ?oc=5",
         "published": "2026-09-16T19:40:00Z"
+      },
+      {
+        "title": "CenterPoint Energy confirms data breach of customer personal information",
+        "outlet": "FOX 26 Houston",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
+        "published": "2026-09-16T00:37:38Z"
+      },
+      {
+        "title": "Data breach at ID verification company may have exposed millions of driver’s license images",
+        "outlet": "WBAY",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTQ3STRUOUEtR1V5R1ItVTExdjg5WE40U0F5cVV6bkZSMmVhZ2JfZzduQWhNeXg2S3FDbklvc3BjSmxabDk3T2F2WkZjd3hETzZhT0NzcjZYU2ExNm1XNERLamNfMi1ic25qdGVTcl9BeERSajZMUnVFRUtoemRONjZ5dVFoME93NlpseHd1SnVyOU9Zamh5enlwSG9rMlY5OWJ0M2hiZUUxdmNmcS1PbFY1VlZsbDBK0gHMAUFVX3lxTE5tX3lfLW5HaENCWmhzSGpFWXJpZHZsbDNCLUlTZnhhNG9Ba1FNNFFXSFppN1JTUEp0U2ZGMjZkUjB2djRwa1JNN2UwaHpKY203N0I1Rzh0LV9uaUZYM2NlSzlvSmV5Mnk0TXFkbnY4SndTcmFCcF91WDRNTGZJMEFyamNmaDhaaHV4dHNBc2dtcEUxRGdoT1RzQzd6QldXemZNOUFGNDhWM0R3cEpjTzNWbXRlQkhQQXRsc291V3VDa001OW41QzlpbVAtQg?oc=5",
+        "published": "2026-09-16T13:52:33Z"
       }
     ]
   },
