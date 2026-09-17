@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17T17:13:57Z",
+  "as_of": "2026-09-17T20:31:22Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,27 +90,21 @@
       },
       {
         "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "helpnetsecurity.com",
+        "outlet": "Help Net Security",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
-        "published": "2026-09-16T08:44:26Z"
-      },
-      {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
-        "outlet": "NEPM",
+        "outlet": "nepm.org",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
       },
       {
-        "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
-        "outlet": "securityweek.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWNFY1ZFc1E5NUhsbGlLVmNSYVVKa2IxeFRWai1panRpR193Q1NWd0dYZXRMamFJREJoS1ZmZUQxUVNFZTBvdk93VUpKTXB0a3BRck1ZempNVmhVdFlpRVJZSGRkd3FEQ1lXUmVuc3llUEptbHhDSlpLeEdvNElfdnRTd0xyeDDSAYwBQVVfeXFMT05GRVItbXA1dU5oVGUzS1BhMm9ET283NmRDNzZXVGt3OHVUSFRxeW5rSWVUYzd1WGZOVDFwS3U1aldnUHVTQnUtQzdRejNZY05sVWM3b2JnRW1MNllRVEdYdWpvZTEwVEpCbnRRT0VMSGhBVjV6T0xtS1hITl9hNU4yQjYwbUhtSVQ0MzQ?oc=5",
-        "published": "2026-09-15T11:45:31Z"
+        "title": "280,000 Impacted by Premier Medical Group Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlJxSThTeEc2SDBiYlJqZFVrbWpiYXMzSnNrejZIeVJWX1o4ZHhXNnhKTGlQM1VQSlhFMDVlQWI2LU9zWDl0TnVzVDFOSjB2djAwT3JDeC1oNWJFdWkyLUdJZG8xRVEyMDBmZGRmQTAtcUlJSV8tVmM4NkxVcFpPc1YxNlRZMzZST2fSAY8BQVVfeXFMT3p6bkNiMzFjOHR0NEQyMEh5OG1TTkowc0c1c0pEVV9WeTZqV21SU05sazBWVTVaNkE5UTZRTHVoTUduVTdKYmRMUnp1U1l3ME1nZGlBbTFFQ0QxRUNuMWpkT3dlcWpQN1ZFVDZuYWV6S3lVQmxxUUV1dkdhai04V0tCSUFqR1pBbXpQRlVIVjA?oc=5",
+        "published": "2026-09-16T10:47:18Z"
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
@@ -126,9 +120,15 @@
       },
       {
         "title": "CenterPoint Energy confirms data breach of customer personal information",
-        "outlet": "FOX 26 Houston",
+        "outlet": "fox26houston.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
         "published": "2026-09-16T00:37:38Z"
+      },
+      {
+        "title": "xHealth Data Breach Affects 118,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
+        "published": "2026-09-16T08:44:26Z"
       }
     ]
   },
