@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T23:13:04Z",
+  "as_of": "2026-09-17T01:39:20Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -107,28 +107,28 @@
         "published": "2026-09-16T10:47:18Z"
       },
       {
-        "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
-        "outlet": "NEPM",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
-        "published": "2026-09-16T01:31:00Z"
-      },
-      {
         "title": "CenterPoint Energy confirms data breach following claims on hacking forum",
         "outlet": "Help Net Security",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR28tOUQ2emdhX1MyRHMxUzlHa09jcVcyeW5wZW96bm0xUVdtRXk4eE81SmxGTlFQQ2xnMmpDbUdBUmRNbTVGX3E4Y0tGanhBWkVDNHo1bkpqMEctQWV2dVdobEcxR2d1SzhYdmlQRlNoa0t2NDkzLUxTUm93NmFTQVV4RkNGTWZVZm1QaEJVSERsQQ?oc=5",
         "published": "2026-09-16T10:35:02Z"
       },
       {
+        "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
+        "outlet": "NEPM",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
+        "published": "2026-09-16T01:31:00Z"
+      },
+      {
+        "title": "CenterPoint Energy confirms data breach of customer personal information",
+        "outlet": "FOX 26 Houston",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
+        "published": "2026-09-16T00:37:38Z"
+      },
+      {
         "title": "Springfield officials say extent of school district data breach remains unclear",
         "outlet": "Western Mass News",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZQ?oc=5",
         "published": "2026-09-16T19:40:00Z"
-      },
-      {
-        "title": "Data breach at ID verification company may have exposed millions of driver’s license images",
-        "outlet": "WBAY",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTQ3STRUOUEtR1V5R1ItVTExdjg5WE40U0F5cVV6bkZSMmVhZ2JfZzduQWhNeXg2S3FDbklvc3BjSmxabDk3T2F2WkZjd3hETzZhT0NzcjZYU2ExNm1XNERLamNfMi1ic25qdGVTcl9BeERSajZMUnVFRUtoemRONjZ5dVFoME93NlpseHd1SnVyOU9Zamh5enlwSG9rMlY5OWJ0M2hiZUUxdmNmcS1PbFY1VlZsbDBK0gHMAUFVX3lxTE5tX3lfLW5HaENCWmhzSGpFWXJpZHZsbDNCLUlTZnhhNG9Ba1FNNFFXSFppN1JTUEp0U2ZGMjZkUjB2djRwa1JNN2UwaHpKY203N0I1Rzh0LV9uaUZYM2NlSzlvSmV5Mnk0TXFkbnY4SndTcmFCcF91WDRNTGZJMEFyamNmaDhaaHV4dHNBc2dtcEUxRGdoT1RzQzd6QldXemZNOUFGNDhWM0R3cEpjTzNWbXRlQkhQQXRsc291V3VDa001OW41QzlpbVAtQg?oc=5",
-        "published": "2026-09-16T13:52:33Z"
       }
     ]
   },
