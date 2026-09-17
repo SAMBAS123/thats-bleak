@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17T12:00:39Z",
+  "as_of": "2026-09-17T17:13:57Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,6 +89,12 @@
         "published": "2026-09-15T18:27:06Z"
       },
       {
+        "title": "Spain reports first data breach involving autonomous AI agent",
+        "outlet": "helpnetsecurity.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
+        "published": "2026-09-17T08:39:44Z"
+      },
+      {
         "title": "xHealth Data Breach Affects 118,000 Individuals",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
@@ -102,15 +108,9 @@
       },
       {
         "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
-        "outlet": "SecurityWeek",
+        "outlet": "securityweek.com",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWNFY1ZFc1E5NUhsbGlLVmNSYVVKa2IxeFRWai1panRpR193Q1NWd0dYZXRMamFJREJoS1ZmZUQxUVNFZTBvdk93VUpKTXB0a3BRck1ZempNVmhVdFlpRVJZSGRkd3FEQ1lXUmVuc3llUEptbHhDSlpLeEdvNElfdnRTd0xyeDDSAYwBQVVfeXFMT05GRVItbXA1dU5oVGUzS1BhMm9ET283NmRDNzZXVGt3OHVUSFRxeW5rSWVUYzd1WGZOVDFwS3U1aldnUHVTQnUtQzdRejNZY05sVWM3b2JnRW1MNllRVEdYdWpvZTEwVEpCbnRRT0VMSGhBVjV6T0xtS1hITl9hNU4yQjYwbUhtSVQ0MzQ?oc=5",
         "published": "2026-09-15T11:45:31Z"
-      },
-      {
-        "title": "CenterPoint Energy confirms data breach following claims on hacking forum",
-        "outlet": "helpnetsecurity.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR28tOUQ2emdhX1MyRHMxUzlHa09jcVcyeW5wZW96bm0xUVdtRXk4eE81SmxGTlFQQ2xnMmpDbUdBUmRNbTVGX3E4Y0tGanhBWkVDNHo1bkpqMEctQWV2dVdobEcxR2d1SzhYdmlQRlNoa0t2NDkzLUxTUm93NmFTQVV4RkNGTWZVZm1QaEJVSERsQQ?oc=5",
-        "published": "2026-09-16T10:35:02Z"
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
@@ -119,16 +119,16 @@
         "published": "2026-09-16T19:40:00Z"
       },
       {
+        "title": "Data breach at ID verification company may have exposed millions of driver’s license images",
+        "outlet": "WBAY",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTQ3STRUOUEtR1V5R1ItVTExdjg5WE40U0F5cVV6bkZSMmVhZ2JfZzduQWhNeXg2S3FDbklvc3BjSmxabDk3T2F2WkZjd3hETzZhT0NzcjZYU2ExNm1XNERLamNfMi1ic25qdGVTcl9BeERSajZMUnVFRUtoemRONjZ5dVFoME93NlpseHd1SnVyOU9Zamh5enlwSG9rMlY5OWJ0M2hiZUUxdmNmcS1PbFY1VlZsbDBK0gHMAUFVX3lxTE5tX3lfLW5HaENCWmhzSGpFWXJpZHZsbDNCLUlTZnhhNG9Ba1FNNFFXSFppN1JTUEp0U2ZGMjZkUjB2djRwa1JNN2UwaHpKY203N0I1Rzh0LV9uaUZYM2NlSzlvSmV5Mnk0TXFkbnY4SndTcmFCcF91WDRNTGZJMEFyamNmaDhaaHV4dHNBc2dtcEUxRGdoT1RzQzd6QldXemZNOUFGNDhWM0R3cEpjTzNWbXRlQkhQQXRsc291V3VDa001OW41QzlpbVAtQg?oc=5",
+        "published": "2026-09-17T00:03:51Z"
+      },
+      {
         "title": "CenterPoint Energy confirms data breach of customer personal information",
         "outlet": "FOX 26 Houston",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
         "published": "2026-09-16T00:37:38Z"
-      },
-      {
-        "title": "Data breach at ID verification company may have exposed millions of driver’s license images",
-        "outlet": "WBAY",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTQ3STRUOUEtR1V5R1ItVTExdjg5WE40U0F5cVV6bkZSMmVhZ2JfZzduQWhNeXg2S3FDbklvc3BjSmxabDk3T2F2WkZjd3hETzZhT0NzcjZYU2ExNm1XNERLamNfMi1ic25qdGVTcl9BeERSajZMUnVFRUtoemRONjZ5dVFoME93NlpseHd1SnVyOU9Zamh5enlwSG9rMlY5OWJ0M2hiZUUxdmNmcS1PbFY1VlZsbDBK0gHMAUFVX3lxTE5tX3lfLW5HaENCWmhzSGpFWXJpZHZsbDNCLUlTZnhhNG9Ba1FNNFFXSFppN1JTUEp0U2ZGMjZkUjB2djRwa1JNN2UwaHpKY203N0I1Rzh0LV9uaUZYM2NlSzlvSmV5Mnk0TXFkbnY4SndTcmFCcF91WDRNTGZJMEFyamNmaDhaaHV4dHNBc2dtcEUxRGdoT1RzQzd6QldXemZNOUFGNDhWM0R3cEpjTzNWbXRlQkhQQXRsc291V3VDa001OW41QzlpbVAtQg?oc=5",
-        "published": "2026-09-16T13:52:33Z"
       }
     ]
   },
