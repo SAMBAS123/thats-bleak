@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17T20:31:22Z",
+  "as_of": "2026-09-17T23:02:44Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -96,9 +96,15 @@
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
-        "outlet": "nepm.org",
+        "outlet": "NEPM",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
+      },
+      {
+        "title": "CenterPoint Energy reports customer data breach",
+        "outlet": "Click2Houston",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2hJRWsycWJQNVhKUDNHSzdXdHhwTzNqckJWQ25mbENfNWRJZ3Mxa1FTSFNaTktWT0s2ZUY4b2tJMVJRWUlnNHFLSmViSkd6ZDItVVc2emZzVmNMcHpMcHduRTBNX0FWX29faHY1a2Q4cmxvajFmZ1pBSHdBRUtldG1jTDZJNXdQbkJtc1phM0p3TGYtRHE5bkMtQ3F3eGFUYmc?oc=5",
+        "published": "2026-09-15T19:13:13Z"
       },
       {
         "title": "280,000 Impacted by Premier Medical Group Data Breach",
@@ -113,22 +119,16 @@
         "published": "2026-09-16T19:40:00Z"
       },
       {
-        "title": "Data breach at ID verification company may have exposed millions of driver’s license images",
-        "outlet": "WBAY",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTQ3STRUOUEtR1V5R1ItVTExdjg5WE40U0F5cVV6bkZSMmVhZ2JfZzduQWhNeXg2S3FDbklvc3BjSmxabDk3T2F2WkZjd3hETzZhT0NzcjZYU2ExNm1XNERLamNfMi1ic25qdGVTcl9BeERSajZMUnVFRUtoemRONjZ5dVFoME93NlpseHd1SnVyOU9Zamh5enlwSG9rMlY5OWJ0M2hiZUUxdmNmcS1PbFY1VlZsbDBK0gHMAUFVX3lxTE5tX3lfLW5HaENCWmhzSGpFWXJpZHZsbDNCLUlTZnhhNG9Ba1FNNFFXSFppN1JTUEp0U2ZGMjZkUjB2djRwa1JNN2UwaHpKY203N0I1Rzh0LV9uaUZYM2NlSzlvSmV5Mnk0TXFkbnY4SndTcmFCcF91WDRNTGZJMEFyamNmaDhaaHV4dHNBc2dtcEUxRGdoT1RzQzd6QldXemZNOUFGNDhWM0R3cEpjTzNWbXRlQkhQQXRsc291V3VDa001OW41QzlpbVAtQg?oc=5",
-        "published": "2026-09-17T00:03:51Z"
-      },
-      {
-        "title": "CenterPoint Energy confirms data breach of customer personal information",
-        "outlet": "fox26houston.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
-        "published": "2026-09-16T00:37:38Z"
-      },
-      {
         "title": "xHealth Data Breach Affects 118,000 Individuals",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
         "published": "2026-09-16T08:44:26Z"
+      },
+      {
+        "title": "CenterPoint Energy confirms data breach of customer personal information",
+        "outlet": "FOX 26 Houston",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
+        "published": "2026-09-16T00:37:38Z"
       }
     ]
   },
