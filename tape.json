@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T01:25:34Z",
+  "as_of": "2026-09-18T06:34:36Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 294106303,
     "added_2026": 101,
     "added_7d": 1,
-    "added_30d": 9,
+    "added_30d": 7,
     "latest": [
       {
         "name": "Chess2026",
@@ -83,16 +83,22 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Spain reports first data breach involving autonomous AI agent",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
+        "published": "2026-09-17T08:39:44Z"
+      },
+      {
         "title": "zHealth Data Breach Exposes Medical, Health Insurance Info",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRN3ZJNlhNUno4aGZteENvVHVkYzh4ZzJjdXE4X3hMU1dWekZtOXhHaGNVcU1ncUc4RDM4VDE3bEFWRnpMd0tkZWd0RXV6Y0Z5M1NzOWFhcFJHYkNPb0I3VEhNcncyVjVpTmJ3TnpIXzd0Z29KTGhmNHVnMA?oc=5",
         "published": "2026-09-15T18:27:06Z"
       },
       {
-        "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "Help Net Security",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
-        "published": "2026-09-17T08:39:44Z"
+        "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUdQSmNPV1ZjN2xrLXRERDhTMl9pWExQaTI3eDd6VFFRSWhWcmdRTUJLaURBNElTSjVkVDlIRWM4ZlRFai1FY0UwSTR5c082Rm1SSVdic0ZVYWl6VlJqbmwyaGhoamNVb1l0Um1RSGlXbUY4a19YcUtZdW1qZnAwNXN0Z3A0WUNtQjc0akVOMmZUM09QVVp4Slpn0gGfAUFVX3lxTFBiM0R1N3dlazIyZndmM0V5Z09CMGt0OGVZam9CbHVBSW9pcERGbVh0WTYwNTJ4MlJ3T2dxaTVqRXdnUDdmQURxdU9jcmdtMnhsdWFzTmpjS1kxd2Q3SGRScnhZeldaTTJ0aFlwZXF2a2VfYUF6WU10ZXAzOGJRZm1QRXBDbEdwWGhWN3ROWDNJT0RmSU51ZzlZWm8ybzJRUQ?oc=5",
+        "published": "2026-09-17T13:57:41Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
@@ -101,10 +107,10 @@
         "published": "2026-09-16T01:31:00Z"
       },
       {
-        "title": "280,000 Impacted by Premier Medical Group Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlJxSThTeEc2SDBiYlJqZFVrbWpiYXMzSnNrejZIeVJWX1o4ZHhXNnhKTGlQM1VQSlhFMDVlQWI2LU9zWDl0TnVzVDFOSjB2djAwT3JDeC1oNWJFdWkyLUdJZG8xRVEyMDBmZGRmQTAtcUlJSV8tVmM4NkxVcFpPc1YxNlRZMzZST2fSAY8BQVVfeXFMT3p6bkNiMzFjOHR0NEQyMEh5OG1TTkowc0c1c0pEVV9WeTZqV21SU05sazBWVTVaNkE5UTZRTHVoTUduVTdKYmRMUnp1U1l3ME1nZGlBbTFFQ0QxRUNuMWpkT3dlcWpQN1ZFVDZuYWV6S3lVQmxxUUV1dkdhai04V0tCSUFqR1pBbXpQRlVIVjA?oc=5",
-        "published": "2026-09-16T10:47:18Z"
+        "title": "CenterPoint Energy reports customer data breach",
+        "outlet": "Click2Houston",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2hJRWsycWJQNVhKUDNHSzdXdHhwTzNqckJWQ25mbENfNWRJZ3Mxa1FTSFNaTktWT0s2ZUY4b2tJMVJRWUlnNHFLSmViSkd6ZDItVVc2emZzVmNMcHpMcHduRTBNX0FWX29faHY1a2Q4cmxvajFmZ1pBSHdBRUtldG1jTDZJNXdQbkJtc1phM0p3TGYtRHE5bkMtQ3F3eGFUYmc?oc=5",
+        "published": "2026-09-15T19:13:13Z"
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
@@ -113,22 +119,16 @@
         "published": "2026-09-16T19:40:00Z"
       },
       {
-        "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
-        "published": "2026-09-16T08:44:26Z"
-      },
-      {
-        "title": "CenterPoint Energy confirms data breach of customer personal information",
-        "outlet": "FOX 26 Houston",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
-        "published": "2026-09-16T00:37:38Z"
-      },
-      {
         "title": "Revolut confirms customer data breach through fake government requests",
         "outlet": "TechCrunch",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
         "published": "2026-09-12T14:40:00Z"
+      },
+      {
+        "title": "xHealth Data Breach Affects 118,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
+        "published": "2026-09-16T08:44:26Z"
       }
     ]
   },
