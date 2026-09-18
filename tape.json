@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T11:43:44Z",
+  "as_of": "2026-09-18T16:41:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,27 +84,27 @@
     "latest": [
       {
         "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "helpnetsecurity.com",
+        "outlet": "Help Net Security",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "zHealth Data Breach Exposes Medical, Health Insurance Info",
+        "title": "Practice Management Data Breach? Attorneys Investigate Reports",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRN3ZJNlhNUno4aGZteENvVHVkYzh4ZzJjdXE4X3hMU1dWekZtOXhHaGNVcU1ncUc4RDM4VDE3bEFWRnpMd0tkZWd0RXV6Y0Z5M1NzOWFhcFJHYkNPb0I3VEhNcncyVjVpTmJ3TnpIXzd0Z29KTGhmNHVnMA?oc=5",
-        "published": "2026-09-15T18:27:06Z"
-      },
-      {
-        "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUdQSmNPV1ZjN2xrLXRERDhTMl9pWExQaTI3eDd6VFFRSWhWcmdRTUJLaURBNElTSjVkVDlIRWM4ZlRFai1FY0UwSTR5c082Rm1SSVdic0ZVYWl6VlJqbmwyaGhoamNVb1l0Um1RSGlXbUY4a19YcUtZdW1qZnAwNXN0Z3A0WUNtQjc0akVOMmZUM09QVVp4Slpn0gGfAUFVX3lxTFBiM0R1N3dlazIyZndmM0V5Z09CMGt0OGVZam9CbHVBSW9pcERGbVh0WTYwNTJ4MlJ3T2dxaTVqRXdnUDdmQURxdU9jcmdtMnhsdWFzTmpjS1kxd2Q3SGRScnhZeldaTTJ0aFlwZXF2a2VfYUF6WU10ZXAzOGJRZm1QRXBDbEdwWGhWN3ROWDNJT0RmSU51ZzlZWm8ybzJRUQ?oc=5",
-        "published": "2026-09-17T13:57:41Z"
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzYtN0lGd0pNZ2VCYmpiekdUZUZfV21uSlZtS182NE9XWV9NZk93NjlTbnZidUZOLUFCWEc2OFdzQzc1VlpnYmJzUU1MSy1MZTQ3LXY1MTI2NUlrYjlFWXJXdi0wZS1Jc25PUDIzazNPaE5lVVc1WTdvMTlWQXJ3Zld0M0JMaU5aNVVv?oc=5",
+        "published": "2026-09-17T19:22:12Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
         "outlet": "NEPM",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
+      },
+      {
+        "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUdQSmNPV1ZjN2xrLXRERDhTMl9pWExQaTI3eDd6VFFRSWhWcmdRTUJLaURBNElTSjVkVDlIRWM4ZlRFai1FY0UwSTR5c082Rm1SSVdic0ZVYWl6VlJqbmwyaGhoamNVb1l0Um1RSGlXbUY4a19YcUtZdW1qZnAwNXN0Z3A0WUNtQjc0akVOMmZUM09QVVp4Slpn0gGfAUFVX3lxTFBiM0R1N3dlazIyZndmM0V5Z09CMGt0OGVZam9CbHVBSW9pcERGbVh0WTYwNTJ4MlJ3T2dxaTVqRXdnUDdmQURxdU9jcmdtMnhsdWFzTmpjS1kxd2Q3SGRScnhZeldaTTJ0aFlwZXF2a2VfYUF6WU10ZXAzOGJRZm1QRXBDbEdwWGhWN3ROWDNJT0RmSU51ZzlZWm8ybzJRUQ?oc=5",
+        "published": "2026-09-17T13:57:41Z"
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
@@ -125,10 +125,10 @@
         "published": "2026-09-16T08:44:26Z"
       },
       {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
-        "published": "2026-09-12T14:40:00Z"
+        "title": "CenterPoint Energy investigating potential data breach of customer information",
+        "outlet": "Eyewitness News (WEHT/WTVW)",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdGxLRmx6TkpUYWNKRjkxdUZlNDd6VmtnMjFMbjdRSlBvamtUT205emdnWTZYZFVCaEZnYW44dzFtTUVOWDJ0TUlXU0ktRGVCdThhR1hrU2xYaXRzdjZzOE9UczZqTmRMWV9xSjBCajQza0FxWEFuTTZoQkZVRzZ5YnhhSThucUc0N254TnY2VzhLdVl0VE05U3dQWG91MG82RXNjNW02SGVWaWhiOVlHLU1GR0syYUZ1d0s4MUJFY1NLRUppWWJB0gHMAUFVX3lxTE9NbGQ4YjRVdXVwUjYzYnAzS1Vtc2xjeFJ0MWExM2R0VGNjZWd1Z2syVlcyU2EtVnVSaWRaS2hJQUFiQmtWUktNdUZpVnM3TWFrbW5BY2dOOFU5czN1SFZDNUhSUVZZQ2pHeC1USDdfYjNJRHVoa2U1U1lyRGxrV0hhT3BOSFZJMzAzS0ZSVXI5bW5Velh6OFRzU2ZWdW5SYVZwMnpOTmtJQm9BMDhoa25uNXVuNVYtdzNlUWgxeXpUSUd1Z0tsY3hrcHR6aw?oc=5",
+        "published": "2026-09-15T21:01:28Z"
       }
     ]
   },
