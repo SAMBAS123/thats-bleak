@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17T23:02:44Z",
+  "as_of": "2026-09-18T01:25:34Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,12 +101,6 @@
         "published": "2026-09-16T01:31:00Z"
       },
       {
-        "title": "CenterPoint Energy reports customer data breach",
-        "outlet": "Click2Houston",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2hJRWsycWJQNVhKUDNHSzdXdHhwTzNqckJWQ25mbENfNWRJZ3Mxa1FTSFNaTktWT0s2ZUY4b2tJMVJRWUlnNHFLSmViSkd6ZDItVVc2emZzVmNMcHpMcHduRTBNX0FWX29faHY1a2Q4cmxvajFmZ1pBSHdBRUtldG1jTDZJNXdQbkJtc1phM0p3TGYtRHE5bkMtQ3F3eGFUYmc?oc=5",
-        "published": "2026-09-15T19:13:13Z"
-      },
-      {
         "title": "280,000 Impacted by Premier Medical Group Data Breach",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlJxSThTeEc2SDBiYlJqZFVrbWpiYXMzSnNrejZIeVJWX1o4ZHhXNnhKTGlQM1VQSlhFMDVlQWI2LU9zWDl0TnVzVDFOSjB2djAwT3JDeC1oNWJFdWkyLUdJZG8xRVEyMDBmZGRmQTAtcUlJSV8tVmM4NkxVcFpPc1YxNlRZMzZST2fSAY8BQVVfeXFMT3p6bkNiMzFjOHR0NEQyMEh5OG1TTkowc0c1c0pEVV9WeTZqV21SU05sazBWVTVaNkE5UTZRTHVoTUduVTdKYmRMUnp1U1l3ME1nZGlBbTFFQ0QxRUNuMWpkT3dlcWpQN1ZFVDZuYWV6S3lVQmxxUUV1dkdhai04V0tCSUFqR1pBbXpQRlVIVjA?oc=5",
@@ -129,6 +123,12 @@
         "outlet": "FOX 26 Houston",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
         "published": "2026-09-16T00:37:38Z"
+      },
+      {
+        "title": "Revolut confirms customer data breach through fake government requests",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
+        "published": "2026-09-12T14:40:00Z"
       }
     ]
   },
