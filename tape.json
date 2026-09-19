@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-19T17:24:36Z",
+  "as_of": "2026-09-19T19:33:23Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,7 +90,7 @@
       },
       {
         "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "hipaajournal.com",
+        "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
         "published": "2026-09-16T08:44:26Z"
       },
@@ -102,13 +102,13 @@
       },
       {
         "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "Help Net Security",
+        "outlet": "helpnetsecurity.com",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
         "published": "2026-09-17T08:39:44Z"
       },
       {
         "title": "Iowa Digestive Disease Center reports December data breach",
-        "outlet": "kcci.com",
+        "outlet": "KCCI",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXZWczdBcTVkMVdzMkNXNUlSMEp4Sm9QQ2ltMnpPSHNldWRUMDNqcm9tekRZOHhKSVFxQnItWFFyaTljMWdHUGJSOHVNQktyeHZXYWtDa3BmNUFWVTVucjl0LUJDUHZ0X2RjV0hoa3J5ZHdoWHZJR3pKdFktVzBud1dvOXJhRUN0OXhKNUptaEstVVBJeEFtSWViakQ?oc=5",
         "published": "2026-09-18T17:28:00Z"
       },
@@ -126,7 +126,7 @@
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "Western Mass News",
+        "outlet": "westernmassnews.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZQ?oc=5",
         "published": "2026-09-16T19:40:00Z"
       }
