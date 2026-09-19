@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-19T04:57:57Z",
+  "as_of": "2026-09-19T09:41:42Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,6 +89,12 @@
         "published": "2026-09-17T19:22:12Z"
       },
       {
+        "title": "xHealth Data Breach Affects 118,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
+        "published": "2026-09-16T08:44:26Z"
+      },
+      {
         "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUdQSmNPV1ZjN2xrLXRERDhTMl9pWExQaTI3eDd6VFFRSWhWcmdRTUJLaURBNElTSjVkVDlIRWM4ZlRFai1FY0UwSTR5c082Rm1SSVdic0ZVYWl6VlJqbmwyaGhoamNVb1l0Um1RSGlXbUY4a19YcUtZdW1qZnAwNXN0Z3A0WUNtQjc0akVOMmZUM09QVVp4Slpn0gGfAUFVX3lxTFBiM0R1N3dlazIyZndmM0V5Z09CMGt0OGVZam9CbHVBSW9pcERGbVh0WTYwNTJ4MlJ3T2dxaTVqRXdnUDdmQURxdU9jcmdtMnhsdWFzTmpjS1kxd2Q3SGRScnhZeldaTTJ0aFlwZXF2a2VfYUF6WU10ZXAzOGJRZm1QRXBDbEdwWGhWN3ROWDNJT0RmSU51ZzlZWm8ybzJRUQ?oc=5",
@@ -113,22 +119,16 @@
         "published": "2026-09-16T19:40:00Z"
       },
       {
-        "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "hipaajournal.com",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
-        "published": "2026-09-16T08:44:26Z"
-      },
-      {
         "title": "CenterPoint Energy confirms data breach of customer personal information",
-        "outlet": "fox26houston.com",
+        "outlet": "FOX 26 Houston",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJwUE5DY0NhLUkweHJDUnN2N1NtemZzb2ZFUlRjNl9mWXFVMURZVVgzdVBmZjVrTlNQY0JZeW9jY0owSU5ZWGtLQUNLbEIwT205a0w5LTJBMFRYSGFXLUd2dmdXdXc3Qm1EdGJQdkFtdHNONTRSNHAtNDBMQUs3T0cyMUZJeTU3dVBmQjdfSHhwLTNWdzJGakJTcXVOcVQxbnEtQXpn?oc=5",
         "published": "2026-09-16T00:37:38Z"
       },
       {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
-        "published": "2026-09-12T14:40:00Z"
+        "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
+        "outlet": "reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
+        "published": "2026-09-15T21:07:15Z"
       }
     ]
   },
