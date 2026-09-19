@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-19T13:58:27Z",
+  "as_of": "2026-09-19T17:24:36Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,13 +84,13 @@
     "latest": [
       {
         "title": "Practice Management Data Breach? Attorneys Investigate Reports",
-        "outlet": "classaction.org",
+        "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzYtN0lGd0pNZ2VCYmpiekdUZUZfV21uSlZtS182NE9XWV9NZk93NjlTbnZidUZOLUFCWEc2OFdzQzc1VlpnYmJzUU1MSy1MZTQ3LXY1MTI2NUlrYjlFWXJXdi0wZS1Jc25PUDIzazNPaE5lVVc1WTdvMTlWQXJ3Zld0M0JMaU5aNVVv?oc=5",
         "published": "2026-09-17T19:22:12Z"
       },
       {
         "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "The HIPAA Journal",
+        "outlet": "hipaajournal.com",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
         "published": "2026-09-16T08:44:26Z"
       },
@@ -101,28 +101,28 @@
         "published": "2026-09-18T11:38:40Z"
       },
       {
-        "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
-        "published": "2026-09-15T21:07:15Z"
+        "title": "Spain reports first data breach involving autonomous AI agent",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
+        "published": "2026-09-17T08:39:44Z"
       },
       {
         "title": "Iowa Digestive Disease Center reports December data breach",
-        "outlet": "KCCI",
+        "outlet": "kcci.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXZWczdBcTVkMVdzMkNXNUlSMEp4Sm9QQ2ltMnpPSHNldWRUMDNqcm9tekRZOHhKSVFxQnItWFFyaTljMWdHUGJSOHVNQktyeHZXYWtDa3BmNUFWVTVucjl0LUJDUHZ0X2RjV0hoa3J5ZHdoWHZJR3pKdFktVzBud1dvOXJhRUN0OXhKNUptaEstVVBJeEFtSWViakQ?oc=5",
         "published": "2026-09-18T17:28:00Z"
-      },
-      {
-        "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "helpnetsecurity.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
-        "published": "2026-09-17T08:39:44Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
         "outlet": "NEPM",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
+      },
+      {
+        "title": "CenterPoint reports customer data breach",
+        "outlet": "KFDM",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
+        "published": "2026-09-16T01:03:56Z"
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
