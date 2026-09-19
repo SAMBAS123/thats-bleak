@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T21:48:36Z",
+  "as_of": "2026-09-19T00:35:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -96,7 +96,7 @@
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
-        "outlet": "NEPM",
+        "outlet": "nepm.org",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
       },
@@ -113,10 +113,10 @@
         "published": "2026-09-16T19:40:00Z"
       },
       {
-        "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
-        "published": "2026-09-16T08:44:26Z"
+        "title": "Revolut confirms customer data breach through fake government requests",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
+        "published": "2026-09-12T14:40:00Z"
       },
       {
         "title": "CenterPoint Energy confirms data breach of customer personal information",
@@ -125,10 +125,10 @@
         "published": "2026-09-16T00:37:38Z"
       },
       {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREJub1FlYkFZU3VQd0tYNURySHF5TTk5Z2dPREV4RlBqeHBFOHBYQ09DR3JDbEE0MGN4VUV2U3gyVC1ZQlNMRVhyclVZRXhEUGdESUxacVhEeUNoV3BUYUZxbUZaclY4bUhUbUxpckNyMXhpcC1pQ0V6UTFXZE5EU3FVNTdCcElkN09XaU04T2k1Ymg5NkxXdjQwNl9hdzNCN3lBOTBYRTU?oc=5",
-        "published": "2026-09-12T14:40:00Z"
+        "title": "xHealth Data Breach Affects 118,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
+        "published": "2026-09-16T08:44:26Z"
       }
     ]
   },
