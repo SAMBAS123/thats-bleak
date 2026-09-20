@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-20T05:20:12Z",
+  "as_of": "2026-09-20T10:03:16Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,7 +90,7 @@
       },
       {
         "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "hipaajournal.com",
+        "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
         "published": "2026-09-16T08:44:26Z"
       },
@@ -101,16 +101,16 @@
         "published": "2026-09-18T11:38:40Z"
       },
       {
-        "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "Help Net Security",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
-        "published": "2026-09-17T08:39:44Z"
-      },
-      {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
         "outlet": "NEPM",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
+      },
+      {
+        "title": "Spain reports first data breach involving autonomous AI agent",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
+        "published": "2026-09-17T08:39:44Z"
       },
       {
         "title": "CenterPoint reports customer data breach",
@@ -120,15 +120,15 @@
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "Western Mass News",
+        "outlet": "westernmassnews.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZQ?oc=5",
         "published": "2026-09-16T19:40:00Z"
       },
       {
-        "title": "$3.1M Palomar Health data breach class action settlement",
-        "outlet": "Top Class Actions",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWVENXEzZjRnR1cwRnZvYTREb2xRWGF4ZkdudTlqdldSUUhkY0J6YldSdW12NHNiLXJXRmh2eHJONTVacWNINVFwSlZlZTFzT3hfSDdXSFhRSDM5Y0NzN1RFOUlscHo3cjAwMjFhaVhGTXhoMVRTWU9VbW55OUV3UUdLcTJxbHhFandEN0JQT1YwM294Z3ZORDhqa0lFMnVnVG9TN0RmS0dIOUtMbHhSY083VGVvR2QyeGlTSFg5M2s0eFlTTDRRQQ?oc=5",
-        "published": "2026-09-15T18:00:31Z"
+        "title": "Gyazo Data Breach Exposes 23 Million User Records",
+        "outlet": "Security Affairs",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnRMSXdQaEZjNDRFTHIxdkNSTFJSSFdWZ3RSTndZY3lWQnZlY01MWXExSGFwYURFVnliUjNoai1BaXBIa25iYmtiWFM4ZVpLQ21oVWNEeWppdTQ4RUZtNE53QTcwb29zV2RMMVBLUjR6Q1NCZzBFSXdfay1oUFpCdVVHOVNzcEx3Wk9ZYlg4QlhSa3B2a2JHRWY4dDdVUUJJVzBr0gGoAUFVX3lxTE1MeWZndkdlNmd5cUl1RWlKdEFRd3ZhVGp1UE5wdGVEY3VSbVFCYVZRbUxVTnNsRnktY2d5THlfb2F3ZlR4SzlYcHZ1WWhqQkZLTlBhZVlYR2JwZzlJVFI4NUFZUmxqeUdGazNMQkxHQWFZbXRKVnh5M1JROVJjR1lMb01jOW1neVhYWS1yNGRMSzFXLWRlZ3Z0Z1pHSGY4b1Z4M2pzVThpdQ?oc=5",
+        "published": "2026-09-18T17:29:53Z"
       }
     ]
   },
