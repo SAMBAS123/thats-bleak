@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-20T14:20:26Z",
+  "as_of": "2026-09-20T17:38:23Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,12 +101,6 @@
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "23 Million User Records Compromised in Gyazo Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRTOGc5UDJVTzlBY2h1bmZRTEZEZWdRUkpXaEF0dzBzeXZzaVF4eDRLUGl2c1hLajdLeEJLZUQxcnNwY0ZNUkM2Z2hPeVFZWGNaYVFhSmVhdEJ5Q2VCbUxsNzNjNThzMnlBSlFqTE1lVXdkdGlzLWQxcllSV1BrcncwQzBPTjNDTU51aG9OWdIBlAFBVV95cUxQbzhOVVBScnJ0dndDWHN4N0Vwa3lhbGJ4V2lQRWZqY1JDcjNrWGRrMXlmT2hvUFQ0RkhELUhNbzZNVFdHazN4YW1ja3Rpdmtkd2JCV2FBTHVBaWFMQWlCMDA2cWc3MVZMR3RhRjhUNnU5TjRqV2M2eWJsMURHaEg0djlXN1pycXdzQzQ2MXBNdDcyaW1k?oc=5",
-        "published": "2026-09-18T11:38:40Z"
-      },
-      {
         "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
         "outlet": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
@@ -125,8 +119,14 @@
         "published": "2026-09-16T01:03:56Z"
       },
       {
+        "title": "23 Million User Records Compromised in Gyazo Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRTOGc5UDJVTzlBY2h1bmZRTEZEZWdRUkpXaEF0dzBzeXZzaVF4eDRLUGl2c1hLajdLeEJLZUQxcnNwY0ZNUkM2Z2hPeVFZWGNaYVFhSmVhdEJ5Q2VCbUxsNzNjNThzMnlBSlFqTE1lVXdkdGlzLWQxcllSV1BrcncwQzBPTjNDTU51aG9OWdIBlAFBVV95cUxQbzhOVVBScnJ0dndDWHN4N0Vwa3lhbGJ4V2lQRWZqY1JDcjNrWGRrMXlmT2hvUFQ0RkhELUhNbzZNVFdHazN4YW1ja3Rpdmtkd2JCV2FBTHVBaWFMQWlCMDA2cWc3MVZMR3RhRjhUNnU5TjRqV2M2eWJsMURHaEg0djlXN1pycXdzQzQ2MXBNdDcyaW1k?oc=5",
+        "published": "2026-09-18T11:38:40Z"
+      },
+      {
         "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "Western Mass News",
+        "outlet": "westernmassnews.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZdIB0AFBVV95cUxNQ3Nrc1NJUzcwaUYxU1Jvdkx5VzN1aktVWXRKUkhYZjFEd3pGZ3FDOFdudE5lREJjS0h5dWtLd0hrakg2SjczVmhHR3FUT0E0dHFwYUNtZEp3SFdibkdFY1E4MXd2RlA2LWlGS2tVX0J2VmpDU2gzM2FvdW9ReklMVTZGVzViM05pMU5HRVR0bEFMZllJcFFpTmVUQXlZR1lHcTY5Mk03OXFQZXR5bThyTy1WbXB0RDMzTWhvNEg3c2pNdXJ0X3RkcTVkUk5ydnli?oc=5",
         "published": "2026-09-16T19:40:00Z"
       }
