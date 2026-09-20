@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-19T21:41:54Z",
+  "as_of": "2026-09-20T00:20:47Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -96,7 +96,7 @@
       },
       {
         "title": "23 Million User Records Compromised in Gyazo Data Breach",
-        "outlet": "SecurityWeek",
+        "outlet": "securityweek.com",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRTOGc5UDJVTzlBY2h1bmZRTEZEZWdRUkpXaEF0dzBzeXZzaVF4eDRLUGl2c1hLajdLeEJLZUQxcnNwY0ZNUkM2Z2hPeVFZWGNaYVFhSmVhdEJ5Q2VCbUxsNzNjNThzMnlBSlFqTE1lVXdkdGlzLWQxcllSV1BrcncwQzBPTjNDTU51aG9OWdIBlAFBVV95cUxQbzhOVVBScnJ0dndDWHN4N0Vwa3lhbGJ4V2lQRWZqY1JDcjNrWGRrMXlmT2hvUFQ0RkhELUhNbzZNVFdHazN4YW1ja3Rpdmtkd2JCV2FBTHVBaWFMQWlCMDA2cWc3MVZMR3RhRjhUNnU5TjRqV2M2eWJsMURHaEg0djlXN1pycXdzQzQ2MXBNdDcyaW1k?oc=5",
         "published": "2026-09-18T11:38:40Z"
       },
@@ -107,10 +107,10 @@
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "Iowa Digestive Disease Center reports December data breach",
-        "outlet": "KCCI",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXZWczdBcTVkMVdzMkNXNUlSMEp4Sm9QQ2ltMnpPSHNldWRUMDNqcm9tekRZOHhKSVFxQnItWFFyaTljMWdHUGJSOHVNQktyeHZXYWtDa3BmNUFWVTVucjl0LUJDUHZ0X2RjV0hoa3J5ZHdoWHZJR3pKdFktVzBud1dvOXJhRUN0OXhKNUptaEstVVBJeEFtSWViakQ?oc=5",
-        "published": "2026-09-18T17:28:00Z"
+        "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
+        "outlet": "NEPM",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
+        "published": "2026-09-16T01:31:00Z"
       },
       {
         "title": "CenterPoint reports customer data breach",
@@ -119,16 +119,16 @@
         "published": "2026-09-16T01:03:56Z"
       },
       {
-        "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
-        "outlet": "NEPM",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
-        "published": "2026-09-16T01:31:00Z"
-      },
-      {
         "title": "Springfield officials say extent of school district data breach remains unclear",
         "outlet": "Western Mass News",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZQ?oc=5",
         "published": "2026-09-16T19:40:00Z"
+      },
+      {
+        "title": "$3.1M Palomar Health data breach class action settlement",
+        "outlet": "Top Class Actions",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWVENXEzZjRnR1cwRnZvYTREb2xRWGF4ZkdudTlqdldSUUhkY0J6YldSdW12NHNiLXJXRmh2eHJONTVacWNINVFwSlZlZTFzT3hfSDdXSFhRSDM5Y0NzN1RFOUlscHo3cjAwMjFhaVhGTXhoMVRTWU9VbW55OUV3UUdLcTJxbHhFandEN0JQT1YwM294Z3ZORDhqa0lFMnVnVG9TN0RmS0dIOUtMbHhSY083VGVvR2QyeGlTSFg5M2s0eFlTTDRRQQ?oc=5",
+        "published": "2026-09-15T18:00:31Z"
       }
     ]
   },
