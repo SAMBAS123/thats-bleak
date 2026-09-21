@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-20T22:40:30Z",
+  "as_of": "2026-09-21T00:28:48Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -96,9 +96,15 @@
       },
       {
         "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "helpnetsecurity.com",
+        "outlet": "Help Net Security",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
         "published": "2026-09-17T08:39:44Z"
+      },
+      {
+        "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
+        "outlet": "reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
+        "published": "2026-09-15T21:07:15Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
@@ -119,16 +125,10 @@
         "published": "2026-09-18T11:38:40Z"
       },
       {
-        "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "Western Mass News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZdIB0AFBVV95cUxNQ3Nrc1NJUzcwaUYxU1Jvdkx5VzN1aktVWXRKUkhYZjFEd3pGZ3FDOFdudE5lREJjS0h5dWtLd0hrakg2SjczVmhHR3FUT0E0dHFwYUNtZEp3SFdibkdFY1E4MXd2RlA2LWlGS2tVX0J2VmpDU2gzM2FvdW9ReklMVTZGVzViM05pMU5HRVR0bEFMZllJcFFpTmVUQXlZR1lHcTY5Mk03OXFQZXR5bThyTy1WbXB0RDMzTWhvNEg3c2pNdXJ0X3RkcTVkUk5ydnli?oc=5",
-        "published": "2026-09-16T19:40:00Z"
-      },
-      {
-        "title": "Gyazo Data Breach Exposes 23 Million User Records",
-        "outlet": "Security Affairs",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnRMSXdQaEZjNDRFTHIxdkNSTFJSSFdWZ3RSTndZY3lWQnZlY01MWXExSGFwYURFVnliUjNoai1BaXBIa25iYmtiWFM4ZVpLQ21oVWNEeWppdTQ4RUZtNE53QTcwb29zV2RMMVBLUjR6Q1NCZzBFSXdfay1oUFpCdVVHOVNzcEx3Wk9ZYlg4QlhSa3B2a2JHRWY4dDdVUUJJVzBr0gGoAUFVX3lxTE1MeWZndkdlNmd5cUl1RWlKdEFRd3ZhVGp1UE5wdGVEY3VSbVFCYVZRbUxVTnNsRnktY2d5THlfb2F3ZlR4SzlYcHZ1WWhqQkZLTlBhZVlYR2JwZzlJVFI4NUFZUmxqeUdGazNMQkxHQWFZbXRKVnh5M1JROVJjR1lMb01jOW1neVhYWS1yNGRMSzFXLWRlZ3Z0Z1pHSGY4b1Z4M2pzVThpdQ?oc=5",
-        "published": "2026-09-18T17:29:53Z"
+        "title": "CyberLeek Claims It Is Preparing To Release The Entire GTA 6 Build",
+        "outlet": "wolfsgamingblog.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWllaMzJjNS1xSHJ0TFJwZm5EcmpERmxkbVY4a2lWckdLdmhvb0lEeWVFRmc2WkM1UUNSaDh0cXRXdFI0d2xfbnM5cy1hU0ZrZjRlbVlrY1dubXlKNWlvVUIwb3R6SDhWc0l2dEhQMFVqd3NxcWZCTk14QkQ4cXdia09rUy1meGtTSmtYWEVQX1NUbEFvUEstMnJiNjFmaXdSOEdlcFRkczhRdw?oc=5",
+        "published": "2026-09-19T12:26:38Z"
       }
     ]
   },
@@ -176,7 +176,5 @@
       "url": "https://cybernews.com/security/millions-login-records-allegedly-stolen-from-roblox/"
     }
   ],
-  "errors": [
-    "news: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
