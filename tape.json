@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-21T00:28:48Z",
+  "as_of": "2026-09-21T05:23:12Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,10 +101,10 @@
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
-        "outlet": "reuters.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
-        "published": "2026-09-15T21:07:15Z"
+        "title": "CenterPoint reports customer data breach",
+        "outlet": "KFDM",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
+        "published": "2026-09-16T01:03:56Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
@@ -113,22 +113,22 @@
         "published": "2026-09-16T01:31:00Z"
       },
       {
-        "title": "CenterPoint reports customer data breach",
-        "outlet": "KFDM",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
-        "published": "2026-09-16T01:03:56Z"
+        "title": "280,000 Impacted by Premier Medical Group Data Breach",
+        "outlet": "securityweek.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlJxSThTeEc2SDBiYlJqZFVrbWpiYXMzSnNrejZIeVJWX1o4ZHhXNnhKTGlQM1VQSlhFMDVlQWI2LU9zWDl0TnVzVDFOSjB2djAwT3JDeC1oNWJFdWkyLUdJZG8xRVEyMDBmZGRmQTAtcUlJSV8tVmM4NkxVcFpPc1YxNlRZMzZST2fSAY8BQVVfeXFMT3p6bkNiMzFjOHR0NEQyMEh5OG1TTkowc0c1c0pEVV9WeTZqV21SU05sazBWVTVaNkE5UTZRTHVoTUduVTdKYmRMUnp1U1l3ME1nZGlBbTFFQ0QxRUNuMWpkT3dlcWpQN1ZFVDZuYWV6S3lVQmxxUUV1dkdhai04V0tCSUFqR1pBbXpQRlVIVjA?oc=5",
+        "published": "2026-09-16T10:47:18Z"
       },
       {
-        "title": "23 Million User Records Compromised in Gyazo Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRTOGc5UDJVTzlBY2h1bmZRTEZEZWdRUkpXaEF0dzBzeXZzaVF4eDRLUGl2c1hLajdLeEJLZUQxcnNwY0ZNUkM2Z2hPeVFZWGNaYVFhSmVhdEJ5Q2VCbUxsNzNjNThzMnlBSlFqTE1lVXdkdGlzLWQxcllSV1BrcncwQzBPTjNDTU51aG9OWdIBlAFBVV95cUxQbzhOVVBScnJ0dndDWHN4N0Vwa3lhbGJ4V2lQRWZqY1JDcjNrWGRrMXlmT2hvUFQ0RkhELUhNbzZNVFdHazN4YW1ja3Rpdmtkd2JCV2FBTHVBaWFMQWlCMDA2cWc3MVZMR3RhRjhUNnU5TjRqV2M2eWJsMURHaEg0djlXN1pycXdzQzQ2MXBNdDcyaW1k?oc=5",
-        "published": "2026-09-18T11:38:40Z"
+        "title": "Springfield officials say extent of school district data breach remains unclear",
+        "outlet": "Western Mass News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZdIB0AFBVV95cUxNQ3Nrc1NJUzcwaUYxU1Jvdkx5VzN1aktVWXRKUkhYZjFEd3pGZ3FDOFdudE5lREJjS0h5dWtLd0hrakg2SjczVmhHR3FUT0E0dHFwYUNtZEp3SFdibkdFY1E4MXd2RlA2LWlGS2tVX0J2VmpDU2gzM2FvdW9ReklMVTZGVzViM05pMU5HRVR0bEFMZllJcFFpTmVUQXlZR1lHcTY5Mk03OXFQZXR5bThyTy1WbXB0RDMzTWhvNEg3c2pNdXJ0X3RkcTVkUk5ydnli?oc=5",
+        "published": "2026-09-16T19:40:00Z"
       },
       {
-        "title": "CyberLeek Claims It Is Preparing To Release The Entire GTA 6 Build",
-        "outlet": "wolfsgamingblog.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWllaMzJjNS1xSHJ0TFJwZm5EcmpERmxkbVY4a2lWckdLdmhvb0lEeWVFRmc2WkM1UUNSaDh0cXRXdFI0d2xfbnM5cy1hU0ZrZjRlbVlrY1dubXlKNWlvVUIwb3R6SDhWc0l2dEhQMFVqd3NxcWZCTk14QkQ4cXdia09rUy1meGtTSmtYWEVQX1NUbEFvUEstMnJiNjFmaXdSOEdlcFRkczhRdw?oc=5",
-        "published": "2026-09-19T12:26:38Z"
+        "title": "$3.1M Palomar Health data breach class action settlement",
+        "outlet": "Top Class Actions",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWVENXEzZjRnR1cwRnZvYTREb2xRWGF4ZkdudTlqdldSUUhkY0J6YldSdW12NHNiLXJXRmh2eHJONTVacWNINVFwSlZlZTFzT3hfSDdXSFhRSDM5Y0NzN1RFOUlscHo3cjAwMjFhaVhGTXhoMVRTWU9VbW55OUV3UUdLcTJxbHhFandEN0JQT1YwM294Z3ZORDhqa0lFMnVnVG9TN0RmS0dIOUtMbHhSY083VGVvR2QyeGlTSFg5M2s0eFlTTDRRQQ?oc=5",
+        "published": "2026-09-15T18:00:31Z"
       }
     ]
   },
