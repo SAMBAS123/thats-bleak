@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-21T17:10:06Z",
+  "as_of": "2026-09-21T21:12:45Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,52 +83,52 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
-        "published": "2026-09-16T08:44:26Z"
-      },
-      {
         "title": "Practice Management Data Breach? Attorneys Investigate Reports",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzYtN0lGd0pNZ2VCYmpiekdUZUZfV21uSlZtS182NE9XWV9NZk93NjlTbnZidUZOLUFCWEc2OFdzQzc1VlpnYmJzUU1MSy1MZTQ3LXY1MTI2NUlrYjlFWXJXdi0wZS1Jc25PUDIzazNPaE5lVVc1WTdvMTlWQXJ3Zld0M0JMaU5aNVVv?oc=5",
         "published": "2026-09-17T19:22:12Z"
       },
       {
+        "title": "xHealth Data Breach Affects 118,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
+        "published": "2026-09-16T08:44:26Z"
+      },
+      {
         "title": "Spain reports first data breach involving autonomous AI agent",
-        "outlet": "Help Net Security",
+        "outlet": "helpnetsecurity.com",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "CenterPoint reports customer data breach",
-        "outlet": "kfdm.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
-        "published": "2026-09-16T01:03:56Z"
-      },
-      {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
-        "outlet": "nepm.org",
+        "outlet": "NEPM",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
       },
       {
+        "title": "CenterPoint reports customer data breach",
+        "outlet": "KFDM",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
+        "published": "2026-09-16T01:03:56Z"
+      },
+      {
+        "title": "Employees sue global agribusiness following criminal data breach",
+        "outlet": "courthousenews.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmkxaEp3UkFrN1pSUmR5dTJQTVc1dV9adXpHX25QallHVDlJVF93ZmY0ZnlISHlBXzFvY1YzckJ3bzNQTjNtLVB3RDFpaXRCWmZLMHQzZFBmME1Ccm5uYk1IMFlJaEdJUHdRb1BWeUVCU3dFM3NYb3NYREJaZ2Y0VmhrdGFvNnlHR1BqX19IYUZrb0E2ZElta2Y3ZmgzMWdIR2c1LWpiNA?oc=5",
+        "published": "2026-09-21T19:19:14Z"
+      },
+      {
         "title": "23 Million User Records Compromised in Gyazo Data Breach",
-        "outlet": "SecurityWeek",
+        "outlet": "securityweek.com",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRTOGc5UDJVTzlBY2h1bmZRTEZEZWdRUkpXaEF0dzBzeXZzaVF4eDRLUGl2c1hLajdLeEJLZUQxcnNwY0ZNUkM2Z2hPeVFZWGNaYVFhSmVhdEJ5Q2VCbUxsNzNjNThzMnlBSlFqTE1lVXdkdGlzLWQxcllSV1BrcncwQzBPTjNDTU51aG9OWdIBlAFBVV95cUxQbzhOVVBScnJ0dndDWHN4N0Vwa3lhbGJ4V2lQRWZqY1JDcjNrWGRrMXlmT2hvUFQ0RkhELUhNbzZNVFdHazN4YW1ja3Rpdmtkd2JCV2FBTHVBaWFMQWlCMDA2cWc3MVZMR3RhRjhUNnU5TjRqV2M2eWJsMURHaEg0djlXN1pycXdzQzQ2MXBNdDcyaW1k?oc=5",
         "published": "2026-09-18T11:38:40Z"
       },
       {
-        "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "westernmassnews.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZdIB0AFBVV95cUxNQ3Nrc1NJUzcwaUYxU1Jvdkx5VzN1aktVWXRKUkhYZjFEd3pGZ3FDOFdudE5lREJjS0h5dWtLd0hrakg2SjczVmhHR3FUT0E0dHFwYUNtZEp3SFdibkdFY1E4MXd2RlA2LWlGS2tVX0J2VmpDU2gzM2FvdW9ReklMVTZGVzViM05pMU5HRVR0bEFMZllJcFFpTmVUQXlZR1lHcTY5Mk03OXFQZXR5bThyTy1WbXB0RDMzTWhvNEg3c2pNdXJ0X3RkcTVkUk5ydnli?oc=5",
-        "published": "2026-09-16T19:40:00Z"
-      },
-      {
-        "title": "Lemonade $10.5 Million Settlement Over License Number Data Breach Approved",
-        "outlet": "insurancejournal.com",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DV1pFc2pVZWdiUXFDNTRqY1Fyc1l3aFYtMDVQZFJ5ZHlRVlBTQzNuQ2t0eDQzUWZqTWVZY2k5THNkX2d0LU0yRzhFcWF1cUVaNnhkMEVWQzY2bWRxek1GeXF1VDNDa2ZjcDBxME1mN1h6Zw?oc=5",
-        "published": "2026-09-18T05:07:08Z"
+        "title": "(UPDATED) Likely CyberLeek Impersantor Claims It Is Preparing To Release The Entire GTA 6 Build",
+        "outlet": "wolfsgamingblog.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWllaMzJjNS1xSHJ0TFJwZm5EcmpERmxkbVY4a2lWckdLdmhvb0lEeWVFRmc2WkM1UUNSaDh0cXRXdFI0d2xfbnM5cy1hU0ZrZjRlbVlrY1dubXlKNWlvVUIwb3R6SDhWc0l2dEhQMFVqd3NxcWZCTk14QkQ4cXdia09rUy1meGtTSmtYWEVQX1NUbEFvUEstMnJiNjFmaXdSOEdlcFRkczhRdw?oc=5",
+        "published": "2026-09-19T12:26:38Z"
       }
     ]
   },
