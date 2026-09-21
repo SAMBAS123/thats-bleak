@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-09-21T11:02:56Z",
+  "as_of": "2026-09-21T17:10:06Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1036,
+    "catalog_total": 1037,
     "breaches_2026": 83,
     "pwn_2026": 294106303,
-    "added_2026": 101,
-    "added_7d": 0,
-    "added_30d": 6,
+    "added_2026": 102,
+    "added_7d": 1,
+    "added_30d": 7,
     "latest": [
+      {
+        "name": "BurgerKingRussia",
+        "title": "Burger King Russia",
+        "added": "2026-09-21T13:54:00Z",
+        "breach_date": "2024-08-25",
+        "pwn_count": 3155792,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#BurgerKingRussia"
+      },
       {
         "name": "Chess2026",
         "title": "Chess.com (2026)",
@@ -66,14 +74,6 @@
         "breach_date": "2026-05-14",
         "pwn_count": 568972,
         "url": "https://haveibeenpwned.com/PwnedWebsites#GolfCanada"
-      },
-      {
-        "name": "OzHairAndBeauty",
-        "title": "Oz Hair and Beauty",
-        "added": "2026-08-19T03:15:00Z",
-        "breach_date": "2026-08-15",
-        "pwn_count": 1988331,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#OzHairAndBeauty"
       }
     ]
   },
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "hipaajournal.com",
+        "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
         "published": "2026-09-16T08:44:26Z"
       },
@@ -101,20 +101,14 @@
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "Spanish data watchdog publicises first AI agent-linked data breach report",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
-        "published": "2026-09-15T21:07:15Z"
-      },
-      {
         "title": "CenterPoint reports customer data breach",
-        "outlet": "KFDM",
+        "outlet": "kfdm.com",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
         "published": "2026-09-16T01:03:56Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
-        "outlet": "NEPM",
+        "outlet": "nepm.org",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkFLWnBHVWw1dHBLR1pwUzU3ZUs2a1A0c1hEcmxWbEZYODA5blcySG1ZOHl1V3YzaU9VWHlBT0tITmJGTDdnTzVieFBEVVptNTd1Z2lYTTVXUUQzd0JTN0dYUjV3cG1rb0VSWFd1alF6YmNHVmg1bXhIZ043R0x1ZjRzRHUteFY2R25xc0FHSWVUUDZLUm9SR1doVUtjSkRZYXFNVS1NR1lMUHhRQ0psNmF2ckZCVjNKUXEzdmJDTTdTWW5HOGJKUVBIeWpCSGpVUmhKUzkzMUdPUQ?oc=5",
         "published": "2026-09-16T01:31:00Z"
       },
@@ -126,9 +120,15 @@
       },
       {
         "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "Western Mass News",
+        "outlet": "westernmassnews.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZdIB0AFBVV95cUxNQ3Nrc1NJUzcwaUYxU1Jvdkx5VzN1aktVWXRKUkhYZjFEd3pGZ3FDOFdudE5lREJjS0h5dWtLd0hrakg2SjczVmhHR3FUT0E0dHFwYUNtZEp3SFdibkdFY1E4MXd2RlA2LWlGS2tVX0J2VmpDU2gzM2FvdW9ReklMVTZGVzViM05pMU5HRVR0bEFMZllJcFFpTmVUQXlZR1lHcTY5Mk03OXFQZXR5bThyTy1WbXB0RDMzTWhvNEg3c2pNdXJ0X3RkcTVkUk5ydnli?oc=5",
         "published": "2026-09-16T19:40:00Z"
+      },
+      {
+        "title": "Lemonade $10.5 Million Settlement Over License Number Data Breach Approved",
+        "outlet": "insurancejournal.com",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DV1pFc2pVZWdiUXFDNTRqY1Fyc1l3aFYtMDVQZFJ5ZHlRVlBTQzNuQ2t0eDQzUWZqTWVZY2k5THNkX2d0LU0yRzhFcWF1cUVaNnhkMEVWQzY2bWRxek1GeXF1VDNDa2ZjcDBxME1mN1h6Zw?oc=5",
+        "published": "2026-09-18T05:07:08Z"
       }
     ]
   },
