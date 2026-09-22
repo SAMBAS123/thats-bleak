@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-09-22T05:19:08Z",
+  "as_of": "2026-09-22T10:16:16Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1037,
+    "catalog_total": 1038,
     "breaches_2026": 83,
     "pwn_2026": 294106303,
-    "added_2026": 102,
-    "added_7d": 1,
-    "added_30d": 7,
+    "added_2026": 103,
+    "added_7d": 2,
+    "added_30d": 8,
     "latest": [
+      {
+        "name": "LimeLeads",
+        "title": "LimeLeads",
+        "added": "2026-09-22T08:02:37Z",
+        "breach_date": "2019-08-01",
+        "pwn_count": 17838396,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#LimeLeads"
+      },
       {
         "name": "BurgerKingRussia",
         "title": "Burger King Russia",
@@ -66,14 +74,6 @@
         "breach_date": "2025-07-13",
         "pwn_count": 6090,
         "url": "https://haveibeenpwned.com/PwnedWebsites#NIUS"
-      },
-      {
-        "name": "GolfCanada",
-        "title": "Golf Canada",
-        "added": "2026-08-22T07:17:23Z",
-        "breach_date": "2026-05-14",
-        "pwn_count": 568972,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#GolfCanada"
       }
     ]
   },
@@ -83,34 +83,34 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
+        "published": "2026-09-22T06:46:00Z"
+      },
+      {
+        "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
+        "outlet": "Columbia Daily Spectator",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
+        "published": "2026-09-22T06:00:39Z"
+      },
+      {
         "title": "Practice Management Data Breach? Attorneys Investigate Reports",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzYtN0lGd0pNZ2VCYmpiekdUZUZfV21uSlZtS182NE9XWV9NZk93NjlTbnZidUZOLUFCWEc2OFdzQzc1VlpnYmJzUU1MSy1MZTQ3LXY1MTI2NUlrYjlFWXJXdi0wZS1Jc25PUDIzazNPaE5lVVc1WTdvMTlWQXJ3Zld0M0JMaU5aNVVv?oc=5",
         "published": "2026-09-17T19:22:12Z"
       },
       {
-        "title": "Employees sue global agribusiness following criminal data breach",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVpjUE5fTVJ2R3FFbEs3NzlIWVd0UWliUG1TWm5fYXNiWVlGeS1HTVBUeG1JbHB2R3F3bUdja284M3FMOUUxbmhWLTI3VnVxa2w4UzM5dUhNREdweXBwMWZJVXdiV0N1T0J1X3hlalB4eVJkbHk1Q0ZsblhOcXlpVEdpVVFxR3ByakJKdENIZUtZY0ZVSy1taDBiVQ?oc=5",
-        "published": "2026-09-21T18:58:12Z"
-      },
-      {
-        "title": "xHealth Data Breach Affects 118,000 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
-        "published": "2026-09-16T08:44:26Z"
-      },
-      {
-        "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
-        "outlet": "Columbia Daily Spectator",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
-        "published": "2026-09-22T03:56:49Z"
-      },
-      {
         "title": "Spain reports first data breach involving autonomous AI agent",
         "outlet": "Help Net Security",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83MzRxWS1KU0Z6bXhSOWkxeTNOMl9mM0s2RERHM1ZCdTIzNzd0ZFRBWldXUllOWXlMMmpRRVZxUG9JMktkbWNlNmhCWGt6ZWpnWmMxcUt1c3BrUDI1dHNtTWtOdDRuTS1KU3ZRVzVRVXhQYjh1UzUyVDdR?oc=5",
         "published": "2026-09-17T08:39:44Z"
+      },
+      {
+        "title": "Employees sue global agribusiness following criminal data breach",
+        "outlet": "Courthouse News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVpjUE5fTVJ2R3FFbEs3NzlIWVd0UWliUG1TWm5fYXNiWVlGeS1HTVBUeG1JbHB2R3F3bUdja284M3FMOUUxbmhWLTI3VnVxa2w4UzM5dUhNREdweXBwMWZJVXdiV0N1T0J1X3hlalB4eVJkbHk1Q0ZsblhOcXlpVEdpVVFxR3ByakJKdENIZUtZY0ZVSy1taDBiVQ?oc=5",
+        "published": "2026-09-21T18:58:12Z"
       },
       {
         "title": "FBI to Springfield: school cyber attack included data breach, maybe Social Security numbers",
