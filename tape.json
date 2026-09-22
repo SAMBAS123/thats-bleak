@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-22T00:15:09Z",
+  "as_of": "2026-09-22T05:19:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,28 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Practice Management Data Breach? Attorneys Investigate Reports",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzYtN0lGd0pNZ2VCYmpiekdUZUZfV21uSlZtS182NE9XWV9NZk93NjlTbnZidUZOLUFCWEc2OFdzQzc1VlpnYmJzUU1MSy1MZTQ3LXY1MTI2NUlrYjlFWXJXdi0wZS1Jc25PUDIzazNPaE5lVVc1WTdvMTlWQXJ3Zld0M0JMaU5aNVVv?oc=5",
+        "published": "2026-09-17T19:22:12Z"
+      },
+      {
+        "title": "Employees sue global agribusiness following criminal data breach",
+        "outlet": "Courthouse News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVpjUE5fTVJ2R3FFbEs3NzlIWVd0UWliUG1TWm5fYXNiWVlGeS1HTVBUeG1JbHB2R3F3bUdja284M3FMOUUxbmhWLTI3VnVxa2w4UzM5dUhNREdweXBwMWZJVXdiV0N1T0J1X3hlalB4eVJkbHk1Q0ZsblhOcXlpVEdpVVFxR3ByakJKdENIZUtZY0ZVSy1taDBiVQ?oc=5",
+        "published": "2026-09-21T18:58:12Z"
+      },
+      {
         "title": "xHealth Data Breach Affects 118,000 Individuals",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWGNicXl6UE5vRnI5MHZkQThhSXRVQnBqeEFtS0ExYkNZcndGY3RHU0NQQ2F2NjdxNFhlS2s5a1RzYzhVUzN6SzdPbVFaWTRnalRkWm5OYkJkS2JBU0E?oc=5",
         "published": "2026-09-16T08:44:26Z"
       },
       {
-        "title": "Practice Management Data Breach? Attorneys Investigate Reports",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzYtN0lGd0pNZ2VCYmpiekdUZUZfV21uSlZtS182NE9XWV9NZk93NjlTbnZidUZOLUFCWEc2OFdzQzc1VlpnYmJzUU1MSy1MZTQ3LXY1MTI2NUlrYjlFWXJXdi0wZS1Jc25PUDIzazNPaE5lVVc1WTdvMTlWQXJ3Zld0M0JMaU5aNVVv?oc=5",
-        "published": "2026-09-17T19:22:12Z"
+        "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
+        "outlet": "Columbia Daily Spectator",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
+        "published": "2026-09-22T03:56:49Z"
       },
       {
         "title": "Spain reports first data breach involving autonomous AI agent",
@@ -113,22 +125,10 @@
         "published": "2026-09-18T05:07:08Z"
       },
       {
-        "title": "Employees sue global agribusiness following criminal data breach",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmkxaEp3UkFrN1pSUmR5dTJQTVc1dV9adXpHX25QallHVDlJVF93ZmY0ZnlISHlBXzFvY1YzckJ3bzNQTjNtLVB3RDFpaXRCWmZLMHQzZFBmME1Ccm5uYk1IMFlJaEdJUHdRb1BWeUVCU3dFM3NYb3NYREJaZ2Y0VmhrdGFvNnlHR1BqX19IYUZrb0E2ZElta2Y3ZmgzMWdIR2c1LWpiNA?oc=5",
-        "published": "2026-09-21T19:19:14Z"
-      },
-      {
         "title": "23 Million User Records Compromised in Gyazo Data Breach",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRTOGc5UDJVTzlBY2h1bmZRTEZEZWdRUkpXaEF0dzBzeXZzaVF4eDRLUGl2c1hLajdLeEJLZUQxcnNwY0ZNUkM2Z2hPeVFZWGNaYVFhSmVhdEJ5Q2VCbUxsNzNjNThzMnlBSlFqTE1lVXdkdGlzLWQxcllSV1BrcncwQzBPTjNDTU51aG9OWdIBlAFBVV95cUxQbzhOVVBScnJ0dndDWHN4N0Vwa3lhbGJ4V2lQRWZqY1JDcjNrWGRrMXlmT2hvUFQ0RkhELUhNbzZNVFdHazN4YW1ja3Rpdmtkd2JCV2FBTHVBaWFMQWlCMDA2cWc3MVZMR3RhRjhUNnU5TjRqV2M2eWJsMURHaEg0djlXN1pycXdzQzQ2MXBNdDcyaW1k?oc=5",
         "published": "2026-09-18T11:38:40Z"
-      },
-      {
-        "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "Western Mass News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZdIB0AFBVV95cUxNQ3Nrc1NJUzcwaUYxU1Jvdkx5VzN1aktVWXRKUkhYZjFEd3pGZ3FDOFdudE5lREJjS0h5dWtLd0hrakg2SjczVmhHR3FUT0E0dHFwYUNtZEp3SFdibkdFY1E4MXd2RlA2LWlGS2tVX0J2VmpDU2gzM2FvdW9ReklMVTZGVzViM05pMU5HRVR0bEFMZllJcFFpTmVUQXlZR1lHcTY5Mk03OXFQZXR5bThyTy1WbXB0RDMzTWhvNEg3c2pNdXJ0X3RkcTVkUk5ydnli?oc=5",
-        "published": "2026-09-16T19:40:00Z"
       }
     ]
   },
