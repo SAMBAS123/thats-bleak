@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-22T22:23:23Z",
+  "as_of": "2026-09-23T00:53:24Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 294106303,
     "added_2026": 103,
     "added_7d": 2,
-    "added_30d": 8,
+    "added_30d": 7,
     "latest": [
       {
         "name": "LimeLeads",
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
-        "outlet": "Columbia Daily Spectator",
+        "outlet": "columbiaspectator.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
         "published": "2026-09-22T06:00:39Z"
       },
@@ -108,7 +108,7 @@
       },
       {
         "title": "Employees sue global agribusiness following criminal data breach",
-        "outlet": "courthousenews.com",
+        "outlet": "Courthouse News",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVpjUE5fTVJ2R3FFbEs3NzlIWVd0UWliUG1TWm5fYXNiWVlGeS1HTVBUeG1JbHB2R3F3bUdja284M3FMOUUxbmhWLTI3VnVxa2w4UzM5dUhNREdweXBwMWZJVXdiV0N1T0J1X3hlalB4eVJkbHk1Q0ZsblhOcXlpVEdpVVFxR3ByakJKdENIZUtZY0ZVSy1taDBiVQ?oc=5",
         "published": "2026-09-21T18:58:12Z"
       },
@@ -126,7 +126,7 @@
       },
       {
         "title": "CenterPoint reports customer data breach",
-        "outlet": "KFDM",
+        "outlet": "kfdm.com",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
         "published": "2026-09-16T01:03:56Z"
       }
