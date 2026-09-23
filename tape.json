@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23T00:53:24Z",
+  "as_of": "2026-09-23T06:36:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
-        "outlet": "columbiaspectator.com",
+        "outlet": "Columbia Daily Spectator",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
         "published": "2026-09-22T06:00:39Z"
       },
@@ -101,22 +101,10 @@
         "published": "2026-09-17T08:39:44Z"
       },
       {
-        "title": "Albany College of Pharmacy and Health Sciences Data Breach Settlement",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2lhQkJyNXJaVU1GYmh3N19jb2JXdjhjdHJzWUU0U1RjMWRNMndFSEp0T3RGRHVMeUQ1aGFRNG5BUXlxQUJseFlUMDJNUXVNMjE4UXJoWG1PSy1vY0xSRHZOMzJudEZCY19pX1hlYkxSbWNKNXByWE5EVGdxWGs4OWcwMG1vXzNJOURzcG5GMUFmU0RUZi1n?oc=5",
-        "published": "2026-09-22T13:45:03Z"
-      },
-      {
         "title": "Employees sue global agribusiness following criminal data breach",
         "outlet": "Courthouse News",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVpjUE5fTVJ2R3FFbEs3NzlIWVd0UWliUG1TWm5fYXNiWVlGeS1HTVBUeG1JbHB2R3F3bUdja284M3FMOUUxbmhWLTI3VnVxa2w4UzM5dUhNREdweXBwMWZJVXdiV0N1T0J1X3hlalB4eVJkbHk1Q0ZsblhOcXlpVEdpVVFxR3ByakJKdENIZUtZY0ZVSy1taDBiVQ?oc=5",
         "published": "2026-09-21T18:58:12Z"
-      },
-      {
-        "title": "Springfield officials say extent of school district data breach remains unclear",
-        "outlet": "Western Mass News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmFHOUdBdEJUOEhjSndmUXZWM192N1pkVEpJdzMwZTlNcDNjQi1rVWp5NGI5UzI0RkVWanlIR21vZTVfdkcwRFVFMWlja1l1Njlva2NPZkQtU2FQMHlqVXhBdVZsUm1JcV9QT2YxMmZSSUFsVjBqeHg1S0hobDhsSDBkeEFScWZvdlRhbjdnYUtPZi1iRUtrZFZ1aFlkTUNjTmRsNnFpTmNBSl9Yb1A5enFjbWJSQ1hZQjB1ZdIB0AFBVV95cUxNQ3Nrc1NJUzcwaUYxU1Jvdkx5VzN1aktVWXRKUkhYZjFEd3pGZ3FDOFdudE5lREJjS0h5dWtLd0hrakg2SjczVmhHR3FUT0E0dHFwYUNtZEp3SFdibkdFY1E4MXd2RlA2LWlGS2tVX0J2VmpDU2gzM2FvdW9ReklMVTZGVzViM05pMU5HRVR0bEFMZllJcFFpTmVUQXlZR1lHcTY5Mk03OXFQZXR5bThyTy1WbXB0RDMzTWhvNEg3c2pNdXJ0X3RkcTVkUk5ydnli?oc=5",
-        "published": "2026-09-16T19:40:00Z"
       },
       {
         "title": "Lemonade $10.5 Million Settlement Over License Number Data Breach Approved",
@@ -125,10 +113,22 @@
         "published": "2026-09-18T05:07:08Z"
       },
       {
-        "title": "CenterPoint reports customer data breach",
-        "outlet": "kfdm.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuVDluT3ZDWVJiZzBSLTZSa1ZHZ2hFMHktODJtNlgyQmRBLXVaMUd6bFpxNmxiemw1eGswejc3U2NUYzRhbUwybkd4X203a3g0aWZ2SDF1bUZySWMzb2NaMmR4Vi1MMGVRdnhaQXdyTmRCUlhyanlv?oc=5",
-        "published": "2026-09-16T01:03:56Z"
+        "title": "$3.5M University of Hawaii data breach class action settlement",
+        "outlet": "Top Class Actions",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2x5SFlfd2xITVZfaVFOZGx0QkFKTmpzejFlck9sMjU3Z1pzUVNVdTRrY3lLMTBpeE9yNm9mMG03LWRxMzFkTnE3TFZ4bWEtZUtpRE1ZVmJnOXJZUGFQVWNxTHF5MXdNOE5JbzJBTGl5c0dXd3BYdUhJRUNBdnNGcng0aWxMdHhGMXBsVVU2dHhKbDZWcjdVck90cm5LUDlzRFpINWFQbjUxY3NfaUpiM0FxZFBGb0VOZmZ3YXEyZWs5cnBMMHkzbExDM1djZE9u?oc=5",
+        "published": "2026-09-22T18:02:53Z"
+      },
+      {
+        "title": "23 Million User Records Compromised in Gyazo Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXRTOGc5UDJVTzlBY2h1bmZRTEZEZWdRUkpXaEF0dzBzeXZzaVF4eDRLUGl2c1hLajdLeEJLZUQxcnNwY0ZNUkM2Z2hPeVFZWGNaYVFhSmVhdEJ5Q2VCbUxsNzNjNThzMnlBSlFqTE1lVXdkdGlzLWQxcllSV1BrcncwQzBPTjNDTU51aG9OWdIBlAFBVV95cUxQbzhOVVBScnJ0dndDWHN4N0Vwa3lhbGJ4V2lQRWZqY1JDcjNrWGRrMXlmT2hvUFQ0RkhELUhNbzZNVFdHazN4YW1ja3Rpdmtkd2JCV2FBTHVBaWFMQWlCMDA2cWc3MVZMR3RhRjhUNnU5TjRqV2M2eWJsMURHaEg0djlXN1pycXdzQzQ2MXBNdDcyaW1k?oc=5",
+        "published": "2026-09-18T11:38:40Z"
+      },
+      {
+        "title": "Delaware Data Breach Notification Law Amendment Adds Earlier AG Notice, Narrows GLBA and HIPAA Safe Harbor",
+        "outlet": "JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTdQU09NUEl4RGotLVFnSmpkUDM4eUJ6NThLRXV3Zk9jenZJRVRObTdRb2h5dXlnNGlOVVNCZXRVX0RnSmQzTzgzUWxQbGxCaGdOUGFhbG1jNUhGek8yMURac2FMNmdXRExhb3dqZ0xwclNHTUJhTThOVFhJSVdhZWRRa2o0Uk0?oc=5",
+        "published": "2026-09-17T02:51:58Z"
       }
     ]
   },
