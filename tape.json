@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-24T12:51:57Z",
+  "as_of": "2026-09-24T17:56:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "Lessons From Spain's First Reported Agentic AI Data Breach",
-        "outlet": "Ropes & Gray LLP",
+        "outlet": "ropesgray.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdwdG9GSkVlM2pYLVhrSXJ5QzJVYnlSRENGcV90UmhPZlZoNlJaV2swVXlUdWI5OGpJUDNmRDlSRl9nQURJcTBQdlViRXl5MWZJX210ZFNsSTFTOXF3RjNFVEVPcnBvSE51M3RWdzZHeVViVGd4UTk5MmN5eVJLTmNfR2hkWDIzR2JTdDNBNjhpc1hGdXFQOWNWUURDMGZaT1Q5UDNfODNzTE1LUG02Ui1aRWVrU2wwclZpclA1MA?oc=5",
         "published": "2026-09-23T13:26:18Z"
       },
@@ -96,7 +96,7 @@
       },
       {
         "title": "Astrana Health Data Breach Reported; Impact Under Investigation",
-        "outlet": "classaction.org",
+        "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzQzcldJMFM4T3FKVTEzanRlRWcxY1RTMU8yT3VIX0JkeDFyOFBxbWZVY01LZTlRcTlfaDFJbkF6aXFkYUVrczg1RTMzU3QyQzB5OXd1M3FLcmQyVTRXUGVwUWlUUzliY0dFaHNwNEdTbWluQ3kwdnpKMGdTYldocEg5YlM?oc=5",
         "published": "2026-09-23T13:41:31Z"
       },
@@ -108,7 +108,7 @@
       },
       {
         "title": "Employees sue global agribusiness following criminal data breach",
-        "outlet": "Courthouse News",
+        "outlet": "courthousenews.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVpjUE5fTVJ2R3FFbEs3NzlIWVd0UWliUG1TWm5fYXNiWVlGeS1HTVBUeG1JbHB2R3F3bUdja284M3FMOUUxbmhWLTI3VnVxa2w4UzM5dUhNREdweXBwMWZJVXdiV0N1T0J1X3hlalB4eVJkbHk1Q0ZsblhOcXlpVEdpVVFxR3ByakJKdENIZUtZY0ZVSy1taDBiVQ?oc=5",
         "published": "2026-09-21T18:58:12Z"
       },
@@ -119,16 +119,16 @@
         "published": "2026-09-21T15:59:00Z"
       },
       {
-        "title": "Lemonade $10.5 Million Settlement Over License Number Data Breach Approved",
-        "outlet": "insurancejournal.com",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DV1pFc2pVZWdiUXFDNTRqY1Fyc1l3aFYtMDVQZFJ5ZHlRVlBTQzNuQ2t0eDQzUWZqTWVZY2k5THNkX2d0LU0yRzhFcWF1cUVaNnhkMEVWQzY2bWRxek1GeXF1VDNDa2ZjcDBxME1mN1h6Zw?oc=5",
-        "published": "2026-09-18T05:07:08Z"
-      },
-      {
         "title": "Vasindas’ Around the Clock Care Settles Data Breach Litigation",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGE1Vk9PU0kxVGJad2RvU0s0bW5ldGxSYnVHZ2xLemo3ZGROV1NxVGZQSzI0ZVROM1JzRmx6UENBZjJTd1Q5cDRfYnEtNVpKRTI3SDhfeXM4U2hXM1FxNzBUZ3QwTGJIZ1FvaExjVXhYOWRkZ1A1MUZoOWZkdzdMYVNFTXlURkpiVnpZ?oc=5",
         "published": "2026-09-23T16:58:21Z"
+      },
+      {
+        "title": "LINCOLN INVESTMENT DATA BREACH: Edelson Lechtzin LLP Launches Investigation Into Exposure of Social Security Numbers, Financial and Medical Data",
+        "outlet": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTXdCQVFUa0xnSERpZFlCaWpKamdjUEE4MWtRZld0SkxLMDZOZkIxdW8xbEJ6MlpFRkJ1X2hHYWNsM1hDZXdsX2p4aHk0V2IzMGRSXy1Ha3hNVklyaExObmhlckhBUUtQWVZvZkJnQkF0ZGhhMW9DcHJ2UGxrRzFTa2xxdkhSWEUzQlg2SjhaeG1vV25CM1lOLTk1ZUFLdWtHeVZsSFNCRVdnUWZHRUkxUG1Cek9CUmh3MEd2eVJmdGtVRHk4X1lxbHNYN1ZMSHNlaUVvYnhycDBibFFWR1hJVUV1ZGl1akRXcm1pZnFrVWF1MFR3blVtOG1uNjZOTEEzLUlLZWR0Rk5ObnhJeWVOT1YyUzNhQU5scFpCRHNnRmxwcnhn?oc=5",
+        "published": "2026-09-24T03:23:00Z"
       }
     ]
   },
