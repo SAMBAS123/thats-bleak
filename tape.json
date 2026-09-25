@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25T12:07:54Z",
+  "as_of": "2026-09-25T17:30:03Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,20 +83,26 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
-        "published": "2026-09-25T02:32:32Z"
-      },
-      {
         "title": "Lessons From Spain's First Reported Agentic AI Data Breach",
-        "outlet": "Ropes & Gray LLP",
+        "outlet": "ropesgray.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdwdG9GSkVlM2pYLVhrSXJ5QzJVYnlSRENGcV90UmhPZlZoNlJaV2swVXlUdWI5OGpJUDNmRDlSRl9nQURJcTBQdlViRXl5MWZJX210ZFNsSTFTOXF3RjNFVEVPcnBvSE51M3RWdzZHeVViVGd4UTk5MmN5eVJLTmNfR2hkWDIzR2JTdDNBNjhpc1hGdXFQOWNWUURDMGZaT1Q5UDNfODNzTE1LUG02Ui1aRWVrU2wwclZpclA1MA?oc=5",
         "published": "2026-09-23T13:26:18Z"
       },
       {
+        "title": "Shawn Tuma to Return to SecureWorld Dallas for AI Data Breach Keynote",
+        "outlet": "Spencer Fane",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLU9NTEZQUUpIZ0RDUkFVSndYRDNTOG54SG5TU3BoLW1MVnY5VlZzSHEyVU1VX1M4SUVZRWVGN01nWU5fUFk2MWwydGdEU0wxWGt6aUtjdGFjOFZnNTBNQUtSUmluRUw1aTltX05LZ1loeFAyZlUzSHVPRi10UEsxcHV2OFJIYS1lWm5mRjh5dkx2R2I4OFlhWmF3LXZtRnZiUEhQaklfdjU4dw?oc=5",
+        "published": "2026-09-25T13:01:22Z"
+      },
+      {
+        "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2t0UTFCSHRzUkVpSG5wS2h4enF0dDI3VnVONGNtMEdCZW5wZ0tEM0JLVEZZTnoyVTB0YzROYzg1VjY2V0FkRDlybkxzWGI4aHFUVlpaTmZaLW1DZGQxWGUzOEo0QmpwamxBYVZ4c1hGX3lIbm9MaW5IYjlRMXctY2Z0OVAtSjA2eE1sT2gwcmVfTWRja0dEVXg1Mm9Vd9IBowFBVV95cUxPRFlHcWdkNnBQU011MmtZa3pjSWxqZEtLU2FBbFJmaFR3aVFtSGFhdzR4Q2lQaElGYnJEN1I2cDU3R2FjeXFBQzlnMWlEcG9obF9fTlBIQjRyR243NFRvSVB6NDk0MWlDQzZlSk54UWdkSnpHSk96WFFQcV9ESWVVdDNDVTkwV1BpRkkyOXMyRWNWMUwwYzc5VHlJU0F6dVZHRjc4?oc=5",
+        "published": "2026-09-24T09:56:04Z"
+      },
+      {
         "title": "Pennsylvania to Get Part of $2.2M Settlement in Data Breach",
-        "outlet": "GovTech",
+        "outlet": "govtech.com",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaERlQlNiOUIwcGk3d1Vhb04xT0kyWDZRYWxtZGY3N1g5UFVScUpSRzhQVEJVWmFqVENrUkF1QzNFdGZ2Z1hyd0VLQ2RWa29JWnFhNU9yYTlvd3ZvdHBkMGR1am1oaUhYUzFrc1BJV1hiR3MtR0l1bHVmdGVLYUZCNDdUQ0NCbnlFNldpUERScENoejJobWc?oc=5",
         "published": "2026-09-24T21:03:02Z"
       },
@@ -108,7 +114,7 @@
       },
       {
         "title": "Astrana Health Data Breach Reported; Impact Under Investigation",
-        "outlet": "ClassAction.org",
+        "outlet": "classaction.org",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzQzcldJMFM4T3FKVTEzanRlRWcxY1RTMU8yT3VIX0JkeDFyOFBxbWZVY01LZTlRcTlfaDFJbkF6aXFkYUVrczg1RTMzU3QyQzB5OXd1M3FLcmQyVTRXUGVwUWlUUzliY0dFaHNwNEdTbWluQ3kwdnpKMGdTYldocEg5YlM?oc=5",
         "published": "2026-09-23T13:41:31Z"
       },
@@ -123,12 +129,6 @@
         "outlet": "Columbia Daily Spectator",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
         "published": "2026-09-22T06:00:39Z"
-      },
-      {
-        "title": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach",
-        "outlet": "Colorado Attorney General (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
-        "published": "2026-09-24T17:40:37Z"
       }
     ]
   },
