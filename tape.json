@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25T17:30:03Z",
+  "as_of": "2026-09-25T20:43:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,15 +84,9 @@
     "latest": [
       {
         "title": "Lessons From Spain's First Reported Agentic AI Data Breach",
-        "outlet": "ropesgray.com",
+        "outlet": "Ropes & Gray LLP",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdwdG9GSkVlM2pYLVhrSXJ5QzJVYnlSRENGcV90UmhPZlZoNlJaV2swVXlUdWI5OGpJUDNmRDlSRl9nQURJcTBQdlViRXl5MWZJX210ZFNsSTFTOXF3RjNFVEVPcnBvSE51M3RWdzZHeVViVGd4UTk5MmN5eVJLTmNfR2hkWDIzR2JTdDNBNjhpc1hGdXFQOWNWUURDMGZaT1Q5UDNfODNzTE1LUG02Ui1aRWVrU2wwclZpclA1MA?oc=5",
         "published": "2026-09-23T13:26:18Z"
-      },
-      {
-        "title": "Shawn Tuma to Return to SecureWorld Dallas for AI Data Breach Keynote",
-        "outlet": "Spencer Fane",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLU9NTEZQUUpIZ0RDUkFVSndYRDNTOG54SG5TU3BoLW1MVnY5VlZzSHEyVU1VX1M4SUVZRWVGN01nWU5fUFk2MWwydGdEU0wxWGt6aUtjdGFjOFZnNTBNQUtSUmluRUw1aTltX05LZ1loeFAyZlUzSHVPRi10UEsxcHV2OFJIYS1lWm5mRjh5dkx2R2I4OFlhWmF3LXZtRnZiUEhQaklfdjU4dw?oc=5",
-        "published": "2026-09-25T13:01:22Z"
       },
       {
         "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
@@ -101,20 +95,26 @@
         "published": "2026-09-24T09:56:04Z"
       },
       {
+        "title": "The FBI Data Breach Is a Counterintelligence Disaster",
+        "outlet": "Lawfare",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
+        "published": "2026-09-25T16:05:09Z"
+      },
+      {
         "title": "Pennsylvania to Get Part of $2.2M Settlement in Data Breach",
-        "outlet": "govtech.com",
+        "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaERlQlNiOUIwcGk3d1Vhb04xT0kyWDZRYWxtZGY3N1g5UFVScUpSRzhQVEJVWmFqVENrUkF1QzNFdGZ2Z1hyd0VLQ2RWa29JWnFhNU9yYTlvd3ZvdHBkMGR1am1oaUhYUzFrc1BJV1hiR3MtR0l1bHVmdGVLYUZCNDdUQ0NCbnlFNldpUERScENoejJobWc?oc=5",
         "published": "2026-09-24T21:03:02Z"
       },
       {
         "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
-        "outlet": "FOX5 Vegas",
+        "outlet": "fox5vegas.com",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
         "published": "2026-09-24T23:44:00Z"
       },
       {
         "title": "Astrana Health Data Breach Reported; Impact Under Investigation",
-        "outlet": "classaction.org",
+        "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzQzcldJMFM4T3FKVTEzanRlRWcxY1RTMU8yT3VIX0JkeDFyOFBxbWZVY01LZTlRcTlfaDFJbkF6aXFkYUVrczg1RTMzU3QyQzB5OXd1M3FLcmQyVTRXUGVwUWlUUzliY0dFaHNwNEdTbWluQ3kwdnpKMGdTYldocEg5YlM?oc=5",
         "published": "2026-09-23T13:41:31Z"
       },
