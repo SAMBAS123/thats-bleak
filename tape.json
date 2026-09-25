@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25T00:44:58Z",
+  "as_of": "2026-09-25T06:32:52Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,6 +95,18 @@
         "published": "2026-09-22T06:00:39Z"
       },
       {
+        "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
+        "outlet": "fox5vegas.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
+        "published": "2026-09-24T23:44:00Z"
+      },
+      {
+        "title": "Pennsylvania to Get Part of $2.2M Settlement in Data Breach",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaERlQlNiOUIwcGk3d1Vhb04xT0kyWDZRYWxtZGY3N1g5UFVScUpSRzhQVEJVWmFqVENrUkF1QzNFdGZ2Z1hyd0VLQ2RWa29JWnFhNU9yYTlvd3ZvdHBkMGR1am1oaUhYUzFrc1BJV1hiR3MtR0l1bHVmdGVLYUZCNDdUQ0NCbnlFNldpUERScENoejJobWc?oc=5",
+        "published": "2026-09-24T21:03:02Z"
+      },
+      {
         "title": "Astrana Health Data Breach Reported; Impact Under Investigation",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzQzcldJMFM4T3FKVTEzanRlRWcxY1RTMU8yT3VIX0JkeDFyOFBxbWZVY01LZTlRcTlfaDFJbkF6aXFkYUVrczg1RTMzU3QyQzB5OXd1M3FLcmQyVTRXUGVwUWlUUzliY0dFaHNwNEdTbWluQ3kwdnpKMGdTYldocEg5YlM?oc=5",
@@ -107,28 +119,16 @@
         "published": "2026-09-21T18:16:48Z"
       },
       {
-        "title": "Employees sue global agribusiness following criminal data breach",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVpjUE5fTVJ2R3FFbEs3NzlIWVd0UWliUG1TWm5fYXNiWVlGeS1HTVBUeG1JbHB2R3F3bUdja284M3FMOUUxbmhWLTI3VnVxa2w4UzM5dUhNREdweXBwMWZJVXdiV0N1T0J1X3hlalB4eVJkbHk1Q0ZsblhOcXlpVEdpVVFxR3ByakJKdENIZUtZY0ZVSy1taDBiVQ?oc=5",
-        "published": "2026-09-21T18:58:12Z"
-      },
-      {
         "title": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach",
         "outlet": "Colorado Attorney General (.gov)",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
         "published": "2026-09-24T17:40:37Z"
       },
       {
-        "title": "Pennsylvania to Get Part of $2.2M Settlement in Data Breach",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaERlQlNiOUIwcGk3d1Vhb04xT0kyWDZRYWxtZGY3N1g5UFVScUpSRzhQVEJVWmFqVENrUkF1QzNFdGZ2Z1hyd0VLQ2RWa29JWnFhNU9yYTlvd3ZvdHBkMGR1am1oaUhYUzFrc1BJV1hiR3MtR0l1bHVmdGVLYUZCNDdUQ0NCbnlFNldpUERScENoejJobWc?oc=5",
-        "published": "2026-09-24T21:03:02Z"
-      },
-      {
-        "title": "Vasindas’ Around the Clock Care Settles Data Breach Litigation",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGE1Vk9PU0kxVGJad2RvU0s0bW5ldGxSYnVHZ2xLemo3ZGROV1NxVGZQSzI0ZVROM1JzRmx6UENBZjJTd1Q5cDRfYnEtNVpKRTI3SDhfeXM4U2hXM1FxNzBUZ3QwTGJIZ1FvaExjVXhYOWRkZ1A1MUZoOWZkdzdMYVNFTXlURkpiVnpZ?oc=5",
-        "published": "2026-09-23T16:58:21Z"
+        "title": "West Virginia joins $2.3 million Labcorp data breach settlement",
+        "outlet": "WV News",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
+        "published": "2026-09-24T21:15:00Z"
       }
     ]
   },
