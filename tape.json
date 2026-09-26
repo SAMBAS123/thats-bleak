@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-26T00:07:00Z",
+  "as_of": "2026-09-26T05:23:18Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Lessons From Spain's First Reported Agentic AI Data Breach",
-        "outlet": "ropesgray.com",
+        "outlet": "Ropes & Gray LLP",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdwdG9GSkVlM2pYLVhrSXJ5QzJVYnlSRENGcV90UmhPZlZoNlJaV2swVXlUdWI5OGpJUDNmRDlSRl9nQURJcTBQdlViRXl5MWZJX210ZFNsSTFTOXF3RjNFVEVPcnBvSE51M3RWdzZHeVViVGd4UTk5MmN5eVJLTmNfR2hkWDIzR2JTdDNBNjhpc1hGdXFQOWNWUURDMGZaT1Q5UDNfODNzTE1LUG02Ui1aRWVrU2wwclZpclA1MA?oc=5",
         "published": "2026-09-23T13:26:18Z"
       },
@@ -102,7 +102,7 @@
       },
       {
         "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
-        "outlet": "FOX5 Vegas",
+        "outlet": "fox5vegas.com",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
         "published": "2026-09-24T23:44:00Z"
       },
@@ -113,10 +113,10 @@
         "published": "2026-09-24T21:03:02Z"
       },
       {
-        "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
-        "outlet": "Columbia Daily Spectator",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
-        "published": "2026-09-22T06:00:39Z"
+        "title": "Anti-Corruption Body Probes Aeroméxico 15 Million Data Leak",
+        "outlet": "Mexico Business News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmNraFNEMmxYZ1Vqd25EVHBqMlBiUzJTQU9zbHZTdWwwT3NnRDl5VzFrN0V0cG5mM1gtWHRiVE1rMEQxNEpLRGt6bEJxakxiRi0yT3BZbTJlLU1RbWJGYTl2ZndHSE51MlN3MzNKenR4MHNmT1JjUEpGaWpXQlpyd0pjYk9hSkxhdnhKOUpWSF9yWXJZMHQ2Vm1NOTBRSVE0emtIaA?oc=5",
+        "published": "2026-09-21T18:16:48Z"
       },
       {
         "title": "NSE Insurance Agencies Data Breach Exposes SSNs; Lawsuit Possible",
@@ -125,10 +125,10 @@
         "published": "2026-09-25T15:14:11Z"
       },
       {
-        "title": "Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach",
-        "outlet": "NCDOJ (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNW5zRjhCbUNwLVR4X25aTXc4bkxQOHlZdjlESmtUX0dvM21EeFZWeGtERHVqMnVJRkF2bnRjM2JhTnN1M1Z1TFN3ZXRIb18zb19pRVlqbHRRVkVBUTRMRDJDREF5OWtNWDVKYzBiSEhoZjA4UHQ1OUdHWkR5aThGN3RQSXRXMGFRTnNIaFd2dDdGX0lia1d3V19DeFR1Q2dDYTJLcWY2dzQxYTc1ZkUtR2ZLSUE?oc=5",
-        "published": "2026-09-24T07:00:00Z"
+        "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
+        "outlet": "columbiaspectator.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
+        "published": "2026-09-22T06:00:39Z"
       }
     ]
   },
