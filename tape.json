@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-26T10:11:00Z",
+  "as_of": "2026-09-26T14:42:00Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,15 +90,9 @@
       },
       {
         "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-        "outlet": "securityweek.com",
+        "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2t0UTFCSHRzUkVpSG5wS2h4enF0dDI3VnVONGNtMEdCZW5wZ0tEM0JLVEZZTnoyVTB0YzROYzg1VjY2V0FkRDlybkxzWGI4aHFUVlpaTmZaLW1DZGQxWGUzOEo0QmpwamxBYVZ4c1hGX3lIbm9MaW5IYjlRMXctY2Z0OVAtSjA2eE1sT2gwcmVfTWRja0dEVXg1Mm9Vd9IBowFBVV95cUxPRFlHcWdkNnBQU011MmtZa3pjSWxqZEtLU2FBbFJmaFR3aVFtSGFhdzR4Q2lQaElGYnJEN1I2cDU3R2FjeXFBQzlnMWlEcG9obF9fTlBIQjRyR243NFRvSVB6NDk0MWlDQzZlSk54UWdkSnpHSk96WFFQcV9ESWVVdDNDVTkwV1BpRkkyOXMyRWNWMUwwYzc5VHlJU0F6dVZHRjc4?oc=5",
         "published": "2026-09-24T09:56:04Z"
-      },
-      {
-        "title": "The FBI Data Breach Is a Counterintelligence Disaster",
-        "outlet": "lawfaremedia.org",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
-        "published": "2026-09-25T16:05:09Z"
       },
       {
         "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
@@ -114,7 +108,7 @@
       },
       {
         "title": "Anti-Corruption Body Probes Aeroméxico 15 Million Data Leak",
-        "outlet": "Mexico Business News",
+        "outlet": "mexicobusiness.news",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmNraFNEMmxYZ1Vqd25EVHBqMlBiUzJTQU9zbHZTdWwwT3NnRDl5VzFrN0V0cG5mM1gtWHRiVE1rMEQxNEpLRGt6bEJxakxiRi0yT3BZbTJlLU1RbWJGYTl2ZndHSE51MlN3MzNKenR4MHNmT1JjUEpGaWpXQlpyd0pjYk9hSkxhdnhKOUpWSF9yWXJZMHQ2Vm1NOTBRSVE0emtIaA?oc=5",
         "published": "2026-09-21T18:16:48Z"
       },
@@ -123,6 +117,12 @@
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzRScjM4dU1XY2tndjEtSUxsR0hqRjlvcFFFa3NpWFdvQURDdnpsUUlDNzZnZVpNVjRPSXpZUkNlc3FTdkRyak1neEZJOGlZalhtTjZjdmhqLU9wOW1NMWd6WkFGdm1hZkhLQlJOQVd4T1BhMk1uaVFzQm5uWDh2c2FZd3FWRzV0UzFjMWZOOA?oc=5",
         "published": "2026-09-25T15:14:11Z"
+      },
+      {
+        "title": "The FBI Data Breach Is a Counterintelligence Disaster",
+        "outlet": "Lawfare",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
+        "published": "2026-09-25T16:05:09Z"
       },
       {
         "title": "Labcorp Settles Multistate Data Breach Investigation for $2.3 Million",
