@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-26T05:23:18Z",
+  "as_of": "2026-09-26T10:11:00Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "The FBI Data Breach Is a Counterintelligence Disaster",
-        "outlet": "Lawfare",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
-        "published": "2026-09-25T16:05:09Z"
-      },
-      {
         "title": "Lessons From Spain's First Reported Agentic AI Data Breach",
         "outlet": "Ropes & Gray LLP",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdwdG9GSkVlM2pYLVhrSXJ5QzJVYnlSRENGcV90UmhPZlZoNlJaV2swVXlUdWI5OGpJUDNmRDlSRl9nQURJcTBQdlViRXl5MWZJX210ZFNsSTFTOXF3RjNFVEVPcnBvSE51M3RWdzZHeVViVGd4UTk5MmN5eVJLTmNfR2hkWDIzR2JTdDNBNjhpc1hGdXFQOWNWUURDMGZaT1Q5UDNfODNzTE1LUG02Ui1aRWVrU2wwclZpclA1MA?oc=5",
@@ -96,13 +90,19 @@
       },
       {
         "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-        "outlet": "SecurityWeek",
+        "outlet": "securityweek.com",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2t0UTFCSHRzUkVpSG5wS2h4enF0dDI3VnVONGNtMEdCZW5wZ0tEM0JLVEZZTnoyVTB0YzROYzg1VjY2V0FkRDlybkxzWGI4aHFUVlpaTmZaLW1DZGQxWGUzOEo0QmpwamxBYVZ4c1hGX3lIbm9MaW5IYjlRMXctY2Z0OVAtSjA2eE1sT2gwcmVfTWRja0dEVXg1Mm9Vd9IBowFBVV95cUxPRFlHcWdkNnBQU011MmtZa3pjSWxqZEtLU2FBbFJmaFR3aVFtSGFhdzR4Q2lQaElGYnJEN1I2cDU3R2FjeXFBQzlnMWlEcG9obF9fTlBIQjRyR243NFRvSVB6NDk0MWlDQzZlSk54UWdkSnpHSk96WFFQcV9ESWVVdDNDVTkwV1BpRkkyOXMyRWNWMUwwYzc5VHlJU0F6dVZHRjc4?oc=5",
         "published": "2026-09-24T09:56:04Z"
       },
       {
+        "title": "The FBI Data Breach Is a Counterintelligence Disaster",
+        "outlet": "lawfaremedia.org",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
+        "published": "2026-09-25T16:05:09Z"
+      },
+      {
         "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
-        "outlet": "fox5vegas.com",
+        "outlet": "FOX5 Vegas",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
         "published": "2026-09-24T23:44:00Z"
       },
@@ -125,10 +125,10 @@
         "published": "2026-09-25T15:14:11Z"
       },
       {
-        "title": "Columbia to settle June 2025 data breach lawsuit for $16.1 million",
-        "outlet": "columbiaspectator.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUlzUWRQdGpiNnV0MHJwbndZQm02X0hod2VHR2ptSUZWTVBvRHF3eVRuYmhLUEQ4WUIxTDd5TGtNVnRQLUw4V2VfTTNLNkl0Q1lhZ0RlcDJ0MGRsS2t5UUJsNFlURkJxak1fVUVsNXhOOUt1X3RLQXVnSmlOSU9ncEg2S1NVaUliazVDNnRLTGdVMHJ5U2ExTWtVc2dxeC0xU1I3cXhjcXFiZ2ZXOGUtNzV1ZkxFdw?oc=5",
-        "published": "2026-09-22T06:00:39Z"
+        "title": "Labcorp Settles Multistate Data Breach Investigation for $2.3 Million",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HNGNqRkZ1bXhGRDQ2WnNjS0JvNGktaHNxekV4SEx5dV9zVHoybjgweGt6SXRwS0xNMGZsM2VFb1FmeGVKVjhQRV9vSlZFeS1wMDJTQTRMbVdiM2VvY0pHUW1MYTNJV25obVNfREFCdVNNdw?oc=5",
+        "published": "2026-09-25T16:05:59Z"
       }
     ]
   },
