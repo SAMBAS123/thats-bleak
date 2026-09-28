@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-27T23:55:34Z",
+  "as_of": "2026-09-28T05:47:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,8 +83,14 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be coming next",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
+        "published": "2026-09-28T03:09:11Z"
+      },
+      {
         "title": "The FBI Data Breach Is a Counterintelligence Disaster",
-        "outlet": "lawfaremedia.org",
+        "outlet": "Lawfare",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
         "published": "2026-09-25T16:05:09Z"
       },
@@ -102,15 +108,9 @@
       },
       {
         "title": "Lawsuit against Springfield construction company alleges negligence in data breach",
-        "outlet": "lookouteugene-springfield.com",
+        "outlet": "Lookout Eugene-Springfield",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWlicjdNNkYxRmJhQUYyX1MxVll3NVZKVnlUYVJKSXZCMHl5TFk1X1ZSNHc5NTBTclduVDNsNGpoNlpsczNoTndlM051WF9ENmY0VFB6SnRRTnZKNUVCaE9nU21TUWhDQ29TMnlEZUJXTnc1eG5VTEExVzJLWUpTWGNRbUJOQXFCMFl3VGtFSEdDQkZYSUZqZ3hHWDhuc0FBN1NTQWZBUEZvUFh2OTRqcTBzazVpVDlIY3ZleXlXWW9ZMDU5aUp5dEI3QnJ3OWRaLXdueDBCNzVCS3duWFFZ?oc=5",
         "published": "2026-09-26T12:02:00Z"
-      },
-      {
-        "title": "$1.75M American Vision Partners data breach class action settlement",
-        "outlet": "Top Class Actions",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVBtRGRiaDJvc3pWRGJfREFKRmtIbG9uWkFFMlAxOHJJZFdNRUtySGpORDRJOVBpRmd5aHNKUUUycHJmVDg4NWN1SndPSEhsX09oY2NUb3NoSWNFWU0wT3NRSjluY2ktWVV1RFBhNEN6cTJlOGxQSEYwc3dIUlVhZEFjZ0ZobW5RTV9EaG1JZVRzUThFRTVRRXhncjFuNG9GVkVwMU5FNWU3MFB4RGJpSDQ5R3lHclZqYUJOMlVWQlJRdWZrdVZoaTVNd21RX0gzbms0TF9QWQ?oc=5",
-        "published": "2026-09-25T18:11:06Z"
       },
       {
         "title": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now",
@@ -119,10 +119,10 @@
         "published": "2026-09-23T20:35:48Z"
       },
       {
-        "title": "City of Princeton targeted in data breach",
-        "outlet": "NBC 5 Dallas-Fort Worth",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFhXM2pFek1FdERwa0hPYkFHQkdid3B4TDNfUkhkWng2c0FSWnNpVlJ0RlRsRlQ4SmcwNmFCQ2t1SFdnMUk3M05QRUMwZDlYNWlUMnFyN2p0ZDZ5Z2lVSzFWVVROanFHenppMTlaMmhSNzNCYjJBeVV3Z1h1SUdaRG1VcElYVHlyZFV3LTZwOGZlNXAz0gGcAUFVX3lxTE4xSEo1ejUxblIyRm9mWkxOVHdvTU9rRGtBZGdLRlUyeW5XSVVUMkl3d18yd0lGOEU5dE4zYzZVcmxIdWlVSlNoWE5DdWZTX1EwWG5icW1hV2cxTEdXTlhxSnBwYWJnYlNEVU1fMTJTcERiYmhSOGVwVlk2dmNucjlZNGVOOGFuNFQ4SFpZTm5pVUlMVzI0UF9sQ2QzeA?oc=5",
-        "published": "2026-09-23T03:09:18Z"
+        "title": "Furniture Mart USA data breach class action settlement",
+        "outlet": "Top Class Actions",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVFxRWdoTW85S3ZVZVR3dHFCc2hMdUJxbGNJODFldUxqTmZ1WVR3WENKdmx1aWVQaVRoUHNDSVRMRF9YMzNfQUs5dmlDVGY1OHVlb0VUeWsweHpVd1hlV3FvYzQ0TWJJd09wWEEycVB3SkxvUUZ6dkxtaWVuZGdYcmhCeXVmdE5pcHF0MnZTR0Q5WmlKb000UWhLendKWEZONDBqbHhReUppTGdvR3V2ZzhKY2J5c2JULTlrcFZsRjhuR1JGRWR3?oc=5",
+        "published": "2026-09-24T17:06:02Z"
       },
       {
         "title": "OpenAI data breach latest in long list of hacks in Australia",
