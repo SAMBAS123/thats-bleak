@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-28T05:47:01Z",
+  "as_of": "2026-09-28T14:23:57Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 83,
     "pwn_2026": 294106303,
     "added_2026": 103,
-    "added_7d": 2,
+    "added_7d": 1,
     "added_30d": 6,
     "latest": [
       {
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be coming next",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIZHVEVU40X0hKYktnNTN5djhJVTRGUFp0NXoyTERxbUhGYjZ2Vm4zdmlENTdZU3ZjUHZDQ05MSjI1d2Vrd2E1R0R3ckUyN05CNDkxVTQzdXhPYkNpdTR2MzdBdlBrRnFvS3VsdFZhaDJDaDNUREtnLUhqODhDS1NpV2JtcHV1amFBcWJhVnYwZFdkbkQtV2RxQQ?oc=5",
-        "published": "2026-09-28T03:09:11Z"
-      },
-      {
         "title": "The FBI Data Breach Is a Counterintelligence Disaster",
         "outlet": "Lawfare",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
@@ -114,9 +108,15 @@
       },
       {
         "title": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now",
-        "outlet": "Polygon.com",
+        "outlet": "polygon.com",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2drUGN0YjVDTWZ4VzV2OWgwTEc2SUR4VGVNS24wSU8tMDBwRXAyMmJIRjJCTjNydGRGWnV0R19vV3RLXzZOVkpidGFvelFrSkJoU25Zc2VjQ2c3UW1FTVNVdjFsUmdEN1lWdUNyVEl5Skk2VUo5a1JKeEowYnJNQTJB?oc=5",
         "published": "2026-09-23T20:35:48Z"
+      },
+      {
+        "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+        "published": "2026-09-25T20:37:00Z"
       },
       {
         "title": "Furniture Mart USA data breach class action settlement",
@@ -125,10 +125,10 @@
         "published": "2026-09-24T17:06:02Z"
       },
       {
-        "title": "OpenAI data breach latest in long list of hacks in Australia",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFM2SnQ3ZWdmbk1yS0JKSXkwZFp3QmZsbzZTbmxFTHZMWGxVUk5MMHJFQ1IzcVhjdW5obE5OZzJ3cUFwYlpPUHR3V0hxY3hqd1BtbWVvZWVNYk5GSk1aVjVsdUx0U2J6OGh5R3A2SlhVUzFGeFo2U3pWZG9zU2V4NVNZSHVTRDZiNXJPSkhyWHMxY0NVOXJSV01fX2FVZjRtVGlOTm1Naw?oc=5",
-        "published": "2026-09-24T02:01:00Z"
+        "title": "Pentagon investigates data breach exposing personal information of military members",
+        "outlet": "cbs19.tv",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcXFQdUp4cGlQZERLQk5sLWpJcWxvbnlZU2dzRFlSWk90VGtncmdtVlBZenNjTVh6WVJJY0hiUS1vT3ZvRkJWa3NUampFR0JIWG5PM09kMnZmaXAyTXYzY2lQd1VxMmFOYm8tTkJ1WW55elhuQnZVTFFhN01HbjVXSTc0SkRHV0xDOVdnWS14Qk1aM0tuaXRBbWRkd2lFR0ppcjBSM010T2pTa2tuWXFzRmlyUzVEWUFPZTFMMVBNbTZOYWZLYVVLSnFINWlrWDNwcVAtaVlrcE9DSlFfZ2c2YTNqczN5dlVYbzF1QUlwU1ZCM0Vr?oc=5",
+        "published": "2026-09-27T21:06:00Z"
       }
     ]
   },
