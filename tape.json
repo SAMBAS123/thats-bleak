@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-09-30T08:57:48Z",
+  "as_of": "2026-09-30T16:03:26Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1038,
-    "breaches_2026": 83,
-    "pwn_2026": 294106303,
-    "added_2026": 103,
-    "added_7d": 0,
-    "added_30d": 6,
+    "catalog_total": 1039,
+    "breaches_2026": 84,
+    "pwn_2026": 294530250,
+    "added_2026": 104,
+    "added_7d": 1,
+    "added_30d": 7,
     "latest": [
+      {
+        "name": "Medela",
+        "title": "Medela",
+        "added": "2026-09-30T11:48:28Z",
+        "breach_date": "2026-09-07",
+        "pwn_count": 423947,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#Medela"
+      },
       {
         "name": "LimeLeads",
         "title": "LimeLeads",
@@ -66,14 +74,6 @@
         "breach_date": "2026-08-13",
         "pwn_count": 12933413,
         "url": "https://haveibeenpwned.com/PwnedWebsites#Carhartt"
-      },
-      {
-        "name": "NIUS",
-        "title": "NIUS",
-        "added": "2026-08-23T22:25:44Z",
-        "breach_date": "2025-07-13",
-        "pwn_count": 6090,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#NIUS"
       }
     ]
   },
@@ -82,6 +82,12 @@
     "source": "Google News RSS",
     "hits_7d": 100,
     "latest": [
+      {
+        "title": "FBI investigating massive data breach of the bureau’s job portal",
+        "outlet": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
+        "published": "2026-09-30T08:43:43Z"
+      },
       {
         "title": "More than 3 million people affected by military data breach",
         "outlet": "Federal News Network",
@@ -101,12 +107,6 @@
         "published": "2026-09-28T20:40:04Z"
       },
       {
-        "title": "FBI says it’s addressing massive data breach, vows to go after hackers",
-        "outlet": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkVQRExrTzlOMFNZSmZDSGV2bTZZVk9LYnJRX2xiaHFjSWg2bzZEZUtkbFZiMnVJTUllajM4dXJrU0hmVXg0Y3p1MGFXRGllUFVTeFF4VHIyOXhOdDE1bF82ZEo2OTlaU1VpZ1dXV2xqYTU1amp4MmxqenE4UE5ucEwyUl90YTc2SkpqNmZSd1VwQ2VRaVpXbWh6R0J0SVZKUWdULXBHWVRGRW52TWZUWEs0dw?oc=5",
-        "published": "2026-09-29T20:41:31Z"
-      },
-      {
         "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2t0UTFCSHRzUkVpSG5wS2h4enF0dDI3VnVONGNtMEdCZW5wZ0tEM0JLVEZZTnoyVTB0YzROYzg1VjY2V0FkRDlybkxzWGI4aHFUVlpaTmZaLW1DZGQxWGUzOEo0QmpwamxBYVZ4c1hGX3lIbm9MaW5IYjlRMXctY2Z0OVAtSjA2eE1sT2gwcmVfTWRja0dEVXg1Mm9Vd9IBowFBVV95cUxPRFlHcWdkNnBQU011MmtZa3pjSWxqZEtLU2FBbFJmaFR3aVFtSGFhdzR4Q2lQaElGYnJEN1I2cDU3R2FjeXFBQzlnMWlEcG9obF9fTlBIQjRyR243NFRvSVB6NDk0MWlDQzZlSk54UWdkSnpHSk96WFFQcV9ESWVVdDNDVTkwV1BpRkkyOXMyRWNWMUwwYzc5VHlJU0F6dVZHRjc4?oc=5",
@@ -120,7 +120,7 @@
       },
       {
         "title": "Arizona court data breach exposed foster care records",
-        "outlet": "azfamily.com",
+        "outlet": "AZ Family",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWRMdXU3V2tCWjJmYnliRzl3dmRHS1B2cU9yOFdpR0NqczNNbkNLMlVkM0hkamhnc2JBcUF2OUJnRjQwNkdMYTBVU2dWY2FXdl9qWnd3QXF0dkVKbE41enJZLXhvbENxVS1jdDlWd0I5bEh5b1dCRWg5T0JQTXdmVzBXNUk1UXpuU3R3bHg2Rml6ODZG0gGoAUFVX3lxTFBySS1IVUNsLVRJVDFBcUEzcEF6Yk9XQjhYQmJnMU9iRUlqQ2JMc1JuMWJYWFpReEQ4clJmWlZVRmlsUC16eUVILThfWTVtSkxUMzJRdFdTcWN1Q2pKeXFjcWJjTTNMZmhlMFFEanM4aElqcWthYXV2dzl4WkhndG5LV2hiSGFzUUwyekwzcTZzUVZkVGd5N0tCeXE2N2cyeFcxT3dKZHg0Mw?oc=5",
         "published": "2026-09-30T01:25:00Z"
       },
