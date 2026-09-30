@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30T16:03:26Z",
+  "as_of": "2026-09-30T20:57:47Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,6 +89,12 @@
         "published": "2026-09-30T08:43:43Z"
       },
       {
+        "title": "Pentagon data breach of military personnel raises national security concerns | CNN Politics",
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jY2F1WnFBS1BoWGQ0NlJkdjlPNDhTRlpqTDdsa2F2RjlwUW1raEFpUEltcmRHMnlQaUc4Zng4TkQzNjljOUc0MVg1T2hkRWhSZVBPNDN6SXg2UVlBZm5VU213MGNUNXUzTF83S0RvZGZTWm0xb09DdHJnVkc1aU0?oc=5",
+        "published": "2026-09-25T20:20:56Z"
+      },
+      {
         "title": "More than 3 million people affected by military data breach",
         "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
@@ -117,12 +123,6 @@
         "outlet": "Lookout Eugene-Springfield",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWlicjdNNkYxRmJhQUYyX1MxVll3NVZKVnlUYVJKSXZCMHl5TFk1X1ZSNHc5NTBTclduVDNsNGpoNlpsczNoTndlM051WF9ENmY0VFB6SnRRTnZKNUVCaE9nU21TUWhDQ29TMnlEZUJXTnc1eG5VTEExVzJLWUpTWGNRbUJOQXFCMFl3VGtFSEdDQkZYSUZqZ3hHWDhuc0FBN1NTQWZBUEZvUFh2OTRqcTBzazVpVDlIY3ZleXlXWW9ZMDU5aUp5dEI3QnJ3OWRaLXdueDBCNzVCS3duWFFZ?oc=5",
         "published": "2026-09-26T12:02:00Z"
-      },
-      {
-        "title": "Arizona court data breach exposed foster care records",
-        "outlet": "AZ Family",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWRMdXU3V2tCWjJmYnliRzl3dmRHS1B2cU9yOFdpR0NqczNNbkNLMlVkM0hkamhnc2JBcUF2OUJnRjQwNkdMYTBVU2dWY2FXdl9qWnd3QXF0dkVKbE41enJZLXhvbENxVS1jdDlWd0I5bEh5b1dCRWg5T0JQTXdmVzBXNUk1UXpuU3R3bHg2Rml6ODZG0gGoAUFVX3lxTFBySS1IVUNsLVRJVDFBcUEzcEF6Yk9XQjhYQmJnMU9iRUlqQ2JMc1JuMWJYWFpReEQ4clJmWlZVRmlsUC16eUVILThfWTVtSkxUMzJRdFdTcWN1Q2pKeXFjcWJjTTNMZmhlMFFEanM4aElqcWthYXV2dzl4WkhndG5LV2hiSGFzUUwyekwzcTZzUVZkVGd5N0tCeXE2N2cyeFcxT3dKZHg0Mw?oc=5",
-        "published": "2026-09-30T01:25:00Z"
       },
       {
         "title": "College reaches $750,000 settlement following data breach affecting 96,000 members of the Dartmouth community",
