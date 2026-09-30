@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29T23:09:41Z",
+  "as_of": "2026-09-30T02:19:41Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -86,19 +86,19 @@
         "title": "More than 3 million people affected by military data breach",
         "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
-        "published": "2026-09-28T21:55:18Z"
-      },
-      {
-        "title": "The FBI Data Breach Is a Counterintelligence Disaster",
-        "outlet": "Lawfare",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
-        "published": "2026-09-25T16:05:09Z"
+        "published": "2026-09-28T20:51:17Z"
       },
       {
         "title": "FBI says it’s addressing massive data breach, vows to go after hackers",
         "outlet": "NPR",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkVQRExrTzlOMFNZSmZDSGV2bTZZVk9LYnJRX2xiaHFjSWg2bzZEZUtkbFZiMnVJTUllajM4dXJrU0hmVXg0Y3p1MGFXRGllUFVTeFF4VHIyOXhOdDE1bF82ZEo2OTlaU1VpZ1dXV2xqYTU1amp4MmxqenE4UE5ucEwyUl90YTc2SkpqNmZSd1VwQ2VRaVpXbWh6R0J0SVZKUWdULXBHWVRGRW52TWZUWEs0dw?oc=5",
         "published": "2026-09-29T20:41:31Z"
+      },
+      {
+        "title": "The FBI Data Breach Is a Counterintelligence Disaster",
+        "outlet": "Lawfare",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjJyaFdwQmgwWkkwVTdKbkF3elRTMFJPOXEybk9xY0Zac2lqNGYybEFNT3ptc0tWQ05GVWVoOGdBbUFzYXR4WUlLN3JmUVMyeEptVEkxeUdoSDZOdkFENi1vYnVNMUlERXE3UFgwWTEwS1hOdnVsVkJZLWhIclFwdTdjSlo3YVExVjZyQ1BBTTZnUHNV?oc=5",
+        "published": "2026-09-25T16:05:09Z"
       },
       {
         "title": "44 State Attorneys General Reach Data Breach Settlement",
