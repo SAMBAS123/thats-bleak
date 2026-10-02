@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-02T18:39:35Z",
+  "as_of": "2026-10-02T22:31:58Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "More than 3 million people affected by military data breach",
-        "outlet": "Federal News Network",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
-        "published": "2026-09-28T20:51:17Z"
-      },
-      {
         "title": "FBI says it’s addressing massive data breach, vows to go after hackers",
         "outlet": "NPR",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkVQRExrTzlOMFNZSmZDSGV2bTZZVk9LYnJRX2xiaHFjSWg2bzZEZUtkbFZiMnVJTUllajM4dXJrU0hmVXg0Y3p1MGFXRGllUFVTeFF4VHIyOXhOdDE1bF82ZEo2OTlaU1VpZ1dXV2xqYTU1amp4MmxqenE4UE5ucEwyUl90YTc2SkpqNmZSd1VwQ2VRaVpXbWh6R0J0SVZKUWdULXBHWVRGRW52TWZUWEs0dw?oc=5",
         "published": "2026-09-29T20:41:31Z"
+      },
+      {
+        "title": "More than 3 million people affected by military data breach",
+        "outlet": "Federal News Network",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
+        "published": "2026-09-28T20:51:17Z"
       },
       {
         "title": "H1 2026 Healthcare Data Breach Report",
@@ -108,7 +108,7 @@
       },
       {
         "title": "McMinnville missed a legal deadline to disclose its data breach. It won’t say why.",
-        "outlet": "KPTV",
+        "outlet": "kptv.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFRiM3hNUFBlM0YzX3dWSExMNzBiMmZVTXVOaFEwZzFXQ0ViNW9ybHc1SHkzSGhXd1pnUGRUc2M1QXhabkdLakpjc3ZuU2JGX3BoMWJjTkdQT0FzclNFaVhBVDVMOVFPMlZyeU02bnl1X1Vjd3h2dGVVcFhJNWU4dGFtMjNxNWMwZGFmOVhPMFl1bjA4TEFVa3otQ0pEY1ItZnB3S2xVOV80U1XSAb8BQVVfeXFMUGxsYUQ1czNKZmtzbzMzd1B3NkI4NlRreDhoZFBWeTdrNXhYNUlReEROZlBuYlg3dE1YWE1teVkxSkUtbUFPeGVwVnZyV0hHZ2NrLU8xY2NtX1ZGZldGLTJqd1NhcTYwZmJGeUdWenNpQmV0QTlkTkk3SDFwSXljTklHLTZHWHBWTzhRWnJ5OGRVc3hlN3VrVmVENnNkcHZSRUJLWjRPeVVaRkhEdnc2YUM3LUQwLW1KcXlsLVRVbGc?oc=5",
         "published": "2026-10-01T16:31:00Z"
       },
@@ -125,10 +125,10 @@
         "published": "2026-09-26T12:02:00Z"
       },
       {
-        "title": "Gibson Area Hospital & Health Services Data Breach?",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFp0MUpXeVNNWVBtWGJOSy1ReWY2ZS1rNks3M3B1MFRhWnBKa3d3SUt4UUhPM0JkY29ZNTEyNTJOUjI0XzdLV29TX21VRTZsbTdlc2RSWk1EdVl5eVdqYTFySXhmb285dWhJMlVCUXRFR1FDNHpHSWZaV2FQeU11NkRKY0txOG1zRnpMUV8yZDd3dmZTNHdLSXE0T2RYRUs1TWZtZXVvQQ?oc=5",
-        "published": "2026-09-30T13:39:52Z"
+        "title": "Family Physicians in Jackson Township reports data breach",
+        "outlet": "Canton Repository",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
+        "published": "2026-10-02T14:31:00Z"
       }
     ]
   },
