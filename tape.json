@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-03T20:08:53Z",
+  "as_of": "2026-10-03T23:17:47Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,14 +83,8 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "FBI says it’s addressing massive data breach, vows to go after hackers",
-        "outlet": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkVQRExrTzlOMFNZSmZDSGV2bTZZVk9LYnJRX2xiaHFjSWg2bzZEZUtkbFZiMnVJTUllajM4dXJrU0hmVXg0Y3p1MGFXRGllUFVTeFF4VHIyOXhOdDE1bF82ZEo2OTlaU1VpZ1dXV2xqYTU1amp4MmxqenE4UE5ucEwyUl90YTc2SkpqNmZSd1VwQ2VRaVpXbWh6R0J0SVZKUWdULXBHWVRGRW52TWZUWEs0dw?oc=5",
-        "published": "2026-09-29T20:41:31Z"
-      },
-      {
         "title": "More than 3 million people affected by military data breach",
-        "outlet": "federalnewsnetwork.com",
+        "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
         "published": "2026-09-28T20:51:17Z"
       },
@@ -107,10 +101,10 @@
         "published": "2026-10-02T18:46:02Z"
       },
       {
-        "title": "H1 2026 Healthcare Data Breach Report",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NUHNjMFFrVUppUFRFZzlteC1udmtCN0JLeW9iRTJnR21MX2ZSVWU4UkZxQV92T2VfNWZreVZXeE40dUtyODJjaVNNd0luR295dEcxQTMwREJoRFBkQk5rNjRYY3g4cGU1Tmw5YXNnODRSWEVxRlE?oc=5",
-        "published": "2026-09-30T16:46:06Z"
+        "title": "FBI investigating massive data breach of the bureau’s job portal",
+        "outlet": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
+        "published": "2026-09-30T08:43:43Z"
       },
       {
         "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
@@ -129,6 +123,12 @@
         "outlet": "Hartford Business Journal",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2xtXy1hckxVako5UmlVdUc4a1BqNGp6VXFmbE4zcm53Rmd4c3hMc3R3MGlkWTItZXlfRmF4a0kycGpueklmZEZtSTFHUFFyZnJQQ2FFSVR2R3ZQYnR5NDl3MDVCbG5uWjdMcG54MldDREpmMHVBMHY0VDVpNXRwRkJOZUlSdw?oc=5",
         "published": "2026-10-02T14:28:28Z"
+      },
+      {
+        "title": "College reaches $750,000 settlement following data breach affecting 96,000 members of the Dartmouth community",
+        "outlet": "The Dartmouth",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lM2E4MW1qc3JMaW5oVHhzQzJrc3U0UDFNa2tNQmM0TWpSNG4zWFFmOVR1UXBablNsdG5iUTJQOUV3VHNLMjlPOGd4dlI2cG94Wno4SXJJdllnaFRZX2JRYmF4UXRqeFVxdUpPMW5KU2tHQW1tY0dFRg?oc=5",
+        "published": "2026-09-28T09:07:28Z"
       }
     ]
   },
