@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-03T07:02:41Z",
+  "as_of": "2026-10-03T12:41:35Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,13 +84,13 @@
     "latest": [
       {
         "title": "FBI says it’s addressing massive data breach, vows to go after hackers",
-        "outlet": "npr.org",
+        "outlet": "NPR",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkVQRExrTzlOMFNZSmZDSGV2bTZZVk9LYnJRX2xiaHFjSWg2bzZEZUtkbFZiMnVJTUllajM4dXJrU0hmVXg0Y3p1MGFXRGllUFVTeFF4VHIyOXhOdDE1bF82ZEo2OTlaU1VpZ1dXV2xqYTU1amp4MmxqenE4UE5ucEwyUl90YTc2SkpqNmZSd1VwQ2VRaVpXbWh6R0J0SVZKUWdULXBHWVRGRW52TWZUWEs0dw?oc=5",
         "published": "2026-09-29T20:41:31Z"
       },
       {
         "title": "More than 3 million people affected by military data breach",
-        "outlet": "Federal News Network",
+        "outlet": "federalnewsnetwork.com",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
         "published": "2026-09-28T20:51:17Z"
       },
@@ -102,21 +102,21 @@
       },
       {
         "title": "44 State Attorneys General Reach Data Breach Settlement",
-        "outlet": "GovTech",
+        "outlet": "govtech.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemRpZVUxR2ZhT29uM1ZYbTRFR2xKYzFHS3J5YmJUaVpPNWI4VkJScGpia0ppYlhIZnFjS21UVEw1b0ROMnJ0NXl0N0RHUERmWEw0Tm1fTlF3bEtWenBySlVzdU9LRFFnRkZSS0ZvMkFHbVRmX0VMZ0ZURDd3N0drQUR4NWNxSnpfZ1FrTG1hWHRVZw?oc=5",
         "published": "2026-09-28T20:40:04Z"
-      },
-      {
-        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
-        "outlet": "AL.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
-        "published": "2026-10-01T18:25:00Z"
       },
       {
         "title": "H1 2026 Healthcare Data Breach Report",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NUHNjMFFrVUppUFRFZzlteC1udmtCN0JLeW9iRTJnR21MX2ZSVWU4UkZxQV92T2VfNWZreVZXeE40dUtyODJjaVNNd0luR295dEcxQTMwREJoRFBkQk5rNjRYY3g4cGU1Tmw5YXNnODRSWEVxRlE?oc=5",
         "published": "2026-09-30T16:46:06Z"
+      },
+      {
+        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
+        "outlet": "AL.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
+        "published": "2026-10-01T18:25:00Z"
       },
       {
         "title": "McMinnville missed a legal deadline to disclose its data breach. It won’t say why.",
