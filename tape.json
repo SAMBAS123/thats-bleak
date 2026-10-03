@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-03T12:41:35Z",
+  "as_of": "2026-10-03T17:33:59Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -90,21 +90,21 @@
       },
       {
         "title": "More than 3 million people affected by military data breach",
-        "outlet": "federalnewsnetwork.com",
+        "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
         "published": "2026-09-28T20:51:17Z"
+      },
+      {
+        "title": "44 State Attorneys General Reach Data Breach Settlement",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemRpZVUxR2ZhT29uM1ZYbTRFR2xKYzFHS3J5YmJUaVpPNWI4VkJScGpia0ppYlhIZnFjS21UVEw1b0ROMnJ0NXl0N0RHUERmWEw0Tm1fTlF3bEtWenBySlVzdU9LRFFnRkZSS0ZvMkFHbVRmX0VMZ0ZURDd3N0drQUR4NWNxSnpfZ1FrTG1hWHRVZw?oc=5",
+        "published": "2026-09-28T20:40:04Z"
       },
       {
         "title": "DriveWealth Data Breach Exposes SSNs; Affects Millions",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUhJVXB5NmNlN1RzS2MtNGpVMHZYMDliMW1zak1MMGI3WFlCUmNxWFFFVmZCckVTM2FsbzNlT2h4R2psM2ZrbzBYNUdTT0VGR2REUFl2RWotb2lFM0R4bUpXakNSakZVNl9vYmQ4Q1UtMTlIQU9hSVRRdzB1dTU3UA?oc=5",
         "published": "2026-10-02T18:46:02Z"
-      },
-      {
-        "title": "44 State Attorneys General Reach Data Breach Settlement",
-        "outlet": "govtech.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemRpZVUxR2ZhT29uM1ZYbTRFR2xKYzFHS3J5YmJUaVpPNWI4VkJScGpia0ppYlhIZnFjS21UVEw1b0ROMnJ0NXl0N0RHUERmWEw0Tm1fTlF3bEtWenBySlVzdU9LRFFnRkZSS0ZvMkFHbVRmX0VMZ0ZURDd3N0drQUR4NWNxSnpfZ1FrTG1hWHRVZw?oc=5",
-        "published": "2026-09-28T20:40:04Z"
       },
       {
         "title": "H1 2026 Healthcare Data Breach Report",
@@ -119,10 +119,10 @@
         "published": "2026-10-01T18:25:00Z"
       },
       {
-        "title": "McMinnville missed a legal deadline to disclose its data breach. It won’t say why.",
-        "outlet": "KPTV",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFRiM3hNUFBlM0YzX3dWSExMNzBiMmZVTXVOaFEwZzFXQ0ViNW9ybHc1SHkzSGhXd1pnUGRUc2M1QXhabkdLakpjc3ZuU2JGX3BoMWJjTkdQT0FzclNFaVhBVDVMOVFPMlZyeU02bnl1X1Vjd3h2dGVVcFhJNWU4dGFtMjNxNWMwZGFmOVhPMFl1bjA4TEFVa3otQ0pEY1ItZnB3S2xVOV80U1XSAb8BQVVfeXFMUGxsYUQ1czNKZmtzbzMzd1B3NkI4NlRreDhoZFBWeTdrNXhYNUlReEROZlBuYlg3dE1YWE1teVkxSkUtbUFPeGVwVnZyV0hHZ2NrLU8xY2NtX1ZGZldGLTJqd1NhcTYwZmJGeUdWenNpQmV0QTlkTkk3SDFwSXljTklHLTZHWHBWTzhRWnJ5OGRVc3hlN3VrVmVENnNkcHZSRUJLWjRPeVVaRkhEdnc2YUM3LUQwLW1KcXlsLVRVbGc?oc=5",
-        "published": "2026-10-01T16:31:00Z"
+        "title": "Marin County residents concerned after report reveals Flock cameras data breach",
+        "outlet": "NBC Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaS00UUxwU3Eyb2ZTVTdQNC15YTdHa3F1VHRUQVpPMGM2Mi15VHRPNXRwRXVQejhSRTBnTy1mRlFjdmkzOEViSW9QcGw2eFhqNmRxMWVOdnNYdTVpeHFlZEsyNUhzT0FKNjhNOWI4Tk9uU3d6aUkyTUxXM3FyQURKYkRXTW15dndJRzNQTtIBlAFBVV95cUxOb3RUajE0dkhvajhxN2x3WnVwa1NhNlhjQV91TGtVV0hTX29DWHNDNjNNekdIV3I5VGZoNElQd0JsQW05ajRuZHFnTVFwU2ZhNExpdEYwQkd2T0JqSFhBME5MX2p5OVJHOGpyWVVMQ1ZOaXVEZmdkNHcwRWQ1aHJwMGtEcER0NElZUHNXMmo5bFJ3OGlm?oc=5",
+        "published": "2026-10-03T01:13:18Z"
       },
       {
         "title": "Waterford Hotel Group reports data breach",
