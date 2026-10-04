@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-04T02:50:11Z",
+  "as_of": "2026-10-04T10:03:15Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,12 +89,6 @@
         "published": "2026-09-28T20:51:17Z"
       },
       {
-        "title": "DriveWealth Data Breach Exposes SSNs; Affects Millions",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUhJVXB5NmNlN1RzS2MtNGpVMHZYMDliMW1zak1MMGI3WFlCUmNxWFFFVmZCckVTM2FsbzNlT2h4R2psM2ZrbzBYNUdTT0VGR2REUFl2RWotb2lFM0R4bUpXakNSakZVNl9vYmQ4Q1UtMTlIQU9hSVRRdzB1dTU3UA?oc=5",
-        "published": "2026-10-02T18:46:02Z"
-      },
-      {
         "title": "FBI investigating massive data breach of the bureau’s job portal",
         "outlet": "NPR",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
@@ -113,10 +107,10 @@
         "published": "2026-10-03T01:13:18Z"
       },
       {
-        "title": "Waterford Hotel Group reports data breach",
-        "outlet": "Hartford Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2xtXy1hckxVako5UmlVdUc4a1BqNGp6VXFmbE4zcm53Rmd4c3hMc3R3MGlkWTItZXlfRmF4a0kycGpueklmZEZtSTFHUFFyZnJQQ2FFSVR2R3ZQYnR5NDl3MDVCbG5uWjdMcG54MldDREpmMHVBMHY0VDVpNXRwRkJOZUlSdw?oc=5",
-        "published": "2026-10-02T14:28:28Z"
+        "title": "Gibson Area Hospital & Health Services Data Breach?",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFp0MUpXeVNNWVBtWGJOSy1ReWY2ZS1rNks3M3B1MFRhWnBKa3d3SUt4UUhPM0JkY29ZNTEyNTJOUjI0XzdLV29TX21VRTZsbTdlc2RSWk1EdVl5eVdqYTFySXhmb285dWhJMlVCUXRFR1FDNHpHSWZaV2FQeU11NkRKY0txOG1zRnpMUV8yZDd3dmZTNHdLSXE0T2RYRUs1TWZtZXVvQQ?oc=5",
+        "published": "2026-09-30T13:39:52Z"
       },
       {
         "title": "College reaches $750,000 settlement following data breach affecting 96,000 members of the Dartmouth community",
@@ -129,6 +123,12 @@
         "outlet": "Canton Repository",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
         "published": "2026-10-02T14:31:00Z"
+      },
+      {
+        "title": "Arizona court data breach exposed foster care records",
+        "outlet": "AZ Family",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWRMdXU3V2tCWjJmYnliRzl3dmRHS1B2cU9yOFdpR0NqczNNbkNLMlVkM0hkamhnc2JBcUF2OUJnRjQwNkdMYTBVU2dWY2FXdl9qWnd3QXF0dkVKbE41enJZLXhvbENxVS1jdDlWd0I5bEh5b1dCRWg5T0JQTXdmVzBXNUk1UXpuU3R3bHg2Rml6ODZG0gGoAUFVX3lxTFBySS1IVUNsLVRJVDFBcUEzcEF6Yk9XQjhYQmJnMU9iRUlqQ2JMc1JuMWJYWFpReEQ4clJmWlZVRmlsUC16eUVILThfWTVtSkxUMzJRdFdTcWN1Q2pKeXFjcWJjTTNMZmhlMFFEanM4aElqcWthYXV2dzl4WkhndG5LV2hiSGFzUUwyekwzcTZzUVZkVGd5N0tCeXE2N2cyeFcxT3dKZHg0Mw?oc=5",
+        "published": "2026-09-30T01:25:00Z"
       }
     ]
   },
