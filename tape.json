@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-04T15:29:35Z",
+  "as_of": "2026-10-04T18:45:36Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "More than 3 million people affected by military data breach",
-        "outlet": "Federal News Network",
+        "outlet": "federalnewsnetwork.com",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
         "published": "2026-09-28T20:51:17Z"
       },
@@ -93,12 +93,6 @@
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemRpZVUxR2ZhT29uM1ZYbTRFR2xKYzFHS3J5YmJUaVpPNWI4VkJScGpia0ppYlhIZnFjS21UVEw1b0ROMnJ0NXl0N0RHUERmWEw0Tm1fTlF3bEtWenBySlVzdU9LRFFnRkZSS0ZvMkFHbVRmX0VMZ0ZURDd3N0drQUR4NWNxSnpfZ1FrTG1hWHRVZw?oc=5",
         "published": "2026-09-28T20:40:04Z"
-      },
-      {
-        "title": "FBI investigating massive data breach of the bureau’s job portal",
-        "outlet": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
-        "published": "2026-09-30T08:43:43Z"
       },
       {
         "title": "Marin County residents concerned after report reveals Flock cameras data breach",
@@ -129,6 +123,12 @@
         "outlet": "Canton Repository",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
         "published": "2026-10-02T14:31:00Z"
+      },
+      {
+        "title": "Convincing Free Mobile phishing emails appear after data breach",
+        "outlet": "Malwarebytes",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVEtbEJQTVphWUNmNmFScEpDbUlJSlhjMzFrLXlaRjVkUl8xT1k0MmF3N2lNXy1TQTNBa0xpVUM2cmtXYUo5MGF4Uy0yNTYySS0zUTJLdTRJc0ZTaFIzMmZvaXJ2T2hZb2pHVF92UDZ4ZHJOZHZnb3k1RUxQLW5lLXhHSlZEVWJ5X2s4T1dpUGFkeE1IZTlsdVlkb2tKVFl1c0VRZzVYaDROV2VLMXZiRQ?oc=5",
+        "published": "2026-10-01T07:00:00Z"
       }
     ]
   },
