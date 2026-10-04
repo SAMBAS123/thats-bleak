@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-04T10:03:15Z",
+  "as_of": "2026-10-04T15:29:35Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,22 +89,28 @@
         "published": "2026-09-28T20:51:17Z"
       },
       {
+        "title": "44 State Attorneys General Reach Data Breach Settlement",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemRpZVUxR2ZhT29uM1ZYbTRFR2xKYzFHS3J5YmJUaVpPNWI4VkJScGpia0ppYlhIZnFjS21UVEw1b0ROMnJ0NXl0N0RHUERmWEw0Tm1fTlF3bEtWenBySlVzdU9LRFFnRkZSS0ZvMkFHbVRmX0VMZ0ZURDd3N0drQUR4NWNxSnpfZ1FrTG1hWHRVZw?oc=5",
+        "published": "2026-09-28T20:40:04Z"
+      },
+      {
         "title": "FBI investigating massive data breach of the bureau’s job portal",
         "outlet": "NPR",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
         "published": "2026-09-30T08:43:43Z"
       },
       {
-        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
-        "outlet": "AL.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
-        "published": "2026-10-01T18:25:00Z"
-      },
-      {
         "title": "Marin County residents concerned after report reveals Flock cameras data breach",
         "outlet": "NBC Bay Area",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaS00UUxwU3Eyb2ZTVTdQNC15YTdHa3F1VHRUQVpPMGM2Mi15VHRPNXRwRXVQejhSRTBnTy1mRlFjdmkzOEViSW9QcGw2eFhqNmRxMWVOdnNYdTVpeHFlZEsyNUhzT0FKNjhNOWI4Tk9uU3d6aUkyTUxXM3FyQURKYkRXTW15dndJRzNQTtIBlAFBVV95cUxOb3RUajE0dkhvajhxN2x3WnVwa1NhNlhjQV91TGtVV0hTX29DWHNDNjNNekdIV3I5VGZoNElQd0JsQW05ajRuZHFnTVFwU2ZhNExpdEYwQkd2T0JqSFhBME5MX2p5OVJHOGpyWVVMQ1ZOaXVEZmdkNHcwRWQ1aHJwMGtEcER0NElZUHNXMmo5bFJ3OGlm?oc=5",
         "published": "2026-10-03T01:13:18Z"
+      },
+      {
+        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
+        "outlet": "AL.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
+        "published": "2026-10-01T18:25:00Z"
       },
       {
         "title": "Gibson Area Hospital & Health Services Data Breach?",
@@ -123,12 +129,6 @@
         "outlet": "Canton Repository",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
         "published": "2026-10-02T14:31:00Z"
-      },
-      {
-        "title": "Arizona court data breach exposed foster care records",
-        "outlet": "AZ Family",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWRMdXU3V2tCWjJmYnliRzl3dmRHS1B2cU9yOFdpR0NqczNNbkNLMlVkM0hkamhnc2JBcUF2OUJnRjQwNkdMYTBVU2dWY2FXdl9qWnd3QXF0dkVKbE41enJZLXhvbENxVS1jdDlWd0I5bEh5b1dCRWg5T0JQTXdmVzBXNUk1UXpuU3R3bHg2Rml6ODZG0gGoAUFVX3lxTFBySS1IVUNsLVRJVDFBcUEzcEF6Yk9XQjhYQmJnMU9iRUlqQ2JMc1JuMWJYWFpReEQ4clJmWlZVRmlsUC16eUVILThfWTVtSkxUMzJRdFdTcWN1Q2pKeXFjcWJjTTNMZmhlMFFEanM4aElqcWthYXV2dzl4WkhndG5LV2hiSGFzUUwyekwzcTZzUVZkVGd5N0tCeXE2N2cyeFcxT3dKZHg0Mw?oc=5",
-        "published": "2026-09-30T01:25:00Z"
       }
     ]
   },
