@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-04T18:45:36Z",
+  "as_of": "2026-10-04T22:28:54Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -84,7 +84,7 @@
     "latest": [
       {
         "title": "More than 3 million people affected by military data breach",
-        "outlet": "federalnewsnetwork.com",
+        "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
         "published": "2026-09-28T20:51:17Z"
       },
@@ -125,10 +125,10 @@
         "published": "2026-10-02T14:31:00Z"
       },
       {
-        "title": "Convincing Free Mobile phishing emails appear after data breach",
-        "outlet": "Malwarebytes",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVEtbEJQTVphWUNmNmFScEpDbUlJSlhjMzFrLXlaRjVkUl8xT1k0MmF3N2lNXy1TQTNBa0xpVUM2cmtXYUo5MGF4Uy0yNTYySS0zUTJLdTRJc0ZTaFIzMmZvaXJ2T2hZb2pHVF92UDZ4ZHJOZHZnb3k1RUxQLW5lLXhHSlZEVWJ5X2s4T1dpUGFkeE1IZTlsdVlkb2tKVFl1c0VRZzVYaDROV2VLMXZiRQ?oc=5",
-        "published": "2026-10-01T07:00:00Z"
+        "title": "FBI investigating massive data breach of the bureau’s job portal",
+        "outlet": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
+        "published": "2026-09-30T08:43:43Z"
       }
     ]
   },
