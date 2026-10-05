@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-05T07:38:18Z",
+  "as_of": "2026-10-05T16:21:16Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,16 +95,22 @@
         "published": "2026-09-28T20:40:04Z"
       },
       {
-        "title": "Marin County residents concerned after report reveals Flock cameras data breach",
-        "outlet": "NBC Bay Area",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaS00UUxwU3Eyb2ZTVTdQNC15YTdHa3F1VHRUQVpPMGM2Mi15VHRPNXRwRXVQejhSRTBnTy1mRlFjdmkzOEViSW9QcGw2eFhqNmRxMWVOdnNYdTVpeHFlZEsyNUhzT0FKNjhNOWI4Tk9uU3d6aUkyTUxXM3FyQURKYkRXTW15dndJRzNQTtIBlAFBVV95cUxOb3RUajE0dkhvajhxN2x3WnVwa1NhNlhjQV91TGtVV0hTX29DWHNDNjNNekdIV3I5VGZoNElQd0JsQW05ajRuZHFnTVFwU2ZhNExpdEYwQkd2T0JqSFhBME5MX2p5OVJHOGpyWVVMQ1ZOaXVEZmdkNHcwRWQ1aHJwMGtEcER0NElZUHNXMmo5bFJ3OGlm?oc=5",
-        "published": "2026-10-03T01:13:18Z"
-      },
-      {
         "title": "FBI investigating massive data breach of the bureau’s job portal",
         "outlet": "NPR",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
         "published": "2026-09-30T08:43:43Z"
+      },
+      {
+        "title": "Texas Hospice Management Company Data Breach Affects 35,000 Texas Residents",
+        "outlet": "hipaajournal.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01UDJVcG8yNGRLRWNWRjFvSDVveXRKbWl6VGIzaUZocmZ2dHR6blY3T3hic0Q4LUd3ZFhZUDZsczNBNHpkV1lVNks3MTNqN3I2VUFhSURJRlByM1FfWC1WOFBIMF9mdldPODJmV1E2WTFWNy1ScEN3?oc=5",
+        "published": "2026-10-02T10:01:12Z"
+      },
+      {
+        "title": "Marin County residents concerned after report reveals Flock cameras data breach",
+        "outlet": "NBC Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaS00UUxwU3Eyb2ZTVTdQNC15YTdHa3F1VHRUQVpPMGM2Mi15VHRPNXRwRXVQejhSRTBnTy1mRlFjdmkzOEViSW9QcGw2eFhqNmRxMWVOdnNYdTVpeHFlZEsyNUhzT0FKNjhNOWI4Tk9uU3d6aUkyTUxXM3FyQURKYkRXTW15dndJRzNQTtIBlAFBVV95cUxOb3RUajE0dkhvajhxN2x3WnVwa1NhNlhjQV91TGtVV0hTX29DWHNDNjNNekdIV3I5VGZoNElQd0JsQW05ajRuZHFnTVFwU2ZhNExpdEYwQkd2T0JqSFhBME5MX2p5OVJHOGpyWVVMQ1ZOaXVEZmdkNHcwRWQ1aHJwMGtEcER0NElZUHNXMmo5bFJ3OGlm?oc=5",
+        "published": "2026-10-03T01:13:18Z"
       },
       {
         "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
@@ -113,22 +119,16 @@
         "published": "2026-10-01T18:25:00Z"
       },
       {
-        "title": "Gibson Area Hospital & Health Services Data Breach?",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFp0MUpXeVNNWVBtWGJOSy1ReWY2ZS1rNks3M3B1MFRhWnBKa3d3SUt4UUhPM0JkY29ZNTEyNTJOUjI0XzdLV29TX21VRTZsbTdlc2RSWk1EdVl5eVdqYTFySXhmb285dWhJMlVCUXRFR1FDNHpHSWZaV2FQeU11NkRKY0txOG1zRnpMUV8yZDd3dmZTNHdLSXE0T2RYRUs1TWZtZXVvQQ?oc=5",
-        "published": "2026-09-30T13:39:52Z"
+        "title": "Labcorp settles $2.3B data breach lawsuit brought by 44 states",
+        "outlet": "HealthExec",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmVqVzUxYkNfdEtFRGtsM1h3bWxQbEtBUTNEYUs1NE50QV9qb0Jhd3RKZ21OSTZHZWJSNG5iSlJEdFd4cHNQdkx5UXQzQmxLMXR3T2wyV2NXd08zY3JYR3hodXZpRjcybFNBUDNZektYSmcyU3ZlVVNrTG56Z3l6bFR3WGExUHNoMXRHOXNndGpya0l0MFdJay1LdGZpUzg1MG1mOGg4bmY4SHVQS2hOdg?oc=5",
+        "published": "2026-10-02T23:26:41Z"
       },
       {
-        "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
-        "outlet": "MedCity News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHNBZkpoQ1R0SzRjWF8xSHd3eEs4ZkhXSFRtbGxrZE5Ndk1hMENvNF9NeXZsa3ZfQjJUYVhyaThLRUI2a1ZoMmhBSWFtblVUZU9ucjV1VGFOOGh5LVd6LXppVzZ3RGh5UUd0ZmtRWW9aQ1EyYklnUGMyYVAzRzNnUEhha2FuU0RSOXBzNVhrRGI5WXVPajQ3ZldxOUV1RU5fTmdTTUlHUGhmOWxIYW9qRndXcTNheVBxTGhoRE9xdXE?oc=5",
-        "published": "2026-10-05T00:01:49Z"
-      },
-      {
-        "title": "College reaches $750,000 settlement following data breach affecting 96,000 members of the Dartmouth community",
-        "outlet": "The Dartmouth",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lM2E4MW1qc3JMaW5oVHhzQzJrc3U0UDFNa2tNQmM0TWpSNG4zWFFmOVR1UXBablNsdG5iUTJQOUV3VHNLMjlPOGd4dlI2cG94Wno4SXJJdllnaFRZX2JRYmF4UXRqeFVxdUpPMW5KU2tHQW1tY0dFRg?oc=5",
-        "published": "2026-09-28T09:07:28Z"
+        "title": "Family Physicians in Jackson Township reports data breach",
+        "outlet": "Canton Repository",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
+        "published": "2026-10-02T14:31:00Z"
       }
     ]
   },
