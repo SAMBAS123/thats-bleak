@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-05T01:12:38Z",
+  "as_of": "2026-10-05T07:38:18Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,16 +101,16 @@
         "published": "2026-10-03T01:13:18Z"
       },
       {
+        "title": "FBI investigating massive data breach of the bureau’s job portal",
+        "outlet": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
+        "published": "2026-09-30T08:43:43Z"
+      },
+      {
         "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
         "outlet": "AL.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
         "published": "2026-10-01T18:25:00Z"
-      },
-      {
-        "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
-        "outlet": "MedCity News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHNBZkpoQ1R0SzRjWF8xSHd3eEs4ZkhXSFRtbGxrZE5Ndk1hMENvNF9NeXZsa3ZfQjJUYVhyaThLRUI2a1ZoMmhBSWFtblVUZU9ucjV1VGFOOGh5LVd6LXppVzZ3RGh5UUd0ZmtRWW9aQ1EyYklnUGMyYVAzRzNnUEhha2FuU0RSOXBzNVhrRGI5WXVPajQ3ZldxOUV1RU5fTmdTTUlHUGhmOWxIYW9qRndXcTNheVBxTGhoRE9xdXE?oc=5",
-        "published": "2026-10-05T00:01:49Z"
       },
       {
         "title": "Gibson Area Hospital & Health Services Data Breach?",
@@ -119,16 +119,16 @@
         "published": "2026-09-30T13:39:52Z"
       },
       {
-        "title": "Family Physicians in Jackson Township reports data breach",
-        "outlet": "Canton Repository",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
-        "published": "2026-10-02T14:31:00Z"
+        "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
+        "outlet": "MedCity News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHNBZkpoQ1R0SzRjWF8xSHd3eEs4ZkhXSFRtbGxrZE5Ndk1hMENvNF9NeXZsa3ZfQjJUYVhyaThLRUI2a1ZoMmhBSWFtblVUZU9ucjV1VGFOOGh5LVd6LXppVzZ3RGh5UUd0ZmtRWW9aQ1EyYklnUGMyYVAzRzNnUEhha2FuU0RSOXBzNVhrRGI5WXVPajQ3ZldxOUV1RU5fTmdTTUlHUGhmOWxIYW9qRndXcTNheVBxTGhoRE9xdXE?oc=5",
+        "published": "2026-10-05T00:01:49Z"
       },
       {
-        "title": "FBI investigating massive data breach of the bureau’s job portal",
-        "outlet": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
-        "published": "2026-09-30T08:43:43Z"
+        "title": "College reaches $750,000 settlement following data breach affecting 96,000 members of the Dartmouth community",
+        "outlet": "The Dartmouth",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lM2E4MW1qc3JMaW5oVHhzQzJrc3U0UDFNa2tNQmM0TWpSNG4zWFFmOVR1UXBablNsdG5iUTJQOUV3VHNLMjlPOGd4dlI2cG94Wno4SXJJdllnaFRZX2JRYmF4UXRqeFVxdUpPMW5KU2tHQW1tY0dFRg?oc=5",
+        "published": "2026-09-28T09:07:28Z"
       }
     ]
   },
