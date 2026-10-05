@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-05T16:21:16Z",
+  "as_of": "2026-10-05T22:52:56Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,18 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "More than 3 million people affected by military data breach",
-        "outlet": "Federal News Network",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkptbFd3bTFRMUYzYUFUU3V1c1JRcTdaWUN5WnNHNEk1b0lZN0dYOHVyUzM5VVVVeGI1eU5yRncwNTNMNVFuRExNMHdVZDhsWVFSRk5GclpSVzNLc1hJZ0RNakd6ZG83TDNzUFlSeWJEY2xVamE1S0ZNc0R0am9UWVpEZDVlemx6MmVTdHFVcTlPd0x5dFNnbUlxY2d6V3J0MGVVVHNwVGFkcW8zZ2FxR3Nn?oc=5",
-        "published": "2026-09-28T20:51:17Z"
-      },
-      {
-        "title": "44 State Attorneys General Reach Data Breach Settlement",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemRpZVUxR2ZhT29uM1ZYbTRFR2xKYzFHS3J5YmJUaVpPNWI4VkJScGpia0ppYlhIZnFjS21UVEw1b0ROMnJ0NXl0N0RHUERmWEw0Tm1fTlF3bEtWenBySlVzdU9LRFFnRkZSS0ZvMkFHbVRmX0VMZ0ZURDd3N0drQUR4NWNxSnpfZ1FrTG1hWHRVZw?oc=5",
-        "published": "2026-09-28T20:40:04Z"
-      },
-      {
         "title": "FBI investigating massive data breach of the bureau’s job portal",
         "outlet": "NPR",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
@@ -102,13 +90,13 @@
       },
       {
         "title": "Texas Hospice Management Company Data Breach Affects 35,000 Texas Residents",
-        "outlet": "hipaajournal.com",
+        "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01UDJVcG8yNGRLRWNWRjFvSDVveXRKbWl6VGIzaUZocmZ2dHR6blY3T3hic0Q4LUd3ZFhZUDZsczNBNHpkV1lVNks3MTNqN3I2VUFhSURJRlByM1FfWC1WOFBIMF9mdldPODJmV1E2WTFWNy1ScEN3?oc=5",
         "published": "2026-10-02T10:01:12Z"
       },
       {
         "title": "Marin County residents concerned after report reveals Flock cameras data breach",
-        "outlet": "NBC Bay Area",
+        "outlet": "nbcbayarea.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaS00UUxwU3Eyb2ZTVTdQNC15YTdHa3F1VHRUQVpPMGM2Mi15VHRPNXRwRXVQejhSRTBnTy1mRlFjdmkzOEViSW9QcGw2eFhqNmRxMWVOdnNYdTVpeHFlZEsyNUhzT0FKNjhNOWI4Tk9uU3d6aUkyTUxXM3FyQURKYkRXTW15dndJRzNQTtIBlAFBVV95cUxOb3RUajE0dkhvajhxN2x3WnVwa1NhNlhjQV91TGtVV0hTX29DWHNDNjNNekdIV3I5VGZoNElQd0JsQW05ajRuZHFnTVFwU2ZhNExpdEYwQkd2T0JqSFhBME5MX2p5OVJHOGpyWVVMQ1ZOaXVEZmdkNHcwRWQ1aHJwMGtEcER0NElZUHNXMmo5bFJ3OGlm?oc=5",
         "published": "2026-10-03T01:13:18Z"
       },
@@ -119,6 +107,12 @@
         "published": "2026-10-01T18:25:00Z"
       },
       {
+        "title": "McMinnville missed a legal deadline to disclose its data breach. It won’t say why",
+        "outlet": "kptv.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFRiM3hNUFBlM0YzX3dWSExMNzBiMmZVTXVOaFEwZzFXQ0ViNW9ybHc1SHkzSGhXd1pnUGRUc2M1QXhabkdLakpjc3ZuU2JGX3BoMWJjTkdQT0FzclNFaVhBVDVMOVFPMlZyeU02bnl1X1Vjd3h2dGVVcFhJNWU4dGFtMjNxNWMwZGFmOVhPMFl1bjA4TEFVa3otQ0pEY1ItZnB3S2xVOV80U1XSAb8BQVVfeXFMUGxsYUQ1czNKZmtzbzMzd1B3NkI4NlRreDhoZFBWeTdrNXhYNUlReEROZlBuYlg3dE1YWE1teVkxSkUtbUFPeGVwVnZyV0hHZ2NrLU8xY2NtX1ZGZldGLTJqd1NhcTYwZmJGeUdWenNpQmV0QTlkTkk3SDFwSXljTklHLTZHWHBWTzhRWnJ5OGRVc3hlN3VrVmVENnNkcHZSRUJLWjRPeVVaRkhEdnc2YUM3LUQwLW1KcXlsLVRVbGc?oc=5",
+        "published": "2026-10-01T16:31:00Z"
+      },
+      {
         "title": "Labcorp settles $2.3B data breach lawsuit brought by 44 states",
         "outlet": "HealthExec",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmVqVzUxYkNfdEtFRGtsM1h3bWxQbEtBUTNEYUs1NE50QV9qb0Jhd3RKZ21OSTZHZWJSNG5iSlJEdFd4cHNQdkx5UXQzQmxLMXR3T2wyV2NXd08zY3JYR3hodXZpRjcybFNBUDNZektYSmcyU3ZlVVNrTG56Z3l6bFR3WGExUHNoMXRHOXNndGpya0l0MFdJay1LdGZpUzg1MG1mOGg4bmY4SHVQS2hOdg?oc=5",
@@ -126,9 +120,15 @@
       },
       {
         "title": "Family Physicians in Jackson Township reports data breach",
-        "outlet": "Canton Repository",
+        "outlet": "cantonrep.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
         "published": "2026-10-02T14:31:00Z"
+      },
+      {
+        "title": "Security Industry Specialists Data Breach Exposes SSNs",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVZvVHBiMGp0TXlCQS1HMEFwUUtiamVKOWF1N1Z4TG5hN09oaV9tM3dZSkdLczh2T2lBYlkwTEFqbDgteWVMdE9LMEpxWjFuZ19HQW8xaEd5TFhTaXZud2p1b1JtcjVtSVZqV25pejZvaVEzTWVBWUJkQm5USzdkUFRzc2dvVVBzVHA5Nl8yUUF0SzVwVVNFUg?oc=5",
+        "published": "2026-10-01T13:55:59Z"
       }
     ]
   },
