@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-04T22:28:54Z",
+  "as_of": "2026-10-05T01:12:38Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -107,16 +107,16 @@
         "published": "2026-10-01T18:25:00Z"
       },
       {
+        "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
+        "outlet": "MedCity News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHNBZkpoQ1R0SzRjWF8xSHd3eEs4ZkhXSFRtbGxrZE5Ndk1hMENvNF9NeXZsa3ZfQjJUYVhyaThLRUI2a1ZoMmhBSWFtblVUZU9ucjV1VGFOOGh5LVd6LXppVzZ3RGh5UUd0ZmtRWW9aQ1EyYklnUGMyYVAzRzNnUEhha2FuU0RSOXBzNVhrRGI5WXVPajQ3ZldxOUV1RU5fTmdTTUlHUGhmOWxIYW9qRndXcTNheVBxTGhoRE9xdXE?oc=5",
+        "published": "2026-10-05T00:01:49Z"
+      },
+      {
         "title": "Gibson Area Hospital & Health Services Data Breach?",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFp0MUpXeVNNWVBtWGJOSy1ReWY2ZS1rNks3M3B1MFRhWnBKa3d3SUt4UUhPM0JkY29ZNTEyNTJOUjI0XzdLV29TX21VRTZsbTdlc2RSWk1EdVl5eVdqYTFySXhmb285dWhJMlVCUXRFR1FDNHpHSWZaV2FQeU11NkRKY0txOG1zRnpMUV8yZDd3dmZTNHdLSXE0T2RYRUs1TWZtZXVvQQ?oc=5",
         "published": "2026-09-30T13:39:52Z"
-      },
-      {
-        "title": "College reaches $750,000 settlement following data breach affecting 96,000 members of the Dartmouth community",
-        "outlet": "The Dartmouth",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lM2E4MW1qc3JMaW5oVHhzQzJrc3U0UDFNa2tNQmM0TWpSNG4zWFFmOVR1UXBablNsdG5iUTJQOUV3VHNLMjlPOGd4dlI2cG94Wno4SXJJdllnaFRZX2JRYmF4UXRqeFVxdUpPMW5KU2tHQW1tY0dFRg?oc=5",
-        "published": "2026-09-28T09:07:28Z"
       },
       {
         "title": "Family Physicians in Jackson Township reports data breach",
