@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-06T03:17:50Z",
+  "as_of": "2026-10-06T10:43:49Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,22 +83,22 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "FBI investigating massive data breach of the bureau’s job portal",
-        "outlet": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
-        "published": "2026-09-30T08:43:43Z"
-      },
-      {
-        "title": "Texas Hospice Management Company Data Breach Affects 35,000 Texas Residents",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01UDJVcG8yNGRLRWNWRjFvSDVveXRKbWl6VGIzaUZocmZ2dHR6blY3T3hic0Q4LUd3ZFhZUDZsczNBNHpkV1lVNks3MTNqN3I2VUFhSURJRlByM1FfWC1WOFBIMF9mdldPODJmV1E2WTFWNy1ScEN3?oc=5",
-        "published": "2026-10-02T10:01:12Z"
+        "title": "Southern Company hit by data breach",
+        "outlet": "fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wZ2ZQaG9lY05DTXQzdmhKUlFwQ2k4Y3NDdHEzakU0OXFWTFRKTE0wQ2lfZG9neWNUeGxfdFZoQ04xTE1NbzJKbXZEY0NVRzFSTXAwLWZVM0dnM1FlUDJQWE5QRnRzOWJpa2lEUDJYOHh6ek4wOGZPYTJFNNIBjwFBVV95cUxQM1hHSExjdTVHVzFUaGhYVlFsMXlpYzVHVEpsRjFpSlpubFJiTTRzWHZ1eDdkQ2RBTlFWYnUyM0pVTTl5RWN2LWFkMUplZmU0RGFGMzhPWUVpVXRDR203cGZ2a3FzS1BLOE9tS0NoSFp2Qm1YQkRxUDZXWEFERFZha2pBU2k3aTloWm5OaW1EMA?oc=5",
+        "published": "2026-10-05T21:30:00Z"
       },
       {
         "title": "Marin County residents concerned after report reveals Flock cameras data breach",
-        "outlet": "NBC Bay Area",
+        "outlet": "nbcbayarea.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaS00UUxwU3Eyb2ZTVTdQNC15YTdHa3F1VHRUQVpPMGM2Mi15VHRPNXRwRXVQejhSRTBnTy1mRlFjdmkzOEViSW9QcGw2eFhqNmRxMWVOdnNYdTVpeHFlZEsyNUhzT0FKNjhNOWI4Tk9uU3d6aUkyTUxXM3FyQURKYkRXTW15dndJRzNQTtIBlAFBVV95cUxOb3RUajE0dkhvajhxN2x3WnVwa1NhNlhjQV91TGtVV0hTX29DWHNDNjNNekdIV3I5VGZoNElQd0JsQW05ajRuZHFnTVFwU2ZhNExpdEYwQkd2T0JqSFhBME5MX2p5OVJHOGpyWVVMQ1ZOaXVEZmdkNHcwRWQ1aHJwMGtEcER0NElZUHNXMmo5bFJ3OGlm?oc=5",
         "published": "2026-10-03T01:13:18Z"
+      },
+      {
+        "title": "Family Medical Associates of Raleigh Data Breach Exposes SSNs",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaS11dS1WM3loaDBZdGZiWEJVdE5ReTBxUlRBMFhHQ2NTamZhOUNwR2hVMEU2MS1GMTJWd1k2Z2pneVV4UEdCZ2RxenU1ekkzaElFeXRMSmd6SEJxd2hROGtsUUFhSm9jU3lXam5QZHpxUVN2QVJnMEVwYXZpaHc0empwaGhwR2FoOFRINXE5VDdtTDVHUkJCOXR1NEU0UTA?oc=5",
+        "published": "2026-10-05T16:11:37Z"
       },
       {
         "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
@@ -107,10 +107,10 @@
         "published": "2026-10-01T18:25:00Z"
       },
       {
-        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-        "published": "2026-10-06T00:56:00Z"
+        "title": "FBI investigating massive data breach of the bureau’s job portal",
+        "outlet": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
+        "published": "2026-09-30T08:43:43Z"
       },
       {
         "title": "McMinnville missed a legal deadline to disclose its data breach. It won’t say why",
