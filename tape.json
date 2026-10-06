@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-06T17:22:58Z",
+  "as_of": "2026-10-06T21:51:49Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,22 +89,16 @@
         "published": "2026-10-05T21:30:00Z"
       },
       {
+        "title": "Georgia Power data breach hits 300,000 customers",
+        "outlet": "AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5",
+        "published": "2026-10-06T00:54:44Z"
+      },
+      {
         "title": "Data breach victims face significant increase in loan denials, Virginia Tech study finds",
         "outlet": "Virginia Tech News",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDdOeXFFZWJWZXg0emJId1gyNkVacm84cTVESG9qZXQtNzVpUjVyRkdNVFMycEt4TlplVk9kd1UzQ3JHWU5Cd2pCNm1BQmVkR2dUWGdaQWZUR3VsRFZaSmxFT2Z1TVI2bGdEUWhhV01mR3hPOGhaemt4cGVIQlU2cjZOSFN1NXUtSmZSbF9Edw?oc=5",
         "published": "2026-10-05T14:20:04Z"
-      },
-      {
-        "title": "Georgia Power data breach hits 300,000 customers",
-        "outlet": "The Atlanta Journal-Constitution",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5",
-        "published": "2026-10-06T00:54:22Z"
-      },
-      {
-        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-        "published": "2026-10-06T00:56:00Z"
       },
       {
         "title": "Family Medical Associates of Raleigh Data Breach Exposes SSNs",
@@ -119,16 +113,22 @@
         "published": "2026-09-30T08:43:43Z"
       },
       {
-        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
-        "outlet": "AL.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
-        "published": "2026-10-01T18:25:00Z"
+        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
+        "published": "2026-10-06T00:56:00Z"
       },
       {
         "title": "Family Physicians in Jackson Township reports data breach",
         "outlet": "Canton Repository",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
         "published": "2026-10-02T14:31:00Z"
+      },
+      {
+        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
+        "outlet": "AL.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
+        "published": "2026-10-01T18:25:00Z"
       }
     ]
   },
