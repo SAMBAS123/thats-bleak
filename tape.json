@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-05T22:52:56Z",
+  "as_of": "2026-10-06T03:17:50Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -96,7 +96,7 @@
       },
       {
         "title": "Marin County residents concerned after report reveals Flock cameras data breach",
-        "outlet": "nbcbayarea.com",
+        "outlet": "NBC Bay Area",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaS00UUxwU3Eyb2ZTVTdQNC15YTdHa3F1VHRUQVpPMGM2Mi15VHRPNXRwRXVQejhSRTBnTy1mRlFjdmkzOEViSW9QcGw2eFhqNmRxMWVOdnNYdTVpeHFlZEsyNUhzT0FKNjhNOWI4Tk9uU3d6aUkyTUxXM3FyQURKYkRXTW15dndJRzNQTtIBlAFBVV95cUxOb3RUajE0dkhvajhxN2x3WnVwa1NhNlhjQV91TGtVV0hTX29DWHNDNjNNekdIV3I5VGZoNElQd0JsQW05ajRuZHFnTVFwU2ZhNExpdEYwQkd2T0JqSFhBME5MX2p5OVJHOGpyWVVMQ1ZOaXVEZmdkNHcwRWQ1aHJwMGtEcER0NElZUHNXMmo5bFJ3OGlm?oc=5",
         "published": "2026-10-03T01:13:18Z"
       },
@@ -107,28 +107,28 @@
         "published": "2026-10-01T18:25:00Z"
       },
       {
+        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
+        "published": "2026-10-06T00:56:00Z"
+      },
+      {
         "title": "McMinnville missed a legal deadline to disclose its data breach. It won’t say why",
-        "outlet": "kptv.com",
+        "outlet": "KPTV",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFRiM3hNUFBlM0YzX3dWSExMNzBiMmZVTXVOaFEwZzFXQ0ViNW9ybHc1SHkzSGhXd1pnUGRUc2M1QXhabkdLakpjc3ZuU2JGX3BoMWJjTkdQT0FzclNFaVhBVDVMOVFPMlZyeU02bnl1X1Vjd3h2dGVVcFhJNWU4dGFtMjNxNWMwZGFmOVhPMFl1bjA4TEFVa3otQ0pEY1ItZnB3S2xVOV80U1XSAb8BQVVfeXFMUGxsYUQ1czNKZmtzbzMzd1B3NkI4NlRreDhoZFBWeTdrNXhYNUlReEROZlBuYlg3dE1YWE1teVkxSkUtbUFPeGVwVnZyV0hHZ2NrLU8xY2NtX1ZGZldGLTJqd1NhcTYwZmJGeUdWenNpQmV0QTlkTkk3SDFwSXljTklHLTZHWHBWTzhRWnJ5OGRVc3hlN3VrVmVENnNkcHZSRUJLWjRPeVVaRkhEdnc2YUM3LUQwLW1KcXlsLVRVbGc?oc=5",
         "published": "2026-10-01T16:31:00Z"
+      },
+      {
+        "title": "Family Physicians in Jackson Township reports data breach",
+        "outlet": "Canton Repository",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
+        "published": "2026-10-02T14:31:00Z"
       },
       {
         "title": "Labcorp settles $2.3B data breach lawsuit brought by 44 states",
         "outlet": "HealthExec",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmVqVzUxYkNfdEtFRGtsM1h3bWxQbEtBUTNEYUs1NE50QV9qb0Jhd3RKZ21OSTZHZWJSNG5iSlJEdFd4cHNQdkx5UXQzQmxLMXR3T2wyV2NXd08zY3JYR3hodXZpRjcybFNBUDNZektYSmcyU3ZlVVNrTG56Z3l6bFR3WGExUHNoMXRHOXNndGpya0l0MFdJay1LdGZpUzg1MG1mOGg4bmY4SHVQS2hOdg?oc=5",
         "published": "2026-10-02T23:26:41Z"
-      },
-      {
-        "title": "Family Physicians in Jackson Township reports data breach",
-        "outlet": "cantonrep.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRhREdCOS14eG9nU1M3SlFEQ2hidE9RaE5UZjY5T05vYVdaeE5Ub2s5YWZydWMyTks5b1ZlYXk0WEh3V0RmV2tFZDFzYkNvRTEzRG9Iek9PbTU0Z01RVFF2dS1oaDR0UjdnbklRbXVIR3lJd3RoajE5c01GSjBFYzFvYXNLdHV1eHFsLVVnUkRkR0pXY3pIS0VDdGRIRWg2cHVxZ3B4RnBfSnNlVnpYUDJCMHVWQkE?oc=5",
-        "published": "2026-10-02T14:31:00Z"
-      },
-      {
-        "title": "Security Industry Specialists Data Breach Exposes SSNs",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVZvVHBiMGp0TXlCQS1HMEFwUUtiamVKOWF1N1Z4TG5hN09oaV9tM3dZSkdLczh2T2lBYlkwTEFqbDgteWVMdE9LMEpxWjFuZ19HQW8xaEd5TFhTaXZud2p1b1JtcjVtSVZqV25pejZvaVEzTWVBWUJkQm5USzdkUFRzc2dvVVBzVHA5Nl8yUUF0SzVwVVNFUg?oc=5",
-        "published": "2026-10-01T13:55:59Z"
       }
     ]
   },
