@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-07T09:11:01Z",
+  "as_of": "2026-10-07T16:52:17Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 85,
     "pwn_2026": 294805172,
     "added_2026": 106,
-    "added_7d": 3,
+    "added_7d": 2,
     "added_30d": 7,
     "latest": [
       {
@@ -83,6 +83,12 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Georgia Power data breach hits 300,000 customers",
+        "outlet": "The Atlanta Journal-Constitution",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5",
+        "published": "2026-10-06T01:28:54Z"
+      },
+      {
         "title": "Southern Company hit by data breach",
         "outlet": "Fox 10 News",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wZ2ZQaG9lY05DTXQzdmhKUlFwQ2k4Y3NDdHEzakU0OXFWTFRKTE0wQ2lfZG9neWNUeGxfdFZoQ04xTE1NbzJKbXZEY0NVRzFSTXAwLWZVM0dnM1FlUDJQWE5QRnRzOWJpa2lEUDJYOHh6ek4wOGZPYTJFNNIBjwFBVV95cUxQM1hHSExjdTVHVzFUaGhYVlFsMXlpYzVHVEpsRjFpSlpubFJiTTRzWHZ1eDdkQ2RBTlFWYnUyM0pVTTl5RWN2LWFkMUplZmU0RGFGMzhPWUVpVXRDR203cGZ2a3FzS1BLOE9tS0NoSFp2Qm1YQkRxUDZXWEFERFZha2pBU2k3aTloWm5OaW1EMA?oc=5",
@@ -95,16 +101,16 @@
         "published": "2026-10-06T09:38:30Z"
       },
       {
-        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-        "published": "2026-10-06T00:56:00Z"
+        "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
+        "outlet": "MedCity News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHNBZkpoQ1R0SzRjWF8xSHd3eEs4ZkhXSFRtbGxrZE5Ndk1hMENvNF9NeXZsa3ZfQjJUYVhyaThLRUI2a1ZoMmhBSWFtblVUZU9ucjV1VGFOOGh5LVd6LXppVzZ3RGh5UUd0ZmtRWW9aQ1EyYklnUGMyYVAzRzNnUEhha2FuU0RSOXBzNVhrRGI5WXVPajQ3ZldxOUV1RU5fTmdTTUlHUGhmOWxIYW9qRndXcTNheVBxTGhoRE9xdXE?oc=5",
+        "published": "2026-10-04T13:05:19Z"
       },
       {
-        "title": "Family Medical Associates of Raleigh Data Breach Exposes SSNs",
+        "title": "Southern Company Data Breach Reported; Customer Info Exposed",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaS11dS1WM3loaDBZdGZiWEJVdE5ReTBxUlRBMFhHQ2NTamZhOUNwR2hVMEU2MS1GMTJWd1k2Z2pneVV4UEdCZ2RxenU1ekkzaElFeXRMSmd6SEJxd2hROGtsUUFhSm9jU3lXam5QZHpxUVN2QVJnMEVwYXZpaHc0empwaGhwR2FoOFRINXE5VDdtTDVHUkJCOXR1NEU0UTA?oc=5",
-        "published": "2026-10-05T16:11:37Z"
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZE81ZVpWYTRxTXduamw0NzFld1h2MGxuUUd5RXdGOTlLbW1GdzBXU25hY0tjU01rLW9GZHd1amM2SkJvSHVuUXI0dkNOWWwwUGY4YnhpYmxkOHU3cXhSTWpqMFlUallfTFo3TzlDT2MwS2k0TGNkM2dQZ2w0SE02Q055ZHE?oc=5",
+        "published": "2026-10-06T15:22:47Z"
       },
       {
         "title": "Family Physicians in Jackson Township reports data breach",
@@ -113,16 +119,10 @@
         "published": "2026-10-02T14:31:00Z"
       },
       {
-        "title": "GTA VI Leaker CyberLeek Appears to Resurface and Teases a Return This Week With New Details on Rockstar Games’ Highly Anticipated Game",
-        "outlet": "LevelUp",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanh0YW05UXlvdnNsTHBkRHJPWGdObkp1YUdWeXlQQXFJNWtmeUJsOXpNZFR3ZlJyQUZfTEdjaFZlc1VjVnliVFNZUG5odHRqVXBVcC1oZjAwSHE0OTlWLWFFUXVkWEw4NE1Xbm5uSTNxNlAzWUNoMFFxcHBGc0FpQW8xSjZGa3B1WmVCYlZ4T1dWX2pYd2lKeHRPb1N3UDFOZEV5cjUtMHg3S3dzMFB6NVVNRzRMcmJaWVBaT3pyZ2tRV3JJcDNwekNBU1VtTmlmQkV3Rnh5NFJiTXZyUW5fNDJKOXFrclpMbnBkelJQVDVXSURta2x1ZVln?oc=5",
-        "published": "2026-10-05T17:24:21Z"
-      },
-      {
-        "title": "OU Health alerts patients after data breach involving former employee",
-        "outlet": "KOCO",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeDZEcTZpRHFJOGhSZFY2UF9nckpKVzNxYXE3SDJQbnp6dWh5RXhvSHpqOTBldnNXSFNOM0RISWtUT0ExQ3FwanhDdVVyeUhGd0EwRUhfYUJ2Y2NHUHppajIybEhueGk1LVdjVU0xS3FFaWxQamFZLTFsSTMxOHFKcWlLbTlUTXhYRC1z?oc=5",
-        "published": "2026-10-07T03:21:00Z"
+        "title": "ASOS confirms data breach after \"hacked\" app alert reaches shoppers",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFkxUndCVTI5Uk41NlhaMEJlNktlSW1aMm9zMWJxZTR1dW9lTC01YmRma1hJREZVSE1vc3prdWo2ejl5ZG5rRnVpdGRvTFJueVBWaHgtTDhGMm9aMTlWdU02cTJzLVRhNHlKUktjWW9GTFpFN2pvd1d4UUFRU3dENGx0VQ?oc=5",
+        "published": "2026-10-07T09:29:08Z"
       },
       {
         "title": "Convincing Free Mobile phishing emails appear after data breach",
