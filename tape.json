@@ -1,16 +1,32 @@
 {
-  "as_of": "2026-10-07T01:46:16Z",
+  "as_of": "2026-10-07T09:11:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1039,
-    "breaches_2026": 84,
-    "pwn_2026": 294530250,
-    "added_2026": 104,
-    "added_7d": 1,
-    "added_30d": 5,
+    "catalog_total": 1041,
+    "breaches_2026": 85,
+    "pwn_2026": 294805172,
+    "added_2026": 106,
+    "added_7d": 3,
+    "added_30d": 7,
     "latest": [
+      {
+        "name": "DoubleCounter",
+        "title": "Double Counter",
+        "added": "2026-10-07T05:42:24Z",
+        "breach_date": "2026-10-04",
+        "pwn_count": 274922,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#DoubleCounter"
+      },
+      {
+        "name": "AngelOne",
+        "title": "Angel One",
+        "added": "2026-10-07T03:45:31Z",
+        "breach_date": "2023-04-01",
+        "pwn_count": 6765054,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#AngelOne"
+      },
       {
         "name": "Medela",
         "title": "Medela",
@@ -58,22 +74,6 @@
         "breach_date": "2026-08-27",
         "pwn_count": 8849657,
         "url": "https://haveibeenpwned.com/PwnedWebsites#ManchesterAirportsGroup"
-      },
-      {
-        "name": "Questel",
-        "title": "Questel",
-        "added": "2026-09-01T04:49:35Z",
-        "breach_date": "2026-08-01",
-        "pwn_count": 1226209,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#Questel"
-      },
-      {
-        "name": "Carhartt",
-        "title": "Carhartt",
-        "added": "2026-08-25T21:34:25Z",
-        "breach_date": "2026-08-13",
-        "pwn_count": 12933413,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#Carhartt"
       }
     ]
   },
@@ -89,10 +89,16 @@
         "published": "2026-10-05T21:30:00Z"
       },
       {
-        "title": "FBI investigating massive data breach of the bureau’s job portal",
-        "outlet": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzRlc2hFa0dSLW1JczRDemtOS0JHUTY1UlROTXpPX09aR1VmYWVVd3g1UmkzM241U0Zudzlkb041TW9NZEhmenlOR3VwRlowczBsa20xYUFRVTNYTFNjemRmT1NFNjJ1Rm9xeXo2YkhodnkyMm1SX3QzSGliNURqRTY0dFVELWVuOWJRVEV4SXdoU0VCS2FJalFyWjNLS1pjNTJSN2l4T19rdVMx?oc=5",
-        "published": "2026-09-30T08:43:43Z"
+        "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVJmbDNuRXFhZDNHTnZoRjRZQVFHcVI4bXM4c1hMdmdHZXBCWDk5Ty13ZDlNVk8wR0lrRkFkWEowUjlXWVREcDYwV2dCemtoejI1MnNvZ09zX3ZUb1FqSTBfTFZ6T2paX3I3elNTYjItRm9zT0JpWW5mSXhheWRyUjFTVXY3V25IeU1Ob0RYa0ZaemQ5dzlhMWoyNWFQYUVLT1lz0gGoAUFVX3lxTFB0RjNpU1lQTDFtUDktcjRQaVVfVTJ3NnVtTXpsVW94M2xILTJlTFRoS0lULXNZMFRTd0FHeUxZX282cFQ2UUk1QVRLMUNxbDNqT3N4VEE1ZS1MSHBtZnhpOUwtVDNTdHlFWElxdWx6a1ZGRWpRTVR2NGtFbTRISzJ1b2lQd0lOMUFuczFvT3UyN1VFVGNpd19qWUo1VTJ3U1didC1TVkpjMw?oc=5",
+        "published": "2026-10-06T09:38:30Z"
+      },
+      {
+        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
+        "published": "2026-10-06T00:56:00Z"
       },
       {
         "title": "Family Medical Associates of Raleigh Data Breach Exposes SSNs",
@@ -107,22 +113,16 @@
         "published": "2026-10-02T14:31:00Z"
       },
       {
-        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-        "published": "2026-10-06T00:56:00Z"
-      },
-      {
-        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
-        "outlet": "AL.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
-        "published": "2026-10-01T18:25:00Z"
-      },
-      {
         "title": "GTA VI Leaker CyberLeek Appears to Resurface and Teases a Return This Week With New Details on Rockstar Games’ Highly Anticipated Game",
         "outlet": "LevelUp",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanh0YW05UXlvdnNsTHBkRHJPWGdObkp1YUdWeXlQQXFJNWtmeUJsOXpNZFR3ZlJyQUZfTEdjaFZlc1VjVnliVFNZUG5odHRqVXBVcC1oZjAwSHE0OTlWLWFFUXVkWEw4NE1Xbm5uSTNxNlAzWUNoMFFxcHBGc0FpQW8xSjZGa3B1WmVCYlZ4T1dWX2pYd2lKeHRPb1N3UDFOZEV5cjUtMHg3S3dzMFB6NVVNRzRMcmJaWVBaT3pyZ2tRV3JJcDNwekNBU1VtTmlmQkV3Rnh5NFJiTXZyUW5fNDJKOXFrclpMbnBkelJQVDVXSURta2x1ZVln?oc=5",
         "published": "2026-10-05T17:24:21Z"
+      },
+      {
+        "title": "OU Health alerts patients after data breach involving former employee",
+        "outlet": "KOCO",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeDZEcTZpRHFJOGhSZFY2UF9nckpKVzNxYXE3SDJQbnp6dWh5RXhvSHpqOTBldnNXSFNOM0RISWtUT0ExQ3FwanhDdVVyeUhGd0EwRUhfYUJ2Y2NHUHppajIybEhueGk1LVdjVU0xS3FFaWxQamFZLTFsSTMxOHFKcWlLbTlUTXhYRC1z?oc=5",
+        "published": "2026-10-07T03:21:00Z"
       },
       {
         "title": "Convincing Free Mobile phishing emails appear after data breach",
