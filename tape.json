@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T02:14:01Z",
+  "as_of": "2026-10-08T09:24:46Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,22 +101,22 @@
         "published": "2026-10-06T09:38:30Z"
       },
       {
-        "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
-        "outlet": "MedCity News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHNBZkpoQ1R0SzRjWF8xSHd3eEs4ZkhXSFRtbGxrZE5Ndk1hMENvNF9NeXZsa3ZfQjJUYVhyaThLRUI2a1ZoMmhBSWFtblVUZU9ucjV1VGFOOGh5LVd6LXppVzZ3RGh5UUd0ZmtRWW9aQ1EyYklnUGMyYVAzRzNnUEhha2FuU0RSOXBzNVhrRGI5WXVPajQ3ZldxOUV1RU5fTmdTTUlHUGhmOWxIYW9qRndXcTNheVBxTGhoRE9xdXE?oc=5",
-        "published": "2026-10-04T13:05:19Z"
-      },
-      {
         "title": "Nearly 100,000 Alabama Power accounts affected by Southern Company data breach",
         "outlet": "WBRC",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0N4VmJ3WDIzVWFBYnR4dEg4blhubkQ3dnRLTktUSzhDTjFXdmcyRE9lbktDa2ZIeEVuTy1idUV1bTVYOW45VnR3RlhQY2RaS21jcmdaV3NJTTNwb09xeHBHMXJBckZNSTFOS0VqRFJkdHVCM015WmVCOTZaeHo2MHZ4clJxak5EUF9VeXNpWGxsM1ZQd3lSVUhUZlpQMEtmYUJfbW9qWTM5R1J3Q0JF0gHDAUFVX3lxTE8yTnlsclkyVGpENXlMSW5BeURtR1NHQ0RXT0xNYjJkT0JXMngzdmFzWWNoTWJTOVB5OF9sWTE1bjAxSmRPWXdZWGVGeTlwZHoyZFk1b1FhaVptTWJZTTlvbEVzclN5aTZJTUFOQ2JfUk1KSFMyUEM1Nzg3OFFkeF93WmViRU55VFdGOW5Dajl4VkhpbnQxb1BuQlVsZDBrQlB1WlNOMU42a29aa29leVRXYm1EdFJXYWRHaUROU2VWYTdROA?oc=5",
         "published": "2026-10-05T21:45:00Z"
       },
       {
-        "title": "Southern Company Data Breach Reported; Customer Info Exposed",
+        "title": "Secure Healthcare Information Management Data Breach Exposes SSNs",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZE81ZVpWYTRxTXduamw0NzFld1h2MGxuUUd5RXdGOTlLbW1GdzBXU25hY0tjU01rLW9GZHd1amM2SkJvSHVuUXI0dkNOWWwwUGY4YnhpYmxkOHU3cXhSTWpqMFlUallfTFo3TzlDT2MwS2k0TGNkM2dQZ2w0SE02Q055ZHE?oc=5",
-        "published": "2026-10-06T15:22:47Z"
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnZjUThiSnpiMHByUnZJZkRZQURkQlhvNTlkX0tMY3JBcHlPU0drZHFwUXU0OHdkM25tRnloQXBvSEFaTnhkYUhLME1oemxyVFZiVXppZk1VOVRmbnc2NDRzQzJuRXV2bl84aXFXSU0xM1E2SGRJRTd5TU1BZlkzbHFOVjVjOGhrc3JpMmNjbjJNUUpxeHVQaEJKclZ0SERPcnZGdw?oc=5",
+        "published": "2026-10-07T13:45:26Z"
+      },
+      {
+        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
+        "published": "2026-10-06T00:56:00Z"
       },
       {
         "title": "Family Physicians in Jackson Township reports data breach",
@@ -125,10 +125,10 @@
         "published": "2026-10-02T14:31:00Z"
       },
       {
-        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-        "published": "2026-10-06T00:56:00Z"
+        "title": "Texas AG: DriveWealth Data Breach May Have Impacted 2.5M",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnNoSGVONExVX3Ntcm1QQzZvRlZVQmdzTXRNRmdkckRVd2wzTWdpeG9CYi1jLVBJVGxTXzhzcFBmdG5lSnphajZGd0EtTnFEN0pMMmdUbmVEVTBqanpBY3BZT2NpOFhrcjNFMEltVWctbHZldE12Mkx4LWJzYV9KQW9MR3NoQzd1TVNneHEwaUZfdw?oc=5",
+        "published": "2026-10-07T21:26:49Z"
       }
     ]
   },
