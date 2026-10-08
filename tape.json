@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-10-07T22:13:36Z",
+  "as_of": "2026-10-08T02:14:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1041,
-    "breaches_2026": 85,
-    "pwn_2026": 294805172,
-    "added_2026": 106,
-    "added_7d": 2,
-    "added_30d": 7,
+    "catalog_total": 1042,
+    "breaches_2026": 86,
+    "pwn_2026": 295178632,
+    "added_2026": 107,
+    "added_7d": 3,
+    "added_30d": 8,
     "latest": [
+      {
+        "name": "CyrusOne",
+        "title": "CyrusOne",
+        "added": "2026-10-07T23:19:16Z",
+        "breach_date": "2026-08-05",
+        "pwn_count": 373460,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#CyrusOne"
+      },
       {
         "name": "DoubleCounter",
         "title": "Double Counter",
@@ -66,14 +74,6 @@
         "breach_date": "2026-08-21",
         "pwn_count": 6404340,
         "url": "https://haveibeenpwned.com/PwnedWebsites#McKesson"
-      },
-      {
-        "name": "ManchesterAirportsGroup",
-        "title": "Manchester Airports Group",
-        "added": "2026-09-02T07:36:59Z",
-        "breach_date": "2026-08-27",
-        "pwn_count": 8849657,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#ManchesterAirportsGroup"
       }
     ]
   },
@@ -107,6 +107,12 @@
         "published": "2026-10-04T13:05:19Z"
       },
       {
+        "title": "Nearly 100,000 Alabama Power accounts affected by Southern Company data breach",
+        "outlet": "WBRC",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0N4VmJ3WDIzVWFBYnR4dEg4blhubkQ3dnRLTktUSzhDTjFXdmcyRE9lbktDa2ZIeEVuTy1idUV1bTVYOW45VnR3RlhQY2RaS21jcmdaV3NJTTNwb09xeHBHMXJBckZNSTFOS0VqRFJkdHVCM015WmVCOTZaeHo2MHZ4clJxak5EUF9VeXNpWGxsM1ZQd3lSVUhUZlpQMEtmYUJfbW9qWTM5R1J3Q0JF0gHDAUFVX3lxTE8yTnlsclkyVGpENXlMSW5BeURtR1NHQ0RXT0xNYjJkT0JXMngzdmFzWWNoTWJTOVB5OF9sWTE1bjAxSmRPWXdZWGVGeTlwZHoyZFk1b1FhaVptTWJZTTlvbEVzclN5aTZJTUFOQ2JfUk1KSFMyUEM1Nzg3OFFkeF93WmViRU55VFdGOW5Dajl4VkhpbnQxb1BuQlVsZDBrQlB1WlNOMU42a29aa29leVRXYm1EdFJXYWRHaUROU2VWYTdROA?oc=5",
+        "published": "2026-10-05T21:45:00Z"
+      },
+      {
         "title": "Southern Company Data Breach Reported; Customer Info Exposed",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZE81ZVpWYTRxTXduamw0NzFld1h2MGxuUUd5RXdGOTlLbW1GdzBXU25hY0tjU01rLW9GZHd1amM2SkJvSHVuUXI0dkNOWWwwUGY4YnhpYmxkOHU3cXhSTWpqMFlUallfTFo3TzlDT2MwS2k0TGNkM2dQZ2w0SE02Q055ZHE?oc=5",
@@ -119,16 +125,10 @@
         "published": "2026-10-02T14:31:00Z"
       },
       {
-        "title": "Social Security numbers exposed in Pentagon data leak affecting millions",
-        "outlet": "AL.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hKMmRoR2NxQllaY2dtNUtxUko5dkRTWmZFNVFTZG1lZW1aX0t4NHJITDVmY2tKY21OQ2pCeGg3Uk14WHZrXzVTdmh5Y050Ym1ORjl4LTlBZzlPSWc4V1hySDh1eFIzdHlJLXVxemNTam5jc3hYdHBSSjR3ZHB2WFViaUlaVWRpUHJDcDNLU0ZlX2JZVWlaWGVfX0dLSE9wRU9kSVFSMlUzMTBaMGfSAcIBQVVfeXFMTmhsZ05FVEhFLXJLb3VFdHNWenotQWtaX3NWNkhfV0NxRTd0ajM2WEJzQ0hmZ3VfaW9BSDI2QVltUnJlQ0xoZ1VDaVdrUGhuTWxLR1VMY25udkZKOTZuWlZaa092Ml9uazFPcjN6RTVHVDdzTlJ0aFRjTlJJMDRORmIxNTE2RU44Y1FWMGZmeUJmYy01UXVuWWdXcHJaa1FRamJiTFdtZHdUakpvcDFuMWtqczBvUF9pWjNVV2VOWkxORlE?oc=5",
-        "published": "2026-10-01T18:25:00Z"
-      },
-      {
-        "title": "ASOS confirms data breach after \"hacked\" app alert reaches shoppers",
-        "outlet": "Help Net Security",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFkxUndCVTI5Uk41NlhaMEJlNktlSW1aMm9zMWJxZTR1dW9lTC01YmRma1hJREZVSE1vc3prdWo2ejl5ZG5rRnVpdGRvTFJueVBWaHgtTDhGMm9aMTlWdU02cTJzLVRhNHlKUktjWW9GTFpFN2pvd1d4UUFRU3dENGx0VQ?oc=5",
-        "published": "2026-10-07T09:29:08Z"
+        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
+        "published": "2026-10-06T00:56:00Z"
       }
     ]
   },
