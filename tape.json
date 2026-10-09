@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-09T16:30:31Z",
+  "as_of": "2026-10-09T21:11:44Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,22 +83,22 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Fans Issue GTA 6 Spoiler Warnings as 'Cyberleek' Returns With New 24-Minute Gameplay Video",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9NUjB1ekdSa2VlcGwxS1FtSVNtZkc2OVFJU1o2MlpiQUw4N2JCbXAtUERTMUlrdUtoeDhENkY4S3NPWWF5Wl9FVmV4a2RQTDRJbDE2cWJaNW1PbW14cnJIU0VsYkVRaXRRT05ZemNtbGg5OVlWYXdCTVlEdEI5M3dSNDlsOGU2dUhiMXdoX0ljRzIwWGpFRkFmNnNiSE1Bd2stWTBSTUZsSVYy?oc=5",
-        "published": "2026-10-08T13:13:19Z"
-      },
-      {
-        "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
+        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
-        "published": "2026-10-09T11:55:04Z"
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODVlRTVONzRxbW83VUREbU1RTTFCaXZDdkY0NWJfUXZPU1MyMzZ6NjZwdHJSVmJtY1U3c2JjU2dYbVNhejFkbUZ3Yk9hR21zeURWR1RtQTlRSW1OdjcwZnVoNjkwSksyRnlKTnJtQ29uYmJZVzFJOG5NTXo2WF85NzlzMjNHQlJnS3VlZWp3TTU?oc=5",
+        "published": "2026-10-09T18:58:37Z"
       },
       {
         "title": "New 25 Minute Long GTA 6 Leak Reveals First Person Mode",
         "outlet": "RockstarINTEL",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0tWMGxjS0FlalhuVUxSdGMzNkNGTjN5QkxLMk1weUdKR3E0WlJwVVIzUkpaSUwwcks5SEFMWHY4QmJHMXRSLVpoUk1xSXBJdE9hRWdBQ1VhbGhrNzhqaVN3YmlCV1JRQnNnSFJIV3ZIa0JnY04yRHd6SjhkQUNBM1RtcW5fcnN0c2c?oc=5",
         "published": "2026-10-08T12:23:12Z"
+      },
+      {
+        "title": "Fans Issue GTA 6 Spoiler Warnings as 'Cyberleek' Returns With New 24-Minute Gameplay Video",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9NUjB1ekdSa2VlcGwxS1FtSVNtZkc2OVFJU1o2MlpiQUw4N2JCbXAtUERTMUlrdUtoeDhENkY4S3NPWWF5Wl9FVmV4a2RQTDRJbDE2cWJaNW1PbW14cnJIU0VsYkVRaXRRT05ZemNtbGg5OVlWYXdCTVlEdEI5M3dSNDlsOGU2dUhiMXdoX0ljRzIwWGpFRkFmNnNiSE1Bd2stWTBSTUZsSVYy?oc=5",
+        "published": "2026-10-08T13:13:19Z"
       },
       {
         "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong",
@@ -113,16 +113,16 @@
         "published": "2026-10-06T01:28:54Z"
       },
       {
+        "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWEpONS03TjQ4UjFpeko1YlktVE1YeVM1Qkd4Y2xwQm43YnhlYjZUYmpNRFpIdXpLcVFfSVJlSHZUclFJR2NxM05VUGhLRU8xYkhFOUVlT1JFOTQ5OHUySGhaejhyUUtpN0Fwd2IxbElpcWtfV3FVb2FNZEVFdEJtS2ZUUUFibGRmYnp2dDV1bEJhb1nSAZgBQVVfeXFMTl80LVp6bG5tNlI5YUpfOUJiOUFTLVJwWDBqTlVQZE9iS3N0czdXVHBKellnVTlxM216WXpCRmg1NFNIVWI2dE1KTVVJcXBUVlRlY2ZFeVZKRXdkYkwwU1A4VGVpZUcwanExTWlOS2hUY1JzU29mYkpCV1F4bk5INFczUER0RFhsTG1aVk1kblUxemQ2UnBXcFI?oc=5",
+        "published": "2026-10-08T08:23:31Z"
+      },
+      {
         "title": "Goldman Sachs Ensnared in EY Data Breach Earlier This Year",
         "outlet": "Claims Journal",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Lc0NBNzJDeVdESGJSVWZhaFgtRnhJOC1MQm1GU3hLaFh1VnJhMk9ubFZfX2F6MnJaeUowMk5BQzF4MmZSS1UwczY5aVNWeVpwMXhmZ3YyZXh6dFVwSHpzNE90TXNQS1ZrRDdEY0ZvTGxiSTQ?oc=5",
         "published": "2026-10-08T05:00:16Z"
-      },
-      {
-        "title": "Massive New GTA 6 Leak is Full of Nudity, Including Jason's Dong",
-        "outlet": "Polygon.com",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5neWt1Zm9Ua2xidmxBSmFlN3kzdFBGMDUzcEdLTlJIVUg0SGVfd1JzRzRQbmQtUy14UUR5SXIxZnhoWlkyNnBzX25SeUxnbWhSR3dnU1RZNnFUS0NGLUF5Q3pTSkVwa2M5R2NZMzJqNnFMN0hC?oc=5",
-        "published": "2026-10-08T14:07:02Z"
       },
       {
         "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
