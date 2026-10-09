@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-10-09T02:31:16Z",
+  "as_of": "2026-10-09T09:33:56Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1042,
-    "breaches_2026": 86,
-    "pwn_2026": 295178632,
-    "added_2026": 107,
-    "added_7d": 3,
-    "added_30d": 8,
+    "catalog_total": 1043,
+    "breaches_2026": 87,
+    "pwn_2026": 295614595,
+    "added_2026": 108,
+    "added_7d": 4,
+    "added_30d": 9,
     "latest": [
+      {
+        "name": "Neogen",
+        "title": "Neogen",
+        "added": "2026-10-09T07:06:25Z",
+        "breach_date": "2026-08-29",
+        "pwn_count": 435963,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#Neogen"
+      },
       {
         "name": "CyrusOne",
         "title": "CyrusOne",
@@ -66,14 +74,6 @@
         "breach_date": "2026-08-03",
         "pwn_count": 4653212,
         "url": "https://haveibeenpwned.com/PwnedWebsites#Chess2026"
-      },
-      {
-        "name": "McKesson",
-        "title": "McKesson",
-        "added": "2026-09-10T05:45:39Z",
-        "breach_date": "2026-08-21",
-        "pwn_count": 6404340,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#McKesson"
       }
     ]
   },
@@ -89,10 +89,10 @@
         "published": "2026-10-08T13:13:19Z"
       },
       {
-        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
+        "title": "GTA 6 Cyberleek update: Everything leaked so far, what could be next",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODVlRTVONzRxbW83VUREbU1RTTFCaXZDdkY0NWJfUXZPU1MyMzZ6NjZwdHJSVmJtY1U3c2JjU2dYbVNhejFkbUZ3Yk9hR21zeURWR1RtQTlRSW1OdjcwZnVoNjkwSksyRnlKTnJtQ29uYmJZVzFJOG5NTXo2WF85NzlzMjNHQlJnS3VlZWp3TTU?oc=5",
-        "published": "2026-10-09T02:13:15Z"
+        "published": "2026-10-08T18:38:11Z"
       },
       {
         "title": "New 25 Minute Long GTA 6 Leak Reveals First Person Mode",
@@ -107,28 +107,28 @@
         "published": "2026-10-08T11:29:21Z"
       },
       {
-        "title": "Georgia Power data breach hits 300,000 customers",
-        "outlet": "The Atlanta Journal-Constitution",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5",
-        "published": "2026-10-06T01:28:54Z"
-      },
-      {
         "title": "Massive New GTA 6 Leak is Full of Nudity, Including Jason's Dong",
         "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5neWt1Zm9Ua2xidmxBSmFlN3kzdFBGMDUzcEdLTlJIVUg0SGVfd1JzRzRQbmQtUy14UUR5SXIxZnhoWlkyNnBzX25SeUxnbWhSR3dnU1RZNnFUS0NGLUF5Q3pTSkVwa2M5R2NZMzJqNnFMN0hC?oc=5",
         "published": "2026-10-08T14:07:02Z"
       },
       {
-        "title": "Goldman Sachs Ensnared in EY Data Breach Earlier This Year",
-        "outlet": "Claims Journal",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Lc0NBNzJDeVdESGJSVWZhaFgtRnhJOC1MQm1GU3hLaFh1VnJhMk9ubFZfX2F6MnJaeUowMk5BQzF4MmZSS1UwczY5aVNWeVpwMXhmZ3YyZXh6dFVwSHpzNE90TXNQS1ZrRDdEY0ZvTGxiSTQ?oc=5",
-        "published": "2026-10-08T05:00:16Z"
+        "title": "Georgia Power data breach hits 300,000 customers",
+        "outlet": "The Atlanta Journal-Constitution",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5",
+        "published": "2026-10-06T01:28:54Z"
       },
       {
         "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWEpONS03TjQ4UjFpeko1YlktVE1YeVM1Qkd4Y2xwQm43YnhlYjZUYmpNRFpIdXpLcVFfSVJlSHZUclFJR2NxM05VUGhLRU8xYkhFOUVlT1JFOTQ5OHUySGhaejhyUUtpN0Fwd2IxbElpcWtfV3FVb2FNZEVFdEJtS2ZUUUFibGRmYnp2dDV1bEJhb1nSAZgBQVVfeXFMTl80LVp6bG5tNlI5YUpfOUJiOUFTLVJwWDBqTlVQZE9iS3N0czdXVHBKellnVTlxM216WXpCRmg1NFNIVWI2dE1KTVVJcXBUVlRlY2ZFeVZKRXdkYkwwU1A4VGVpZUcwanExTWlOS2hUY1JzU29mYkpCV1F4bk5INFczUER0RFhsTG1aVk1kblUxemQ2UnBXcFI?oc=5",
         "published": "2026-10-08T08:23:31Z"
+      },
+      {
+        "title": "Goldman Sachs Ensnared in EY Data Breach Earlier This Year",
+        "outlet": "Claims Journal",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Lc0NBNzJDeVdESGJSVWZhaFgtRnhJOC1MQm1GU3hLaFh1VnJhMk9ubFZfX2F6MnJaeUowMk5BQzF4MmZSS1UwczY5aVNWeVpwMXhmZ3YyZXh6dFVwSHpzNE90TXNQS1ZrRDdEY0ZvTGxiSTQ?oc=5",
+        "published": "2026-10-08T05:00:16Z"
       }
     ]
   },
