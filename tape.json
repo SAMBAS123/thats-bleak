@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-11T09:15:13Z",
+  "as_of": "2026-10-11T15:55:44Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,22 +89,16 @@
         "published": "2026-10-08T12:23:12Z"
       },
       {
-        "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
-        "outlet": "Fierce Healthcare",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU05ybFhVVnFEMWlobmpPXzVIa0piekp0TGNZMjRER1NSeDMwUFh3dnlPelNqcEV4MlVFVXFuMS01MUVoU1N4RjA2bTBSMVpVaXJpVm5YY0pXdHI3RU1Fa0tqajFYOVZVTjRCSmJ5TjV0RmtXX2k3aTAwNnBuLVNkTHBjR1I5ZUpiNC14N1QzWUM5STJkT2VFclF6VVo1OVM0NG1jemdkZ0tzNVpMVDhR?oc=5",
-        "published": "2026-10-09T20:00:00Z"
-      },
-      {
         "title": "Fans Issue GTA 6 Spoiler Warnings as 'Cyberleek' Returns With New 24-Minute Gameplay Video",
         "outlet": "IGN",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9NUjB1ekdSa2VlcGwxS1FtSVNtZkc2OVFJU1o2MlpiQUw4N2JCbXAtUERTMUlrdUtoeDhENkY4S3NPWWF5Wl9FVmV4a2RQTDRJbDE2cWJaNW1PbW14cnJIU0VsYkVRaXRRT05ZemNtbGg5OVlWYXdCTVlEdEI5M3dSNDlsOGU2dUhiMXdoX0ljRzIwWGpFRkFmNnNiSE1Bd2stWTBSTUZsSVYy?oc=5",
         "published": "2026-10-08T13:13:19Z"
       },
       {
-        "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
-        "outlet": "The Verge",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmxRQjFBR3dwMW12TFNYUlFzT1JUeXAtbEd2aGRQWkE2YzE0THJOS29LNW4zeDkwSGpDVkxnTWc5QXZfcTN4Y3N5NWVsYmY3N3hWaTBXQlFVcktDQjNyeXRid3NSU0E1SWlUS0M2QUJoZWswSml4NjFlVjNic0dtNHJOUVo?oc=5",
-        "published": "2026-10-08T13:22:35Z"
+        "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
+        "outlet": "Fierce Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU05ybFhVVnFEMWlobmpPXzVIa0piekp0TGNZMjRER1NSeDMwUFh3dnlPelNqcEV4MlVFVXFuMS01MUVoU1N4RjA2bTBSMVpVaXJpVm5YY0pXdHI3RU1Fa0tqajFYOVZVTjRCSmJ5TjV0RmtXX2k3aTAwNnBuLVNkTHBjR1I5ZUpiNC14N1QzWUM5STJkT2VFclF6VVo1OVM0NG1jemdkZ0tzNVpMVDhR?oc=5",
+        "published": "2026-10-09T20:00:00Z"
       },
       {
         "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong",
@@ -113,10 +107,10 @@
         "published": "2026-10-08T11:29:21Z"
       },
       {
-        "title": "Springfield, Mass., Schools Data Breach Affects Former Employees",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcEtBN3labEYyb0Y4OGIyYURJcHRUb3ZFajUwcm5WZlpHc1hPYklRNFFqbXF6dGU0X0d3VTJ0bWZpWk1SMmtnLW84bmI1U3hRNUg2WWJDc1R2M0xpNWduT1NLSUpOVEp0LWN5WmRSTmNfeXpfakI1SHdEaUNlajZhT1FadGNQUnFzT3FPSnlEeWxxVGs5WTRmeGVhTzV6enI4NWc?oc=5",
-        "published": "2026-10-09T19:28:48Z"
+        "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
+        "outlet": "The Verge",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmxRQjFBR3dwMW12TFNYUlFzT1JUeXAtbEd2aGRQWkE2YzE0THJOS29LNW4zeDkwSGpDVkxnTWc5QXZfcTN4Y3N5NWVsYmY3N3hWaTBXQlFVcktDQjNyeXRid3NSU0E1SWlUS0M2QUJoZWswSml4NjFlVjNic0dtNHJOUVo?oc=5",
+        "published": "2026-10-08T13:22:35Z"
       },
       {
         "title": "Massive New GTA 6 Leak is Full of Nudity, Including Jason's Dong",
@@ -125,10 +119,16 @@
         "published": "2026-10-08T14:07:02Z"
       },
       {
-        "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-        "published": "2026-10-06T00:56:00Z"
+        "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVpoaHZVSEducXlFblN4YXpFNmZwTTg0VHdJNWYwVU9zblZaUUx2WDVvY1hhSVhuMmt0TzdHbXdjaWZIMHpxemtJcVozbHg3NklBc0tMODIwTzhqLVczcTlJamxPTTF6N0RiWW9lTV9EVExTczRfRWdwLXFtMXRGZzdWOUZoRjRVSjh5cEkwR3YxMG050gGaAUFVX3lxTFBnd3NDQ2RyVHhlZk9wTGtVczlqdVI0Tm1ISXBlMUx3OHlJMWd2ckNLN09VekRFZ29rc00tdDVxckpYUDZ6RDZHaW55blJmVTBkemFidFdycVFxS1RucHVoRDFNUnUweU1FejFuTzgxYkF4alYySkpDMU5wSjIwZDFSeENfSE14dTNjS29NUG5sc0tFeEt0eWI5eHc?oc=5",
+        "published": "2026-10-07T14:15:20Z"
+      },
+      {
+        "title": "Nearly 100,000 Alabama Power accounts affected by Southern Company data breach",
+        "outlet": "WBRC",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0N4VmJ3WDIzVWFBYnR4dEg4blhubkQ3dnRLTktUSzhDTjFXdmcyRE9lbktDa2ZIeEVuTy1idUV1bTVYOW45VnR3RlhQY2RaS21jcmdaV3NJTTNwb09xeHBHMXJBckZNSTFOS0VqRFJkdHVCM015WmVCOTZaeHo2MHZ4clJxak5EUF9VeXNpWGxsM1ZQd3lSVUhUZlpQMEtmYUJfbW9qWTM5R1J3Q0JF0gHDAUFVX3lxTE8yTnlsclkyVGpENXlMSW5BeURtR1NHQ0RXT0xNYjJkT0JXMngzdmFzWWNoTWJTOVB5OF9sWTE1bjAxSmRPWXdZWGVGeTlwZHoyZFk1b1FhaVptTWJZTTlvbEVzclN5aTZJTUFOQ2JfUk1KSFMyUEM1Nzg3OFFkeF93WmViRU55VFdGOW5Dajl4VkhpbnQxb1BuQlVsZDBrQlB1WlNOMU42a29aa29leVRXYm1EdFJXYWRHaUROU2VWYTdROA?oc=5",
+        "published": "2026-10-05T21:45:00Z"
       }
     ]
   },
