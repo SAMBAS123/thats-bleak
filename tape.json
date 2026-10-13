@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-13T12:06:15Z",
+  "as_of": "2026-10-13T19:29:33Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 295932780,
     "added_2026": 109,
     "added_7d": 5,
-    "added_30d": 9,
+    "added_30d": 8,
     "latest": [
       {
         "name": "Sharecare",
@@ -86,7 +86,7 @@
         "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
-        "published": "2026-10-13T09:50:49Z"
+        "published": "2026-10-13T18:55:48Z"
       },
       {
         "title": "GTA 6 leaker Cyberleek threatens to leak full playable build if Take-Two doesn't bring back physical discs",
@@ -107,16 +107,16 @@
         "published": "2026-10-08T13:13:19Z"
       },
       {
-        "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
-        "outlet": "Fierce Healthcare",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU05ybFhVVnFEMWlobmpPXzVIa0piekp0TGNZMjRER1NSeDMwUFh3dnlPelNqcEV4MlVFVXFuMS01MUVoU1N4RjA2bTBSMVpVaXJpVm5YY0pXdHI3RU1Fa0tqajFYOVZVTjRCSmJ5TjV0RmtXX2k3aTAwNnBuLVNkTHBjR1I5ZUpiNC14N1QzWUM5STJkT2VFclF6VVo1OVM0NG1jemdkZ0tzNVpMVDhR?oc=5",
-        "published": "2026-10-09T20:00:00Z"
-      },
-      {
         "title": "'GTA 6' Leaker Posts Nude Lucia Video As Threat To Release Full Game Early Looms",
         "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUU2ai14cGliOUdvRWhMd2Jma3lZN0JyemZMWXI5RkZOSVViYWp2SVZOMWxYSmQ4U3JQQ0pOTklDc2hUSkVoNUpMaGxhUTNKam11QjAyamc5djhxU0Q5UlNfN0dRa3kzTUJRZWU0RjNQemdfUW12T0dmUFJOR25IblIwbzBldnE1bWlkZFhEREtBd3J5dlZkeGhR?oc=5",
         "published": "2026-10-11T13:27:56Z"
+      },
+      {
+        "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M (TTWO:NASDAQ)",
+        "outlet": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpzWS1uRFlPRDNqT3Y5YjV4al9oRXJxQ2ptS0QzTEpJWXVnQjhWdTJpeWpHOU1sSGRJMVc4WWxBSUFjOHA3aTMtcGJqQVVXdGpLUk9fa2pZa1pzdXBvTlhKVkFFNk9fUGNENEwtVmJ1aTZFS0s2WGwtMkdYYVdBTUI1cnJwdUNiTV9PZkxpc0tyRmdQbGpabi05V0dlazNMc1lFY3RB?oc=5",
+        "published": "2026-10-11T21:15:36Z"
       },
       {
         "title": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026]",
@@ -125,10 +125,10 @@
         "published": "2026-10-11T21:50:28Z"
       },
       {
-        "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M (TTWO:NASDAQ)",
-        "outlet": "Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpzWS1uRFlPRDNqT3Y5YjV4al9oRXJxQ2ptS0QzTEpJWXVnQjhWdTJpeWpHOU1sSGRJMVc4WWxBSUFjOHA3aTMtcGJqQVVXdGpLUk9fa2pZa1pzdXBvTlhKVkFFNk9fUGNENEwtVmJ1aTZFS0s2WGwtMkdYYVdBTUI1cnJwdUNiTV9PZkxpc0tyRmdQbGpabi05V0dlazNMc1lFY3RB?oc=5",
-        "published": "2026-10-11T21:15:36Z"
+        "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong",
+        "outlet": "Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUZLOHZ4ek5BNE9yTTZOYTcybXlUSkx2djM5OEp0MkFCZGlTdEwwT2lzZkVaMGh0RjJzQm9qTFo2UktTYkxzcnVLQmFGdlliZVJMQk9lc0gxemFvRFNOM3RMMW1YRU9hcXFHRXZvX2dsbzBmOFNWWUJJMHFKcTdIdUFkbFN5TmtoREVxc01hUWNCWEJQYXc?oc=5",
+        "published": "2026-10-08T11:29:21Z"
       }
     ]
   },
