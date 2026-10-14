@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-10-14T02:07:18Z",
+  "as_of": "2026-10-14T07:58:44Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1044,
-    "breaches_2026": 88,
-    "pwn_2026": 295932780,
-    "added_2026": 109,
-    "added_7d": 5,
-    "added_30d": 8,
+    "catalog_total": 1045,
+    "breaches_2026": 89,
+    "pwn_2026": 296492688,
+    "added_2026": 110,
+    "added_7d": 4,
+    "added_30d": 9,
     "latest": [
+      {
+        "name": "Crunchbase",
+        "title": "Crunchbase",
+        "added": "2026-10-14T06:01:26Z",
+        "breach_date": "2026-01-22",
+        "pwn_count": 559908,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#Crunchbase"
+      },
       {
         "name": "Sharecare",
         "title": "Sharecare",
@@ -66,14 +74,6 @@
         "breach_date": "2019-08-01",
         "pwn_count": 17838396,
         "url": "https://haveibeenpwned.com/PwnedWebsites#LimeLeads"
-      },
-      {
-        "name": "BurgerKingRussia",
-        "title": "Burger King Russia",
-        "added": "2026-09-21T13:54:00Z",
-        "breach_date": "2024-08-25",
-        "pwn_count": 3155792,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#BurgerKingRussia"
       }
     ]
   },
@@ -83,10 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
+        "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
-        "published": "2026-10-14T00:56:53Z"
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
+        "published": "2026-10-14T02:29:11Z"
       },
       {
         "title": "GTA 6 leaker Cyberleek threatens to leak full playable build if Take-Two doesn't bring back physical discs",
@@ -125,10 +125,10 @@
         "published": "2026-10-11T21:15:36Z"
       },
       {
-        "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
-        "outlet": "The Verge",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmxRQjFBR3dwMW12TFNYUlFzT1JUeXAtbEd2aGRQWkE2YzE0THJOS29LNW4zeDkwSGpDVkxnTWc5QXZfcTN4Y3N5NWVsYmY3N3hWaTBXQlFVcktDQjNyeXRid3NSU0E1SWlUS0M2QUJoZWswSml4NjFlVjNic0dtNHJOUVo?oc=5",
-        "published": "2026-10-08T13:22:35Z"
+        "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong",
+        "outlet": "Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUZLOHZ4ek5BNE9yTTZOYTcybXlUSkx2djM5OEp0MkFCZGlTdEwwT2lzZkVaMGh0RjJzQm9qTFo2UktTYkxzcnVLQmFGdlliZVJMQk9lc0gxemFvRFNOM3RMMW1YRU9hcXFHRXZvX2dsbzBmOFNWWUJJMHFKcTdIdUFkbFN5TmtoREVxc01hUWNCWEJQYXc?oc=5",
+        "published": "2026-10-08T11:29:21Z"
       }
     ]
   },
