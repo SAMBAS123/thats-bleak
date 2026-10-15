@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T12:00:14Z",
+  "as_of": "2026-10-15T17:18:11Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
+        "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
-        "published": "2026-10-14T15:12:48Z"
-      },
-      {
-        "title": "'There Is a God' — GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXc3MDNPYTJIM1dRYmxpRmFpMmhEemszXy1EdVBHZWY1WHhER3JJTm11TGp2SmlYdzF0cDdxLUs3S1NqMDhDbFVOV2dSSlY3dWh0QmZZZVNRbmRnNWUwcVBHTGxNZ1c2eGhqcXZiT2I4anJaNnZreFVwcFBHMS1JNE9SY1R6WWZpaFZqVnpXNkotRGVh?oc=5",
-        "published": "2026-10-13T09:56:23Z"
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
+        "published": "2026-10-15T16:11:11Z"
       },
       {
         "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
@@ -101,16 +95,16 @@
         "published": "2026-10-09T20:00:00Z"
       },
       {
-        "title": "New 25 Minute Long GTA 6 Leak Reveals First Person Mode",
-        "outlet": "RockstarINTEL",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0tWMGxjS0FlalhuVUxSdGMzNkNGTjN5QkxLMk1weUdKR3E0WlJwVVIzUkpaSUwwcks5SEFMWHY4QmJHMXRSLVpoUk1xSXBJdE9hRWdBQ1VhbGhrNzhqaVN3YmlCV1JRQnNnSFJIV3ZIa0JnY04yRHd6SjhkQUNBM1RtcW5fcnN0c2c?oc=5",
-        "published": "2026-10-08T12:23:12Z"
-      },
-      {
         "title": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026]",
         "outlet": "https://tech-insider.org/",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1NmUVd4UWs4dHh4eG45RllvNXBaR1VBTi1pLUZDY1U2RmhVLXNlbVFwUGNQNGh3TTBWbm5wVGhTMWpEYnlxMUozOXNZWTNZcnRSaWtqNTNZbUJvbjZGSjVZSW5IVGVmZXQ4RThaSmducl9oRnc?oc=5",
         "published": "2026-10-11T21:50:28Z"
+      },
+      {
+        "title": "'There Is a God' — GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXc3MDNPYTJIM1dRYmxpRmFpMmhEemszXy1EdVBHZWY1WHhER3JJTm11TGp2SmlYdzF0cDdxLUs3S1NqMDhDbFVOV2dSSlY3dWh0QmZZZVNRbmRnNWUwcVBHTGxNZ1c2eGhqcXZiT2I4anJaNnZreFVwcFBHMS1JNE9SY1R6WWZpaFZqVnpXNkotRGVh?oc=5",
+        "published": "2026-10-13T09:56:23Z"
       },
       {
         "title": "'GTA 6' Leaker Posts Nude Lucia Video As Threat To Release Full Game Early Looms",
@@ -129,6 +123,12 @@
         "outlet": "PCMag",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFpid0FNVjB3UXNWUXdtMmJSQWMtRkxzTktRcENNRy1QX3FDcVg5My1pV2RsOHVHeWZLRnprTXV1SjZ6dTNlV1NlSjB2djlCSF9hQ3p5cFpiQzM3RXQ0d2dET2FnZ1lKcVRxVEQ0dE40LXM5eWpJZlFBaFpGQ1VaTWlVNFdIcWJ5T2Zzc2hSejNaenVPeVNEQVlvbFFXd2c?oc=5",
         "published": "2026-10-12T14:33:38Z"
+      },
+      {
+        "title": "July 2026 Healthcare Data Breach Report",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQjVjTFdmT2xZSXk2OWlOWFdHZkdPWFF0WFpyc242bXlleXQ2emUyMUR4MXJua0tUZDRucjRkUS1FZ1BYQkRPMDZWZjhfR3hic3hBYzVlZkJxVFNJclpwLUlTc1JDWmg1VFNtbnVJNW5vQkRmRTB4aw?oc=5",
+        "published": "2026-10-15T08:23:28Z"
       }
     ]
   },
