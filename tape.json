@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-16T06:18:57Z",
+  "as_of": "2026-10-16T11:50:44Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 89,
     "pwn_2026": 296492688,
     "added_2026": 110,
-    "added_7d": 3,
+    "added_7d": 2,
     "added_30d": 9,
     "latest": [
       {
@@ -86,13 +86,25 @@
         "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
-        "published": "2026-10-15T19:10:33Z"
+        "published": "2026-10-16T10:22:09Z"
       },
       {
         "title": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026]",
         "outlet": "https://tech-insider.org/",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1NmUVd4UWs4dHh4eG45RllvNXBaR1VBTi1pLUZDY1U2RmhVLXNlbVFwUGNQNGh3TTBWbm5wVGhTMWpEYnlxMUozOXNZWTNZcnRSaWtqNTNZbUJvbjZGSjVZSW5IVGVmZXQ4RThaSmducl9oRnc?oc=5",
         "published": "2026-10-11T21:50:28Z"
+      },
+      {
+        "title": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’",
+        "outlet": "Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlRuWjQ1MmdJdl96dl9vbFc3a2VydWpjOWtLdE1RdlRVbE1WSldrRGJWajJxZmZGQlNtSHd4WEhGS3ktdUNIaTJMMnEzak5EN3VyT2ZnMEZEd0IzcmRPcjZ6LVNhM1hfdF83bE9SU29hUTRrS0dhOWJjX2ZHN0ZValgzN05teElvVzNrSi0yck9JOERRZlBlMWRRNmJTZUxpMDNLamlicw?oc=5",
+        "published": "2026-10-14T14:17:10Z"
+      },
+      {
+        "title": "'GTA 6' Leaker Posts Nude Lucia Video As Threat To Release Full Game Early Looms",
+        "outlet": "Polygon.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUU2ai14cGliOUdvRWhMd2Jma3lZN0JyemZMWXI5RkZOSVViYWp2SVZOMWxYSmQ4U3JQQ0pOTklDc2hUSkVoNUpMaGxhUTNKam11QjAyamc5djhxU0Q5UlNfN0dRa3kzTUJRZWU0RjNQemdfUW12T0dmUFJOR25IblIwbzBldnE1bWlkZFhEREtBd3J5dlZkeGhR?oc=5",
+        "published": "2026-10-11T13:27:56Z"
       },
       {
         "title": "Oracle Health data breach in 2025 compromised data of 20M people: report",
@@ -107,28 +119,16 @@
         "published": "2026-10-13T09:56:23Z"
       },
       {
-        "title": "'GTA 6' Leaker Posts Nude Lucia Video As Threat To Release Full Game Early Looms",
-        "outlet": "Polygon.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUU2ai14cGliOUdvRWhMd2Jma3lZN0JyemZMWXI5RkZOSVViYWp2SVZOMWxYSmQ4U3JQQ0pOTklDc2hUSkVoNUpMaGxhUTNKam11QjAyamc5djhxU0Q5UlNfN0dRa3kzTUJRZWU0RjNQemdfUW12T0dmUFJOR25IblIwbzBldnE1bWlkZFhEREtBd3J5dlZkeGhR?oc=5",
-        "published": "2026-10-11T13:27:56Z"
+        "title": "July 2026 Healthcare Data Breach Report",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQjVjTFdmT2xZSXk2OWlOWFdHZkdPWFF0WFpyc242bXlleXQ2emUyMUR4MXJua0tUZDRucjRkUS1FZ1BYQkRPMDZWZjhfR3hic3hBYzVlZkJxVFNJclpwLUlTc1JDWmg1VFNtbnVJNW5vQkRmRTB4aw?oc=5",
+        "published": "2026-10-15T08:23:28Z"
       },
       {
         "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M (TTWO:NASDAQ)",
         "outlet": "Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpzWS1uRFlPRDNqT3Y5YjV4al9oRXJxQ2ptS0QzTEpJWXVnQjhWdTJpeWpHOU1sSGRJMVc4WWxBSUFjOHA3aTMtcGJqQVVXdGpLUk9fa2pZa1pzdXBvTlhKVkFFNk9fUGNENEwtVmJ1aTZFS0s2WGwtMkdYYVdBTUI1cnJwdUNiTV9PZkxpc0tyRmdQbGpabi05V0dlazNMc1lFY3RB?oc=5",
         "published": "2026-10-11T21:15:36Z"
-      },
-      {
-        "title": "GTA 6 Leaker Teases 'Playable Build' Launch, Doubles Down on Crypto Scheme",
-        "outlet": "PCMag",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFpid0FNVjB3UXNWUXdtMmJSQWMtRkxzTktRcENNRy1QX3FDcVg5My1pV2RsOHVHeWZLRnprTXV1SjZ6dTNlV1NlSjB2djlCSF9hQ3p5cFpiQzM3RXQ0d2dET2FnZ1lKcVRxVEQ0dE40LXM5eWpJZlFBaFpGQ1VaTWlVNFdIcWJ5T2Zzc2hSejNaenVPeVNEQVlvbFFXd2c?oc=5",
-        "published": "2026-10-12T14:33:38Z"
-      },
-      {
-        "title": "July 2026 Healthcare Data Breach Report",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQjVjTFdmT2xZSXk2OWlOWFdHZkdPWFF0WFpyc242bXlleXQ2emUyMUR4MXJua0tUZDRucjRkUS1FZ1BYQkRPMDZWZjhfR3hic3hBYzVlZkJxVFNJclpwLUlTc1JDWmg1VFNtbnVJNW5vQkRmRTB4aw?oc=5",
-        "published": "2026-10-15T08:23:28Z"
       }
     ]
   },
@@ -176,7 +176,5 @@
       "url": "https://cybernews.com/security/millions-login-records-allegedly-stolen-from-roblox/"
     }
   ],
-  "errors": [
-    "news: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
