@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-18T21:47:31Z",
+  "as_of": "2026-10-19T00:26:06Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,12 +89,6 @@
         "published": "2026-10-14T19:40:59Z"
       },
       {
-        "title": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026]",
-        "outlet": "https://tech-insider.org/",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1NmUVd4UWs4dHh4eG45RllvNXBaR1VBTi1pLUZDY1U2RmhVLXNlbVFwUGNQNGh3TTBWbm5wVGhTMWpEYnlxMUozOXNZWTNZcnRSaWtqNTNZbUJvbjZGSjVZSW5IVGVmZXQ4RThaSmducl9oRnc?oc=5",
-        "published": "2026-10-11T21:50:28Z"
-      },
-      {
         "title": "Frontline Education Data Breach Impacts School Employees",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
@@ -113,22 +107,28 @@
         "published": "2026-10-13T09:56:23Z"
       },
       {
-        "title": "'GTA 6' Leaker's Naked Lucia Gamble Just Backfired Massively",
-        "outlet": "Polygon.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RwbVlHVWNTNzJyUUdydzBUd2xXWHVGTGpkS0hrNzhLYUllSGVsdXZ4WThiRnI3MGxjLWpwSGFWQmNsck8wanF1bUlsUm5aSmR1d3NFdThuRGFDMlZGVEd1NWZ0ZGh0LURmNlRMZlVVQnhSOXU3NXVRc2FBaHFaYXJzUW8?oc=5",
-        "published": "2026-10-12T16:07:38Z"
-      },
-      {
         "title": "July 2026 Healthcare Data Breach Report",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQjVjTFdmT2xZSXk2OWlOWFdHZkdPWFF0WFpyc242bXlleXQ2emUyMUR4MXJua0tUZDRucjRkUS1FZ1BYQkRPMDZWZjhfR3hic3hBYzVlZkJxVFNJclpwLUlTc1JDWmg1VFNtbnVJNW5vQkRmRTB4aw?oc=5",
         "published": "2026-10-15T08:23:28Z"
       },
       {
+        "title": "'GTA 6' Leaker's Naked Lucia Gamble Just Backfired Massively",
+        "outlet": "Polygon.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RwbVlHVWNTNzJyUUdydzBUd2xXWHVGTGpkS0hrNzhLYUllSGVsdXZ4WThiRnI3MGxjLWpwSGFWQmNsck8wanF1bUlsUm5aSmR1d3NFdThuRGFDMlZGVEd1NWZ0ZGh0LURmNlRMZlVVQnhSOXU3NXVRc2FBaHFaYXJzUW8?oc=5",
+        "published": "2026-10-12T16:07:38Z"
+      },
+      {
         "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmZzMmIwd094Q2N6S1RjR3hSU0l2MWt4a2NaTjNnakJENTNObndsYWp2bXN0X2U4b0JwUzNKQWdIUGo2ZC1oWlgtalRYb3dwMDVOc3RQclFGX0c2TEx0a0dVbm5WOC1MN2JwQ3JTTFJGR2JuaDB6bDBLX2xyQUlzSG5KQmwzVTBDTjZwNXpn0gGTAUFVX3lxTE1yWmdIS3RZVUR5UTZnem9RTGRJdUhxYWtoNS15UXJNOGgxSjdzMm9aMU0wNlFCLWhRVGRQQndzTEV0WDhiVTRHZTBrZlQ3eHJwZ24tR0Q4WWhiNUpyTHJFQWtScjFUclF0RkpKVHJjdjdCemxqbnJCZDM4UUlkUVp6WG1zTTBId3l0UlNadERqWXBPRQ?oc=5",
         "published": "2026-10-15T09:55:19Z"
+      },
+      {
+        "title": "Weeks after data breach, FLHSMV says it will let drivers know if their records were hacked",
+        "outlet": "Florida Politics",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQekVYOElJNHpjSFh5bjFsN1BuM0Q1a1lXRzVlZ1c3TDFzRUZoVjdvdnlWbjVXZWtIMktPb19HM25rWWpnQ3YtSEVMcGN6U1ZvMWtEVUVta2JYdTM3b1A1TmpmODdDNXd3X1RQX2V0b0ZrU3NKM3BlNFNqSHoyaDUwb2o5ZVlDUUROeGxPOFhDcmhYZDVKOWQzVWVqNklRaTFVTXRfQURMdGdBRTVqMmMyWGViSzE4TDA3QjN5ODUtck1PTVgzLTA2T0Y1R0tqOWM?oc=5",
+        "published": "2026-10-16T22:53:38Z"
       }
     ]
   },
