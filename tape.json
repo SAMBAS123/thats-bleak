@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-19T00:26:06Z",
+  "as_of": "2026-10-19T05:13:05Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,10 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly.",
+        "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODc2RXdOR1ZPNGdsQm9xUk1XUTJlOGo4UHI4WkVOcFJWOHNGMTFBOWl0RWw1ajNnZnB5ZmVqUVg4U2RuTmJ2cUxhb1JmYkE0Mmx4ZkExVzA0clFENlQzYXlkV2VuUVg3MUFPcHAtY1pOUnRyeHRxekx4bk5hZ25zbzB2SXNPcXpjd3NLV1pn?oc=5",
-        "published": "2026-10-14T19:40:59Z"
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODVlRTVONzRxbW83VUREbU1RTTFCaXZDdkY0NWJfUXZPU1MyMzZ6NjZwdHJSVmJtY1U3c2JjU2dYbVNhejFkbUZ3Yk9hR21zeURWR1RtQTlRSW1OdjcwZnVoNjkwSksyRnlKTnJtQ29uYmJZVzFJOG5NTXo2WF85NzlzMjNHQlJnS3VlZWp3TTU?oc=5",
+        "published": "2026-10-19T02:05:27Z"
       },
       {
         "title": "Frontline Education Data Breach Impacts School Employees",
@@ -95,16 +95,16 @@
         "published": "2026-10-16T19:47:46Z"
       },
       {
-        "title": "CT Settles 2024 Data Breach That Compromised 58,000 Residents’ Information",
-        "outlet": "CT News Junkie",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkVYWXlhbFBoYV9ONzF4d3lQcERoM1BDZ3phSGc4Yy1JVElRXzRBYVoxamRhalI0WTA3UWdZQ2lTa0U2TWdwYWxScVBadjRMOXhnRjlXNUdjQS0xMzNtdzZaNWhCR2FmclpxUk54ODFaZnlrSkJhT0tKUGxpQWdJbzRkeFpyeDFZWmNhNFVPbkQ3OTNqbEtNWVNKWUFpbTM2UkpHSVJPcXo2WnFIbnMyZS1B?oc=5",
-        "published": "2026-10-16T14:13:24Z"
-      },
-      {
         "title": "'There Is a God' — GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
         "outlet": "IGN",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXc3MDNPYTJIM1dRYmxpRmFpMmhEemszXy1EdVBHZWY1WHhER3JJTm11TGp2SmlYdzF0cDdxLUs3S1NqMDhDbFVOV2dSSlY3dWh0QmZZZVNRbmRnNWUwcVBHTGxNZ1c2eGhqcXZiT2I4anJaNnZreFVwcFBHMS1JNE9SY1R6WWZpaFZqVnpXNkotRGVh?oc=5",
         "published": "2026-10-13T09:56:23Z"
+      },
+      {
+        "title": "CT Settles 2024 Data Breach That Compromised 58,000 Residents’ Information",
+        "outlet": "CT News Junkie",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkVYWXlhbFBoYV9ONzF4d3lQcERoM1BDZ3phSGc4Yy1JVElRXzRBYVoxamRhalI0WTA3UWdZQ2lTa0U2TWdwYWxScVBadjRMOXhnRjlXNUdjQS0xMzNtdzZaNWhCR2FmclpxUk54ODFaZnlrSkJhT0tKUGxpQWdJbzRkeFpyeDFZWmNhNFVPbkQ3OTNqbEtNWVNKWUFpbTM2UkpHSVJPcXo2WnFIbnMyZS1B?oc=5",
+        "published": "2026-10-16T14:13:24Z"
       },
       {
         "title": "July 2026 Healthcare Data Breach Report",
