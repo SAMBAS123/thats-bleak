@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-19T22:35:40Z",
+  "as_of": "2026-10-20T01:12:38Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 90,
     "pwn_2026": 296610262,
     "added_2026": 111,
-    "added_7d": 3,
+    "added_7d": 2,
     "added_30d": 10,
     "latest": [
       {
@@ -83,16 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "'GTA 6' Cyberleek release update: New leaks, development build, and roadmap of what might be next",
+        "title": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch'",
         "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOU9KUXk5VWxSS2lQMGhrakdEdGcwVGU3eE95TEVqMDBLOVpERGVJQTV0aFhFQVUzQXZCZ0dIY2ZmbVFnTWpzSkMzZEJvaVphUy1WRkhwTmlIWnZUalU4Q09qaGxLNXhwLWo3YmZlSUQyU0xoQXRURWgwd21rX1BEdjVtV054aGxvMEE?oc=5",
-        "published": "2026-10-13T18:45:36Z"
-      },
-      {
-        "title": "California to recieve $6m settlement after 23andMe data breach",
-        "outlet": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
-        "published": "2026-10-19T21:34:00Z"
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGZ4bU9NSUVRYzVGbFl3eHlpamJjSWFoQzBGaFlrbi03TzdHR29Xb2htSzZEamltajNrbjloeWhTX1BhWEwyZEc5ampPMy1seWVtZDJMcEhjRzVjdE1BNnIyYTRKeGhuenJJWlFkcEFWWkxvbEpYdjdwT1RRLUtZTHlKVTRsYjQ?oc=5",
+        "published": "2026-10-19T19:06:54Z"
       },
       {
         "title": "CT Settles 2024 Data Breach That Compromised 58,000 Residents’ Information",
@@ -101,22 +95,28 @@
         "published": "2026-10-16T14:13:24Z"
       },
       {
-        "title": "'There Is a God' — GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXc3MDNPYTJIM1dRYmxpRmFpMmhEemszXy1EdVBHZWY1WHhER3JJTm11TGp2SmlYdzF0cDdxLUs3S1NqMDhDbFVOV2dSSlY3dWh0QmZZZVNRbmRnNWUwcVBHTGxNZ1c2eGhqcXZiT2I4anJaNnZreFVwcFBHMS1JNE9SY1R6WWZpaFZqVnpXNkotRGVh?oc=5",
-        "published": "2026-10-13T09:56:23Z"
-      },
-      {
         "title": "Frontline Education Data Breach Impacts School Employees",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
         "published": "2026-10-16T19:47:46Z"
       },
       {
+        "title": "'There Is a God' — GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXc3MDNPYTJIM1dRYmxpRmFpMmhEemszXy1EdVBHZWY1WHhER3JJTm11TGp2SmlYdzF0cDdxLUs3S1NqMDhDbFVOV2dSSlY3dWh0QmZZZVNRbmRnNWUwcVBHTGxNZ1c2eGhqcXZiT2I4anJaNnZreFVwcFBHMS1JNE9SY1R6WWZpaFZqVnpXNkotRGVh?oc=5",
+        "published": "2026-10-13T09:56:23Z"
+      },
+      {
         "title": "July 2026 Healthcare Data Breach Report",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQjVjTFdmT2xZSXk2OWlOWFdHZkdPWFF0WFpyc242bXlleXQ2emUyMUR4MXJua0tUZDRucjRkUS1FZ1BYQkRPMDZWZjhfR3hic3hBYzVlZkJxVFNJclpwLUlTc1JDWmg1VFNtbnVJNW5vQkRmRTB4aw?oc=5",
         "published": "2026-10-15T08:23:28Z"
+      },
+      {
+        "title": "California to receive $6m settlement after 23andMe data breach",
+        "outlet": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
+        "published": "2026-10-19T21:34:00Z"
       },
       {
         "title": "Baltimore suburb confirms August data breach after ransomware claims",
