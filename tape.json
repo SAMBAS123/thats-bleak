@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-20T17:28:25Z",
+  "as_of": "2026-10-20T20:48:59Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,10 +89,10 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "Student info compromised in California state testing data breach",
-        "outlet": "KCRA",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamRSVzdvU24yYVcwLThORXY3NGFzLXRpXzk5TWpMbFVsRjl5d21KbWpZdU1YX1NWWVFLUmE3X05vYXpYOE1HRnpmSzNXb2t3bnJhcVpTMXFhc2hqUy1UV0o4aW92azNWMFVOU1k0UmhYcWhaaUdUQjhvNlY1Q2lVX25vUDdkWHBYdEhPOXh6OGg?oc=5",
-        "published": "2026-10-19T23:57:00Z"
+        "title": "California settles 23andMe data breach claims for $6 million",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVd3UUR6VG9nM2tIWDlpUkQtaEt4cFBhbXVWODlPU2tXMVgwa21RWmRXeVFyZ1MxM2pZMjJYWGNYdGV4ek4wZ004dW5nZ1Zjczk4UlBDaE1xMzktTUxWNlJwb2pUUmVkdWJkdUt6bm5oYUhTbHU2QUpkT3lFaXQxLXlSY0xXOFUzMDVHTWVkYmo0YmdlNTJqLVU3ZVJvanE0UDdwS2NjSEh1VF9x?oc=5",
+        "published": "2026-10-19T21:19:15Z"
       },
       {
         "title": "CT Settles 2024 Data Breach That Compromised 58,000 Residents’ Information",
@@ -107,16 +107,16 @@
         "published": "2026-10-16T19:47:46Z"
       },
       {
-        "title": "California settles 23andMe data breach claims for $6 million",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVd3UUR6VG9nM2tIWDlpUkQtaEt4cFBhbXVWODlPU2tXMVgwa21RWmRXeVFyZ1MxM2pZMjJYWGNYdGV4ek4wZ004dW5nZ1Zjczk4UlBDaE1xMzktTUxWNlJwb2pUUmVkdWJkdUt6bm5oYUhTbHU2QUpkT3lFaXQxLXlSY0xXOFUzMDVHTWVkYmo0YmdlNTJqLVU3ZVJvanE0UDdwS2NjSEh1VF9x?oc=5",
-        "published": "2026-10-19T21:19:15Z"
-      },
-      {
         "title": "July 2026 Healthcare Data Breach Report",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQjVjTFdmT2xZSXk2OWlOWFdHZkdPWFF0WFpyc242bXlleXQ2emUyMUR4MXJua0tUZDRucjRkUS1FZ1BYQkRPMDZWZjhfR3hic3hBYzVlZkJxVFNJclpwLUlTc1JDWmg1VFNtbnVJNW5vQkRmRTB4aw?oc=5",
         "published": "2026-10-15T08:23:28Z"
+      },
+      {
+        "title": "Student info compromised in California state testing data breach",
+        "outlet": "KCRA",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamRSVzdvU24yYVcwLThORXY3NGFzLXRpXzk5TWpMbFVsRjl5d21KbWpZdU1YX1NWWVFLUmE3X05vYXpYOE1HRnpmSzNXb2t3bnJhcVpTMXFhc2hqUy1UV0o4aW92azNWMFVOU1k0UmhYcWhaaUdUQjhvNlY1Q2lVX25vUDdkWHBYdEhPOXh6OGg?oc=5",
+        "published": "2026-10-19T23:57:00Z"
       },
       {
         "title": "New details on Alabama nursing board data breach",
