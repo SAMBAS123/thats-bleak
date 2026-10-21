@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T10:31:36Z",
+  "as_of": "2026-10-21T15:33:04Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 296610262,
     "added_2026": 112,
     "added_7d": 2,
-    "added_30d": 11,
+    "added_30d": 10,
     "latest": [
       {
         "name": "AssuranceRetraite",
@@ -101,12 +101,6 @@
         "published": "2026-10-20T01:23:00Z"
       },
       {
-        "title": "July 2026 Healthcare Data Breach Report",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQjVjTFdmT2xZSXk2OWlOWFdHZkdPWFF0WFpyc242bXlleXQ2emUyMUR4MXJua0tUZDRucjRkUS1FZ1BYQkRPMDZWZjhfR3hic3hBYzVlZkJxVFNJclpwLUlTc1JDWmg1VFNtbnVJNW5vQkRmRTB4aw?oc=5",
-        "published": "2026-10-15T08:23:28Z"
-      },
-      {
         "title": "Testing Company Data Breach Affects Millions of Calif. Students",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHR5NU95YlQtUU5uMV9udWJ2QW9rbmh3NlB1ODNHQmR3TWtod2VEVk03cDlua1pkbzcwazJ1ZE9xeXkwU2Z6YVlDS2xMNkNWTFdnRzU2R0Q3M3FMSmVMbFhBY3R2VE1sRW9ZeU50S1dpamJYUWdRYURlS3pmX3U1Mnc5UkhWNDMwclVVNHZJM1hrZHZUeXJ1TGVmNHZrUlV1b25N?oc=5",
@@ -117,6 +111,12 @@
         "outlet": "Broadband Breakfast",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTlJZ1ROenVoT3FQREFIT3VxaUNiUnFXX0c3QW1ja3FHaW5qS2pZQzhFZ2NUS2REOFBlaS1vNTVOcmVMekpUQVNSWHkzcjNVRXJ5TnFaVWxSd09MZXlJeWF0LVlfQURwWVVwNktqWTdROFJfU0JOZnVhQlNxdTFEZ2pUUk40aG1SSm1N?oc=5",
         "published": "2026-10-19T22:50:46Z"
+      },
+      {
+        "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ReEdTWXBJUWJMUGVCQXppb2JoX2QwS3NRNDRLQ2UzYlp0Rms3Sk9oM05LcUtvU19RX2xjRnpVVkNmb215Zi1ocllURkJ3eVVnVGRvdTgweFloeE9uUHc?oc=5",
+        "published": "2026-10-19T07:00:00Z"
       },
       {
         "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
