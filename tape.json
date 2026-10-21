@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T15:33:04Z",
+  "as_of": "2026-10-21T19:32:19Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,16 +101,10 @@
         "published": "2026-10-20T01:23:00Z"
       },
       {
-        "title": "Testing Company Data Breach Affects Millions of Calif. Students",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHR5NU95YlQtUU5uMV9udWJ2QW9rbmh3NlB1ODNHQmR3TWtod2VEVk03cDlua1pkbzcwazJ1ZE9xeXkwU2Z6YVlDS2xMNkNWTFdnRzU2R0Q3M3FMSmVMbFhBY3R2VE1sRW9ZeU50S1dpamJYUWdRYURlS3pmX3U1Mnc5UkhWNDMwclVVNHZJM1hrZHZUeXJ1TGVmNHZrUlV1b25N?oc=5",
-        "published": "2026-10-19T21:13:13Z"
-      },
-      {
-        "title": "Connecticut Fines Frontier $625,000 Over Data Breach",
-        "outlet": "Broadband Breakfast",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTlJZ1ROenVoT3FQREFIT3VxaUNiUnFXX0c3QW1ja3FHaW5qS2pZQzhFZ2NUS2REOFBlaS1vNTVOcmVMekpUQVNSWHkzcjNVRXJ5TnFaVWxSd09MZXlJeWF0LVlfQURwWVVwNktqWTdROFJfU0JOZnVhQlNxdTFEZ2pUUk40aG1SSm1N?oc=5",
-        "published": "2026-10-19T22:50:46Z"
+        "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
+        "published": "2026-10-20T09:33:49Z"
       },
       {
         "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
@@ -119,16 +113,22 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
-        "published": "2026-10-20T09:33:49Z"
+        "title": "Baltimore suburb confirms August data breach after ransomware claims",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbFFXamN3eWppN2g3c2EtWm5LZ1ROaHpocUJNMTN0SEh6RUVwdENOWGlQUjhhVXRjWUptTE5FMEZrck9WM2dvdWozRUZXQ0ZaOHFDVWZaeHg5STVTSnFyT0RoUWVxODcyT19falpWQnpiQ3F6NldDQXJ5NGtZdw?oc=5",
+        "published": "2026-10-16T13:22:35Z"
       },
       {
-        "title": "$6M settlement reached in 23andMe data breach lawsuit",
-        "outlet": "Mountain View Voice",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc195c3VMTG05bXBhamxlSU5KUUV6RWMxazJwb0pnVHRkZ184bm1qSzdXNEhramdjYUJGbF9ycnZ2UkduWGVwYW5BMXhqbHBEenVsTUMzWlgzUWZPR29LTWJSUHFLRHBCVTh1WnlmWVFBeHpzeW9oX2dQdy1yazFpU3Rra0dpTzB1YjM0NUd3d1J3ck5PZE80ckpneWI?oc=5",
-        "published": "2026-10-20T14:41:08Z"
+        "title": "1M Impacted by CenterPoint Energy Data Breach",
+        "outlet": "Security Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmZCSHlxcmIwTHVHcUZ6TjBPR3hiRTkwYmNlRzlvdlVZWWxSckR0NGhlSlMxTl8xOWZ1Z2dlVFd1TS1YS0lWbkpOY3Y5X2JpdVk1YkZQekVGdTN6X2FpaWhKa2VRQTltYnVIa0s1Wnp3SDZNcml0Z3FRaTFDUERGVkktYS1Wc0tYTDB5RVhwQzR4SDMzTVlnS3Bn?oc=5",
+        "published": "2026-10-15T14:16:00Z"
+      },
+      {
+        "title": "Student info compromised in California state testing data breach",
+        "outlet": "KCRA",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamRSVzdvU24yYVcwLThORXY3NGFzLXRpXzk5TWpMbFVsRjl5d21KbWpZdU1YX1NWWVFLUmE3X05vYXpYOE1HRnpmSzNXb2t3bnJhcVpTMXFhc2hqUy1UV0o4aW92azNWMFVOU1k0UmhYcWhaaUdUQjhvNlY1Q2lVX25vUDdkWHBYdEhPOXh6OGg?oc=5",
+        "published": "2026-10-19T23:57:00Z"
       }
     ]
   },
