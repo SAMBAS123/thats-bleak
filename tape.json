@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T00:05:30Z",
+  "as_of": "2026-10-21T05:13:42Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,10 +89,22 @@
         "published": "2026-10-14T15:31:58Z"
       },
       {
+        "title": "California to receive $6m settlement after 23andMe data breach",
+        "outlet": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
+        "published": "2026-10-19T21:34:00Z"
+      },
+      {
         "title": "CT Settles 2024 Data Breach That Compromised 58,000 Residents’ Information",
         "outlet": "CT News Junkie",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkVYWXlhbFBoYV9ONzF4d3lQcERoM1BDZ3phSGc4Yy1JVElRXzRBYVoxamRhalI0WTA3UWdZQ2lTa0U2TWdwYWxScVBadjRMOXhnRjlXNUdjQS0xMzNtdzZaNWhCR2FmclpxUk54ODFaZnlrSkJhT0tKUGxpQWdJbzRkeFpyeDFZWmNhNFVPbkQ3OTNqbEtNWVNKWUFpbTM2UkpHSVJPcXo2WnFIbnMyZS1B?oc=5",
         "published": "2026-10-16T14:13:24Z"
+      },
+      {
+        "title": "Data breach exposes California student information: How to protect your family",
+        "outlet": "Long Beach Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1lkSEpQUEI2amUzUFdIeEVhT2FUcVVua09kTHBVQnd0bEFrVGdUTW1EN1hEZWEwOUtLUkJyQ0RpOTJxTWdQeXF1bVRIdDJHdy1sNUV6VjFobmZuT21MN3pJTlJCaVRhVmdhUE9HRlkxT3pEd3FrSzBsQWtYSVMycEo2cTU3VVc2TE1rU2pJWERNTFVNdUdpMUttcFJxNldTY29QcFB0YU42TUdJdkFiMDJB?oc=5",
+        "published": "2026-10-20T15:00:21Z"
       },
       {
         "title": "Frontline Education Data Breach Impacts School Employees",
@@ -107,28 +119,16 @@
         "published": "2026-10-15T08:23:28Z"
       },
       {
-        "title": "California settles 23andMe data breach claims for $6 million",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVd3UUR6VG9nM2tIWDlpUkQtaEt4cFBhbXVWODlPU2tXMVgwa21RWmRXeVFyZ1MxM2pZMjJYWGNYdGV4ek4wZ004dW5nZ1Zjczk4UlBDaE1xMzktTUxWNlJwb2pUUmVkdWJkdUt6bm5oYUhTbHU2QUpkT3lFaXQxLXlSY0xXOFUzMDVHTWVkYmo0YmdlNTJqLVU3ZVJvanE0UDdwS2NjSEh1VF9x?oc=5",
-        "published": "2026-10-19T21:19:15Z"
-      },
-      {
-        "title": "Student info compromised in California state testing data breach",
-        "outlet": "KCRA",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamRSVzdvU24yYVcwLThORXY3NGFzLXRpXzk5TWpMbFVsRjl5d21KbWpZdU1YX1NWWVFLUmE3X05vYXpYOE1HRnpmSzNXb2t3bnJhcVpTMXFhc2hqUy1UV0o4aW92azNWMFVOU1k0UmhYcWhaaUdUQjhvNlY1Q2lVX25vUDdkWHBYdEhPOXh6OGg?oc=5",
-        "published": "2026-10-19T23:57:00Z"
+        "title": "New details on Alabama nursing board data breach",
+        "outlet": "WBRC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG9hNG8zZk53YXVaZ2ktUE5oNzR4YjU0dW8tVXViQ2QyWFdpOGJoenlyQkFVVVhVbFZ4NGcwbVh0eHptVndVX0M5VDlhNFZTNERoNmt0Ni1wQl91QXZ6S1MwN29CT0xOejVCYWQ2azQ1NEZBSl9uT0NQT0tjQUx2bU1Zb1XSAZgBQVVfeXFMUDNmUTBiaVdtTW5fTkFtY1BYdnpxMXZGLXp1X3JSQUN4a2t5NlIxRkpqcWVWLUpSMkFtb2EtajBYUkNVMlYtSk9WREx6TS0tZTVQcVpMRG9OWW56ZzRhY3JzUWttdXpsTGpiWmdpRkdzbmdKR0xWemRicVRsN0d2TG1LdHZGV3lTNnBDbFRfYV9UUGxwMEw5aWI?oc=5",
+        "published": "2026-10-20T01:23:00Z"
       },
       {
         "title": "Connecticut Fines Frontier $625,000 Over Data Breach",
         "outlet": "Broadband Breakfast",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTlJZ1ROenVoT3FQREFIT3VxaUNiUnFXX0c3QW1ja3FHaW5qS2pZQzhFZ2NUS2REOFBlaS1vNTVOcmVMekpUQVNSWHkzcjNVRXJ5TnFaVWxSd09MZXlJeWF0LVlfQURwWVVwNktqWTdROFJfU0JOZnVhQlNxdTFEZ2pUUk40aG1SSm1N?oc=5",
         "published": "2026-10-19T22:50:46Z"
-      },
-      {
-        "title": "New details on Alabama nursing board data breach",
-        "outlet": "WBRC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG9hNG8zZk53YXVaZ2ktUE5oNzR4YjU0dW8tVXViQ2QyWFdpOGJoenlyQkFVVVhVbFZ4NGcwbVh0eHptVndVX0M5VDlhNFZTNERoNmt0Ni1wQl91QXZ6S1MwN29CT0xOejVCYWQ2azQ1NEZBSl9uT0NQT0tjQUx2bU1Zb1XSAZgBQVVfeXFMUDNmUTBiaVdtTW5fTkFtY1BYdnpxMXZGLXp1X3JSQUN4a2t5NlIxRkpqcWVWLUpSMkFtb2EtajBYUkNVMlYtSk9WREx6TS0tZTVQcVpMRG9OWW56ZzRhY3JzUWttdXpsTGpiWmdpRkdzbmdKR0xWemRicVRsN0d2TG1LdHZGV3lTNnBDbFRfYV9UUGxwMEw5aWI?oc=5",
-        "published": "2026-10-20T01:23:00Z"
       }
     ]
   },
