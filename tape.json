@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T05:13:42Z",
+  "as_of": "2026-10-21T10:31:36Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 90,
     "pwn_2026": 296610262,
     "added_2026": 112,
-    "added_7d": 3,
+    "added_7d": 2,
     "added_30d": 11,
     "latest": [
       {
@@ -83,22 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch'",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGZ4bU9NSUVRYzVGbFl3eHlpamJjSWFoQzBGaFlrbi03TzdHR29Xb2htSzZEamltajNrbjloeWhTX1BhWEwyZEc5ampPMy1seWVtZDJMcEhjRzVjdE1BNnIyYTRKeGhuenJJWlFkcEFWWkxvbEpYdjdwT1RRLUtZTHlKVTRsYjQ?oc=5",
-        "published": "2026-10-14T15:31:58Z"
-      },
-      {
         "title": "California to receive $6m settlement after 23andMe data breach",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
         "published": "2026-10-19T21:34:00Z"
-      },
-      {
-        "title": "CT Settles 2024 Data Breach That Compromised 58,000 Residents’ Information",
-        "outlet": "CT News Junkie",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkVYWXlhbFBoYV9ONzF4d3lQcERoM1BDZ3phSGc4Yy1JVElRXzRBYVoxamRhalI0WTA3UWdZQ2lTa0U2TWdwYWxScVBadjRMOXhnRjlXNUdjQS0xMzNtdzZaNWhCR2FmclpxUk54ODFaZnlrSkJhT0tKUGxpQWdJbzRkeFpyeDFZWmNhNFVPbkQ3OTNqbEtNWVNKWUFpbTM2UkpHSVJPcXo2WnFIbnMyZS1B?oc=5",
-        "published": "2026-10-16T14:13:24Z"
       },
       {
         "title": "Data breach exposes California student information: How to protect your family",
@@ -107,10 +95,10 @@
         "published": "2026-10-20T15:00:21Z"
       },
       {
-        "title": "Frontline Education Data Breach Impacts School Employees",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
-        "published": "2026-10-16T19:47:46Z"
+        "title": "New details on Alabama nursing board data breach",
+        "outlet": "WBRC 6 News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG9hNG8zZk53YXVaZ2ktUE5oNzR4YjU0dW8tVXViQ2QyWFdpOGJoenlyQkFVVVhVbFZ4NGcwbVh0eHptVndVX0M5VDlhNFZTNERoNmt0Ni1wQl91QXZ6S1MwN29CT0xOejVCYWQ2azQ1NEZBSl9uT0NQT0tjQUx2bU1Zb1XSAZgBQVVfeXFMUDNmUTBiaVdtTW5fTkFtY1BYdnpxMXZGLXp1X3JSQUN4a2t5NlIxRkpqcWVWLUpSMkFtb2EtajBYUkNVMlYtSk9WREx6TS0tZTVQcVpMRG9OWW56ZzRhY3JzUWttdXpsTGpiWmdpRkdzbmdKR0xWemRicVRsN0d2TG1LdHZGV3lTNnBDbFRfYV9UUGxwMEw5aWI?oc=5",
+        "published": "2026-10-20T01:23:00Z"
       },
       {
         "title": "July 2026 Healthcare Data Breach Report",
@@ -119,16 +107,28 @@
         "published": "2026-10-15T08:23:28Z"
       },
       {
-        "title": "New details on Alabama nursing board data breach",
-        "outlet": "WBRC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG9hNG8zZk53YXVaZ2ktUE5oNzR4YjU0dW8tVXViQ2QyWFdpOGJoenlyQkFVVVhVbFZ4NGcwbVh0eHptVndVX0M5VDlhNFZTNERoNmt0Ni1wQl91QXZ6S1MwN29CT0xOejVCYWQ2azQ1NEZBSl9uT0NQT0tjQUx2bU1Zb1XSAZgBQVVfeXFMUDNmUTBiaVdtTW5fTkFtY1BYdnpxMXZGLXp1X3JSQUN4a2t5NlIxRkpqcWVWLUpSMkFtb2EtajBYUkNVMlYtSk9WREx6TS0tZTVQcVpMRG9OWW56ZzRhY3JzUWttdXpsTGpiWmdpRkdzbmdKR0xWemRicVRsN0d2TG1LdHZGV3lTNnBDbFRfYV9UUGxwMEw5aWI?oc=5",
-        "published": "2026-10-20T01:23:00Z"
+        "title": "Testing Company Data Breach Affects Millions of Calif. Students",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHR5NU95YlQtUU5uMV9udWJ2QW9rbmh3NlB1ODNHQmR3TWtod2VEVk03cDlua1pkbzcwazJ1ZE9xeXkwU2Z6YVlDS2xMNkNWTFdnRzU2R0Q3M3FMSmVMbFhBY3R2VE1sRW9ZeU50S1dpamJYUWdRYURlS3pmX3U1Mnc5UkhWNDMwclVVNHZJM1hrZHZUeXJ1TGVmNHZrUlV1b25N?oc=5",
+        "published": "2026-10-19T21:13:13Z"
       },
       {
         "title": "Connecticut Fines Frontier $625,000 Over Data Breach",
         "outlet": "Broadband Breakfast",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTlJZ1ROenVoT3FQREFIT3VxaUNiUnFXX0c3QW1ja3FHaW5qS2pZQzhFZ2NUS2REOFBlaS1vNTVOcmVMekpUQVNSWHkzcjNVRXJ5TnFaVWxSd09MZXlJeWF0LVlfQURwWVVwNktqWTdROFJfU0JOZnVhQlNxdTFEZ2pUUk40aG1SSm1N?oc=5",
         "published": "2026-10-19T22:50:46Z"
+      },
+      {
+        "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
+        "published": "2026-10-20T09:33:49Z"
+      },
+      {
+        "title": "$6M settlement reached in 23andMe data breach lawsuit",
+        "outlet": "Mountain View Voice",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc195c3VMTG05bXBhamxlSU5KUUV6RWMxazJwb0pnVHRkZ184bm1qSzdXNEhramdjYUJGbF9ycnZ2UkduWGVwYW5BMXhqbHBEenVsTUMzWlgzUWZPR29LTWJSUHFLRHBCVTh1WnlmWVFBeHpzeW9oX2dQdy1yazFpU3Rra0dpTzB1YjM0NUd3d1J3ck5PZE80ckpneWI?oc=5",
+        "published": "2026-10-20T14:41:08Z"
       }
     ]
   },
