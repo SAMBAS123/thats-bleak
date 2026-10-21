@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T19:32:19Z",
+  "as_of": "2026-10-21T22:40:48Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,6 +83,12 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Frontline Education Data Breach Impacts School Employees",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
+        "published": "2026-10-16T19:47:46Z"
+      },
+      {
         "title": "California to receive $6m settlement after 23andMe data breach",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
@@ -101,10 +107,10 @@
         "published": "2026-10-20T01:23:00Z"
       },
       {
-        "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
-        "published": "2026-10-20T09:33:49Z"
+        "title": "Connecticut Fines Frontier $625,000 Over Data Breach",
+        "outlet": "Broadband Breakfast",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTlJZ1ROenVoT3FQREFIT3VxaUNiUnFXX0c3QW1ja3FHaW5qS2pZQzhFZ2NUS2REOFBlaS1vNTVOcmVMekpUQVNSWHkzcjNVRXJ5TnFaVWxSd09MZXlJeWF0LVlfQURwWVVwNktqWTdROFJfU0JOZnVhQlNxdTFEZ2pUUk40aG1SSm1N?oc=5",
+        "published": "2026-10-19T22:50:46Z"
       },
       {
         "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
@@ -113,22 +119,16 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "Baltimore suburb confirms August data breach after ransomware claims",
-        "outlet": "The Record from Recorded Future News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbFFXamN3eWppN2g3c2EtWm5LZ1ROaHpocUJNMTN0SEh6RUVwdENOWGlQUjhhVXRjWUptTE5FMEZrck9WM2dvdWozRUZXQ0ZaOHFDVWZaeHg5STVTSnFyT0RoUWVxODcyT19falpWQnpiQ3F6NldDQXJ5NGtZdw?oc=5",
-        "published": "2026-10-16T13:22:35Z"
+        "title": "Sixth Circuit takes up data breach reporting requirements",
+        "outlet": "Courthouse News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0M3czBwWmY5T0xpQ2h0M3BfZC1YLXhULWw3WVhtU2NCUW5Tc0JTYmItQnNUR1VFTzYyeXRpRThWZWNZQ2d3Yl9jdTZmZFFiQ3pPRGQ1SWs3SmJjX1pGMjJOaUVwZ2lKNTkxU1J2Zl9SalpxVDNUUDFMaFJxSV9KOWlfSVczVFNDMW45SjhB?oc=5",
+        "published": "2026-10-21T20:42:48Z"
       },
       {
-        "title": "1M Impacted by CenterPoint Energy Data Breach",
-        "outlet": "Security Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmZCSHlxcmIwTHVHcUZ6TjBPR3hiRTkwYmNlRzlvdlVZWWxSckR0NGhlSlMxTl8xOWZ1Z2dlVFd1TS1YS0lWbkpOY3Y5X2JpdVk1YkZQekVGdTN6X2FpaWhKa2VRQTltYnVIa0s1Wnp3SDZNcml0Z3FRaTFDUERGVkktYS1Wc0tYTDB5RVhwQzR4SDMzTVlnS3Bn?oc=5",
-        "published": "2026-10-15T14:16:00Z"
-      },
-      {
-        "title": "Student info compromised in California state testing data breach",
-        "outlet": "KCRA",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamRSVzdvU24yYVcwLThORXY3NGFzLXRpXzk5TWpMbFVsRjl5d21KbWpZdU1YX1NWWVFLUmE3X05vYXpYOE1HRnpmSzNXb2t3bnJhcVpTMXFhc2hqUy1UV0o4aW92azNWMFVOU1k0UmhYcWhaaUdUQjhvNlY1Q2lVX25vUDdkWHBYdEhPOXh6OGg?oc=5",
-        "published": "2026-10-19T23:57:00Z"
+        "title": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach",
+        "outlet": "Holland & Knight",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
+        "published": "2026-10-19T22:08:12Z"
       }
     ]
   },
