@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T12:18:15Z",
+  "as_of": "2026-10-22T17:33:47Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -113,16 +113,16 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
+        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
+        "outlet": "Military Times",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWN1SVdXQkZ4NDJqZElKOE5BbWxLaFdrY1ExUFlMem00cVk3eEdJRkpuVHY1cHRXdmRaY0RvdGpDa1I2ZFJ2d3R3N0VWMHpJRkoyWGZnaENtTWV3VUhDR0RPRG15ZHJ3cXVUZ1hlTE0tNFgyd0Q3NTFWN0wzS3NFU2NZTmNPREk0OGtILTRVM0psUXhaMENBV3E1SF82OUx3YS03YldDYnFtb0hocWVoX1FfZmcwNEJwTThPM0RtS1k0dzc2VE8xOUJ4bWItZllNUmEzT19uN3M?oc=5",
+        "published": "2026-10-22T13:03:46Z"
+      },
+      {
         "title": "Hart district issues statement following state data breach",
         "outlet": "Santa Clarita Valley Signal",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkNkcm5vX1pGcTY3YTJVRmtGU2hROXRKbnN1dENlLVBKcFZGQTlobzNJRUlqamtzaWVIQzR3bWMxX0lZVHNUVFBmZzhDMzU1Zjlnc3NkdWR6MjNaRDcwQmNrX1ZnSEllVER2V1hWelo1NUdDMEc3Nk1JT09VLXRMd0FrLWl4eExkSHljUDRmRFFTVEk?oc=5",
         "published": "2026-10-21T02:50:34Z"
-      },
-      {
-        "title": "Burger King Japan data breach exposes 11M customer records",
-        "outlet": "Business Insurance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEh5ZFBybTg5bFNiQ1c4ZWZPMWVZTjdxV25nOTEwQ1ZUTFpNVnNZekxEZzFnY3RLSjJUN1haVGt1aFNaQmdUVjVPY3FTSjJvQ1NfZktvYjM0b0gybm50WnFMcU5pcmtscVQyVXZFdERROFpjY0Jnc21nV1ZwVm02cnU3TERsVDNCc0NJR2NhOUx2VThBQ05HQg?oc=5",
-        "published": "2026-10-21T14:23:43Z"
       },
       {
         "title": "Student info compromised in California state testing data breach",
