@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T22:40:48Z",
+  "as_of": "2026-10-22T00:52:47Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -107,10 +107,10 @@
         "published": "2026-10-20T01:23:00Z"
       },
       {
-        "title": "Connecticut Fines Frontier $625,000 Over Data Breach",
-        "outlet": "Broadband Breakfast",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTlJZ1ROenVoT3FQREFIT3VxaUNiUnFXX0c3QW1ja3FHaW5qS2pZQzhFZ2NUS2REOFBlaS1vNTVOcmVMekpUQVNSWHkzcjNVRXJ5TnFaVWxSd09MZXlJeWF0LVlfQURwWVVwNktqWTdROFJfU0JOZnVhQlNxdTFEZ2pUUk40aG1SSm1N?oc=5",
-        "published": "2026-10-19T22:50:46Z"
+        "title": "Sixth Circuit takes up data breach reporting requirements",
+        "outlet": "Courthouse News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0M3czBwWmY5T0xpQ2h0M3BfZC1YLXhULWw3WVhtU2NCUW5Tc0JTYmItQnNUR1VFTzYyeXRpRThWZWNZQ2d3Yl9jdTZmZFFiQ3pPRGQ1SWs3SmJjX1pGMjJOaUVwZ2lKNTkxU1J2Zl9SalpxVDNUUDFMaFJxSV9KOWlfSVczVFNDMW45SjhB?oc=5",
+        "published": "2026-10-21T20:42:48Z"
       },
       {
         "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
@@ -119,16 +119,16 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "Sixth Circuit takes up data breach reporting requirements",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0M3czBwWmY5T0xpQ2h0M3BfZC1YLXhULWw3WVhtU2NCUW5Tc0JTYmItQnNUR1VFTzYyeXRpRThWZWNZQ2d3Yl9jdTZmZFFiQ3pPRGQ1SWs3SmJjX1pGMjJOaUVwZ2lKNTkxU1J2Zl9SalpxVDNUUDFMaFJxSV9KOWlfSVczVFNDMW45SjhB?oc=5",
-        "published": "2026-10-21T20:42:48Z"
-      },
-      {
         "title": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach",
         "outlet": "Holland & Knight",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
         "published": "2026-10-19T22:08:12Z"
+      },
+      {
+        "title": "Baltimore suburb confirms August data breach after ransomware claims",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbFFXamN3eWppN2g3c2EtWm5LZ1ROaHpocUJNMTN0SEh6RUVwdENOWGlQUjhhVXRjWUptTE5FMEZrck9WM2dvdWozRUZXQ0ZaOHFDVWZaeHg5STVTSnFyT0RoUWVxODcyT19falpWQnpiQ3F6NldDQXJ5NGtZdw?oc=5",
+        "published": "2026-10-16T13:22:35Z"
       }
     ]
   },
