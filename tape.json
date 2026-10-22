@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T00:52:47Z",
+  "as_of": "2026-10-22T06:32:07Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,6 +83,12 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch'",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGZ4bU9NSUVRYzVGbFl3eHlpamJjSWFoQzBGaFlrbi03TzdHR29Xb2htSzZEamltajNrbjloeWhTX1BhWEwyZEc5ampPMy1seWVtZDJMcEhjRzVjdE1BNnIyYTRKeGhuenJJWlFkcEFWWkxvbEpYdjdwT1RRLUtZTHlKVTRsYjQ?oc=5",
+        "published": "2026-10-22T01:20:35Z"
+      },
+      {
         "title": "Frontline Education Data Breach Impacts School Employees",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
@@ -101,12 +107,6 @@
         "published": "2026-10-20T15:00:21Z"
       },
       {
-        "title": "New details on Alabama nursing board data breach",
-        "outlet": "WBRC 6 News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG9hNG8zZk53YXVaZ2ktUE5oNzR4YjU0dW8tVXViQ2QyWFdpOGJoenlyQkFVVVhVbFZ4NGcwbVh0eHptVndVX0M5VDlhNFZTNERoNmt0Ni1wQl91QXZ6S1MwN29CT0xOejVCYWQ2azQ1NEZBSl9uT0NQT0tjQUx2bU1Zb1XSAZgBQVVfeXFMUDNmUTBiaVdtTW5fTkFtY1BYdnpxMXZGLXp1X3JSQUN4a2t5NlIxRkpqcWVWLUpSMkFtb2EtajBYUkNVMlYtSk9WREx6TS0tZTVQcVpMRG9OWW56ZzRhY3JzUWttdXpsTGpiWmdpRkdzbmdKR0xWemRicVRsN0d2TG1LdHZGV3lTNnBDbFRfYV9UUGxwMEw5aWI?oc=5",
-        "published": "2026-10-20T01:23:00Z"
-      },
-      {
         "title": "Sixth Circuit takes up data breach reporting requirements",
         "outlet": "Courthouse News",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0M3czBwWmY5T0xpQ2h0M3BfZC1YLXhULWw3WVhtU2NCUW5Tc0JTYmItQnNUR1VFTzYyeXRpRThWZWNZQ2d3Yl9jdTZmZFFiQ3pPRGQ1SWs3SmJjX1pGMjJOaUVwZ2lKNTkxU1J2Zl9SalpxVDNUUDFMaFJxSV9KOWlfSVczVFNDMW45SjhB?oc=5",
@@ -119,16 +119,16 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach",
-        "outlet": "Holland & Knight",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
-        "published": "2026-10-19T22:08:12Z"
+        "title": "Pentagon hit with class action over data breach affecting millions of military members",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGZMZ3YzV2F0WmE0eUdxQkZnS24taEt0LW1KeG9wdVB4LUFha2F2SFJ6NmZvcUdNcEdZTUxZTkRLaUxqMnYtNmJQN0NQc09IYU5DbGtkbW9SRFhCUEpIbVh0VjBRTXR2dnhvOTdOdldzYWUyX3ltTTMzdmxUenFXNXpWa1FhOW9yQ3NqZVJ2cnA5QVJkN1FrbFZwQ0p2alpUdGQtN0hrOUNCTkVFR2dscWdXd1ZTSWVSWWh5RjRRQUE5SkhhSTc0?oc=5",
+        "published": "2026-10-21T16:32:36Z"
       },
       {
-        "title": "Baltimore suburb confirms August data breach after ransomware claims",
-        "outlet": "The Record from Recorded Future News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbFFXamN3eWppN2g3c2EtWm5LZ1ROaHpocUJNMTN0SEh6RUVwdENOWGlQUjhhVXRjWUptTE5FMEZrck9WM2dvdWozRUZXQ0ZaOHFDVWZaeHg5STVTSnFyT0RoUWVxODcyT19falpWQnpiQ3F6NldDQXJ5NGtZdw?oc=5",
-        "published": "2026-10-16T13:22:35Z"
+        "title": "$6M settlement reached in 23andMe data breach lawsuit",
+        "outlet": "Mountain View Voice",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc195c3VMTG05bXBhamxlSU5KUUV6RWMxazJwb0pnVHRkZ184bm1qSzdXNEhramdjYUJGbF9ycnZ2UkduWGVwYW5BMXhqbHBEenVsTUMzWlgzUWZPR29LTWJSUHFLRHBCVTh1WnlmWVFBeHpzeW9oX2dQdy1yazFpU3Rra0dpTzB1YjM0NUd3d1J3ck5PZE80ckpneWI?oc=5",
+        "published": "2026-10-20T14:41:08Z"
       }
     ]
   },
