@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T06:32:07Z",
+  "as_of": "2026-10-22T12:18:15Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 296610262,
     "added_2026": 112,
     "added_7d": 2,
-    "added_30d": 10,
+    "added_30d": 9,
     "latest": [
       {
         "name": "AssuranceRetraite",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch'",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGZ4bU9NSUVRYzVGbFl3eHlpamJjSWFoQzBGaFlrbi03TzdHR29Xb2htSzZEamltajNrbjloeWhTX1BhWEwyZEc5ampPMy1seWVtZDJMcEhjRzVjdE1BNnIyYTRKeGhuenJJWlFkcEFWWkxvbEpYdjdwT1RRLUtZTHlKVTRsYjQ?oc=5",
-        "published": "2026-10-22T01:20:35Z"
-      },
-      {
         "title": "Frontline Education Data Breach Impacts School Employees",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
@@ -119,16 +113,22 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "Pentagon hit with class action over data breach affecting millions of military members",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGZMZ3YzV2F0WmE0eUdxQkZnS24taEt0LW1KeG9wdVB4LUFha2F2SFJ6NmZvcUdNcEdZTUxZTkRLaUxqMnYtNmJQN0NQc09IYU5DbGtkbW9SRFhCUEpIbVh0VjBRTXR2dnhvOTdOdldzYWUyX3ltTTMzdmxUenFXNXpWa1FhOW9yQ3NqZVJ2cnA5QVJkN1FrbFZwQ0p2alpUdGQtN0hrOUNCTkVFR2dscWdXd1ZTSWVSWWh5RjRRQUE5SkhhSTc0?oc=5",
-        "published": "2026-10-21T16:32:36Z"
+        "title": "Hart district issues statement following state data breach",
+        "outlet": "Santa Clarita Valley Signal",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkNkcm5vX1pGcTY3YTJVRmtGU2hROXRKbnN1dENlLVBKcFZGQTlobzNJRUlqamtzaWVIQzR3bWMxX0lZVHNUVFBmZzhDMzU1Zjlnc3NkdWR6MjNaRDcwQmNrX1ZnSEllVER2V1hWelo1NUdDMEc3Nk1JT09VLXRMd0FrLWl4eExkSHljUDRmRFFTVEk?oc=5",
+        "published": "2026-10-21T02:50:34Z"
       },
       {
-        "title": "$6M settlement reached in 23andMe data breach lawsuit",
-        "outlet": "Mountain View Voice",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc195c3VMTG05bXBhamxlSU5KUUV6RWMxazJwb0pnVHRkZ184bm1qSzdXNEhramdjYUJGbF9ycnZ2UkduWGVwYW5BMXhqbHBEenVsTUMzWlgzUWZPR29LTWJSUHFLRHBCVTh1WnlmWVFBeHpzeW9oX2dQdy1yazFpU3Rra0dpTzB1YjM0NUd3d1J3ck5PZE80ckpneWI?oc=5",
-        "published": "2026-10-20T14:41:08Z"
+        "title": "Burger King Japan data breach exposes 11M customer records",
+        "outlet": "Business Insurance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEh5ZFBybTg5bFNiQ1c4ZWZPMWVZTjdxV25nOTEwQ1ZUTFpNVnNZekxEZzFnY3RLSjJUN1haVGt1aFNaQmdUVjVPY3FTSjJvQ1NfZktvYjM0b0gybm50WnFMcU5pcmtscVQyVXZFdERROFpjY0Jnc21nV1ZwVm02cnU3TERsVDNCc0NJR2NhOUx2VThBQ05HQg?oc=5",
+        "published": "2026-10-21T14:23:43Z"
+      },
+      {
+        "title": "Student info compromised in California state testing data breach",
+        "outlet": "KCRA",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamRSVzdvU24yYVcwLThORXY3NGFzLXRpXzk5TWpMbFVsRjl5d21KbWpZdU1YX1NWWVFLUmE3X05vYXpYOE1HRnpmSzNXb2t3bnJhcVpTMXFhc2hqUy1UV0o4aW92azNWMFVOU1k0UmhYcWhaaUdUQjhvNlY1Q2lVX25vUDdkWHBYdEhPOXh6OGg?oc=5",
+        "published": "2026-10-19T23:57:00Z"
       }
     ]
   },
