@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T10:27:28Z",
+  "as_of": "2026-10-23T15:24:53Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,10 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Frontline Education Data Breach Impacts School Employees",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
-        "published": "2026-10-16T19:47:46Z"
+        "title": "Trends In Healthcare Data Breach Statistics",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5",
+        "published": "2026-10-23T09:52:45Z"
       },
       {
         "title": "California to receive $6m settlement after 23andMe data breach",
@@ -98,7 +98,13 @@
         "title": "Pentagon sued over data breach affecting more than 3 million people",
         "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
-        "published": "2026-10-23T03:35:32Z"
+        "published": "2026-10-22T23:07:26Z"
+      },
+      {
+        "title": "Capcom data breach exposes 11.7 million account records",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
+        "published": "2026-10-23T09:07:31Z"
       },
       {
         "title": "Data breach exposes California student information: How to protect your family",
@@ -107,16 +113,10 @@
         "published": "2026-10-20T15:00:21Z"
       },
       {
-        "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ReEdTWXBJUWJMUGVCQXppb2JoX2QwS3NRNDRLQ2UzYlp0Rms3Sk9oM05LcUtvU19RX2xjRnpVVkNmb215Zi1ocllURkJ3eVVnVGRvdTgweFloeE9uUHc?oc=5",
-        "published": "2026-10-19T07:00:00Z"
-      },
-      {
-        "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
-        "published": "2026-10-20T09:33:49Z"
+        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
+        "outlet": "Defense News",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0NMcG1IYloyQTdNTklTaHZLeGZQM0pRNzJuakFjdzl2MVpEOExmTGFYWTItUzRMS0hidVF6a1p0T3Y2WTBhS2wtMXhiMEtFVTNnS2xmVXlnVXlGdXM3M05wTm9oOU9HWWwzOVhPZTdXdE5UbTkwc0ozOUctY1F2ZDVldllBOXFRbzhTd3RQaHhhN3YxekVDSWFaX0NOUUdDd0hPM1c3VjZBUjhsNHRvWS1yWXdwWnhWQ3JJam9SdFNRNHY4TnNkM1FIRXhSQ0FJWkVCM1pB?oc=5",
+        "published": "2026-10-22T13:03:46Z"
       },
       {
         "title": "Data breach affecting SafeVoice Nevada",
@@ -125,10 +125,10 @@
         "published": "2026-10-22T16:36:00Z"
       },
       {
-        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
-        "outlet": "Defense News",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0NMcG1IYloyQTdNTklTaHZLeGZQM0pRNzJuakFjdzl2MVpEOExmTGFYWTItUzRMS0hidVF6a1p0T3Y2WTBhS2wtMXhiMEtFVTNnS2xmVXlnVXlGdXM3M05wTm9oOU9HWWwzOVhPZTdXdE5UbTkwc0ozOUctY1F2ZDVldllBOXFRbzhTd3RQaHhhN3YxekVDSWFaX0NOUUdDd0hPM1c3VjZBUjhsNHRvWS1yWXdwWnhWQ3JJam9SdFNRNHY4TnNkM1FIRXhSQ0FJWkVCM1pB?oc=5",
-        "published": "2026-10-22T13:03:46Z"
+        "title": "Northern Light Health lab manager suffers data breach",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUI5ODQzalJscUdBQllfbVdCdUFFOXh1UmFBenBVdUN3RFRYcDR3ZkhzN2l4ZTg5cmE0TWsxRDVOOHpUNE9sdW5lbUJiSEZpN3Vzck9MNk85bm9oRHdBbTB6clVUYXdncG5mSHlaU2dCMUloQmdncVRnQjg3d05mVHVkV2t2SC0xYzZITFBn0gGiAUFVX3lxTE1uVWtZNWpKM2V6aUpfU25ucV9BcmhtRkVfcXJCT1lJRkJsdXRJVlM5aVEya196bEtaLVJ6M0swUWJ0X25TUmFrVEFqY2UzMEpwZVRfeVZmMWJoU2RjN3FfOF9nRUhsRzJBX3VIWUM5TFl3U2d3ZmNOY0tHRWs1OHJkYW9SeEVVc3VWUE1Fd2cwMUhlTE9CSnVhbHp0WVRaNzU1Zw?oc=5",
+        "published": "2026-10-22T20:55:00Z"
       }
     ]
   },
