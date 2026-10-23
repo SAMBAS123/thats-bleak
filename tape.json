@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T00:07:33Z",
+  "as_of": "2026-10-23T05:16:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,16 +89,16 @@
         "published": "2026-10-16T19:47:46Z"
       },
       {
+        "title": "Pentagon sued over data breach affecting more than 3 million people",
+        "outlet": "Federal News Network",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
+        "published": "2026-10-23T03:35:32Z"
+      },
+      {
         "title": "California to receive $6m settlement after 23andMe data breach",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
         "published": "2026-10-19T21:34:00Z"
-      },
-      {
-        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
-        "outlet": "Military Times",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWN1SVdXQkZ4NDJqZElKOE5BbWxLaFdrY1ExUFlMem00cVk3eEdJRkpuVHY1cHRXdmRaY0RvdGpDa1I2ZFJ2d3R3N0VWMHpJRkoyWGZnaENtTWV3VUhDR0RPRG15ZHJ3cXVUZ1hlTE0tNFgyd0Q3NTFWN0wzS3NFU2NZTmNPREk0OGtILTRVM0psUXhaMENBV3E1SF82OUx3YS03YldDYnFtb0hocWVoX1FfZmcwNEJwTThPM0RtS1k0dzc2VE8xOUJ4bWItZllNUmEzT19uN3M?oc=5",
-        "published": "2026-10-22T13:03:46Z"
       },
       {
         "title": "Data breach exposes California student information: How to protect your family",
@@ -121,14 +121,14 @@
       {
         "title": "Data breach affecting SafeVoice Nevada",
         "outlet": "FOX5 Vegas",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFZrNS0taGFQTlJTa05WTUxXeGNsTkdwdXhMQ1JYZmx1djQySGU2UmVsbnVTR3pNMkN3am5INVp4Y3lpVTRwenpPd2J4MVIzZHZuN3ZLSnNRREZxZHhqWkFuUS14cE0yZHJrLVUtdng5SG1qQVdkT2owY2p3M1R4UW9n?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFZrNS0taGFQTlJTa05WTUxXeGNsTkdwdXhMQ1JYZmx1djQySGU2UmVsbnVTR3pNMkN3am5INVp4Y3lpVTRwenpPd2J4MVIzZHZuN3ZLSnNRREZxZHhqWkFuUS14cE0yZHJrLVUtdng5SG1qQVdkT2owY2p3M1R4UW9n0gGWAUFVX3lxTE9SOGdaMW12SUp0YXhMRTVCUDhKS2pJckRucjJyRWlpVW1LcFBmNlAybXdxWXkyOU5tTVlMeXJxNTlvRHc5Z0hLdGNyVmNtYjNnR0lKbGM0WUphX1F2Zl9iN0w3cGQ3OFAwSkFZelJpbmx2SHBLQU90Vk9fT2lXM2kzbldTTmlfOTZXTHBWeUZkQjIzVkljdw?oc=5",
         "published": "2026-10-22T16:36:00Z"
       },
       {
-        "title": "Nevada school safety tip system SafeVoice suffers data breach",
-        "outlet": "KSNV",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT1gwX3Z2aHFnN1J6TFFETGY0QkZoR3dFNXlDM21zRjAwOE9DWTN0bnlwVlpsSDlOSFZoRE9CVHZTSld4U0w2VDIyU3FlbnZkMDNUc2tJdjUtUXp3aFlwTjBLOWxGOWppcHYwNWJtNE45TUJVLXE3OG13Wi1SXzltUWlRaUlfVFNBTWwwdWl6UnRtM3o3YU9oZWc0VmsweXVXVFdjU0d4WUtHZHpPRHVOR0prWUhuVXhtWGdHQ0xQd20xbGI5Vkl6WXZpREJfc2lZa2hLRy1n?oc=5",
-        "published": "2026-10-22T16:44:26Z"
+        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
+        "outlet": "Defense News",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0NMcG1IYloyQTdNTklTaHZLeGZQM0pRNzJuakFjdzl2MVpEOExmTGFYWTItUzRMS0hidVF6a1p0T3Y2WTBhS2wtMXhiMEtFVTNnS2xmVXlnVXlGdXM3M05wTm9oOU9HWWwzOVhPZTdXdE5UbTkwc0ozOUctY1F2ZDVldllBOXFRbzhTd3RQaHhhN3YxekVDSWFaX0NOUUdDd0hPM1c3VjZBUjhsNHRvWS1yWXdwWnhWQ3JJam9SdFNRNHY4TnNkM1FIRXhSQ0FJWkVCM1pB?oc=5",
+        "published": "2026-10-22T13:03:46Z"
       }
     ]
   },
