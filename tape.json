@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T19:30:45Z",
+  "as_of": "2026-10-23T22:34:36Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Frontline Education Data Breach Impacts School Employees",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGRvbkZjN2kyenl6MzQ3MWF1TnFEeGpJaXpDYV9MR2VvcEJpSm1pN1pzLW1jT29GbkFTc0hBeHlub21lYldtWkFBS0NuSDF6b2VCX2Y0WEtQcDJ4dDlVMHZGbnFzazF3VF9vUzdiS0oycmdqU2JOdzlXLUI3cDM5WFg4QVA0SnFxcF82NjNIazE2VTlwcTJkZ1U0TQ?oc=5",
-        "published": "2026-10-16T19:47:46Z"
-      },
-      {
         "title": "Data breach affecting SafeVoice Nevada",
         "outlet": "FOX5 Vegas",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFZrNS0taGFQTlJTa05WTUxXeGNsTkdwdXhMQ1JYZmx1djQySGU2UmVsbnVTR3pNMkN3am5INVp4Y3lpVTRwenpPd2J4MVIzZHZuN3ZLSnNRREZxZHhqWkFuUS14cE0yZHJrLVUtdng5SG1qQVdkT2owY2p3M1R4UW9n0gGWAUFVX3lxTE9SOGdaMW12SUp0YXhMRTVCUDhKS2pJckRucjJyRWlpVW1LcFBmNlAybXdxWXkyOU5tTVlMeXJxNTlvRHc5Z0hLdGNyVmNtYjNnR0lKbGM0WUphX1F2Zl9iN0w3cGQ3OFAwSkFZelJpbmx2SHBLQU90Vk9fT2lXM2kzbldTTmlfOTZXTHBWeUZkQjIzVkljdw?oc=5",
@@ -107,16 +101,16 @@
         "published": "2026-10-19T21:34:00Z"
       },
       {
-        "title": "Capcom data breach exposes 11.7 million account records",
-        "outlet": "Help Net Security",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
-        "published": "2026-10-23T09:07:31Z"
-      },
-      {
         "title": "Data breach exposes California student information: How to protect your family",
         "outlet": "Long Beach Post",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1lkSEpQUEI2amUzUFdIeEVhT2FUcVVua09kTHBVQnd0bEFrVGdUTW1EN1hEZWEwOUtLUkJyQ0RpOTJxTWdQeXF1bVRIdDJHdy1sNUV6VjFobmZuT21MN3pJTlJCaVRhVmdhUE9HRlkxT3pEd3FrSzBsQWtYSVMycEo2cTU3VVc2TE1rU2pJWERNTFVNdUdpMUttcFJxNldTY29QcFB0YU42TUdJdkFiMDJB?oc=5",
         "published": "2026-10-20T15:00:21Z"
+      },
+      {
+        "title": "Capcom data breach exposes 11.7 million account records",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
+        "published": "2026-10-23T09:07:31Z"
       },
       {
         "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
@@ -129,6 +123,12 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
         "published": "2026-10-20T09:33:49Z"
+      },
+      {
+        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
+        "outlet": "Defense News",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0NMcG1IYloyQTdNTklTaHZLeGZQM0pRNzJuakFjdzl2MVpEOExmTGFYWTItUzRMS0hidVF6a1p0T3Y2WTBhS2wtMXhiMEtFVTNnS2xmVXlnVXlGdXM3M05wTm9oOU9HWWwzOVhPZTdXdE5UbTkwc0ozOUctY1F2ZDVldllBOXFRbzhTd3RQaHhhN3YxekVDSWFaX0NOUUdDd0hPM1c3VjZBUjhsNHRvWS1yWXdwWnhWQ3JJam9SdFNRNHY4TnNkM1FIRXhSQ0FJWkVCM1pB?oc=5",
+        "published": "2026-10-22T13:03:46Z"
       }
     ]
   },
