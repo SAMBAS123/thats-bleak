@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T05:16:01Z",
+  "as_of": "2026-10-23T10:27:28Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,16 +89,16 @@
         "published": "2026-10-16T19:47:46Z"
       },
       {
-        "title": "Pentagon sued over data breach affecting more than 3 million people",
-        "outlet": "Federal News Network",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
-        "published": "2026-10-23T03:35:32Z"
-      },
-      {
         "title": "California to receive $6m settlement after 23andMe data breach",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
         "published": "2026-10-19T21:34:00Z"
+      },
+      {
+        "title": "Pentagon sued over data breach affecting more than 3 million people",
+        "outlet": "Federal News Network",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
+        "published": "2026-10-23T03:35:32Z"
       },
       {
         "title": "Data breach exposes California student information: How to protect your family",
@@ -107,16 +107,16 @@
         "published": "2026-10-20T15:00:21Z"
       },
       {
-        "title": "Sixth Circuit takes up data breach reporting requirements",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0M3czBwWmY5T0xpQ2h0M3BfZC1YLXhULWw3WVhtU2NCUW5Tc0JTYmItQnNUR1VFTzYyeXRpRThWZWNZQ2d3Yl9jdTZmZFFiQ3pPRGQ1SWs3SmJjX1pGMjJOaUVwZ2lKNTkxU1J2Zl9SalpxVDNUUDFMaFJxSV9KOWlfSVczVFNDMW45SjhB?oc=5",
-        "published": "2026-10-21T20:42:48Z"
-      },
-      {
         "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ReEdTWXBJUWJMUGVCQXppb2JoX2QwS3NRNDRLQ2UzYlp0Rms3Sk9oM05LcUtvU19RX2xjRnpVVkNmb215Zi1ocllURkJ3eVVnVGRvdTgweFloeE9uUHc?oc=5",
         "published": "2026-10-19T07:00:00Z"
+      },
+      {
+        "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
+        "published": "2026-10-20T09:33:49Z"
       },
       {
         "title": "Data breach affecting SafeVoice Nevada",
