@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-24T14:49:35Z",
+  "as_of": "2026-10-24T18:19:42Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -107,6 +107,12 @@
         "published": "2026-10-19T07:00:00Z"
       },
       {
+        "title": "Capcom data breach exposes 11.7 million account records",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
+        "published": "2026-10-23T09:07:31Z"
+      },
+      {
         "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
         "outlet": "Military Times",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWN1SVdXQkZ4NDJqZElKOE5BbWxLaFdrY1ExUFlMem00cVk3eEdJRkpuVHY1cHRXdmRaY0RvdGpDa1I2ZFJ2d3R3N0VWMHpJRkoyWGZnaENtTWV3VUhDR0RPRG15ZHJ3cXVUZ1hlTE0tNFgyd0Q3NTFWN0wzS3NFU2NZTmNPREk0OGtILTRVM0psUXhaMENBV3E1SF82OUx3YS03YldDYnFtb0hocWVoX1FfZmcwNEJwTThPM0RtS1k0dzc2VE8xOUJ4bWItZllNUmEzT19uN3M?oc=5",
@@ -117,12 +123,6 @@
         "outlet": "Long Beach Post",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1lkSEpQUEI2amUzUFdIeEVhT2FUcVVua09kTHBVQnd0bEFrVGdUTW1EN1hEZWEwOUtLUkJyQ0RpOTJxTWdQeXF1bVRIdDJHdy1sNUV6VjFobmZuT21MN3pJTlJCaVRhVmdhUE9HRlkxT3pEd3FrSzBsQWtYSVMycEo2cTU3VVc2TE1rU2pJWERNTFVNdUdpMUttcFJxNldTY29QcFB0YU42TUdJdkFiMDJB?oc=5",
         "published": "2026-10-20T15:00:21Z"
-      },
-      {
-        "title": "Capcom data breach exposes 11.7 million account records",
-        "outlet": "Help Net Security",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
-        "published": "2026-10-23T09:07:31Z"
       },
       {
         "title": "11 Million Impacted by Capcom Data Breach",
