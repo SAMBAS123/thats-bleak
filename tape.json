@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-24T00:59:55Z",
+  "as_of": "2026-10-24T06:23:45Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,6 +95,12 @@
         "published": "2026-10-22T23:07:26Z"
       },
       {
+        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
+        "outlet": "Military Times",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWN1SVdXQkZ4NDJqZElKOE5BbWxLaFdrY1ExUFlMem00cVk3eEdJRkpuVHY1cHRXdmRaY0RvdGpDa1I2ZFJ2d3R3N0VWMHpJRkoyWGZnaENtTWV3VUhDR0RPRG15ZHJ3cXVUZ1hlTE0tNFgyd0Q3NTFWN0wzS3NFU2NZTmNPREk0OGtILTRVM0psUXhaMENBV3E1SF82OUx3YS03YldDYnFtb0hocWVoX1FfZmcwNEJwTThPM0RtS1k0dzc2VE8xOUJ4bWItZllNUmEzT19uN3M?oc=5",
+        "published": "2026-10-22T13:03:46Z"
+      },
+      {
         "title": "California to receive $6m settlement after 23andMe data breach",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
@@ -123,12 +129,6 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEJLaVNBSlhNNmtSYTQtUnN2Z3JXTHlxaGluU1lxbXFVVzRtcW10eFlydmx5V2YxRzl6ZmpFX01vLWtCNy1iN2t1ak5uOS0wb21Sd0JiNEdkTmxtaUhtWHR3dzl6eWdobW1fVllLTVE0OWtPZXU3REhrcFFTVXd4elhmbTFXaEFDSXVZdS1mMDd1dWcyMGFCeVRaMHBMZ9IBowFBVV95cUxPaWV3c3FSS2VBM1Y0VzlxUHdCSlh1VmdQMnpkbHZrYlhQa053c1pUM3NVR2lQTl9IdVVkTkdqR3pZMmMtS2hydzAwUy1RRDFDVG1TZUcwdVFmVFgyU0FoRjNtYVV1Qzd2UkgzYnFzNlBmcWhsUDdpUjIzMEQxeDBjZHlLVWJhTmdKMjNpR0VUX3BQMHdrZFhudi1xckpXQ1FkYU5j?oc=5",
         "published": "2026-10-20T09:33:49Z"
-      },
-      {
-        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
-        "outlet": "Defense News",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0NMcG1IYloyQTdNTklTaHZLeGZQM0pRNzJuakFjdzl2MVpEOExmTGFYWTItUzRMS0hidVF6a1p0T3Y2WTBhS2wtMXhiMEtFVTNnS2xmVXlnVXlGdXM3M05wTm9oOU9HWWwzOVhPZTdXdE5UbTkwc0ozOUctY1F2ZDVldllBOXFRbzhTd3RQaHhhN3YxekVDSWFaX0NOUUdDd0hPM1c3VjZBUjhsNHRvWS1yWXdwWnhWQ3JJam9SdFNRNHY4TnNkM1FIRXhSQ0FJWkVCM1pB?oc=5",
-        "published": "2026-10-22T13:03:46Z"
       }
     ]
   },
