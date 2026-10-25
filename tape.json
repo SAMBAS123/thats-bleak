@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-25T19:54:32Z",
+  "as_of": "2026-10-25T22:46:46Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -107,12 +107,6 @@
         "published": "2026-10-20T15:00:21Z"
       },
       {
-        "title": "California to receive $6m settlement after 23andMe data breach",
-        "outlet": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
-        "published": "2026-10-19T21:34:00Z"
-      },
-      {
         "title": "Northern Light Health lab manager suffers data breach",
         "outlet": "WABI",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUI5ODQzalJscUdBQllfbVdCdUFFOXh1UmFBenBVdUN3RFRYcDR3ZkhzN2l4ZTg5cmE0TWsxRDVOOHpUNE9sdW5lbUJiSEZpN3Vzck9MNk85bm9oRHdBbTB6clVUYXdncG5mSHlaU2dCMUloQmdncVRnQjg3d05mVHVkV2t2SC0xYzZITFBn0gGiAUFVX3lxTE1uVWtZNWpKM2V6aUpfU25ucV9BcmhtRkVfcXJCT1lJRkJsdXRJVlM5aVEya196bEtaLVJ6M0swUWJ0X25TUmFrVEFqY2UzMEpwZVRfeVZmMWJoU2RjN3FfOF9nRUhsRzJBX3VIWUM5TFl3U2d3ZmNOY0tHRWs1OHJkYW9SeEVVc3VWUE1Fd2cwMUhlTE9CSnVhbHp0WVRaNzU1Zw?oc=5",
@@ -129,6 +123,12 @@
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ0ZzN1RfWEJrNE83S3FabTk4NDRtbzZYbU1SUHJqc19kZk9ENUtTZkhZejhHaDB1MTBTdlktaUxfR0ZIVDBjdUFQek1MYUNqX1puMkxiS013TjN2T3ZUbW9aa2hlOEZORHltZnZ0QUt6MHM3UHpQTnBrMVZNQXl0d2Z1OHJoeG5mTGZxZElmcGJMWXhkZk1saU9lQVJrVzVId2pnb2ZpMA?oc=5",
         "published": "2026-10-23T22:36:28Z"
+      },
+      {
+        "title": "Data Breach at Manhattan Law Firm Involved PHI of 197,000 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DN185NS1ENEhhTG9KOVNCZnItdm5mQnlnWnc0cUtLS0pSVXFPc0M2Zmc1WjBUT2VLcmZkX0ZvTWVMTnlNQmxPSkJ1UlVCWTR2LTd0aTV4UnJselhYWUp6N2lHSGdTR3Q4SXN3?oc=5",
+        "published": "2026-10-23T10:02:14Z"
       }
     ]
   },
