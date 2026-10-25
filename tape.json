@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-25T01:34:22Z",
+  "as_of": "2026-10-25T06:44:16Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 90,
     "pwn_2026": 296610262,
     "added_2026": 112,
-    "added_7d": 2,
+    "added_7d": 1,
     "added_30d": 9,
     "latest": [
       {
@@ -95,16 +95,16 @@
         "published": "2026-10-22T23:07:26Z"
       },
       {
-        "title": "California to receive $6m settlement after 23andMe data breach",
-        "outlet": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
-        "published": "2026-10-19T21:34:00Z"
-      },
-      {
         "title": "iRhythm Data Breach Affects 8.2 Million Individuals",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ReEdTWXBJUWJMUGVCQXppb2JoX2QwS3NRNDRLQ2UzYlp0Rms3Sk9oM05LcUtvU19RX2xjRnpVVkNmb215Zi1ocllURkJ3eVVnVGRvdTgweFloeE9uUHc?oc=5",
         "published": "2026-10-19T07:00:00Z"
+      },
+      {
+        "title": "California to receive $6m settlement after 23andMe data breach",
+        "outlet": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
+        "published": "2026-10-19T21:34:00Z"
       },
       {
         "title": "Capcom data breach exposes 11.7 million account records",
