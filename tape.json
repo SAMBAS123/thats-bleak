@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-25T22:46:46Z",
+  "as_of": "2026-10-26T01:36:22Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,6 +89,12 @@
         "published": "2026-10-22T16:36:00Z"
       },
       {
+        "title": "Data Breach Outlook 2026: The Third-Party Domino Effect",
+        "outlet": "Kroll",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZmR5WERCcFpMbnl4YkZjSXp2TkE3LUN0QnRIazQ4dFdCZHd0WU1RVXBJbWYwcTdjVUpFQk5Ib0NRaE0yX3hOUVctUEZQeUlVVkdnMEdLWkR0NVQyUTBOZUYyZVVyT2FXQU9LMmpJemRRUUhaU2xJ?oc=5",
+        "published": "2026-10-22T13:12:04Z"
+      },
+      {
         "title": "Pentagon sued over data breach affecting more than 3 million people",
         "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
@@ -123,12 +129,6 @@
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ0ZzN1RfWEJrNE83S3FabTk4NDRtbzZYbU1SUHJqc19kZk9ENUtTZkhZejhHaDB1MTBTdlktaUxfR0ZIVDBjdUFQek1MYUNqX1puMkxiS013TjN2T3ZUbW9aa2hlOEZORHltZnZ0QUt6MHM3UHpQTnBrMVZNQXl0d2Z1OHJoeG5mTGZxZElmcGJMWXhkZk1saU9lQVJrVzVId2pnb2ZpMA?oc=5",
         "published": "2026-10-23T22:36:28Z"
-      },
-      {
-        "title": "Data Breach at Manhattan Law Firm Involved PHI of 197,000 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DN185NS1ENEhhTG9KOVNCZnItdm5mQnlnWnc0cUtLS0pSVXFPc0M2Zmc1WjBUT2VLcmZkX0ZvTWVMTnlNQmxPSkJ1UlVCWTR2LTd0aTV4UnJselhYWUp6N2lHSGdTR3Q4SXN3?oc=5",
-        "published": "2026-10-23T10:02:14Z"
       }
     ]
   },
