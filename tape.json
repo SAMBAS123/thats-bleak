@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-26T14:31:06Z",
+  "as_of": "2026-10-26T20:06:14Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,24 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Pentagon sued over data breach affecting more than 3 million people",
-        "outlet": "Federal News Network",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
-        "published": "2026-10-22T23:07:26Z"
-      },
-      {
-        "title": "Data breach exposes California student information: How to protect your family",
-        "outlet": "Long Beach Post",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1lkSEpQUEI2amUzUFdIeEVhT2FUcVVua09kTHBVQnd0bEFrVGdUTW1EN1hEZWEwOUtLUkJyQ0RpOTJxTWdQeXF1bVRIdDJHdy1sNUV6VjFobmZuT21MN3pJTlJCaVRhVmdhUE9HRlkxT3pEd3FrSzBsQWtYSVMycEo2cTU3VVc2TE1rU2pJWERNTFVNdUdpMUttcFJxNldTY29QcFB0YU42TUdJdkFiMDJB?oc=5",
-        "published": "2026-10-20T15:00:21Z"
-      },
-      {
-        "title": "Capcom data breach exposes 11.7 million account records",
-        "outlet": "Help Net Security",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
-        "published": "2026-10-23T09:07:31Z"
-      },
-      {
         "title": "How Bad Is The 2026 Data Breach Crisis?",
         "outlet": "Cybercrime Magazine",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Q2RmTWlOOUx1RUU0WVhmRWxNdUVIY3pZRFNCVEF1ZkVYTlNMSlJLcFpXSV9ob1phamJaYVVENWVJdFFiZjhHYjR4Q1pnUG82ZzRiRmwtcEpUNXN5LThpSko4YVBjYk0wcFZwSHgzdU9QTjV5M09tZmhGaktVZw?oc=5",
@@ -113,10 +95,22 @@
         "published": "2026-10-23T08:34:14Z"
       },
       {
+        "title": "Capcom data breach exposes 11.7 million account records",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
+        "published": "2026-10-23T09:07:31Z"
+      },
+      {
         "title": "Northern Light Health lab manager suffers data breach",
         "outlet": "WABI",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUI5ODQzalJscUdBQllfbVdCdUFFOXh1UmFBenBVdUN3RFRYcDR3ZkhzN2l4ZTg5cmE0TWsxRDVOOHpUNE9sdW5lbUJiSEZpN3Vzck9MNk85bm9oRHdBbTB6clVUYXdncG5mSHlaU2dCMUloQmdncVRnQjg3d05mVHVkV2t2SC0xYzZITFBn0gGiAUFVX3lxTE1uVWtZNWpKM2V6aUpfU25ucV9BcmhtRkVfcXJCT1lJRkJsdXRJVlM5aVEya196bEtaLVJ6M0swUWJ0X25TUmFrVEFqY2UzMEpwZVRfeVZmMWJoU2RjN3FfOF9nRUhsRzJBX3VIWUM5TFl3U2d3ZmNOY0tHRWs1OHJkYW9SeEVVc3VWUE1Fd2cwMUhlTE9CSnVhbHp0WVRaNzU1Zw?oc=5",
         "published": "2026-10-22T20:55:00Z"
+      },
+      {
+        "title": "Pentagon sued over data breach affecting more than 3 million people",
+        "outlet": "Federal News Network",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
+        "published": "2026-10-22T23:07:26Z"
       },
       {
         "title": "Data Breach at Manhattan Law Firm Involved PHI of 197,000 Individuals",
@@ -125,10 +119,16 @@
         "published": "2026-10-23T10:02:14Z"
       },
       {
-        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
-        "outlet": "Military Times",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWN1SVdXQkZ4NDJqZElKOE5BbWxLaFdrY1ExUFlMem00cVk3eEdJRkpuVHY1cHRXdmRaY0RvdGpDa1I2ZFJ2d3R3N0VWMHpJRkoyWGZnaENtTWV3VUhDR0RPRG15ZHJ3cXVUZ1hlTE0tNFgyd0Q3NTFWN0wzS3NFU2NZTmNPREk0OGtILTRVM0psUXhaMENBV3E1SF82OUx3YS03YldDYnFtb0hocWVoX1FfZmcwNEJwTThPM0RtS1k0dzc2VE8xOUJ4bWItZllNUmEzT19uN3M?oc=5",
-        "published": "2026-10-22T13:03:46Z"
+        "title": "Data breach exposes California student information: How to protect your family",
+        "outlet": "Long Beach Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1lkSEpQUEI2amUzUFdIeEVhT2FUcVVua09kTHBVQnd0bEFrVGdUTW1EN1hEZWEwOUtLUkJyQ0RpOTJxTWdQeXF1bVRIdDJHdy1sNUV6VjFobmZuT21MN3pJTlJCaVRhVmdhUE9HRlkxT3pEd3FrSzBsQWtYSVMycEo2cTU3VVc2TE1rU2pJWERNTFVNdUdpMUttcFJxNldTY29QcFB0YU42TUdJdkFiMDJB?oc=5",
+        "published": "2026-10-20T15:00:21Z"
+      },
+      {
+        "title": "California to receive $6m settlement after 23andMe data breach",
+        "outlet": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDd6NnFscDJSbUpydU1yV195bzR4QWdTWXp1bjRheXlKamFIdzVKM29VSnVNamxBaWZIM1pYNmRMN0YwQ1o2bXZxR28yeEZzYjAxRll6Wmw0eFNsa2ZvRUZJcjVKNHhaQndRTUlyZEdodHRiRmVRSFNsc1JnMjFPM2VFY3lVSEw1TVA3RXY0dU1PMXc?oc=5",
+        "published": "2026-10-19T21:34:00Z"
       }
     ]
   },
