@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-10-27T05:30:26Z",
+  "as_of": "2026-10-27T10:53:24Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1047,
-    "breaches_2026": 90,
-    "pwn_2026": 296610262,
-    "added_2026": 112,
-    "added_7d": 0,
-    "added_30d": 9,
+    "catalog_total": 1048,
+    "breaches_2026": 91,
+    "pwn_2026": 296955701,
+    "added_2026": 113,
+    "added_7d": 1,
+    "added_30d": 10,
     "latest": [
+      {
+        "name": "AfD",
+        "title": "AfD",
+        "added": "2026-10-27T07:01:06Z",
+        "breach_date": "2026-09-09",
+        "pwn_count": 345439,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#AfD"
+      },
       {
         "name": "AssuranceRetraite",
         "title": "Assurance Retraite",
@@ -66,14 +74,6 @@
         "breach_date": "2026-10-04",
         "pwn_count": 274922,
         "url": "https://haveibeenpwned.com/PwnedWebsites#DoubleCounter"
-      },
-      {
-        "name": "AngelOne",
-        "title": "Angel One",
-        "added": "2026-10-07T03:45:31Z",
-        "breach_date": "2023-04-01",
-        "pwn_count": 6765054,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#AngelOne"
       }
     ]
   },
@@ -83,16 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Data Breach Outlook 2026: The Third-Party Domino Effect",
-        "outlet": "Kroll",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZmR5WERCcFpMbnl4YkZjSXp2TkE3LUN0QnRIazQ4dFdCZHd0WU1RVXBJbWYwcTdjVUpFQk5Ib0NRaE0yX3hOUVctUEZQeUlVVkdnMEdLWkR0NVQyUTBOZUYyZVVyT2FXQU9LMmpJemRRUUhaU2xJ?oc=5",
-        "published": "2026-10-22T13:12:04Z"
-      },
-      {
         "title": "Data breach exposes California student information: How to protect your family",
         "outlet": "Long Beach Post",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1lkSEpQUEI2amUzUFdIeEVhT2FUcVVua09kTHBVQnd0bEFrVGdUTW1EN1hEZWEwOUtLUkJyQ0RpOTJxTWdQeXF1bVRIdDJHdy1sNUV6VjFobmZuT21MN3pJTlJCaVRhVmdhUE9HRlkxT3pEd3FrSzBsQWtYSVMycEo2cTU3VVc2TE1rU2pJWERNTFVNdUdpMUttcFJxNldTY29QcFB0YU42TUdJdkFiMDJB?oc=5",
         "published": "2026-10-20T15:00:21Z"
+      },
+      {
+        "title": "11 Million Impacted by Capcom Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KdVBqa3BkNUNhNC0yOFNoWU9QOVlMYlQwZlJrRjNROEFORXJlMWJxNlNWSXV6UFhpaXZmUFlKZ1BtajZPVzE4WUVkMmVNNnBKYzF2S0pWejlUU2REU05oRXJpNll5Y1pNb2JFQUhpQkdDTmFKNXpWWHdITdIBgAFBVV95cUxQaTh5QkVXNDU1elNkaTRCNzVIcHh3d01OUG1VZGFDTkhWRm14TVpnMXFZaDZROHU3UUVtc3NvU2FPM2RiT2RUQ0h0UmhvenpndzdfbzFXYTZDRDk1ejZ6cEw1RnR2U0ljX1c2dXc3STJSc21SNjlxcXZ5UG5jOG9hbQ?oc=5",
+        "published": "2026-10-23T08:34:14Z"
       },
       {
         "title": "Northern Light Health lab manager suffers data breach",
@@ -101,22 +101,10 @@
         "published": "2026-10-22T20:55:00Z"
       },
       {
-        "title": "California settles 23andMe data breach claims for $6M",
-        "outlet": "Maryland Daily Record",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0E4Vi1MQ29IVjYyaUxPRFR2T1dDQUdoc0JBeDRjTnBXbGZzMllqbnI2ZnAxTGlhRmlVNXpaTEtGakJhRDdYNE85NWlTVmlaaUJ5S2xyTFBxWUhtQlVQakNPaGpfVzlzOGpOTkllODRfM1M5M2YzY2NVLUJlQ1l0dXltaW45dmh5R21XSQ?oc=5",
-        "published": "2026-10-20T19:04:36Z"
-      },
-      {
         "title": "Pentagon sued over data breach affecting more than 3 million people",
         "outlet": "Federal News Network",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVsTTZSeXJ3SVhqLTJSTjZjakttdVdNYjJnTlFia19GRWRVQkZSYU9YRzhYTlU4YmhIbVJhS3NmWGhsaGp0ZWV2alFjR3dtVzlGY1laejN4M0UzOVA3NUxCQWo4bWludEZKVGk4b0YwWEdwc0F0REhzWkdFT0RuZy05djNVSDRFbklpanZVeUFOV2RzbEhVZDF0endtaFRtVU04X1E3U1FXVUx0SGFLdS1naDBCaDJ6Yk5PcA?oc=5",
         "published": "2026-10-22T23:07:26Z"
-      },
-      {
-        "title": "Ridgeway Pharmacy Data Breach Affects 259,000 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wbzY0U1MtaGdZUW5kQnNuVTM4Q1RVSEc1Zl9UUTBGYm8xak5tSmgxemdmVVFQQklPUE0tOC16QnBMQV9mMVF5aW1MU1ctRFpXZzRhQ2JULWMtZ21vNjFab3JxdnAtYUxYRTk4?oc=5",
-        "published": "2026-10-22T15:49:56Z"
       },
       {
         "title": "Austin ISD staff personal information compromised in data breach",
@@ -125,10 +113,22 @@
         "published": "2026-10-26T20:19:00Z"
       },
       {
+        "title": "Capcom data breach exposes 11.7 million account records",
+        "outlet": "Help Net Security",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
+        "published": "2026-10-23T09:07:31Z"
+      },
+      {
         "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
         "outlet": "Military Times",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWN1SVdXQkZ4NDJqZElKOE5BbWxLaFdrY1ExUFlMem00cVk3eEdJRkpuVHY1cHRXdmRaY0RvdGpDa1I2ZFJ2d3R3N0VWMHpJRkoyWGZnaENtTWV3VUhDR0RPRG15ZHJ3cXVUZ1hlTE0tNFgyd0Q3NTFWN0wzS3NFU2NZTmNPREk0OGtILTRVM0psUXhaMENBV3E1SF82OUx3YS03YldDYnFtb0hocWVoX1FfZmcwNEJwTThPM0RtS1k0dzc2VE8xOUJ4bWItZllNUmEzT19uN3M?oc=5",
         "published": "2026-10-22T17:03:46Z"
+      },
+      {
+        "title": "How Bad Is The 2026 Data Breach Crisis?",
+        "outlet": "Cybercrime Magazine",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Q2RmTWlOOUx1RUU0WVhmRWxNdUVIY3pZRFNCVEF1ZkVYTlNMSlJLcFpXSV9ob1phamJaYVVENWVJdFFiZjhHYjR4Q1pnUG82ZzRiRmwtcEpUNXN5LThpSko4YVBjYk0wcFZwSHgzdU9QTjV5M09tZmhGaktVZw?oc=5",
+        "published": "2026-10-26T13:07:49Z"
       }
     ]
   },
