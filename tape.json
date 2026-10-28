@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-28T14:25:24Z",
+  "as_of": "2026-10-28T19:48:56Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,12 +95,6 @@
         "published": "2026-10-27T13:34:35Z"
       },
       {
-        "title": "Data breach affecting SafeVoice Nevada",
-        "outlet": "FOX5 Vegas",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFZrNS0taGFQTlJTa05WTUxXeGNsTkdwdXhMQ1JYZmx1djQySGU2UmVsbnVTR3pNMkN3am5INVp4Y3lpVTRwenpPd2J4MVIzZHZuN3ZLSnNRREZxZHhqWkFuUS14cE0yZHJrLVUtdng5SG1qQVdkT2owY2p3M1R4UW9n0gGWAUFVX3lxTE9SOGdaMW12SUp0YXhMRTVCUDhKS2pJckRucjJyRWlpVW1LcFBmNlAybXdxWXkyOU5tTVlMeXJxNTlvRHc5Z0hLdGNyVmNtYjNnR0lKbGM0WUphX1F2Zl9iN0w3cGQ3OFAwSkFZelJpbmx2SHBLQU90Vk9fT2lXM2kzbldTTmlfOTZXTHBWeUZkQjIzVkljdw?oc=5",
-        "published": "2026-10-22T16:36:00Z"
-      },
-      {
         "title": "Sixth Circuit takes up data breach reporting requirements",
         "outlet": "Courthouse News",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUJhSTd2cHE4VnRtbEtDN2RtMHVZR1c5dTYzZ1dXZkpxbjZDQW9zNWwxNkM4TFl0T2dtV21FaUxmS2JqeDBwZDJ1emNZVEZ3RzFEODBuNUVabGM0WjdxX0RCSFVrbi1vSUktcjEyMUh2bGpzSE9PaXBYVHlaZkNZT01UNTB1OVdxRUpULUdaako5Zw?oc=5",
@@ -119,16 +113,22 @@
         "published": "2026-10-28T04:26:54Z"
       },
       {
-        "title": "Austin ISD staff personal information compromised in data breach",
-        "outlet": "KVUE",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGpSMVBYVjZ0WlFDeE5oSWprV2pWRnRraG81Xzd5WWNmblNhOExzaXNnQlY2R25qQXhTQmNtOFVOWDk4RHhvVk16V0UtMnVPRjA0ZTBKclhLaHd0djBQQ1NXbUljX0VuZlpreTRkZzlxVWlMeE9aLUNEeFZvVGJlSnVzWnZhTjlIaTJHd3NuT3pJQzd6OXIxWmIxVXlSUGVlLTNqMlRla05EclJTd2lIXzZIOW1Mc1pNNUotcDRxb3lhU2dHWHlkbkxn?oc=5",
-        "published": "2026-10-26T20:19:00Z"
-      },
-      {
         "title": "Columbia University data breach settlement offers up to $8,500 to those eligible",
         "outlet": "wtsp.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0Nta1BEUldhTkdTY0dUZ2VMc1Z3cVZPR3lBSDhxcmxKUGMyemN1SUtDcjhmVmNxaEJzQ19CR3V5d2gyUFp5VzBPaF9yd2FGeEtjOTVQcmwzay1VOE9hZHJLNXlwOWVxM3A5cDNzOFkxXzQ5VFFMb1pEd3ppMzQ4WjZucW9tYjYxNHA5U20xcXNNdDFXZUJXVWpDR2xHWm82Z0VBbHBoSWxsZHBuZkZSRWR5RDZ4Rm1LZTZxY044cFpZQ1BBY2RoRWN3?oc=5",
         "published": "2026-10-28T11:57:00Z"
+      },
+      {
+        "title": "Columbia Opens Claims for $16 Million Data Breach Settlement",
+        "outlet": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnRoVmJVc2JXYVNFTXJraGx1QlpUZ20zM1E5VVhTSnNubHB3cUJYS3NtM3Y4cmptaXZQeEhEYnN1RTNBamJOTkFtRlpaN2dramZDcS1WLTAtZUUzeEJBeW1NSDlEQ2xtalA0S2x4YTJyM1BMZGxPWERlRGhpUHpfMXRpSThQbloyaGZDY1Y1dWtxSDkwdnFiVklYS1N2Z3NkQ09NNGg3blAzT21UN3Zv?oc=5",
+        "published": "2026-10-28T15:05:08Z"
+      },
+      {
+        "title": "Times Car reporting ¥5.5 billion loss has firms bracing for data breach fallout",
+        "outlet": "The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGhncWJkaDFjZF9QNm9lbXI2U1UxTVBYWVpwMTBkNWNnUV9DT0NyYjcxaXl4NjR1ZHdaZ1B4LVgtdVFKb1hDMVRDeGNhOGJFM2tkQ1dqNkJORXEwTmN3TzFvU2xCbFJoWm9EZ3NZZ0Y4N0s2VDJrVnpQYWY0NTFPZEZUYUVmcmhWWHdXYUJn?oc=5",
+        "published": "2026-10-28T09:01:00Z"
       }
     ]
   },
