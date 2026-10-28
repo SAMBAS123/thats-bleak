@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-28T07:19:02Z",
+  "as_of": "2026-10-28T14:25:24Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,22 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Data Breach Outlook 2026: The Third-Party Domino Effect",
+        "outlet": "Kroll",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZmR5WERCcFpMbnl4YkZjSXp2TkE3LUN0QnRIazQ4dFdCZHd0WU1RVXBJbWYwcTdjVUpFQk5Ib0NRaE0yX3hOUVctUEZQeUlVVkdnMEdLWkR0NVQyUTBOZUYyZVVyT2FXQU9LMmpJemRRUUhaU2xJ?oc=5",
+        "published": "2026-10-22T13:12:04Z"
+      },
+      {
         "title": "Data Breach Announced by NorthShore Health Centers",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HYVR1enBRVU80U3JpMGNkMkdfOWRQR1lxNFlDVVRwbVdIblZfdjlwaUNvM2dDZ09qcGxrckZSM3B4aTFJRnRGOEdZTUJBemo5cGF2MmRfT0wwcDI2MDhObjlfTE1ORUtMeDNFcEFQaEEzX1ZjVFE?oc=5",
         "published": "2026-10-27T13:34:35Z"
       },
       {
-        "title": "Data Breach Outlook 2026: The Third-Party Domino Effect",
-        "outlet": "Kroll",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZmR5WERCcFpMbnl4YkZjSXp2TkE3LUN0QnRIazQ4dFdCZHd0WU1RVXBJbWYwcTdjVUpFQk5Ib0NRaE0yX3hOUVctUEZQeUlVVkdnMEdLWkR0NVQyUTBOZUYyZVVyT2FXQU9LMmpJemRRUUhaU2xJ?oc=5",
-        "published": "2026-10-22T13:12:04Z"
+        "title": "Data breach affecting SafeVoice Nevada",
+        "outlet": "FOX5 Vegas",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFZrNS0taGFQTlJTa05WTUxXeGNsTkdwdXhMQ1JYZmx1djQySGU2UmVsbnVTR3pNMkN3am5INVp4Y3lpVTRwenpPd2J4MVIzZHZuN3ZLSnNRREZxZHhqWkFuUS14cE0yZHJrLVUtdng5SG1qQVdkT2owY2p3M1R4UW9n0gGWAUFVX3lxTE9SOGdaMW12SUp0YXhMRTVCUDhKS2pJckRucjJyRWlpVW1LcFBmNlAybXdxWXkyOU5tTVlMeXJxNTlvRHc5Z0hLdGNyVmNtYjNnR0lKbGM0WUphX1F2Zl9iN0w3cGQ3OFAwSkFZelJpbmx2SHBLQU90Vk9fT2lXM2kzbldTTmlfOTZXTHBWeUZkQjIzVkljdw?oc=5",
+        "published": "2026-10-22T16:36:00Z"
       },
       {
         "title": "Sixth Circuit takes up data breach reporting requirements",
@@ -107,28 +113,22 @@
         "published": "2026-10-22T23:07:26Z"
       },
       {
+        "title": "Students receive instructions to claim share of $16.1 million data breach settlement",
+        "outlet": "Columbia Daily Spectator",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2dha1JMRldDMmdORVlyaHRTMVRZQ01WQmRMUkFoQ016bldobjd6V2FCNkhYLXk4Ml9PVTRiRmZnX2lEa3BPcGxLb3dmR3o0OWpNcFhZMU0zdjNYTjdlVHVIX19hakdSRUhOUjJKYkFZcF9XZmxUZFF0QW50RnZiZ1BGR05iT2lYN3l6ZlY4X1ZpUGIzMXcxR1FyM1pMS2VKd2RYcUNBZGxvQTVSdkNTRWE5LVBGYkNEaVk0bWM3MENydFFnaGxUNUdyZDRiQQ?oc=5",
+        "published": "2026-10-28T04:26:54Z"
+      },
+      {
         "title": "Austin ISD staff personal information compromised in data breach",
         "outlet": "KVUE",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGpSMVBYVjZ0WlFDeE5oSWprV2pWRnRraG81Xzd5WWNmblNhOExzaXNnQlY2R25qQXhTQmNtOFVOWDk4RHhvVk16V0UtMnVPRjA0ZTBKclhLaHd0djBQQ1NXbUljX0VuZlpreTRkZzlxVWlMeE9aLUNEeFZvVGJlSnVzWnZhTjlIaTJHd3NuT3pJQzd6OXIxWmIxVXlSUGVlLTNqMlRla05EclJTd2lIXzZIOW1Mc1pNNUotcDRxb3lhU2dHWHlkbkxn?oc=5",
         "published": "2026-10-26T20:19:00Z"
       },
       {
-        "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
-        "outlet": "Military Times",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWN1SVdXQkZ4NDJqZElKOE5BbWxLaFdrY1ExUFlMem00cVk3eEdJRkpuVHY1cHRXdmRaY0RvdGpDa1I2ZFJ2d3R3N0VWMHpJRkoyWGZnaENtTWV3VUhDR0RPRG15ZHJ3cXVUZ1hlTE0tNFgyd0Q3NTFWN0wzS3NFU2NZTmNPREk0OGtILTRVM0psUXhaMENBV3E1SF82OUx3YS03YldDYnFtb0hocWVoX1FfZmcwNEJwTThPM0RtS1k0dzc2VE8xOUJ4bWItZllNUmEzT19uN3M?oc=5",
-        "published": "2026-10-22T17:03:46Z"
-      },
-      {
-        "title": "How Bad Is The 2026 Data Breach Crisis?",
-        "outlet": "Cybercrime Magazine",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Q2RmTWlOOUx1RUU0WVhmRWxNdUVIY3pZRFNCVEF1ZkVYTlNMSlJLcFpXSV9ob1phamJaYVVENWVJdFFiZjhHYjR4Q1pnUG82ZzRiRmwtcEpUNXN5LThpSko4YVBjYk0wcFZwSHgzdU9QTjV5M09tZmhGaktVZw?oc=5",
-        "published": "2026-10-26T13:07:49Z"
-      },
-      {
-        "title": "COMMENTARY: Traceability becomes the new battleground in healthcare data breach litigation",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUpmYmVNc0dnUnVWYzlUY2dmV0JxLVhNOVBjeUdlM2dtbjhaVWZYRHJySTAwSk9XSWxfUW4tb0s0Zm1UREpaVDJpWnQwcE0yMGY5Mjc1TndjN3JndzlIVXI0dWRQVUhKTWtYbkthY1c4OFhfc0diYXFveHB5VXgwYVYzeXptYzZaSHJ6c3RiOXdpOWRVa01Rc3J5MjdqcUtSZ21WOUZwWlljWkZpaWtCWldaV1ZDbGEyQ2xzUUxQb1ZwLWlPQzFManZoV2s3LWd3?oc=5",
-        "published": "2026-10-27T13:46:15Z"
+        "title": "Columbia University data breach settlement offers up to $8,500 to those eligible",
+        "outlet": "wtsp.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0Nta1BEUldhTkdTY0dUZ2VMc1Z3cVZPR3lBSDhxcmxKUGMyemN1SUtDcjhmVmNxaEJzQ19CR3V5d2gyUFp5VzBPaF9yd2FGeEtjOTVQcmwzay1VOE9hZHJLNXlwOWVxM3A5cDNzOFkxXzQ5VFFMb1pEd3ppMzQ4WjZucW9tYjYxNHA5U20xcXNNdDFXZUJXVWpDR2xHWm82Z0VBbHBoSWxsZHBuZkZSRWR5RDZ4Rm1LZTZxY044cFpZQ1BBY2RoRWN3?oc=5",
+        "published": "2026-10-28T11:57:00Z"
       }
     ]
   },
