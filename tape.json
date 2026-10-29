@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T19:11:16Z",
+  "as_of": "2026-10-29T23:32:26Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,16 +89,34 @@
         "published": "2026-10-29T04:29:32Z"
       },
       {
+        "title": "Florida education data breach could put millions at risk",
+        "outlet": "Tallahassee Democrat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTk5SEJrdFNCZDB5Y0FJeXRILU04VjZLRUNVTU15cnM3c1lNZDdGZ3B3NnR2T0JfemppWWtCdWNrRnl3VUZlTktiSG43eGRiaVBCRm91b05GMS1nOExDSDZpb1VFeG5HeDFpTlg0WE1jX0lYSjk1SllkOWRUME5xQ09uS0Vyc2Q4d1pTYi1aak9laDItZkRvdjh2T093VEtkb2dwbDVuT25IWVh0VklRTU5xUUloSmFGY2hEQ0F6MHNHa2Z4UUE?oc=5",
+        "published": "2026-10-29T19:09:50Z"
+      },
+      {
         "title": "Capcom data breach confirmed: More than 11 million accounts impacted",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KWVpwaUY1RnkwaWJwYkVPQVhmbjZTdlVYcTRUdUYxMjVxaVoyUklJM2JrSzI0UkRGbm5KYWJneDRJX0dmNF9LMDNuQ19tdElIcElaUU9TaHZZeURnMm9vMkV2YV9ZaUhfNzQ2TjlMbHlPV3JGbnJTQXBzeHFuamM?oc=5",
         "published": "2026-10-29T13:26:04Z"
       },
       {
-        "title": "11 Million Impacted by Capcom Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KdVBqa3BkNUNhNC0yOFNoWU9QOVlMYlQwZlJrRjNROEFORXJlMWJxNlNWSXV6UFhpaXZmUFlKZ1BtajZPVzE4WUVkMmVNNnBKYzF2S0pWejlUU2REU05oRXJpNll5Y1pNb2JFQUhpQkdDTmFKNXpWWHdITdIBgAFBVV95cUxQaTh5QkVXNDU1elNkaTRCNzVIcHh3d01OUG1VZGFDTkhWRm14TVpnMXFZaDZROHU3UUVtc3NvU2FPM2RiT2RUQ0h0UmhvenpndzdfbzFXYTZDRDk1ejZ6cEw1RnR2U0ljX1c2dXc3STJSc21SNjlxcXZ5UG5jOG9hbQ?oc=5",
-        "published": "2026-10-23T08:34:14Z"
+        "title": "State Announces Significant Student Data Breach",
+        "outlet": "Alameda Unified School District",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
+        "published": "2026-10-28T23:21:00Z"
+      },
+      {
+        "title": "Florida Education Department reports data breach impacting 4.9M people",
+        "outlet": "wtsp.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNURmR3RYMWU4SEJTTHdYNWtGYVNtLTYzTjNqZ0FXNVZGTGlOU2VldWVwMEFxN3VqQXdHamhmOFl4VU5CZFFKTDlmMUtZRm9ZaklZdy1ENlpCZHBKakl2UlB0TVZDNWVoSmpWQUowSDgtbWwtd3RMTV9rNXB2eFlhbUwwMWsxX2cxQjZ6OC1lNEE4R1RhWWxITlFIQkpFVUFxU0hxUUtxc3Bjd2R1Rmk1Uk80MU41TVB5MDM2eXk2MTF6aXFTRlZ6Zzh5d1c1dl9pd3lHSVZHaFVZYzhfaFo4YS1lcVV6dXdWUk0tZVFzd01LMlBmYXhoX3lBVTdrTjhB?oc=5",
+        "published": "2026-10-29T20:27:00Z"
+      },
+      {
+        "title": "At Johns Hopkins, shadow AI use linked to data breach",
+        "outlet": "Healthcare IT News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQi1YbExJVzRSWVhLU1VNNHdVbFYzVGk3aWlMaWlZNGZOalJQbWZIdkU5ZVBFTUsyWXdpRFVJc3RxTFh3bERQU3JlcWd3Qi02ejJzSE1sU3Q3ZGExa1hTMWxkTHpxaUdveXVkcWkyNlF2OGxoTmcwT2lMeEd1YzRMSzJqSGtLT3J0WHhnbg?oc=5",
+        "published": "2026-10-29T15:00:00Z"
       },
       {
         "title": "San Antonio ISD warns staff of vendor data breach involving district data",
@@ -107,28 +125,10 @@
         "published": "2026-10-29T02:18:49Z"
       },
       {
-        "title": "Information about ETS Student Data Breach",
-        "outlet": "Alameda Unified School District",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
-        "published": "2026-10-28T23:21:00Z"
-      },
-      {
-        "title": "CSX data breach exposes employee information",
-        "outlet": "WTOL",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1VaNXNaZkp3TUMwcFRzWGd3YTVvWTdYaHljZEtjdmF6M21wTm1mYTJ0NkthRFdlaWc0c1F1T0Jla2RGMElZOVBySWRJUXhvZ0N2UDV1X3Fma3IyQnZVTEl1clVHMHhiWFppLWl3aldZMUVpUzFkbGU2elZPV1VZY1NXUE9PR0NrcUJza3NKMVNfdGRfTXl3dlduVG9NaDRFSExDbWZJVy13aGNYNUdramF5MFBpRnBOMzhtXzl6dU5PYURpSGFz?oc=5",
-        "published": "2026-10-28T21:18:00Z"
-      },
-      {
-        "title": "Capcom data breach exposes 11.7 million account records",
-        "outlet": "Help Net Security",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWFCcmx3amhwclYzcjBCakQ4VDNpMXhWdGhza0tidm42TGdrVFRBa3Rtb21kQUwtSzNUYWRNMndPV1RsRmtGc3U4VmIzX0V6cVk4YWdyNkk2dXZ1QVFRSmNIRkVRUERFcjJBb3VYcWFNQUR1WEI4SWVVbjJDSzM3T21TM0o5ZDdrM2hwR3ZaWGJIeXF3WV9F?oc=5",
-        "published": "2026-10-23T09:07:31Z"
-      },
-      {
-        "title": "Up to $4K available for victims of data breach",
-        "outlet": "Cleveland.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3NZNTByeVNTb3BSc0pma3prS2ItSHhOZU9oQnllRnZZWGl1OG93ZHh1N3ZfX2J2X0FzRzNDRUEwbHNTLU5veV8wUk5rRDN3QVRlYTVjUnBGemF2RDZ3eWpIT1h0Rm9CTWdnXzVTT084Z0lPeE9xS1c0WG1yeGZrRDJTY2ZVVmRTSFpqNzk2cjB3X0nSAacBQVVfeXFMTTM3eVIyQkhhU0V4bjRzVGItSHMtR3JPUGNRRnFUTXRxYjRZWkhPVDc5WkIxTlI4UGtGRXFsY0hveUZZZ1FHMUhWZjRRWVN2bWYyeVhqYlg3bnJTa1piRFdJTjJZbDF1bzA4dmU3cmw4dVhnN2ZfdW9QS2ZNZEhCMTdUWUFsbldLalBydEc5SjR1YjZLeU91bTZsclBFWXRiUkFQRm5vUDQ?oc=5",
-        "published": "2026-10-23T14:37:00Z"
+        "title": "Florida education department says data breach may affect 4.9 million people",
+        "outlet": "WPEC",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
+        "published": "2026-10-29T17:31:30Z"
       }
     ]
   },
