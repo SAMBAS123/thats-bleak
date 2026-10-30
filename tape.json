@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T23:32:26Z",
+  "as_of": "2026-10-30T02:52:26Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -92,13 +92,13 @@
         "title": "Florida education data breach could put millions at risk",
         "outlet": "Tallahassee Democrat",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTk5SEJrdFNCZDB5Y0FJeXRILU04VjZLRUNVTU15cnM3c1lNZDdGZ3B3NnR2T0JfemppWWtCdWNrRnl3VUZlTktiSG43eGRiaVBCRm91b05GMS1nOExDSDZpb1VFeG5HeDFpTlg0WE1jX0lYSjk1SllkOWRUME5xQ09uS0Vyc2Q4d1pTYi1aak9laDItZkRvdjh2T093VEtkb2dwbDVuT25IWVh0VklRTU5xUUloSmFGY2hEQ0F6MHNHa2Z4UUE?oc=5",
-        "published": "2026-10-29T19:09:50Z"
+        "published": "2026-10-29T19:58:00Z"
       },
       {
         "title": "Capcom data breach confirmed: More than 11 million accounts impacted",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KWVpwaUY1RnkwaWJwYkVPQVhmbjZTdlVYcTRUdUYxMjVxaVoyUklJM2JrSzI0UkRGbm5KYWJneDRJX0dmNF9LMDNuQ19tdElIcElaUU9TaHZZeURnMm9vMkV2YV9ZaUhfNzQ2TjlMbHlPV3JGbnJTQXBzeHFuamM?oc=5",
-        "published": "2026-10-29T13:26:04Z"
+        "published": "2026-10-29T21:33:38Z"
       },
       {
         "title": "State Announces Significant Student Data Breach",
@@ -113,6 +113,12 @@
         "published": "2026-10-29T20:27:00Z"
       },
       {
+        "title": "Florida Department of Education reports data breach affecting 4.9 million people",
+        "outlet": "WPBF",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDBVby1QVkRJM0M4RHU0NnZJUjhOWlhScml5eGtVYXRLR1RLT19Kcnp6MXJoVm1aQklQdjhGREFvMXk0OXkxX0RFM1QtM2ZWVlRWZG85UzJDTmJ1X3pqWFJvazBJTFdWeDg5UzFwTEQybXkxSXpxdkRLSVN3UG9zQkhnY3hPZVVJakl0el9lcURHeUNDaDh1V1RzME5ZRl80YV9lZlZVS3ZxbUc2MEZRbm4zbXN2TFo4Q0pTaWR4ZWw?oc=5",
+        "published": "2026-10-29T20:43:00Z"
+      },
+      {
         "title": "At Johns Hopkins, shadow AI use linked to data breach",
         "outlet": "Healthcare IT News",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQi1YbExJVzRSWVhLU1VNNHdVbFYzVGk3aWlMaWlZNGZOalJQbWZIdkU5ZVBFTUsyWXdpRFVJc3RxTFh3bERQU3JlcWd3Qi02ejJzSE1sU3Q3ZGExa1hTMWxkTHpxaUdveXVkcWkyNlF2OGxoTmcwT2lMeEd1YzRMSzJqSGtLT3J0WHhnbg?oc=5",
@@ -123,12 +129,6 @@
         "outlet": "KSAT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZm5OdjMxUnBySGZKa3pOYkVRVUJvdGN2QmtpMjJuTERnX29tVVp1dU5yYTMtWERKZnlIYmZPcnM2aTFhT2h2b3RQT210OGE0alhXUHY4VE1HQ1oxRjcyazhJNmF5OWVqMlB0akowbnExX041NnJ5Z3ZPRHVrb0xfcFNwNlVTR015cHp1aG9ZelpBS2hhQWtfMHNRM21XbVZDd0hjY2Q1cVlHOVNxemppdG8yVjI3dW0t?oc=5",
         "published": "2026-10-29T02:18:49Z"
-      },
-      {
-        "title": "Florida education department says data breach may affect 4.9 million people",
-        "outlet": "WPEC",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
-        "published": "2026-10-29T17:31:30Z"
       }
     ]
   },
