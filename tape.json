@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30T16:48:10Z",
+  "as_of": "2026-10-30T21:40:49Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "State Announces Significant Student Data Breach",
-        "outlet": "Alameda Unified School District",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
-        "published": "2026-10-28T23:21:00Z"
-      },
-      {
         "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
         "outlet": "CNBC",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUVkyZ0E5cnhtX09Xb3ZMSnRsNF9zVnNZUlVkRnIwaThrQmk4SjJKaTJBZHVvTXZURzUyck1mWk5vejFNZmF5d25tcmllNkZlbXE0U2g3SDlQVVY3R3dRb1M4ZU5XWjJtajhKMkt5WDc0RlhmODZxOEpwTThwUdIBgwFBVV95cUxOQWs1VUc1V21GaEZ4Q3c2NGJyZkZLWEU5aEpZTVpScUpobXpJVXN4NEtCTV9iTkN6WjRXd3ptYU1BV3RjYWtRNkZBYjlEMEpwWS03MWoxMHl3c0I3Nklnd1FOZFJDUTNzNXNXRGNVTEpMOUE5bm1LcDN1MU1mUE5SN2tMSQ?oc=5",
@@ -107,6 +101,12 @@
         "published": "2026-10-29T15:00:00Z"
       },
       {
+        "title": "Moldovan President Calls Security Meeting After Massive Data Breach",
+        "outlet": "Radio Free Europe/Radio Liberty",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkpTRVY1YjI4cWFaZFAxWXdaUWhHUXNicGJfbVFnMU1Bd3EzWnVKeHhkOEhVclluSWdZVDkwb1A5dkRwWDY0WXNRa2xmd0g2RHJ6NUxwT1V4aVVwNUp1enNoa1JoMGwzZVlXOFNtQmtIM0FrZG5BSnNqMzZNa2ducDdpS3dmYXBUclHSAYwBQVVfeXFMTzgyd0t2Tm1nRXFPQmpMSDltZ3hVN3pRSFBPU0pMQ1VYSUFlZk1FMDRuTHAzRTN0YkU0dWVjQUtKV3VZbU9wUlRrMklscWRJS09ESllydHBhTXUyVklpNnl2T2FUa3o4M3hGX0E2dk5vOS1DR1pwVHdsdGhjUDU0RXZQMDQ2VmxORjUwbWU?oc=5",
+        "published": "2026-10-29T15:55:21Z"
+      },
+      {
         "title": "Around 4.9 million people possibly impacted by Florida Student Financial Aid data breach, FLDOE says",
         "outlet": "WCTV",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTdiZFpzOThvNmxXV2lncU5pOUxrR09OMktoWVI1MUtUTDVGaU1LbFRSeTVUVEhjeWFURVJZWFhfVXlsd1BIeFVVdFNyYXlRQUh0QlpUSEJwS3JycnNTU0VYb0RlbnRyelNYSjlDSlRXX05BQlkzaXdzOTVhb3dwbk93MTBUTFdWUjlIeFFiVjZjeUZFakxBU3hnNWVya1pnWXVqanRTWEhEaFlMM0M5UVc1c1B3STdJcnoxd3NBYWhzZ0tZNTZnc19B0gHeAUFVX3lxTE8ySzZIbGpqR2R3a3dWREdBZjBQV3NTaWxxQlpYQTdNZlpTa01sNThQVWpmVTZSaU1fTUowZ0VFaGdQOEVybnQ2SGtkRVgyMmRIQndRejBvMTB3VHhnQ0ZQM0poM0pFbENLS05WM0pTcmx0ckJJdHZCTTRGSWhJOV9DZGhiS01PWk45LWxublMwN0pRUno3UVVFTnB6WEptRm5qVDVVVTJnV3JYdjdMRXFtUTQxdUxSUVZ5Nlo5TEdyS3RoYUkxb1hIZUJGeTE3SFNnYnlmVUNQSERMQmE1UQ?oc=5",
@@ -119,16 +119,16 @@
         "published": "2026-10-29T17:36:26Z"
       },
       {
-        "title": "Moldovan President Calls Security Meeting After Massive Data Breach",
-        "outlet": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkpTRVY1YjI4cWFaZFAxWXdaUWhHUXNicGJfbVFnMU1Bd3EzWnVKeHhkOEhVclluSWdZVDkwb1A5dkRwWDY0WXNRa2xmd0g2RHJ6NUxwT1V4aVVwNUp1enNoa1JoMGwzZVlXOFNtQmtIM0FrZG5BSnNqMzZNa2ducDdpS3dmYXBUclHSAYwBQVVfeXFMTzgyd0t2Tm1nRXFPQmpMSDltZ3hVN3pRSFBPU0pMQ1VYSUFlZk1FMDRuTHAzRTN0YkU0dWVjQUtKV3VZbU9wUlRrMklscWRJS09ESllydHBhTXUyVklpNnl2T2FUa3o4M3hGX0E2dk5vOS1DR1pwVHdsdGhjUDU0RXZQMDQ2VmxORjUwbWU?oc=5",
-        "published": "2026-10-29T15:55:21Z"
-      },
-      {
         "title": "Florida Education Department reports data breach impacting 4.9M people",
         "outlet": "wtsp.com",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNURmR3RYMWU4SEJTTHdYNWtGYVNtLTYzTjNqZ0FXNVZGTGlOU2VldWVwMEFxN3VqQXdHamhmOFl4VU5CZFFKTDlmMUtZRm9ZaklZdy1ENlpCZHBKakl2UlB0TVZDNWVoSmpWQUowSDgtbWwtd3RMTV9rNXB2eFlhbUwwMWsxX2cxQjZ6OC1lNEE4R1RhWWxITlFIQkpFVUFxU0hxUUtxc3Bjd2R1Rmk1Uk80MU41TVB5MDM2eXk2MTF6aXFTRlZ6Zzh5d1c1dl9pd3lHSVZHaFVZYzhfaFo4YS1lcVV6dXdWUk0tZVFzd01LMlBmYXhoX3lBVTdrTjhB?oc=5",
         "published": "2026-10-29T20:27:00Z"
+      },
+      {
+        "title": "Massive DHS data leak exposes 41,000 workers and details of sensitive operations",
+        "outlet": "Cleveland.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE1najBVZElGWjdJVWdtT1h3cnhrMnhVVlNHcVE2LWxuZnREUnJlcEgzeFJDZmpKcS1iQThUNUpNQkN4cVlXNi1FX0lUWHFQb3VjYzlLLUp3VThKekNmRFBfOXRnLU9qc2NJLVhqMEVhR2txXzROVzV3Z0lfOVpCb2U3U3hmMWwtT3c0Y0ZtSkRnbW03TlVSYW9mRzQ5UFl3YW5FanZ6Zk5yMnU3WFRicTZDOUhiYVdQMnRTRTk1UXfSAdQBQVVfeXFMUHRweXdwWmRkWkJiN1hpd0ZISVNocV9xdVBhQkE0REc0aXBRRXRJdExjTjNDR20xR3BvWDVrM0ZYS2JYYk1TUUdNMWV1SGtTYkg0OWJaRl9ESFZWVTJfYUkzLVV2Y0NvaWFsZ1FwSmFkRVhfenYyOHVaX215blZIMnNQaGxrX2t0Z0RLelExdUF0ZTFFdnhrT01IOXJKZE53MHR4X2VrbWQ3bjhiTVB0V0dTVDF2clR3Rjh5WVB4WUd5SkFVQkVDWGRSeEJyczFZQ0J5cF8?oc=5",
+        "published": "2026-10-30T16:16:00Z"
       }
     ]
   },
