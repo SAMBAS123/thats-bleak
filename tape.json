@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-31T13:49:20Z",
+  "as_of": "2026-10-31T18:43:12Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "State Announces Significant Student Data Breach",
-        "outlet": "Alameda Unified School District",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
-        "published": "2026-10-28T23:21:00Z"
-      },
-      {
         "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
         "outlet": "CNBC",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUVkyZ0E5cnhtX09Xb3ZMSnRsNF9zVnNZUlVkRnIwaThrQmk4SjJKaTJBZHVvTXZURzUyck1mWk5vejFNZmF5d25tcmllNkZlbXE0U2g3SDlQVVY3R3dRb1M4ZU5XWjJtajhKMkt5WDc0RlhmODZxOEpwTThwUdIBgwFBVV95cUxOQWs1VUc1V21GaEZ4Q3c2NGJyZkZLWEU5aEpZTVpScUpobXpJVXN4NEtCTV9iTkN6WjRXd3ptYU1BV3RjYWtRNkZBYjlEMEpwWS03MWoxMHl3c0I3Nklnd1FOZFJDUTNzNXNXRGNVTEpMOUE5bm1LcDN1MU1mUE5SN2tMSQ?oc=5",
@@ -107,12 +101,6 @@
         "published": "2026-10-29T19:58:00Z"
       },
       {
-        "title": "At Johns Hopkins, shadow AI use linked to data breach",
-        "outlet": "Healthcare IT News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQi1YbExJVzRSWVhLU1VNNHdVbFYzVGk3aWlMaWlZNGZOalJQbWZIdkU5ZVBFTUsyWXdpRFVJc3RxTFh3bERQU3JlcWd3Qi02ejJzSE1sU3Q3ZGExa1hTMWxkTHpxaUdveXVkcWkyNlF2OGxoTmcwT2lMeEd1YzRMSzJqSGtLT3J0WHhnbg?oc=5",
-        "published": "2026-10-29T15:00:00Z"
-      },
-      {
         "title": "Florida education department says data breach may affect 4.9 million people",
         "outlet": "WPEC",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
@@ -125,10 +113,22 @@
         "published": "2026-10-29T18:13:00Z"
       },
       {
+        "title": "Covenant Health reaches settlement in data breach lawsuit",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcldBZlRxbnltUG5qOVhqV3M2aUlJWGo0eHczd2Zxalcwa0NzQWVyS0NWZ2w5eFdPVFpfeEVGd0VBS0M1OWxmYjV1WklENFEyVGtveDRuQzdjUnNOVkE4TlZPSG53RW1fTnhEUzdha0lIaEZUTWZQVnN2aXNJbEVYdEJ0cU12SWNJVEQ3cHZ6MNIBowFBVV95cUxQMGdtdVU3Q1BuZTloME9zUlhYYlNaM05EckZBSlJTdnFUZU5IVmtFMjlPSUFOWVVuaFdkOFRoZjBqa2NiaEJvaFIxMnNGWDY3ckJaUFp4bHJoZVZyaUdqM2otVjhwZFlnajVSSTVicENSb05LREtQZVFUZXp4UTJaVEdHTWlEX1RMcms4UkdudFFGMnhTRWI1LS0ybWhlLXhQQS1v?oc=5",
+        "published": "2026-10-30T16:54:00Z"
+      },
+      {
         "title": "Moldovan President Calls Security Meeting After Massive Data Breach",
         "outlet": "Radio Free Europe/Radio Liberty",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkpTRVY1YjI4cWFaZFAxWXdaUWhHUXNicGJfbVFnMU1Bd3EzWnVKeHhkOEhVclluSWdZVDkwb1A5dkRwWDY0WXNRa2xmd0g2RHJ6NUxwT1V4aVVwNUp1enNoa1JoMGwzZVlXOFNtQmtIM0FrZG5BSnNqMzZNa2ducDdpS3dmYXBUclHSAYwBQVVfeXFMTzgyd0t2Tm1nRXFPQmpMSDltZ3hVN3pRSFBPU0pMQ1VYSUFlZk1FMDRuTHAzRTN0YkU0dWVjQUtKV3VZbU9wUlRrMklscWRJS09ESllydHBhTXUyVklpNnl2T2FUa3o4M3hGX0E2dk5vOS1DR1pwVHdsdGhjUDU0RXZQMDQ2VmxORjUwbWU?oc=5",
         "published": "2026-10-29T15:55:21Z"
+      },
+      {
+        "title": "Data Breach Hits Operator of South Texas Nuclear Power Plant",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzhwUkZYX3BBMzBvVFluQmJ6bW9yRVpUS05KUnJ2WjNyRENNcTJoUWdpWkpoMDB4d0k3aWVacVBiSmhyZmlEUjhRU2lyeDBteEx0ZUdoYXNDeC1oVm1Dcmp5MjZ4ZHVtdklia25IMlVoekNPSlBzTTZBMUVjSklCeWVGUXowSl93amJ6QkZBWHpjckh3Y2l1Zw?oc=5",
+        "published": "2026-10-30T21:32:30Z"
       }
     ]
   },
