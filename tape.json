@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-31T18:43:12Z",
+  "as_of": "2026-10-31T22:46:11Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,28 +101,28 @@
         "published": "2026-10-29T19:58:00Z"
       },
       {
-        "title": "Florida education department says data breach may affect 4.9 million people",
-        "outlet": "WPEC",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
-        "published": "2026-10-29T17:36:26Z"
-      },
-      {
         "title": "Around 4.9 million people possibly impacted by Florida Student Financial Aid data breach, FLDOE says",
         "outlet": "WCTV",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTdiZFpzOThvNmxXV2lncU5pOUxrR09OMktoWVI1MUtUTDVGaU1LbFRSeTVUVEhjeWFURVJZWFhfVXlsd1BIeFVVdFNyYXlRQUh0QlpUSEJwS3JycnNTU0VYb0RlbnRyelNYSjlDSlRXX05BQlkzaXdzOTVhb3dwbk93MTBUTFdWUjlIeFFiVjZjeUZFakxBU3hnNWVya1pnWXVqanRTWEhEaFlMM0M5UVc1c1B3STdJcnoxd3NBYWhzZ0tZNTZnc19B0gHeAUFVX3lxTE8ySzZIbGpqR2R3a3dWREdBZjBQV3NTaWxxQlpYQTdNZlpTa01sNThQVWpmVTZSaU1fTUowZ0VFaGdQOEVybnQ2SGtkRVgyMmRIQndRejBvMTB3VHhnQ0ZQM0poM0pFbENLS05WM0pTcmx0ckJJdHZCTTRGSWhJOV9DZGhiS01PWk45LWxublMwN0pRUno3UVVFTnB6WEptRm5qVDVVVTJnV3JYdjdMRXFtUTQxdUxSUVZ5Nlo5TEdyS3RoYUkxb1hIZUJGeTE3SFNnYnlmVUNQSERMQmE1UQ?oc=5",
         "published": "2026-10-29T18:13:00Z"
       },
       {
-        "title": "Covenant Health reaches settlement in data breach lawsuit",
-        "outlet": "WABI",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcldBZlRxbnltUG5qOVhqV3M2aUlJWGo0eHczd2Zxalcwa0NzQWVyS0NWZ2w5eFdPVFpfeEVGd0VBS0M1OWxmYjV1WklENFEyVGtveDRuQzdjUnNOVkE4TlZPSG53RW1fTnhEUzdha0lIaEZUTWZQVnN2aXNJbEVYdEJ0cU12SWNJVEQ3cHZ6MNIBowFBVV95cUxQMGdtdVU3Q1BuZTloME9zUlhYYlNaM05EckZBSlJTdnFUZU5IVmtFMjlPSUFOWVVuaFdkOFRoZjBqa2NiaEJvaFIxMnNGWDY3ckJaUFp4bHJoZVZyaUdqM2otVjhwZFlnajVSSTVicENSb05LREtQZVFUZXp4UTJaVEdHTWlEX1RMcms4UkdudFFGMnhTRWI1LS0ybWhlLXhQQS1v?oc=5",
-        "published": "2026-10-30T16:54:00Z"
+        "title": "Florida education department says data breach may affect 4.9 million people",
+        "outlet": "WPEC",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
+        "published": "2026-10-29T17:36:26Z"
       },
       {
         "title": "Moldovan President Calls Security Meeting After Massive Data Breach",
         "outlet": "Radio Free Europe/Radio Liberty",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkpTRVY1YjI4cWFaZFAxWXdaUWhHUXNicGJfbVFnMU1Bd3EzWnVKeHhkOEhVclluSWdZVDkwb1A5dkRwWDY0WXNRa2xmd0g2RHJ6NUxwT1V4aVVwNUp1enNoa1JoMGwzZVlXOFNtQmtIM0FrZG5BSnNqMzZNa2ducDdpS3dmYXBUclHSAYwBQVVfeXFMTzgyd0t2Tm1nRXFPQmpMSDltZ3hVN3pRSFBPU0pMQ1VYSUFlZk1FMDRuTHAzRTN0YkU0dWVjQUtKV3VZbU9wUlRrMklscWRJS09ESllydHBhTXUyVklpNnl2T2FUa3o4M3hGX0E2dk5vOS1DR1pwVHdsdGhjUDU0RXZQMDQ2VmxORjUwbWU?oc=5",
         "published": "2026-10-29T15:55:21Z"
+      },
+      {
+        "title": "Covenant Health reaches settlement in data breach lawsuit",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcldBZlRxbnltUG5qOVhqV3M2aUlJWGo0eHczd2Zxalcwa0NzQWVyS0NWZ2w5eFdPVFpfeEVGd0VBS0M1OWxmYjV1WklENFEyVGtveDRuQzdjUnNOVkE4TlZPSG53RW1fTnhEUzdha0lIaEZUTWZQVnN2aXNJbEVYdEJ0cU12SWNJVEQ3cHZ6MNIBowFBVV95cUxQMGdtdVU3Q1BuZTloME9zUlhYYlNaM05EckZBSlJTdnFUZU5IVmtFMjlPSUFOWVVuaFdkOFRoZjBqa2NiaEJvaFIxMnNGWDY3ckJaUFp4bHJoZVZyaUdqM2otVjhwZFlnajVSSTVicENSb05LREtQZVFUZXp4UTJaVEdHTWlEX1RMcms4UkdudFFGMnhTRWI1LS0ybWhlLXhQQS1v?oc=5",
+        "published": "2026-10-30T16:54:00Z"
       },
       {
         "title": "Data Breach Hits Operator of South Texas Nuclear Power Plant",
