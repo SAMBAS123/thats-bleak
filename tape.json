@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30T21:40:49Z",
+  "as_of": "2026-10-31T01:01:44Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,6 +101,18 @@
         "published": "2026-10-29T15:00:00Z"
       },
       {
+        "title": "Florida education department says data breach may affect 4.9 million people",
+        "outlet": "WPEC",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
+        "published": "2026-10-29T17:36:26Z"
+      },
+      {
+        "title": "Capcom data breach confirmed: More than 11 million accounts impacted",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KWVpwaUY1RnkwaWJwYkVPQVhmbjZTdlVYcTRUdUYxMjVxaVoyUklJM2JrSzI0UkRGbm5KYWJneDRJX0dmNF9LMDNuQ19tdElIcElaUU9TaHZZeURnMm9vMkV2YV9ZaUhfNzQ2TjlMbHlPV3JGbnJTQXBzeHFuamM?oc=5",
+        "published": "2026-10-30T20:55:51Z"
+      },
+      {
         "title": "Moldovan President Calls Security Meeting After Massive Data Breach",
         "outlet": "Radio Free Europe/Radio Liberty",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkpTRVY1YjI4cWFaZFAxWXdaUWhHUXNicGJfbVFnMU1Bd3EzWnVKeHhkOEhVclluSWdZVDkwb1A5dkRwWDY0WXNRa2xmd0g2RHJ6NUxwT1V4aVVwNUp1enNoa1JoMGwzZVlXOFNtQmtIM0FrZG5BSnNqMzZNa2ducDdpS3dmYXBUclHSAYwBQVVfeXFMTzgyd0t2Tm1nRXFPQmpMSDltZ3hVN3pRSFBPU0pMQ1VYSUFlZk1FMDRuTHAzRTN0YkU0dWVjQUtKV3VZbU9wUlRrMklscWRJS09ESllydHBhTXUyVklpNnl2T2FUa3o4M3hGX0E2dk5vOS1DR1pwVHdsdGhjUDU0RXZQMDQ2VmxORjUwbWU?oc=5",
@@ -113,22 +125,10 @@
         "published": "2026-10-29T18:13:00Z"
       },
       {
-        "title": "Florida education department says data breach may affect 4.9 million people",
-        "outlet": "WPEC",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
-        "published": "2026-10-29T17:36:26Z"
-      },
-      {
-        "title": "Florida Education Department reports data breach impacting 4.9M people",
-        "outlet": "wtsp.com",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNURmR3RYMWU4SEJTTHdYNWtGYVNtLTYzTjNqZ0FXNVZGTGlOU2VldWVwMEFxN3VqQXdHamhmOFl4VU5CZFFKTDlmMUtZRm9ZaklZdy1ENlpCZHBKakl2UlB0TVZDNWVoSmpWQUowSDgtbWwtd3RMTV9rNXB2eFlhbUwwMWsxX2cxQjZ6OC1lNEE4R1RhWWxITlFIQkpFVUFxU0hxUUtxc3Bjd2R1Rmk1Uk80MU41TVB5MDM2eXk2MTF6aXFTRlZ6Zzh5d1c1dl9pd3lHSVZHaFVZYzhfaFo4YS1lcVV6dXdWUk0tZVFzd01LMlBmYXhoX3lBVTdrTjhB?oc=5",
-        "published": "2026-10-29T20:27:00Z"
-      },
-      {
-        "title": "Massive DHS data leak exposes 41,000 workers and details of sensitive operations",
-        "outlet": "Cleveland.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE1najBVZElGWjdJVWdtT1h3cnhrMnhVVlNHcVE2LWxuZnREUnJlcEgzeFJDZmpKcS1iQThUNUpNQkN4cVlXNi1FX0lUWHFQb3VjYzlLLUp3VThKekNmRFBfOXRnLU9qc2NJLVhqMEVhR2txXzROVzV3Z0lfOVpCb2U3U3hmMWwtT3c0Y0ZtSkRnbW03TlVSYW9mRzQ5UFl3YW5FanZ6Zk5yMnU3WFRicTZDOUhiYVdQMnRTRTk1UXfSAdQBQVVfeXFMUHRweXdwWmRkWkJiN1hpd0ZISVNocV9xdVBhQkE0REc0aXBRRXRJdExjTjNDR20xR3BvWDVrM0ZYS2JYYk1TUUdNMWV1SGtTYkg0OWJaRl9ESFZWVTJfYUkzLVV2Y0NvaWFsZ1FwSmFkRVhfenYyOHVaX215blZIMnNQaGxrX2t0Z0RLelExdUF0ZTFFdnhrT01IOXJKZE53MHR4X2VrbWQ3bjhiTVB0V0dTVDF2clR3Rjh5WVB4WUd5SkFVQkVDWGRSeEJyczFZQ0J5cF8?oc=5",
-        "published": "2026-10-30T16:16:00Z"
+        "title": "Covenant Health agrees to $2M data breach settlement",
+        "outlet": "WGME",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWVOTjlrblFQbGZlNmFOeWNteTJKVjIwTFhRTW1udTUxb1JQbzRrNlNxYWM2NzN6N3o4VXFkM0dkN3J6WlYyRkdsVHdJcnRkSUdzRTljY2lJWEpaZXUzb0p6YzVoR1c3QUVOS0VSWGlOS25ZczdqbTRxMU5ENE5WNXR6ZlRDQ0hWNVpOc0ZpcEtiYnc3NzFvUkI0VEhSdGhxZGE3TDdQTXhnemdkQWRQQzB4WUVSRVp1U2RNQ01DbkNLQ1NKb1p1Um1WaUZxZw?oc=5",
+        "published": "2026-10-30T15:12:33Z"
       }
     ]
   },
