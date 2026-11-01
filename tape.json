@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-01T16:19:10Z",
+  "as_of": "2026-11-01T20:47:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "State Announces Significant Student Data Breach",
-        "outlet": "Alameda Unified School District",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
-        "published": "2026-10-28T23:21:00Z"
-      },
-      {
         "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
         "outlet": "CNBC",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUVkyZ0E5cnhtX09Xb3ZMSnRsNF9zVnNZUlVkRnIwaThrQmk4SjJKaTJBZHVvTXZURzUyck1mWk5vejFNZmF5d25tcmllNkZlbXE0U2g3SDlQVVY3R3dRb1M4ZU5XWjJtajhKMkt5WDc0RlhmODZxOEpwTThwUdIBgwFBVV95cUxOQWs1VUc1V21GaEZ4Q3c2NGJyZkZLWEU5aEpZTVpScUpobXpJVXN4NEtCTV9iTkN6WjRXd3ptYU1BV3RjYWtRNkZBYjlEMEpwWS03MWoxMHl3c0I3Nklnd1FOZFJDUTNzNXNXRGNVTEpMOUE5bm1LcDN1MU1mUE5SN2tMSQ?oc=5",
@@ -129,6 +123,12 @@
         "outlet": "WABI",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcldBZlRxbnltUG5qOVhqV3M2aUlJWGo0eHczd2Zxalcwa0NzQWVyS0NWZ2w5eFdPVFpfeEVGd0VBS0M1OWxmYjV1WklENFEyVGtveDRuQzdjUnNOVkE4TlZPSG53RW1fTnhEUzdha0lIaEZUTWZQVnN2aXNJbEVYdEJ0cU12SWNJVEQ3cHZ6MNIBowFBVV95cUxQMGdtdVU3Q1BuZTloME9zUlhYYlNaM05EckZBSlJTdnFUZU5IVmtFMjlPSUFOWVVuaFdkOFRoZjBqa2NiaEJvaFIxMnNGWDY3ckJaUFp4bHJoZVZyaUdqM2otVjhwZFlnajVSSTVicENSb05LREtQZVFUZXp4UTJaVEdHTWlEX1RMcms4UkdudFFGMnhTRWI1LS0ybWhlLXhQQS1v?oc=5",
         "published": "2026-10-30T16:54:00Z"
+      },
+      {
+        "title": "Data Breach Hits Operator of South Texas Nuclear Power Plant",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzhwUkZYX3BBMzBvVFluQmJ6bW9yRVpUS05KUnJ2WjNyRENNcTJoUWdpWkpoMDB4d0k3aWVacVBiSmhyZmlEUjhRU2lyeDBteEx0ZUdoYXNDeC1oVm1Dcmp5MjZ4ZHVtdklia25IMlVoekNPSlBzTTZBMUVjSklCeWVGUXowSl93amJ6QkZBWHpjckh3Y2l1Zw?oc=5",
+        "published": "2026-10-30T21:32:30Z"
       }
     ]
   },
