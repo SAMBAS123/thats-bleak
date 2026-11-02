@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-02T08:12:03Z",
+  "as_of": "2026-11-02T18:46:51Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,6 +83,12 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "August 2026 Healthcare Data Breach Report",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01X3YtTWJFSlFsem9IanZaWXBLeERzb1d0Zk1pOVBlLUlxNDBRczJaVUhqc1lmXzdINTd5R0d5MFI3cEIwWDRBYU40UmhlejFWN3oxanRmV1U0bzFwS2JNUjBvbzh0aHpVZHEzNk8wMm8zemlkY3Jhem1mVQ?oc=5",
+        "published": "2026-10-30T17:56:58Z"
+      },
+      {
         "title": "State Announces Significant Student Data Breach",
         "outlet": "Alameda Unified School District",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
@@ -95,10 +101,10 @@
         "published": "2026-10-29T04:29:32Z"
       },
       {
-        "title": "August 2026 Healthcare Data Breach Report",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01X3YtTWJFSlFsem9IanZaWXBLeERzb1d0Zk1pOVBlLUlxNDBRczJaVUhqc1lmXzdINTd5R0d5MFI3cEIwWDRBYU40UmhlejFWN3oxanRmV1U0bzFwS2JNUjBvbzh0aHpVZHEzNk8wMm8zemlkY3Jhem1mVQ?oc=5",
-        "published": "2026-10-30T17:56:58Z"
+        "title": "Revolve Data Breach Impacts at Least 180,000 People",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFZIc1BUbFRCY2RYQWFERDBJU1YxQy0yWHVnOE5OXzVoQlgtZW5kWnhpMndZVEo0Ti1vbVJhdGRvQVpJUHZjdFdWZDdTYVBwRmwySVNHelF1eGhOakRubVlQV29xZFZvYnY5bHpITjhlX09ybEMwVXhCSjJiZDZBQTF3R1NJZGvSAYwBQVVfeXFMUHh0bjJSM0ZxWGxwaXV1bmhPaGJwR1pQeVFtNU1QRnU1a0g5aEtKNWNrMVRFbHczUHB0QTVGZGQ4WUk1Qnd5dTIxMjdlM3g4YW1mRHJpRDB5NktLWEVURm1BT1QwaWNMOVhNdy1MS2JyMVVOdlVRajc0djU4VDQ0aF9KanJQX295dk5JRFY?oc=5",
+        "published": "2026-11-02T13:35:21Z"
       },
       {
         "title": "Florida education data breach could put millions at risk",
@@ -123,12 +129,6 @@
         "outlet": "WABI",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcldBZlRxbnltUG5qOVhqV3M2aUlJWGo0eHczd2Zxalcwa0NzQWVyS0NWZ2w5eFdPVFpfeEVGd0VBS0M1OWxmYjV1WklENFEyVGtveDRuQzdjUnNOVkE4TlZPSG53RW1fTnhEUzdha0lIaEZUTWZQVnN2aXNJbEVYdEJ0cU12SWNJVEQ3cHZ6MNIBowFBVV95cUxQMGdtdVU3Q1BuZTloME9zUlhYYlNaM05EckZBSlJTdnFUZU5IVmtFMjlPSUFOWVVuaFdkOFRoZjBqa2NiaEJvaFIxMnNGWDY3ckJaUFp4bHJoZVZyaUdqM2otVjhwZFlnajVSSTVicENSb05LREtQZVFUZXp4UTJaVEdHTWlEX1RMcms4UkdudFFGMnhTRWI1LS0ybWhlLXhQQS1v?oc=5",
         "published": "2026-10-30T16:54:00Z"
-      },
-      {
-        "title": "Covenant Health agrees to $2M data breach settlement",
-        "outlet": "WGME",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWVOTjlrblFQbGZlNmFOeWNteTJKVjIwTFhRTW1udTUxb1JQbzRrNlNxYWM2NzN6N3o4VXFkM0dkN3J6WlYyRkdsVHdJcnRkSUdzRTljY2lJWEpaZXUzb0p6YzVoR1c3QUVOS0VSWGlOS25ZczdqbTRxMU5ENE5WNXR6ZlRDQ0hWNVpOc0ZpcEtiYnc3NzFvUkI0VEhSdGhxZGE3TDdQTXhnemdkQWRQQzB4WUVSRVp1U2RNQ01DbkNLQ1NKb1p1Um1WaUZxZw?oc=5",
-        "published": "2026-10-30T15:12:33Z"
       }
     ]
   },
