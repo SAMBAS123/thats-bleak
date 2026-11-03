@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T09:58:00Z",
+  "as_of": "2026-11-03T17:59:47Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,22 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "State Announces Significant Student Data Breach",
-        "outlet": "Alameda Unified School District",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
-        "published": "2026-10-28T23:21:00Z"
+        "title": "Florida education data breach could put millions at risk",
+        "outlet": "Tallahassee Democrat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTk5SEJrdFNCZDB5Y0FJeXRILU04VjZLRUNVTU15cnM3c1lNZDdGZ3B3NnR2T0JfemppWWtCdWNrRnl3VUZlTktiSG43eGRiaVBCRm91b05GMS1nOExDSDZpb1VFeG5HeDFpTlg0WE1jX0lYSjk1SllkOWRUME5xQ09uS0Vyc2Q4d1pTYi1aak9laDItZkRvdjh2T093VEtkb2dwbDVuT25IWVh0VklRTU5xUUloSmFGY2hEQ0F6MHNHa2Z4UUE?oc=5",
+        "published": "2026-10-29T19:58:00Z"
       },
       {
-        "title": "August 2026 Healthcare Data Breach Report",
+        "title": "Columbia University Opens Claims for 3.1M Affected by Data Breach",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDVUSW1GUWpoOThRSHlFcXJkMUZ1ZjdmVmNnbUY1ZUhvdW5YWHRfWTNfTkJmcWZHUE9DazRLVDE3RV9YREY3TEcwcGFITERuX0JSRmg5QTZCd295c0dzTUg5WmpoREJQSmNFaHJRa2NBQ25wR0xDaUh3XzlROUNEalFlYzg0eE4tMzBVUy1GTVlld0JHR19BZk5Ld0xRRUVmdTBpRDQ4bjJjTnNKQXc?oc=5",
+        "published": "2026-11-02T22:09:55Z"
+      },
+      {
+        "title": "Cognitive Health Technologies Data Breach Affects 49,500 Individuals",
         "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01X3YtTWJFSlFsem9IanZaWXBLeERzb1d0Zk1pOVBlLUlxNDBRczJaVUhqc1lmXzdINTd5R0d5MFI3cEIwWDRBYU40UmhlejFWN3oxanRmV1U0bzFwS2JNUjBvbzh0aHpVZHEzNk8wMm8zemlkY3Jhem1mVQ?oc=5",
-        "published": "2026-10-30T17:56:58Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5La3pRNlYySUVWN21oUW1aRnFsSXBrNnBxckxKcjBtQjZyR3pCZmVCcU1Hc0pOcGVrU0xJaHJUQzZFeGJ1VTh6RVhSbE85Q1NXbmRRbnNfemY2X2FSYkRuLVNNWk1XUHNDUmdjc0Q2dVhRX0FCUmg3R2ZyZw?oc=5",
+        "published": "2026-11-03T11:04:05Z"
       },
       {
         "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
@@ -101,22 +107,10 @@
         "published": "2026-10-29T04:29:32Z"
       },
       {
-        "title": "Florida education data breach could put millions at risk",
-        "outlet": "Tallahassee Democrat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTk5SEJrdFNCZDB5Y0FJeXRILU04VjZLRUNVTU15cnM3c1lNZDdGZ3B3NnR2T0JfemppWWtCdWNrRnl3VUZlTktiSG43eGRiaVBCRm91b05GMS1nOExDSDZpb1VFeG5HeDFpTlg0WE1jX0lYSjk1SllkOWRUME5xQ09uS0Vyc2Q4d1pTYi1aak9laDItZkRvdjh2T093VEtkb2dwbDVuT25IWVh0VklRTU5xUUloSmFGY2hEQ0F6MHNHa2Z4UUE?oc=5",
-        "published": "2026-10-29T19:58:00Z"
-      },
-      {
-        "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnRoRFlsLUJXNUwxS1B2NnZsVjdnNU1pMzFGN09PWEdtc05MODJPbjBuRElDdGdIQW4zZ2F6ekJPZWhOSkxUSzhNMDQ5cEtOQkx3ZXNwTnBoeFlRS1o0QkZGbU1xZVluMVRxNnhvemlyZ3VWd0VpS201SmgyLTk5WHV1MDhnWTl6cVJaWU4yVlFadng5bzVmSVFYa9IBoAFBVV95cUxNOG1wejljZ0lkbzVPZFNIT3VmTFBtY2I4ZXpNako4d01ZRzZwVV9HdVN1WExuY1QtSnhZYjJIWnA4eHNpUFMyWU81WmJuR1YtSHo4cmYwVHpYNkZPRmY0RUxaMEpkNEhIV2U2MGUxajN6cVZsZDJkeVlVaEVLV2tlX3dDclRULWVzYXRHSDUxSi0xaWowXy1rXzJzcGcwMjU5?oc=5",
-        "published": "2026-11-02T10:27:49Z"
-      },
-      {
-        "title": "Columbia University Opens Claims for 3.1M Affected by Data Breach",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDVUSW1GUWpoOThRSHlFcXJkMUZ1ZjdmVmNnbUY1ZUhvdW5YWHRfWTNfTkJmcWZHUE9DazRLVDE3RV9YREY3TEcwcGFITERuX0JSRmg5QTZCd295c0dzTUg5WmpoREJQSmNFaHJRa2NBQ25wR0xDaUh3XzlROUNEalFlYzg0eE4tMzBVUy1GTVlld0JHR19BZk5Ld0xRRUVmdTBpRDQ4bjJjTnNKQXc?oc=5",
-        "published": "2026-11-02T22:09:55Z"
+        "title": "Around 4.9 million people possibly impacted by Florida Student Financial Aid data breach, FLDOE says",
+        "outlet": "WCTV",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTdiZFpzOThvNmxXV2lncU5pOUxrR09OMktoWVI1MUtUTDVGaU1LbFRSeTVUVEhjeWFURVJZWFhfVXlsd1BIeFVVdFNyYXlRQUh0QlpUSEJwS3JycnNTU0VYb0RlbnRyelNYSjlDSlRXX05BQlkzaXdzOTVhb3dwbk93MTBUTFdWUjlIeFFiVjZjeUZFakxBU3hnNWVya1pnWXVqanRTWEhEaFlMM0M5UVc1c1B3STdJcnoxd3NBYWhzZ0tZNTZnc19B0gHeAUFVX3lxTE8ySzZIbGpqR2R3a3dWREdBZjBQV3NTaWxxQlpYQTdNZlpTa01sNThQVWpmVTZSaU1fTUowZ0VFaGdQOEVybnQ2SGtkRVgyMmRIQndRejBvMTB3VHhnQ0ZQM0poM0pFbENLS05WM0pTcmx0ckJJdHZCTTRGSWhJOV9DZGhiS01PWk45LWxublMwN0pRUno3UVVFTnB6WEptRm5qVDVVVTJnV3JYdjdMRXFtUTQxdUxSUVZ5Nlo5TEdyS3RoYUkxb1hIZUJGeTE3SFNnYnlmVUNQSERMQmE1UQ?oc=5",
+        "published": "2026-10-29T18:13:00Z"
       },
       {
         "title": "Covenant Health reaches settlement in data breach lawsuit",
@@ -129,6 +123,12 @@
         "outlet": "WPEC",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
         "published": "2026-10-29T17:36:26Z"
+      },
+      {
+        "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjR2VllaLXg0U00wSmFFWGNTcERnR3VrT2t3RWdlNDBheGlwUXRaVnNDQnZ5RUZGMUtZX19CaGRUcERVcEs4LTR5SzR4T21uQ3I5QmtNT0FJbjZsTTBpdUoxbk0xMXZzQmpmeUEtVXA4M3F5VDh4bHhkb1RhMnJUdjU1eDk1bjF6dlhHZk12ONIBlAFBVV95cUxNMmR4azlhY2dlWGxjVEpIa3UweHRxbkJyWGIxOHhMS2xLYmcwV1hlb0lnUmVyU3NXWGc5YXlncEZDZGx4Mm9PLXNqNU9tZ2xqeDJnWUJmNDdiMU5pXzhzblB2UV9CX0J2d1dodzduRXduckJHT1NXdWRua3BCbDRmc1NfX19kTEJEckN0Vkd2cWRZR2tt?oc=5",
+        "published": "2026-11-03T14:32:38Z"
       }
     ]
   },
