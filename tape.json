@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T03:10:43Z",
+  "as_of": "2026-11-04T11:29:19Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,10 +83,28 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Update: Millions of AT&T customers eligible for payouts in data breach settlement",
+        "outlet": "KWCH",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDhCVlBtZ0J1Z3NGMHV2SEZLaEJxOU82aHhCQThHd0pNTnhZYjl4OFo1N2tiYTVXYmxrMFdVREZsN1dpMmtUSkstYm1laDhva2FYOUtmYzY0d3ZlRnp4TFpldmV2VXBDb2ZLWXlVd2tXRHdaaGdGX250OElqenBSZXYyR3pCWGJxNW5JVERuZWdwYVhMR0EyckVTU3B3VUZfd2Vrd9IBuAFBVV95cUxQT2JlNW9NeXl4ZEVRWl9zbmMzbXAxbU9zQjJjLW42SGdOSE1NeTBxMF9GUm0xZ2RvSHJlYUVBZHBvNXVsZGwteTladzZiS2lmNHNONHdacHdwRDl4cW5pQ2ZJaktGendSZm84Rm1JUFZiNzZDbmpOY0I5ZXlNZ3dMZ1p6WjlhVU92ZzVkQnlodkhVLWc2dXpqLVpydUxWTmtIM2Ixa0xLVVhyXzRHaHJ5czctY2pEZjlt?oc=5",
+        "published": "2026-10-29T13:02:00Z"
+      },
+      {
+        "title": "4.9M people affected by Florida Department of Education data breach that includes Social Security numbers",
+        "outlet": "WFLA",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHRfOHR5V3NXQWpjWVZPaW9FRFFneW9iOElGVUNsUTh5ZjBEekM1UW9MZFFNd056SXQ1Q3F4eUJRVDQ2Nml3WGtmcmhVTnBocDRjdlY3bWNKVTJrLVI3ZHBQVmVLVHE4cEJwTnRIVU1JTTBEckNUdHc0MVR2S01QSnFra3hsZjVnbUxsRWotbWtPX0lIcUpkRzBUbno5WktIcHdFSWR6OFQwTmpUVHNjN1E4ZE5ZaFN6M3dWTkttTG9JM044N3BfN0o5SVFuOXBOaTJkRWU4QdIB3AFBVV95cUxPaFdScmt2Rko4eFhIZTgxOFdIRHpUTDNVUEZFT3VrUnRiR2lWc1ZpMmE1V1ZEYy1mRU5odWI5REY0RkVvaTRrRWNRbzc4TXotTVhXcFQyc0F2QmNJM3luUTZsZXRUT0t4SEhhR0lRT1RaRlZnYVEzWEp6UWl1a012RUhIV3RDQURJS2lQTkdjVENVTUVCWVdOc3lEaWVncHFoekpqMUE1cGE4NV9qeE15UkVyVkxaRDJ0NGx1LVhad3BaX0dQVHh0aVR6dHZZT29KeGlfVWZvbXlocWhG?oc=5",
+        "published": "2026-10-29T18:21:21Z"
+      },
+      {
         "title": "Multiple class action suits filed over reported J.B. Hunt data breach",
         "outlet": "5newsonline.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUlvUXRHMS1zSnNHQ2k2NF9wQlVxeXhVeVRPRHFvR0xncmdtQkhEZ0VZaUZlWFVRa0Z0VVBqSWF2U0JTR1QzWG5EZDREcVJSMGRrMTlleEsteWRId2N3cGZYbXVfenJXNzdweml4eGZvZmdyT3FzYzViVVYyYnFOVFgwcGd2M292R0lFOFkxc21xWWJ4amV5UDYxVEdSUm5QeFYxVU0zZkJtWDlxQ1BXRUpFaWh3Y25nRl9KQmNUZ3ZGeG5Q?oc=5",
         "published": "2026-10-29T20:50:00Z"
+      },
+      {
+        "title": "State Announces Significant Student Data Breach",
+        "outlet": "Alameda Unified School District",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlFPQ3Z5YkUxbU5wWTFYMVRUa0psMWtVZUR6NFFqYm12X3B5bmtrbGxhUm9oMW9pNENaZUJmU1FIU0VqdWZCbFlrVEhaOWd3blRoaUJUajc3eGhVVDQ0b1ZrNXpLUWppX184VGM3aVlMSWtPUk5DWGlUdVZUbVlNNzUzQTI2OG5jR05KcmtuRGtVVnA1S3g0NGM5Z2ROVDlZaDJ3UmNYNV9VVm9KWUNnRTE0X2RMMU94WnZfOTFZbzNJSWptV1pHN0NjdHdrbXphRDQtMG1nQW8yNEtTTDFyS0o1THo?oc=5",
+        "published": "2026-10-28T23:21:00Z"
       },
       {
         "title": "August 2026 Healthcare Data Breach Report",
@@ -101,34 +119,16 @@
         "published": "2026-10-29T19:58:00Z"
       },
       {
-        "title": "Around 4.9 million people possibly impacted by Florida Student Financial Aid data breach, FLDOE says",
-        "outlet": "WCTV",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTdiZFpzOThvNmxXV2lncU5pOUxrR09OMktoWVI1MUtUTDVGaU1LbFRSeTVUVEhjeWFURVJZWFhfVXlsd1BIeFVVdFNyYXlRQUh0QlpUSEJwS3JycnNTU0VYb0RlbnRyelNYSjlDSlRXX05BQlkzaXdzOTVhb3dwbk93MTBUTFdWUjlIeFFiVjZjeUZFakxBU3hnNWVya1pnWXVqanRTWEhEaFlMM0M5UVc1c1B3STdJcnoxd3NBYWhzZ0tZNTZnc19B0gHeAUFVX3lxTE8ySzZIbGpqR2R3a3dWREdBZjBQV3NTaWxxQlpYQTdNZlpTa01sNThQVWpmVTZSaU1fTUowZ0VFaGdQOEVybnQ2SGtkRVgyMmRIQndRejBvMTB3VHhnQ0ZQM0poM0pFbENLS05WM0pTcmx0ckJJdHZCTTRGSWhJOV9DZGhiS01PWk45LWxublMwN0pRUno3UVVFTnB6WEptRm5qVDVVVTJnV3JYdjdMRXFtUTQxdUxSUVZ5Nlo5TEdyS3RoYUkxb1hIZUJGeTE3SFNnYnlmVUNQSERMQmE1UQ?oc=5",
-        "published": "2026-10-29T18:13:00Z"
+        "title": "Revolve Data Breach Impacts at Least 200,000 People",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFZIc1BUbFRCY2RYQWFERDBJU1YxQy0yWHVnOE5OXzVoQlgtZW5kWnhpMndZVEo0Ti1vbVJhdGRvQVpJUHZjdFdWZDdTYVBwRmwySVNHelF1eGhOakRubVlQV29xZFZvYnY5bHpITjhlX09ybEMwVXhCSjJiZDZBQTF3R1NJZGvSAYwBQVVfeXFMUHh0bjJSM0ZxWGxwaXV1bmhPaGJwR1pQeVFtNU1QRnU1a0g5aEtKNWNrMVRFbHczUHB0QTVGZGQ4WUk1Qnd5dTIxMjdlM3g4YW1mRHJpRDB5NktLWEVURm1BT1QwaWNMOVhNdy1MS2JyMVVOdlVRajc0djU4VDQ0aF9KanJQX295dk5JRFY?oc=5",
+        "published": "2026-11-02T13:35:21Z"
       },
       {
-        "title": "Columbia University Opens Claims for 3.1M Affected by Data Breach",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDVUSW1GUWpoOThRSHlFcXJkMUZ1ZjdmVmNnbUY1ZUhvdW5YWHRfWTNfTkJmcWZHUE9DazRLVDE3RV9YREY3TEcwcGFITERuX0JSRmg5QTZCd295c0dzTUg5WmpoREJQSmNFaHJRa2NBQ25wR0xDaUh3XzlROUNEalFlYzg0eE4tMzBVUy1GTVlld0JHR19BZk5Ld0xRRUVmdTBpRDQ4bjJjTnNKQXc?oc=5",
-        "published": "2026-11-02T22:09:55Z"
-      },
-      {
-        "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-        "outlet": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUVkyZ0E5cnhtX09Xb3ZMSnRsNF9zVnNZUlVkRnIwaThrQmk4SjJKaTJBZHVvTXZURzUyck1mWk5vejFNZmF5d25tcmllNkZlbXE0U2g3SDlQVVY3R3dRb1M4ZU5XWjJtajhKMkt5WDc0RlhmODZxOEpwTThwUdIBgwFBVV95cUxOQWs1VUc1V21GaEZ4Q3c2NGJyZkZLWEU5aEpZTVpScUpobXpJVXN4NEtCTV9iTkN6WjRXd3ptYU1BV3RjYWtRNkZBYjlEMEpwWS03MWoxMHl3c0I3Nklnd1FOZFJDUTNzNXNXRGNVTEpMOUE5bm1LcDN1MU1mUE5SN2tMSQ?oc=5",
-        "published": "2026-10-29T04:29:32Z"
-      },
-      {
-        "title": "Covenant Health reaches settlement in data breach lawsuit",
-        "outlet": "WABI",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcldBZlRxbnltUG5qOVhqV3M2aUlJWGo0eHczd2Zxalcwa0NzQWVyS0NWZ2w5eFdPVFpfeEVGd0VBS0M1OWxmYjV1WklENFEyVGtveDRuQzdjUnNOVkE4TlZPSG53RW1fTnhEUzdha0lIaEZUTWZQVnN2aXNJbEVYdEJ0cU12SWNJVEQ3cHZ6MNIBowFBVV95cUxQMGdtdVU3Q1BuZTloME9zUlhYYlNaM05EckZBSlJTdnFUZU5IVmtFMjlPSUFOWVVuaFdkOFRoZjBqa2NiaEJvaFIxMnNGWDY3ckJaUFp4bHJoZVZyaUdqM2otVjhwZFlnajVSSTVicENSb05LREtQZVFUZXp4UTJaVEdHTWlEX1RMcms4UkdudFFGMnhTRWI1LS0ybWhlLXhQQS1v?oc=5",
-        "published": "2026-10-30T16:54:00Z"
-      },
-      {
-        "title": "Florida education department says data breach may affect 4.9 million people",
-        "outlet": "WPEC",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1ozYmdjYWZTdkFodWVEbG8zSEt2cnhuQkJadjRJU2xrV3A0YWdTcFE3emdiejFWT0pudXAyT3lrTUYzcFpJRzlXNTN1Q20zT3Z6Z0JfOFdzdFV0bVI4UG9ySGFkS3llMmZkcEZEMkwwN1R3ZXI1Sko4S2NtckpEbktzdjJLZ09SOURqUXp3Y0NjQ2xUb3RzRWxMczdIVnlyR2ZwaUYwVF9NU2xiMzZnN2N1U0lWQzlKNHZQMlgzZXdmVGJoTFIwQmt0WVJlR3B5V3ZMOC1QVGlWc0wwVlVOX0E2X202OFJDOGdOeVZKRGFRS1hLa25OQUl4VHQtazF2SHRBTnlxMElZcjFlVS03ODlYLXFyT0xsMmFKeVhXZWx0eXB0ZVhidEtlTFZ2SUs0YVhIZm5wM01HMHh3dWRLVnk1QWFKUTRmLWx5OTA0SlNKNnJv?oc=5",
-        "published": "2026-10-29T17:36:26Z"
+        "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
+        "outlet": "Politico",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9xUjVNc3RSQm0zSVFQRllfQkM2bG9yTDlhYVJwNEw4elA1VGNCRE5kU1lORjdTMUpGbVpMd19QczAzcnZqTl9ndnF1czN6SkJhbjAzWTc4YlBfSzRuU2Rrb0Y2Ymg3VlRoUXViWGZ5aEVWZ2ZUTjlfUUVueVU4eEVUQlh2QjZLcGg3Yw?oc=5",
+        "published": "2026-11-03T20:29:00Z"
       }
     ]
   },
