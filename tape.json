@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T15:45:19Z",
+  "as_of": "2026-11-05T22:13:28Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,34 +83,16 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "4.9M people affected by Florida Department of Education data breach that includes Social Security numbers",
-        "outlet": "WFLA",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHRfOHR5V3NXQWpjWVZPaW9FRFFneW9iOElGVUNsUTh5ZjBEekM1UW9MZFFNd056SXQ1Q3F4eUJRVDQ2Nml3WGtmcmhVTnBocDRjdlY3bWNKVTJrLVI3ZHBQVmVLVHE4cEJwTnRIVU1JTTBEckNUdHc0MVR2S01QSnFra3hsZjVnbUxsRWotbWtPX0lIcUpkRzBUbno5WktIcHdFSWR6OFQwTmpUVHNjN1E4ZE5ZaFN6M3dWTkttTG9JM044N3BfN0o5SVFuOXBOaTJkRWU4QdIB3AFBVV95cUxPaFdScmt2Rko4eFhIZTgxOFdIRHpUTDNVUEZFT3VrUnRiR2lWc1ZpMmE1V1ZEYy1mRU5odWI5REY0RkVvaTRrRWNRbzc4TXotTVhXcFQyc0F2QmNJM3luUTZsZXRUT0t4SEhhR0lRT1RaRlZnYVEzWEp6UWl1a012RUhIV3RDQURJS2lQTkdjVENVTUVCWVdOc3lEaWVncHFoekpqMUE1cGE4NV9qeE15UkVyVkxaRDJ0NGx1LVhad3BaX0dQVHh0aVR6dHZZT29KeGlfVWZvbXlocWhG?oc=5",
-        "published": "2026-10-29T18:21:21Z"
-      },
-      {
-        "title": "Multiple class action suits filed over reported J.B. Hunt data breach",
-        "outlet": "5newsonline.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUlvUXRHMS1zSnNHQ2k2NF9wQlVxeXhVeVRPRHFvR0xncmdtQkhEZ0VZaUZlWFVRa0Z0VVBqSWF2U0JTR1QzWG5EZDREcVJSMGRrMTlleEsteWRId2N3cGZYbXVfenJXNzdweml4eGZvZmdyT3FzYzViVVYyYnFOVFgwcGd2M292R0lFOFkxc21xWWJ4amV5UDYxVEdSUm5QeFYxVU0zZkJtWDlxQ1BXRUpFaWh3Y25nRl9KQmNUZ3ZGeG5Q?oc=5",
-        "published": "2026-10-29T20:50:00Z"
-      },
-      {
-        "title": "August 2026 Healthcare Data Breach Report",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01X3YtTWJFSlFsem9IanZaWXBLeERzb1d0Zk1pOVBlLUlxNDBRczJaVUhqc1lmXzdINTd5R0d5MFI3cEIwWDRBYU40UmhlejFWN3oxanRmV1U0bzFwS2JNUjBvbzh0aHpVZHEzNk8wMm8zemlkY3Jhem1mVQ?oc=5",
-        "published": "2026-10-30T17:56:58Z"
-      },
-      {
         "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjR2VllaLXg0U00wSmFFWGNTcERnR3VrT2t3RWdlNDBheGlwUXRaVnNDQnZ5RUZGMUtZX19CaGRUcERVcEs4LTR5SzR4T21uQ3I5QmtNT0FJbjZsTTBpdUoxbk0xMXZzQmpmeUEtVXA4M3F5VDh4bHhkb1RhMnJUdjU1eDk1bjF6dlhHZk12ONIBlAFBVV95cUxNMmR4azlhY2dlWGxjVEpIa3UweHRxbkJyWGIxOHhMS2xLYmcwV1hlb0lnUmVyU3NXWGc5YXlncEZDZGx4Mm9PLXNqNU9tZ2xqeDJnWUJmNDdiMU5pXzhzblB2UV9CX0J2d1dodzduRXduckJHT1NXdWRua3BCbDRmc1NfX19kTEJEckN0Vkd2cWRZR2tt?oc=5",
         "published": "2026-11-03T14:32:38Z"
       },
       {
-        "title": "Florida education data breach could put millions at risk",
-        "outlet": "Tallahassee Democrat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTk5SEJrdFNCZDB5Y0FJeXRILU04VjZLRUNVTU15cnM3c1lNZDdGZ3B3NnR2T0JfemppWWtCdWNrRnl3VUZlTktiSG43eGRiaVBCRm91b05GMS1nOExDSDZpb1VFeG5HeDFpTlg0WE1jX0lYSjk1SllkOWRUME5xQ09uS0Vyc2Q4d1pTYi1aak9laDItZkRvdjh2T093VEtkb2dwbDVuT25IWVh0VklRTU5xUUloSmFGY2hEQ0F6MHNHa2Z4UUE?oc=5",
-        "published": "2026-10-29T19:58:00Z"
+        "title": "Cognitive Health Technologies Data Breach Affects 49,500 Individuals",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5La3pRNlYySUVWN21oUW1aRnFsSXBrNnBxckxKcjBtQjZyR3pCZmVCcU1Hc0pOcGVrU0xJaHJUQzZFeGJ1VTh6RVhSbE85Q1NXbmRRbnNfemY2X2FSYkRuLVNNWk1XUHNDUmdjc0Q2dVhRX0FCUmg3R2ZyZw?oc=5",
+        "published": "2026-11-03T11:04:05Z"
       },
       {
         "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
@@ -129,6 +111,24 @@
         "outlet": "YourCentralValley.com",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHN4Z3pJc0lVMV9YV2F0VHRSbll0NUpQTFJRTTA3MmhzZzRiRnljRHM4UVpKaW1rYzJ2eEFxNk5TdkxmZGtrNnZrNndpMUxpYklWVUdiczFlUlFpbnZCR3pLdjVyeEMzeV81aVFzX2VTYWt3M210bjJHNXpNcjVteXpDZVFKWk1u0gGOAUFVX3lxTE92OWtseHFMbGhveklack8tZFRnNEtTM1VWQjVZUEJFcGF5YkkxWFpMUUtpWW55am5ma2plME1yUXlvNEhIRkFsNDhfRlFFUjZPdkJ2Z29YcmMtWlZrNUtTczVwWXdZNWdYOFVFVmZrM01qcjhwNlVwNmNQOEJVcXdxNUc2allGcWU4NUliQkE?oc=5",
         "published": "2026-10-30T19:43:17Z"
+      },
+      {
+        "title": "Massive DHS data leak exposes 41,000 workers and details of sensitive operations",
+        "outlet": "Cleveland.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE1najBVZElGWjdJVWdtT1h3cnhrMnhVVlNHcVE2LWxuZnREUnJlcEgzeFJDZmpKcS1iQThUNUpNQkN4cVlXNi1FX0lUWHFQb3VjYzlLLUp3VThKekNmRFBfOXRnLU9qc2NJLVhqMEVhR2txXzROVzV3Z0lfOVpCb2U3U3hmMWwtT3c0Y0ZtSkRnbW03TlVSYW9mRzQ5UFl3YW5FanZ6Zk5yMnU3WFRicTZDOUhiYVdQMnRTRTk1UXfSAdQBQVVfeXFMUHRweXdwWmRkWkJiN1hpd0ZISVNocV9xdVBhQkE0REc0aXBRRXRJdExjTjNDR20xR3BvWDVrM0ZYS2JYYk1TUUdNMWV1SGtTYkg0OWJaRl9ESFZWVTJfYUkzLVV2Y0NvaWFsZ1FwSmFkRVhfenYyOHVaX215blZIMnNQaGxrX2t0Z0RLelExdUF0ZTFFdnhrT01IOXJKZE53MHR4X2VrbWQ3bjhiTVB0V0dTVDF2clR3Rjh5WVB4WUd5SkFVQkVDWGRSeEJyczFZQ0J5cF8?oc=5",
+        "published": "2026-10-30T16:16:00Z"
+      },
+      {
+        "title": "Revolve data breach exposed shoppers' saved card numbers and expiration dates",
+        "outlet": "KCCI",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHc2QWNxNHowem9PMEJKUWRCM0NWcmNqbFRNcExJUDY0ZDRQOFkzQkk0RHRtMGI4blNRSnBCcEZjYWhYb2VYODkzb1VOVU1jRG53OVp1clJzM180MUxSSldrU2NoSHdVQWZKOFpWM2tmLXhzb0JLNVBTWGFpQk1XWWItZUpQM0N6SzU5a1VyY3BQeXdOelhiMG9ONFd2Q0NmVVl4ZEs1UUhYU0c5N1p4cEpSWGE?oc=5",
+        "published": "2026-11-04T20:01:00Z"
+      },
+      {
+        "title": "GTA 6 Leak 13: Beach Clip to Prologue, 18 Days Out [2026]",
+        "outlet": "https://tech-insider.org/",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEtFdWh6d2doQWdpT2t2Y2I2b0RIeGlmOUQxNVg4cTRXeVF2X0Q5dmxVY0J3YVpDNXNjX01wWE9hV2d4WmV1TkF5RGZpeTgwQmRPNmlJZHM0aW9TNE12V0dUSG9UUGZHanR3NWREU0FQZl9vZWhmTzZ1NERSSjVqNzhDLTI4anFvZXd2TmF1cFk?oc=5",
+        "published": "2026-11-01T13:41:16Z"
       }
     ]
   },
