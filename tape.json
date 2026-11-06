@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T18:21:18Z",
+  "as_of": "2026-11-06T23:28:20Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 296955701,
     "added_2026": 114,
     "added_7d": 1,
-    "added_30d": 8,
+    "added_30d": 7,
     "latest": [
       {
         "name": "Harvard",
@@ -83,22 +83,28 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "August 2026 Healthcare Data Breach Report",
+        "title": "Arlington ISD personnel information affected by third-party national data breach",
+        "outlet": "Fort Worth Report",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazhsaEFONE1sQUtZSDA2WHQtY21nQ2NYams2cFBHRnVvbUJPSEpYd3VreGhHaWZFNmIxM0Z1ZXc2cURNS21RQmhlVFNKVHNoa3dGd1UtdHFQZE9OS3laWWtSeF80SnhJRWZ0ZWVxMDdUc21RRG9XekFSUXRqa3VFUGpRTnNfeUx6c3FnTmRVRXI5cDNpVEdXWEYwS01VVldGRVhGRXd3MkZ0cGdjaXZvcDBCUGEycmwzZTNmeg?oc=5",
+        "published": "2026-11-06T19:09:14Z"
+      },
+      {
+        "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjR2VllaLXg0U00wSmFFWGNTcERnR3VrT2t3RWdlNDBheGlwUXRaVnNDQnZ5RUZGMUtZX19CaGRUcERVcEs4LTR5SzR4T21uQ3I5QmtNT0FJbjZsTTBpdUoxbk0xMXZzQmpmeUEtVXA4M3F5VDh4bHhkb1RhMnJUdjU1eDk1bjF6dlhHZk12ONIBlAFBVV95cUxNMmR4azlhY2dlWGxjVEpIa3UweHRxbkJyWGIxOHhMS2xLYmcwV1hlb0lnUmVyU3NXWGc5YXlncEZDZGx4Mm9PLXNqNU9tZ2xqeDJnWUJmNDdiMU5pXzhzblB2UV9CX0J2d1dodzduRXduckJHT1NXdWRua3BCbDRmc1NfX19kTEJEckN0Vkd2cWRZR2tt?oc=5",
+        "published": "2026-11-03T14:32:38Z"
+      },
+      {
+        "title": "Cognitive Health Technologies Data Breach Affects 49,500 Individuals",
         "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01X3YtTWJFSlFsem9IanZaWXBLeERzb1d0Zk1pOVBlLUlxNDBRczJaVUhqc1lmXzdINTd5R0d5MFI3cEIwWDRBYU40UmhlejFWN3oxanRmV1U0bzFwS2JNUjBvbzh0aHpVZHEzNk8wMm8zemlkY3Jhem1mVQ?oc=5",
-        "published": "2026-10-30T17:56:58Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5La3pRNlYySUVWN21oUW1aRnFsSXBrNnBxckxKcjBtQjZyR3pCZmVCcU1Hc0pOcGVrU0xJaHJUQzZFeGJ1VTh6RVhSbE85Q1NXbmRRbnNfemY2X2FSYkRuLVNNWk1XUHNDUmdjc0Q2dVhRX0FCUmg3R2ZyZw?oc=5",
+        "published": "2026-11-03T11:04:05Z"
       },
       {
         "title": "JCPS says data breach potentially impacted more than 37,000 current, former employees",
         "outlet": "WDRB",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEtzSVFzSXpjbk9BNVdSRHZBNE1CdGxncFBlWVprclRhY0NQdERBbzdocndVTEF5aTVwdDhNdE0tRGJvaU4tcERCLWN2TUw4RHR2ZE1XSzdYcWI2NlhnZGNYUzZpa0FjZENGVUFBNFI5Ni1ONXdIdXNua3pPTEVwUDdOdTY0U2dxdGRDcVhVQjJOYWFCWmY4aHdTZnVFZTFrV3lEOTFFdzBzb2lQQTF4dHdoX1NrVUNBVUhpadIB0AFBVV95cUxPSlRvcVVZVkxDazFNQlEzTk1OZkVVMTNJMlExTXAyTnNBUlVvcUlYSGdkY2FXZE5WRmFxa1ZNTjlueHh1clEyYmpTbGtsYlZQLWJUT2hvZ19pa1UtdG1TMlRjVUV2dFlrcVc0UEY2SmtaNGNFVF9xUTZENElUajUzWllrNjNrdmRIXzBiVkJGSzdCc0ZhbHpLNTJ0QmJuYmJkbXhCa1RCRFhNR09nNTlGQWo3c1dGU2U4TE9uWU9TV2lCY1NKcVh4OHV2NWU5cWhV?oc=5",
         "published": "2026-11-04T21:57:00Z"
-      },
-      {
-        "title": "Revolve Data Breach Impacts at Least 200,000 People",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFZIc1BUbFRCY2RYQWFERDBJU1YxQy0yWHVnOE5OXzVoQlgtZW5kWnhpMndZVEo0Ti1vbVJhdGRvQVpJUHZjdFdWZDdTYVBwRmwySVNHelF1eGhOakRubVlQV29xZFZvYnY5bHpITjhlX09ybEMwVXhCSjJiZDZBQTF3R1NJZGvSAYwBQVVfeXFMUHh0bjJSM0ZxWGxwaXV1bmhPaGJwR1pQeVFtNU1QRnU1a0g5aEtKNWNrMVRFbHczUHB0QTVGZGQ4WUk1Qnd5dTIxMjdlM3g4YW1mRHJpRDB5NktLWEVURm1BT1QwaWNMOVhNdy1MS2JyMVVOdlVRajc0djU4VDQ0aF9KanJQX295dk5JRFY?oc=5",
-        "published": "2026-11-02T13:35:21Z"
       },
       {
         "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
@@ -119,16 +125,10 @@
         "published": "2026-11-04T15:40:42Z"
       },
       {
-        "title": "Data breach could affect all California students enrolled since 2023, state warns",
-        "outlet": "YourCentralValley.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHN4Z3pJc0lVMV9YV2F0VHRSbll0NUpQTFJRTTA3MmhzZzRiRnljRHM4UVpKaW1rYzJ2eEFxNk5TdkxmZGtrNnZrNndpMUxpYklWVUdiczFlUlFpbnZCR3pLdjVyeEMzeV81aVFzX2VTYWt3M210bjJHNXpNcjVteXpDZVFKWk1u0gGOAUFVX3lxTE92OWtseHFMbGhveklack8tZFRnNEtTM1VWQjVZUEJFcGF5YkkxWFpMUUtpWW55am5ma2plME1yUXlvNEhIRkFsNDhfRlFFUjZPdkJ2Z29YcmMtWlZrNUtTczVwWXdZNWdYOFVFVmZrM01qcjhwNlVwNmNQOEJVcXdxNUc2allGcWU4NUliQkE?oc=5",
-        "published": "2026-10-30T19:43:17Z"
-      },
-      {
-        "title": "GTA 6 Leak 13: Beach Gameplay and Prologue Spoilers [2026]",
+        "title": "GTA 6 Leak 13: Beach Clip to Prologue, 13 Days Out [2026]",
         "outlet": "https://tech-insider.org/",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEtFdWh6d2doQWdpT2t2Y2I2b0RIeGlmOUQxNVg4cTRXeVF2X0Q5dmxVY0J3YVpDNXNjX01wWE9hV2d4WmV1TkF5RGZpeTgwQmRPNmlJZHM0aW9TNE12V0dUSG9UUGZHanR3NWREU0FQZl9vZWhmTzZ1NERSSjVqNzhDLTI4anFvZXd2TmF1cFk?oc=5",
-        "published": "2026-11-01T13:41:16Z"
+        "published": "2026-11-02T00:49:36Z"
       }
     ]
   },
