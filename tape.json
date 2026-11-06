@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T02:46:30Z",
+  "as_of": "2026-11-06T11:25:14Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 296955701,
     "added_2026": 114,
     "added_7d": 1,
-    "added_30d": 10,
+    "added_30d": 8,
     "latest": [
       {
         "name": "Harvard",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjR2VllaLXg0U00wSmFFWGNTcERnR3VrT2t3RWdlNDBheGlwUXRaVnNDQnZ5RUZGMUtZX19CaGRUcERVcEs4LTR5SzR4T21uQ3I5QmtNT0FJbjZsTTBpdUoxbk0xMXZzQmpmeUEtVXA4M3F5VDh4bHhkb1RhMnJUdjU1eDk1bjF6dlhHZk12ONIBlAFBVV95cUxNMmR4azlhY2dlWGxjVEpIa3UweHRxbkJyWGIxOHhMS2xLYmcwV1hlb0lnUmVyU3NXWGc5YXlncEZDZGx4Mm9PLXNqNU9tZ2xqeDJnWUJmNDdiMU5pXzhzblB2UV9CX0J2d1dodzduRXduckJHT1NXdWRua3BCbDRmc1NfX19kTEJEckN0Vkd2cWRZR2tt?oc=5",
-        "published": "2026-11-03T14:32:38Z"
-      },
-      {
         "title": "August 2026 Healthcare Data Breach Report",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01X3YtTWJFSlFsem9IanZaWXBLeERzb1d0Zk1pOVBlLUlxNDBRczJaVUhqc1lmXzdINTd5R0d5MFI3cEIwWDRBYU40UmhlejFWN3oxanRmV1U0bzFwS2JNUjBvbzh0aHpVZHEzNk8wMm8zemlkY3Jhem1mVQ?oc=5",
@@ -101,10 +95,22 @@
         "published": "2026-11-04T21:57:00Z"
       },
       {
+        "title": "Revolve Data Breach Impacts at Least 200,000 People",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFZIc1BUbFRCY2RYQWFERDBJU1YxQy0yWHVnOE5OXzVoQlgtZW5kWnhpMndZVEo0Ti1vbVJhdGRvQVpJUHZjdFdWZDdTYVBwRmwySVNHelF1eGhOakRubVlQV29xZFZvYnY5bHpITjhlX09ybEMwVXhCSjJiZDZBQTF3R1NJZGvSAYwBQVVfeXFMUHh0bjJSM0ZxWGxwaXV1bmhPaGJwR1pQeVFtNU1QRnU1a0g5aEtKNWNrMVRFbHczUHB0QTVGZGQ4WUk1Qnd5dTIxMjdlM3g4YW1mRHJpRDB5NktLWEVURm1BT1QwaWNMOVhNdy1MS2JyMVVOdlVRajc0djU4VDQ0aF9KanJQX295dk5JRFY?oc=5",
+        "published": "2026-11-02T13:35:21Z"
+      },
+      {
         "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
         "outlet": "Politico",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9xUjVNc3RSQm0zSVFQRllfQkM2bG9yTDlhYVJwNEw4elA1VGNCRE5kU1lORjdTMUpGbVpMd19QczAzcnZqTl9ndnF1czN6SkJhbjAzWTc4YlBfSzRuU2Rrb0Y2Ymg3VlRoUXViWGZ5aEVWZ2ZUTjlfUUVueVU4eEVUQlh2QjZLcGg3Yw?oc=5",
         "published": "2026-11-03T20:29:00Z"
+      },
+      {
+        "title": "Palm Vascular Centers Data Breach? Attorneys Investigate Reports",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZib0ZrVTBHZ2UyblNWNW5pSUwyYUE0a3hjR3dXMERHRXV3VHNHNWhmcGZXS2F3QlVib1lnallLVXNyT25FOVNQSVJMZnplRVlDd0Ezb1VMZ1ZxM2R1bm8xVkxlYVR5dDE4cWhmazJqTGs3aS1NNWkwSHpFNGRVWTZqVGUwdEd0b09GaQ?oc=5",
+        "published": "2026-11-04T15:40:42Z"
       },
       {
         "title": "Data breach could affect all California students enrolled since 2023, state warns",
@@ -117,12 +123,6 @@
         "outlet": "Cleveland.com",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE1najBVZElGWjdJVWdtT1h3cnhrMnhVVlNHcVE2LWxuZnREUnJlcEgzeFJDZmpKcS1iQThUNUpNQkN4cVlXNi1FX0lUWHFQb3VjYzlLLUp3VThKekNmRFBfOXRnLU9qc2NJLVhqMEVhR2txXzROVzV3Z0lfOVpCb2U3U3hmMWwtT3c0Y0ZtSkRnbW03TlVSYW9mRzQ5UFl3YW5FanZ6Zk5yMnU3WFRicTZDOUhiYVdQMnRTRTk1UXfSAdQBQVVfeXFMUHRweXdwWmRkWkJiN1hpd0ZISVNocV9xdVBhQkE0REc0aXBRRXRJdExjTjNDR20xR3BvWDVrM0ZYS2JYYk1TUUdNMWV1SGtTYkg0OWJaRl9ESFZWVTJfYUkzLVV2Y0NvaWFsZ1FwSmFkRVhfenYyOHVaX215blZIMnNQaGxrX2t0Z0RLelExdUF0ZTFFdnhrT01IOXJKZE53MHR4X2VrbWQ3bjhiTVB0V0dTVDF2clR3Rjh5WVB4WUd5SkFVQkVDWGRSeEJyczFZQ0J5cF8?oc=5",
         "published": "2026-10-30T16:16:00Z"
-      },
-      {
-        "title": "Prairie Ridge Integrated Behavioral Healthcare Data Breach?",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRExtck53SF9fUkp5a2NXdTY3dVNUNGtUMEFVQmlJNXY5dXJDdjFOOTJZd0pHdzV0b0thSUY2LVY3dURtTF8zVmxhX2VJbEo0amNKTmY3OWV5bVhJMHUyNXpoZUFVMDhlMGNueVlKT0lJU0x5TXFXblpfRVFQd1JuTjd2N3hXRXZsdUtyVFp5dFhudmQtbVdxYVlzWHVLTEFMTWNmUW9uZFB2Nkd3UEE?oc=5",
-        "published": "2026-11-05T17:02:51Z"
       },
       {
         "title": "Revolve data breach exposed shoppers' saved card numbers and expiration dates",
