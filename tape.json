@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-08T06:37:37Z",
+  "as_of": "2026-11-08T13:48:52Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 296955701,
     "added_2026": 114,
     "added_7d": 1,
-    "added_30d": 7,
+    "added_30d": 6,
     "latest": [
       {
         "name": "Harvard",
@@ -95,10 +95,10 @@
         "published": "2026-11-06T14:00:07Z"
       },
       {
-        "title": "Frontline Education Data Breach: Got a Cyberscout Letter?",
-        "outlet": "McAfee",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlQ5WV95elZPdlZ3N3JLdkpNUkdPWWtWLWlpZGVOZ2JIbk54aktkZl92Rkw1d014eEFXTkxUU1ZFWUttQkxReXoxZEUwXzhiVUxoaGU4NVdHNG1Vem1fbkdhdVVuVmJ3QmdYbXdCVUtDRVB6V2pYSGNOSGNNdnQwSg?oc=5",
-        "published": "2026-11-05T08:00:00Z"
+        "title": "JCPS says data breach potentially impacted more than 37,000 current, former employees",
+        "outlet": "WDRB",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEtzSVFzSXpjbk9BNVdSRHZBNE1CdGxncFBlWVprclRhY0NQdERBbzdocndVTEF5aTVwdDhNdE0tRGJvaU4tcERCLWN2TUw4RHR2ZE1XSzdYcWI2NlhnZGNYUzZpa0FjZENGVUFBNFI5Ni1ONXdIdXNua3pPTEVwUDdOdTY0U2dxdGRDcVhVQjJOYWFCWmY4aHdTZnVFZTFrV3lEOTFFdzBzb2lQQTF4dHdoX1NrVUNBVUhpadIB0AFBVV95cUxPSlRvcVVZVkxDazFNQlEzTk1OZkVVMTNJMlExTXAyTnNBUlVvcUlYSGdkY2FXZE5WRmFxa1ZNTjlueHh1clEyYmpTbGtsYlZQLWJUT2hvZ19pa1UtdG1TMlRjVUV2dFlrcVc0UEY2SmtaNGNFVF9xUTZENElUajUzWllrNjNrdmRIXzBiVkJGSzdCc0ZhbHpLNTJ0QmJuYmJkbXhCa1RCRFhNR09nNTlGQWo3c1dGU2U4TE9uWU9TV2lCY1NKcVh4OHV2NWU5cWhV?oc=5",
+        "published": "2026-11-04T21:57:00Z"
       },
       {
         "title": "Cognitive Health Technologies Data Breach Affects 49,500 Individuals",
@@ -125,10 +125,10 @@
         "published": "2026-11-02T06:07:11Z"
       },
       {
-        "title": "Community Medical Center, Falls City Data Breach?",
+        "title": "HCA Healthcare Data Breach Exposes SSNs; Affects Thousands",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOUVRSkF0aHpubnRNYnk5TW9KUmZPM2pIZGRmOUdjRURkOGl0U21mbU8xejZValYza0FzdnNheDNOQjNJVmFuY1BTRWlVMUg4TDZ5QWFUUjlQXzlrd1VocmFnTUowUnZGTkw4b3l5ZHN6UkEyVFRiakdCVzEyY29BNmVEOHJobUZyc0RVdjBsOVhxb1FUamN0WVRGaW1VcGlnVHkxT2FlbnA5Zw?oc=5",
-        "published": "2026-11-03T15:04:52Z"
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDE1dC15Y05Wc1o0UVh6RmM1QmJYRXgtQVE5T2lySjVWaGdfby03YVpqd09BSXBzMkI3RS1BZlhaUm1VbWx2LUFnRFlETXdWN19YQmExREtjZ1Fiak56djF2TkFRakJhc3BxbUNFLTI4X0ZFbElQTXVlbEFHUllucnl3?oc=5",
+        "published": "2026-11-04T20:25:01Z"
       }
     ]
   },
