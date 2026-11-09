@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-09T02:55:41Z",
+  "as_of": "2026-11-09T12:01:32Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,12 +89,6 @@
         "published": "2026-11-06T19:09:43Z"
       },
       {
-        "title": "DigiCert Data Breach Impacts Business Customer Information",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPell4QlpibC0zZTcyaFVSWGJkbFk5VEtwQWFLRVZmeFFiMkM1UzNRYmZMeWExNzR1T1J6V20zSVdUR1B3VzRCLVJWRmZQQjVBYTNxOERoeWVIQktJUGI4Sm1ZVkFEMjV5NVlIT1dsR095R0xCbEh3NXRsRkhBbUltRkpXMHUwYXRjdjVUbWN3ZDFhUQ?oc=5",
-        "published": "2026-11-06T14:00:07Z"
-      },
-      {
         "title": "Frontline Education Data Breach: Got a Cyberscout Letter?",
         "outlet": "McAfee",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlQ5WV95elZPdlZ3N3JLdkpNUkdPWWtWLWlpZGVOZ2JIbk54aktkZl92Rkw1d014eEFXTkxUU1ZFWUttQkxReXoxZEUwXzhiVUxoaGU4NVdHNG1Vem1fbkdhdVVuVmJ3QmdYbXdCVUtDRVB6V2pYSGNOSGNNdnQwSg?oc=5",
@@ -113,6 +107,12 @@
         "published": "2026-11-03T11:04:05Z"
       },
       {
+        "title": "DigiCert Data Breach Impacts Business Customer Information",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPell4QlpibC0zZTcyaFVSWGJkbFk5VEtwQWFLRVZmeFFiMkM1UzNRYmZMeWExNzR1T1J6V20zSVdUR1B3VzRCLVJWRmZQQjVBYTNxOERoeWVIQktJUGI4Sm1ZVkFEMjV5NVlIT1dsR095R0xCbEh3NXRsRkhBbUltRkpXMHUwYXRjdjVUbWN3ZDFhUQ?oc=5",
+        "published": "2026-11-06T14:00:07Z"
+      },
+      {
         "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
         "outlet": "Politico",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9xUjVNc3RSQm0zSVFQRllfQkM2bG9yTDlhYVJwNEw4elA1VGNCRE5kU1lORjdTMUpGbVpMd19QczAzcnZqTl9ndnF1czN6SkJhbjAzWTc4YlBfSzRuU2Rrb0Y2Ymg3VlRoUXViWGZ5aEVWZ2ZUTjlfUUVueVU4eEVUQlh2QjZLcGg3Yw?oc=5",
@@ -125,10 +125,10 @@
         "published": "2026-11-04T20:01:00Z"
       },
       {
-        "title": "HCA Healthcare Data Breach Exposes SSNs; Affects Thousands",
+        "title": "Palm Vascular Centers Data Breach? Attorneys Investigate Reports",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDE1dC15Y05Wc1o0UVh6RmM1QmJYRXgtQVE5T2lySjVWaGdfby03YVpqd09BSXBzMkI3RS1BZlhaUm1VbWx2LUFnRFlETXdWN19YQmExREtjZ1Fiak56djF2TkFRakJhc3BxbUNFLTI4X0ZFbElQTXVlbEFHUllucnl3?oc=5",
-        "published": "2026-11-04T20:25:01Z"
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZib0ZrVTBHZ2UyblNWNW5pSUwyYUE0a3hjR3dXMERHRXV3VHNHNWhmcGZXS2F3QlVib1lnallLVXNyT25FOVNQSVJMZnplRVlDd0Ezb1VMZ1ZxM2R1bm8xVkxlYVR5dDE4cWhmazJqTGs3aS1NNWkwSHpFNGRVWTZqVGUwdEd0b09GaQ?oc=5",
+        "published": "2026-11-04T15:40:42Z"
       }
     ]
   },
