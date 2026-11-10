@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-10T04:17:33Z",
+  "as_of": "2026-11-10T12:55:08Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 91,
     "pwn_2026": 296955701,
     "added_2026": 114,
-    "added_7d": 1,
+    "added_7d": 0,
     "added_30d": 6,
     "latest": [
       {
@@ -95,28 +95,16 @@
         "published": "2026-11-05T08:00:00Z"
       },
       {
-        "title": "Cognitive Health Technologies Data Breach Affects 49,500 Individuals",
-        "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5La3pRNlYySUVWN21oUW1aRnFsSXBrNnBxckxKcjBtQjZyR3pCZmVCcU1Hc0pOcGVrU0xJaHJUQzZFeGJ1VTh6RVhSbE85Q1NXbmRRbnNfemY2X2FSYkRuLVNNWk1XUHNDUmdjc0Q2dVhRX0FCUmg3R2ZyZw?oc=5",
-        "published": "2026-11-03T11:04:05Z"
-      },
-      {
         "title": "JCPS says data breach potentially impacted more than 37,000 current, former employees",
         "outlet": "WDRB",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEtzSVFzSXpjbk9BNVdSRHZBNE1CdGxncFBlWVprclRhY0NQdERBbzdocndVTEF5aTVwdDhNdE0tRGJvaU4tcERCLWN2TUw4RHR2ZE1XSzdYcWI2NlhnZGNYUzZpa0FjZENGVUFBNFI5Ni1ONXdIdXNua3pPTEVwUDdOdTY0U2dxdGRDcVhVQjJOYWFCWmY4aHdTZnVFZTFrV3lEOTFFdzBzb2lQQTF4dHdoX1NrVUNBVUhpadIB0AFBVV95cUxPSlRvcVVZVkxDazFNQlEzTk1OZkVVMTNJMlExTXAyTnNBUlVvcUlYSGdkY2FXZE5WRmFxa1ZNTjlueHh1clEyYmpTbGtsYlZQLWJUT2hvZ19pa1UtdG1TMlRjVUV2dFlrcVc0UEY2SmtaNGNFVF9xUTZENElUajUzWllrNjNrdmRIXzBiVkJGSzdCc0ZhbHpLNTJ0QmJuYmJkbXhCa1RCRFhNR09nNTlGQWo3c1dGU2U4TE9uWU9TV2lCY1NKcVh4OHV2NWU5cWhV?oc=5",
         "published": "2026-11-04T21:57:00Z"
       },
       {
-        "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+        "title": "Over 3 Million People Hit by Frontline Education Data Breach",
         "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT290VEtVWGIxczhyN1ltVHhDamlib3NQU0dzNzR3NnA2R0VTOEhqNmZmQ2dKVC1iMDg3N0Z1aGNma1FITTBwSVFZNC1Gemw0V0RVMzF6VWIzTWRFRnh0UmhsX29oTHkxeUJrN09fNmRpdlBENVR5YzMyRGQtY1Y0SUxpdGQwNnAxdUE?oc=5",
-        "published": "2026-11-09T14:08:08Z"
-      },
-      {
-        "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
-        "outlet": "Politico",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9xUjVNc3RSQm0zSVFQRllfQkM2bG9yTDlhYVJwNEw4elA1VGNCRE5kU1lORjdTMUpGbVpMd19QczAzcnZqTl9ndnF1czN6SkJhbjAzWTc4YlBfSzRuU2Rrb0Y2Ymg3VlRoUXViWGZ5aEVWZ2ZUTjlfUUVueVU4eEVUQlh2QjZLcGg3Yw?oc=5",
-        "published": "2026-11-03T20:29:00Z"
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUhHOS1jakpPRzJILWdsUVUwNWVjUTZKU2xNVXZ2dF9BTldoNWJTMGdNRDFvS3hQbDQ1ODNxSTRiczFYa1J5NDVIdnFMc3EzV3M0czc0VjhoSUtCRzBSRkFmVVY0S0VWdWhCNW9DRjRiZFBtZkNiSUNWT1BoX2lOMW52a3drNXA4T0FMMzNn?oc=5",
+        "published": "2026-11-09T10:09:02Z"
       },
       {
         "title": "Revolve data breach exposed shoppers' saved card numbers and expiration dates",
@@ -129,6 +117,18 @@
         "outlet": "The Record from Recorded Future News",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IVG5PaHhUeUNjbHpOeFZ1dUxxOUxsWFdKOXItOGx4enZkN256Z3pKeElHa01BMzlzYmtaUjFsLS1VM3dRbnh1SDk2QlcyT21haVFZM3ZCMmhSS1hCMnJVNVpLYXVKdTM3VDNHbUdHVV83QQ?oc=5",
         "published": "2026-11-09T21:00:16Z"
+      },
+      {
+        "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
+        "outlet": "Politico",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9xUjVNc3RSQm0zSVFQRllfQkM2bG9yTDlhYVJwNEw4elA1VGNCRE5kU1lORjdTMUpGbVpMd19QczAzcnZqTl9ndnF1czN6SkJhbjAzWTc4YlBfSzRuU2Rrb0Y2Ymg3VlRoUXViWGZ5aEVWZ2ZUTjlfUUVueVU4eEVUQlh2QjZLcGg3Yw?oc=5",
+        "published": "2026-11-03T20:29:00Z"
+      },
+      {
+        "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
+        "outlet": "WRNJ Radio",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3lJUGpmenlJVHBsZG0tenYyYlRPTE5NMGdpeGdwOGczU21DTzJGV1FaaHo4QzY1REg2U09vWV9ibDUwd19VZkZjNlpGNEtPVG1MQ0phLS1fMTlGUGZHWlhsQ2xlbjNhYWl0R0ZZSW1PRTBDWmRTYTItSkZpdDAyd0xaczFPQmVjSUNJWTFWUTU2NVRwTVdvNk5RTzE2LWFERF9iOUFRbTg3N3hkTzd3T1ZOSmFhSFZkZkZMbTZobzdEMjdIVTE3VFV3?oc=5",
+        "published": "2026-11-07T09:04:33Z"
       }
     ]
   },
