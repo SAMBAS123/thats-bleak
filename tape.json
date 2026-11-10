@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-09T22:39:29Z",
+  "as_of": "2026-11-10T04:17:33Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,22 +95,22 @@
         "published": "2026-11-05T08:00:00Z"
       },
       {
-        "title": "JCPS says data breach potentially impacted more than 37,000 current, former employees",
-        "outlet": "WDRB",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEtzSVFzSXpjbk9BNVdSRHZBNE1CdGxncFBlWVprclRhY0NQdERBbzdocndVTEF5aTVwdDhNdE0tRGJvaU4tcERCLWN2TUw4RHR2ZE1XSzdYcWI2NlhnZGNYUzZpa0FjZENGVUFBNFI5Ni1ONXdIdXNua3pPTEVwUDdOdTY0U2dxdGRDcVhVQjJOYWFCWmY4aHdTZnVFZTFrV3lEOTFFdzBzb2lQQTF4dHdoX1NrVUNBVUhpadIB0AFBVV95cUxPSlRvcVVZVkxDazFNQlEzTk1OZkVVMTNJMlExTXAyTnNBUlVvcUlYSGdkY2FXZE5WRmFxa1ZNTjlueHh1clEyYmpTbGtsYlZQLWJUT2hvZ19pa1UtdG1TMlRjVUV2dFlrcVc0UEY2SmtaNGNFVF9xUTZENElUajUzWllrNjNrdmRIXzBiVkJGSzdCc0ZhbHpLNTJ0QmJuYmJkbXhCa1RCRFhNR09nNTlGQWo3c1dGU2U4TE9uWU9TV2lCY1NKcVh4OHV2NWU5cWhV?oc=5",
-        "published": "2026-11-04T21:57:00Z"
-      },
-      {
         "title": "Cognitive Health Technologies Data Breach Affects 49,500 Individuals",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5La3pRNlYySUVWN21oUW1aRnFsSXBrNnBxckxKcjBtQjZyR3pCZmVCcU1Hc0pOcGVrU0xJaHJUQzZFeGJ1VTh6RVhSbE85Q1NXbmRRbnNfemY2X2FSYkRuLVNNWk1XUHNDUmdjc0Q2dVhRX0FCUmg3R2ZyZw?oc=5",
         "published": "2026-11-03T11:04:05Z"
       },
       {
-        "title": "DigiCert Data Breach Impacts Business Customer Information",
+        "title": "JCPS says data breach potentially impacted more than 37,000 current, former employees",
+        "outlet": "WDRB",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEtzSVFzSXpjbk9BNVdSRHZBNE1CdGxncFBlWVprclRhY0NQdERBbzdocndVTEF5aTVwdDhNdE0tRGJvaU4tcERCLWN2TUw4RHR2ZE1XSzdYcWI2NlhnZGNYUzZpa0FjZENGVUFBNFI5Ni1ONXdIdXNua3pPTEVwUDdOdTY0U2dxdGRDcVhVQjJOYWFCWmY4aHdTZnVFZTFrV3lEOTFFdzBzb2lQQTF4dHdoX1NrVUNBVUhpadIB0AFBVV95cUxPSlRvcVVZVkxDazFNQlEzTk1OZkVVMTNJMlExTXAyTnNBUlVvcUlYSGdkY2FXZE5WRmFxa1ZNTjlueHh1clEyYmpTbGtsYlZQLWJUT2hvZ19pa1UtdG1TMlRjVUV2dFlrcVc0UEY2SmtaNGNFVF9xUTZENElUajUzWllrNjNrdmRIXzBiVkJGSzdCc0ZhbHpLNTJ0QmJuYmJkbXhCa1RCRFhNR09nNTlGQWo3c1dGU2U4TE9uWU9TV2lCY1NKcVh4OHV2NWU5cWhV?oc=5",
+        "published": "2026-11-04T21:57:00Z"
+      },
+      {
+        "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
         "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPell4QlpibC0zZTcyaFVSWGJkbFk5VEtwQWFLRVZmeFFiMkM1UzNRYmZMeWExNzR1T1J6V20zSVdUR1B3VzRCLVJWRmZQQjVBYTNxOERoeWVIQktJUGI4Sm1ZVkFEMjV5NVlIT1dsR095R0xCbEh3NXRsRkhBbUltRkpXMHUwYXRjdjVUbWN3ZDFhUQ?oc=5",
-        "published": "2026-11-06T14:00:07Z"
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT290VEtVWGIxczhyN1ltVHhDamlib3NQU0dzNzR3NnA2R0VTOEhqNmZmQ2dKVC1iMDg3N0Z1aGNma1FITTBwSVFZNC1Gemw0V0RVMzF6VWIzTWRFRnh0UmhsX29oTHkxeUJrN09fNmRpdlBENVR5YzMyRGQtY1Y0SUxpdGQwNnAxdUE?oc=5",
+        "published": "2026-11-09T14:08:08Z"
       },
       {
         "title": "DOJ warns FBI data breach likely extends to Justice Department employees",
@@ -125,10 +125,10 @@
         "published": "2026-11-04T20:01:00Z"
       },
       {
-        "title": "Spear Physical Therapy Data Breach? Lawyers Investigate Reports",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVXOUQzenNWNERrdFVuaXpkdDdZUDdJOThwMzFZU0psejQ3em0xZ1NOOWRlNmlxc2dtcUlQWVFEb1NreVNsaE81YnlMWHBTSmdhVm1BTjVmbmVaMlR2aGVTN25CWDN6cUZULXpnUWxNOWtRUTVpa0cxdUhsYVB3dm1LNlNDWmppdDBSNkRn?oc=5",
-        "published": "2026-11-05T14:54:29Z"
+        "title": "Data breach at hearing aid giant Amplifon impacts thousands",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IVG5PaHhUeUNjbHpOeFZ1dUxxOUxsWFdKOXItOGx4enZkN256Z3pKeElHa01BMzlzYmtaUjFsLS1VM3dRbnh1SDk2QlcyT21haVFZM3ZCMmhSS1hCMnJVNVpLYXVKdTM3VDNHbUdHVV83QQ?oc=5",
+        "published": "2026-11-09T21:00:16Z"
       }
     ]
   },
