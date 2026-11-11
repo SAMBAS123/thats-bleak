@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T08:18:02Z",
+  "as_of": "2026-11-11T16:32:03Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -119,16 +119,16 @@
         "published": "2026-11-09T21:00:16Z"
       },
       {
-        "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
-        "outlet": "WRNJ Radio",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3lJUGpmenlJVHBsZG0tenYyYlRPTE5NMGdpeGdwOGczU21DTzJGV1FaaHo4QzY1REg2U09vWV9ibDUwd19VZkZjNlpGNEtPVG1MQ0phLS1fMTlGUGZHWlhsQ2xlbjNhYWl0R0ZZSW1PRTBDWmRTYTItSkZpdDAyd0xaczFPQmVjSUNJWTFWUTU2NVRwTVdvNk5RTzE2LWFERF9iOUFRbTg3N3hkTzd3T1ZOSmFhSFZkZkZMbTZobzdEMjdIVTE3VFV3?oc=5",
-        "published": "2026-11-07T09:04:33Z"
-      },
-      {
         "title": "Pekin Insurance Data Breach? Lawyers Investigate Hackers' Claims",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2FHSG51akZQNXl5b0ZLNGE5MEYzUXIzWkRtRDdWN3hjSzEzLU9zU0lDM3lyVW9KYkx2MkFTdjIwdVFRc2NIZEhQcUVWX0FVQlY2TDZXQk8tT3RzdmVCNDltZmdza3k1bUt1bExKSXlJbHlMcE1hemhKeWJsY1ZBMG5MSzA?oc=5",
         "published": "2026-11-09T17:00:21Z"
+      },
+      {
+        "title": "Consumer goods manufacturer data breach hits 7.7M customers",
+        "outlet": "Business Insurance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVU5VUEt1WTFhNVVxaUQ1aHlKNld6NmF1OERqUG1fWHRycmREa2FsZkh4M2l1UkNEcXMwSERUQ01HMjBzVTJQdXRXR2toOUFZWURqNXpNWlk5dGt2VnZqYTF5aGJ1S1F4aHkyOEFjQ0dLOVpVeElWaEJuTVpLV1hVNEJNT0Ixb3ltQjRXaWlpWkdlYkxwUllmWUt3?oc=5",
+        "published": "2026-11-11T14:14:06Z"
       }
     ]
   },
