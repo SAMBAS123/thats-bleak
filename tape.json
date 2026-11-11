@@ -1,16 +1,32 @@
 {
-  "as_of": "2026-11-11T00:51:10Z",
+  "as_of": "2026-11-11T08:18:02Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1049,
+    "catalog_total": 1051,
     "breaches_2026": 91,
     "pwn_2026": 296955701,
-    "added_2026": 114,
-    "added_7d": 0,
-    "added_30d": 6,
+    "added_2026": 116,
+    "added_7d": 2,
+    "added_30d": 8,
     "latest": [
+      {
+        "name": "YouHack",
+        "title": "YouHack",
+        "added": "2026-11-11T07:29:19Z",
+        "breach_date": "2013-05-29",
+        "pwn_count": 7160849,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#YouHack"
+      },
+      {
+        "name": "SberSpasibo",
+        "title": "СберСпасибо (SberSpasibo)",
+        "added": "2026-11-11T01:44:58Z",
+        "breach_date": "2023-03-09",
+        "pwn_count": 3288711,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#SberSpasibo"
+      },
       {
         "name": "Harvard",
         "title": "Harvard",
@@ -58,22 +74,6 @@
         "breach_date": "2026-08-12",
         "pwn_count": 318185,
         "url": "https://haveibeenpwned.com/PwnedWebsites#Sharecare"
-      },
-      {
-        "name": "Neogen",
-        "title": "Neogen",
-        "added": "2026-10-09T07:06:25Z",
-        "breach_date": "2026-08-29",
-        "pwn_count": 435963,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#Neogen"
-      },
-      {
-        "name": "CyrusOne",
-        "title": "CyrusOne",
-        "added": "2026-10-07T23:19:16Z",
-        "breach_date": "2026-08-05",
-        "pwn_count": 373460,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#CyrusOne"
       }
     ]
   },
@@ -89,16 +89,16 @@
         "published": "2026-11-06T19:09:43Z"
       },
       {
-        "title": "Frontline Education Data Breach: Got a Cyberscout Letter?",
-        "outlet": "McAfee",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlQ5WV95elZPdlZ3N3JLdkpNUkdPWWtWLWlpZGVOZ2JIbk54aktkZl92Rkw1d014eEFXTkxUU1ZFWUttQkxReXoxZEUwXzhiVUxoaGU4NVdHNG1Vem1fbkdhdVVuVmJ3QmdYbXdCVUtDRVB6V2pYSGNOSGNNdnQwSg?oc=5",
-        "published": "2026-11-05T08:00:00Z"
-      },
-      {
         "title": "Over 3 Million People Hit by Frontline Education Data Breach",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUhHOS1jakpPRzJILWdsUVUwNWVjUTZKU2xNVXZ2dF9BTldoNWJTMGdNRDFvS3hQbDQ1ODNxSTRiczFYa1J5NDVIdnFMc3EzV3M0czc0VjhoSUtCRzBSRkFmVVY0S0VWdWhCNW9DRjRiZFBtZkNiSUNWT1BoX2lOMW52a3drNXA4T0FMMzNn?oc=5",
         "published": "2026-11-09T10:09:02Z"
+      },
+      {
+        "title": "Frontline Education Data Breach: Got a Cyberscout Letter?",
+        "outlet": "McAfee",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlQ5WV95elZPdlZ3N3JLdkpNUkdPWWtWLWlpZGVOZ2JIbk54aktkZl92Rkw1d014eEFXTkxUU1ZFWUttQkxReXoxZEUwXzhiVUxoaGU4NVdHNG1Vem1fbkdhdVVuVmJ3QmdYbXdCVUtDRVB6V2pYSGNOSGNNdnQwSg?oc=5",
+        "published": "2026-11-05T08:00:00Z"
       },
       {
         "title": "JCPS says data breach potentially impacted more than 37,000 current, former employees",
