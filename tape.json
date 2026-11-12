@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T04:07:01Z",
+  "as_of": "2026-11-12T13:10:00Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,12 +89,6 @@
         "published": "2026-11-06T19:09:43Z"
       },
       {
-        "title": "Frontline Education Data Breach: Got a Cyberscout Letter?",
-        "outlet": "McAfee",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlQ5WV95elZPdlZ3N3JLdkpNUkdPWWtWLWlpZGVOZ2JIbk54aktkZl92Rkw1d014eEFXTkxUU1ZFWUttQkxReXoxZEUwXzhiVUxoaGU4NVdHNG1Vem1fbkdhdVVuVmJ3QmdYbXdCVUtDRVB6V2pYSGNOSGNNdnQwSg?oc=5",
-        "published": "2026-11-05T08:00:00Z"
-      },
-      {
         "title": "DigiCert Data Breach Impacts Business Customer Information",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPell4QlpibC0zZTcyaFVSWGJkbFk5VEtwQWFLRVZmeFFiMkM1UzNRYmZMeWExNzR1T1J6V20zSVdUR1B3VzRCLVJWRmZQQjVBYTNxOERoeWVIQktJUGI4Sm1ZVkFEMjV5NVlIT1dsR095R0xCbEh3NXRsRkhBbUltRkpXMHUwYXRjdjVUbWN3ZDFhUQ?oc=5",
@@ -107,10 +101,22 @@
         "published": "2026-11-06T15:22:35Z"
       },
       {
+        "title": "Vanguard Faces Class Actions Over Data Breach",
+        "outlet": "ThinkAdvisor",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjZpUkRpZHlwTVU2WXdTSU9fRXpndG9sQjl1LXFXOEJndFQ3ZzRQb3NqQzNGLWo5d09abU5ud3pEZk5LSkNvU0V5SFJaMDhUSDVkWC0yQ0t0YzN2NFc1V0tna0xBQVQ3M0JvX2xodUt2aWdSR2tyMmZrczJNeHhaVjBzcFlzWE5wZnJ4QUVHVQ?oc=5",
+        "published": "2026-11-12T00:02:05Z"
+      },
+      {
         "title": "DHS Data Breach Exposes Information on More Than 40,000 Employees",
         "outlet": "FEDagent",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXllMF91REZrNHlUei1kaEZpV0lZcnhUQlphaVlYcC16dTA1UzR4Q3JJTVp2ci1WMjRkb3ZqUWswRFFieWFDYVd2MG9TSkF5Q3A3dkx6MExhaUNDd05kZmh1OTAtM2V0SjdwZ19Xc2VrM1FTZUp6cExBWGtZMEdWaGg0aFZPbi1IRmxiX3ZDZWVXZ2tnVXlZOU9B?oc=5",
         "published": "2026-11-05T14:55:31Z"
+      },
+      {
+        "title": "Pyramid Healthcare Data Breach? Attorneys Investigate Hackers' Claims",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWtfckxTeGVOQXlaaHZTaDllLVhwWFozeGJGZTdJVjZqbTVOWmlKTzQtdWVwQXpsbWVmVTBuY1FES0pMMFJ4TXlHMzd2dmMwY2NraUk4bjRRSFlSNUU2cHh0aFhsZU9COEJPNzB5SkMwbWs0bmp6SE9xSVU1bUxzcjVFdTROekhw?oc=5",
+        "published": "2026-11-11T15:55:56Z"
       },
       {
         "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
@@ -123,12 +129,6 @@
         "outlet": "Business Insurance",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVU5VUEt1WTFhNVVxaUQ1aHlKNld6NmF1OERqUG1fWHRycmREa2FsZkh4M2l1UkNEcXMwSERUQ01HMjBzVTJQdXRXR2toOUFZWURqNXpNWlk5dGt2VnZqYTF5aGJ1S1F4aHkyOEFjQ0dLOVpVeElWaEJuTVpLV1hVNEJNT0Ixb3ltQjRXaWlpWkdlYkxwUllmWUt3?oc=5",
         "published": "2026-11-11T14:14:06Z"
-      },
-      {
-        "title": "Spear Physical Therapy Data Breach? Lawyers Investigate Reports",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVXOUQzenNWNERrdFVuaXpkdDdZUDdJOThwMzFZU0psejQ3em0xZ1NOOWRlNmlxc2dtcUlQWVFEb1NreVNsaE81YnlMWHBTSmdhVm1BTjVmbmVaMlR2aGVTN25CWDN6cUZULXpnUWxNOWtRUTVpa0cxdUhsYVB3dm1LNlNDWmppdDBSNkRn?oc=5",
-        "published": "2026-11-05T14:54:29Z"
       }
     ]
   },
