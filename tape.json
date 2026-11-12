@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T22:58:31Z",
+  "as_of": "2026-11-12T04:07:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 296955701,
     "added_2026": 116,
     "added_7d": 2,
-    "added_30d": 8,
+    "added_30d": 7,
     "latest": [
       {
         "name": "YouHack",
@@ -95,10 +95,10 @@
         "published": "2026-11-05T08:00:00Z"
       },
       {
-        "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+        "title": "DigiCert Data Breach Impacts Business Customer Information",
         "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUhHOS1jakpPRzJILWdsUVUwNWVjUTZKU2xNVXZ2dF9BTldoNWJTMGdNRDFvS3hQbDQ1ODNxSTRiczFYa1J5NDVIdnFMc3EzV3M0czc0VjhoSUtCRzBSRkFmVVY0S0VWdWhCNW9DRjRiZFBtZkNiSUNWT1BoX2lOMW52a3drNXA4T0FMMzNn?oc=5",
-        "published": "2026-11-09T10:09:02Z"
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPell4QlpibC0zZTcyaFVSWGJkbFk5VEtwQWFLRVZmeFFiMkM1UzNRYmZMeWExNzR1T1J6V20zSVdUR1B3VzRCLVJWRmZQQjVBYTNxOERoeWVIQktJUGI4Sm1ZVkFEMjV5NVlIT1dsR095R0xCbEh3NXRsRkhBbUltRkpXMHUwYXRjdjVUbWN3ZDFhUQ?oc=5",
+        "published": "2026-11-06T14:00:07Z"
       },
       {
         "title": "Judge Approves $3.9M ArCare Data Breach Settlement",
@@ -113,12 +113,6 @@
         "published": "2026-11-05T14:55:31Z"
       },
       {
-        "title": "Data breach at hearing aid giant Amplifon impacts thousands",
-        "outlet": "The Record from Recorded Future News",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IVG5PaHhUeUNjbHpOeFZ1dUxxOUxsWFdKOXItOGx4enZkN256Z3pKeElHa01BMzlzYmtaUjFsLS1VM3dRbnh1SDk2QlcyT21haVFZM3ZCMmhSS1hCMnJVNVpLYXVKdTM3VDNHbUdHVV83QQ?oc=5",
-        "published": "2026-11-09T21:00:16Z"
-      },
-      {
         "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
         "outlet": "WRNJ Radio",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3lJUGpmenlJVHBsZG0tenYyYlRPTE5NMGdpeGdwOGczU21DTzJGV1FaaHo4QzY1REg2U09vWV9ibDUwd19VZkZjNlpGNEtPVG1MQ0phLS1fMTlGUGZHWlhsQ2xlbjNhYWl0R0ZZSW1PRTBDWmRTYTItSkZpdDAyd0xaczFPQmVjSUNJWTFWUTU2NVRwTVdvNk5RTzE2LWFERF9iOUFRbTg3N3hkTzd3T1ZOSmFhSFZkZkZMbTZobzdEMjdIVTE3VFV3?oc=5",
@@ -129,6 +123,12 @@
         "outlet": "Business Insurance",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVU5VUEt1WTFhNVVxaUQ1aHlKNld6NmF1OERqUG1fWHRycmREa2FsZkh4M2l1UkNEcXMwSERUQ01HMjBzVTJQdXRXR2toOUFZWURqNXpNWlk5dGt2VnZqYTF5aGJ1S1F4aHkyOEFjQ0dLOVpVeElWaEJuTVpLV1hVNEJNT0Ixb3ltQjRXaWlpWkdlYkxwUllmWUt3?oc=5",
         "published": "2026-11-11T14:14:06Z"
+      },
+      {
+        "title": "Spear Physical Therapy Data Breach? Lawyers Investigate Reports",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXVXOUQzenNWNERrdFVuaXpkdDdZUDdJOThwMzFZU0psejQ3em0xZ1NOOWRlNmlxc2dtcUlQWVFEb1NreVNsaE81YnlMWHBTSmdhVm1BTjVmbmVaMlR2aGVTN25CWDN6cUZULXpnUWxNOWtRUTVpa0cxdUhsYVB3dm1LNlNDWmppdDBSNkRn?oc=5",
+        "published": "2026-11-05T14:54:29Z"
       }
     ]
   },
