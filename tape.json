@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-11-13T02:05:09Z",
+  "as_of": "2026-11-13T09:54:54Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1051,
-    "breaches_2026": 91,
-    "pwn_2026": 296955701,
-    "added_2026": 116,
-    "added_7d": 2,
+    "catalog_total": 1052,
+    "breaches_2026": 92,
+    "pwn_2026": 297135446,
+    "added_2026": 117,
+    "added_7d": 3,
     "added_30d": 7,
     "latest": [
+      {
+        "name": "CastleRAT",
+        "title": "CastleRAT",
+        "added": "2026-11-13T05:41:32Z",
+        "breach_date": "2026-11-12",
+        "pwn_count": 179745,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#CastleRAT"
+      },
       {
         "name": "YouHack",
         "title": "YouHack",
@@ -66,14 +74,6 @@
         "breach_date": "2026-01-22",
         "pwn_count": 559908,
         "url": "https://haveibeenpwned.com/PwnedWebsites#Crunchbase"
-      },
-      {
-        "name": "Sharecare",
-        "title": "Sharecare",
-        "added": "2026-10-12T23:28:32Z",
-        "breach_date": "2026-08-12",
-        "pwn_count": 318185,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#Sharecare"
       }
     ]
   },
@@ -89,6 +89,12 @@
         "published": "2026-11-06T19:09:43Z"
       },
       {
+        "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
+        "outlet": "Nevada County (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVkhVTUs2c0lmRDlLTVY2bXZ5SWFsOGNBckxEbkpJUlYxVGlRN3ZWcGJKbXBTY3JZVnoxazNTbmRkYUIyVm1ISTdJazZwWVNrWWdyaDU5YmZOLXotVXhlX0FRTGYwRk12dHpJ?oc=5",
+        "published": "2026-11-13T04:29:55Z"
+      },
+      {
         "title": "DigiCert Data Breach Impacts Business Customer Information",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPell4QlpibC0zZTcyaFVSWGJkbFk5VEtwQWFLRVZmeFFiMkM1UzNRYmZMeWExNzR1T1J6V20zSVdUR1B3VzRCLVJWRmZQQjVBYTNxOERoeWVIQktJUGI4Sm1ZVkFEMjV5NVlIT1dsR095R0xCbEh3NXRsRkhBbUltRkpXMHUwYXRjdjVUbWN3ZDFhUQ?oc=5",
@@ -101,16 +107,10 @@
         "published": "2026-11-06T15:22:35Z"
       },
       {
-        "title": "Pyramid Healthcare Data Breach? Attorneys Investigate Hackers' Claims",
+        "title": "Pekin Insurance Data Breach? Lawyers Investigate Hackers' Claims",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWtfckxTeGVOQXlaaHZTaDllLVhwWFozeGJGZTdJVjZqbTVOWmlKTzQtdWVwQXpsbWVmVTBuY1FES0pMMFJ4TXlHMzd2dmMwY2NraUk4bjRRSFlSNUU2cHh0aFhsZU9COEJPNzB5SkMwbWs0bmp6SE9xSVU1bUxzcjVFdTROekhw?oc=5",
-        "published": "2026-11-11T15:55:56Z"
-      },
-      {
-        "title": "Consumer goods manufacturer data breach hits 7.7M customers",
-        "outlet": "Business Insurance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVU5VUEt1WTFhNVVxaUQ1aHlKNld6NmF1OERqUG1fWHRycmREa2FsZkh4M2l1UkNEcXMwSERUQ01HMjBzVTJQdXRXR2toOUFZWURqNXpNWlk5dGt2VnZqYTF5aGJ1S1F4aHkyOEFjQ0dLOVpVeElWaEJuTVpLV1hVNEJNT0Ixb3ltQjRXaWlpWkdlYkxwUllmWUt3?oc=5",
-        "published": "2026-11-11T14:14:06Z"
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2FHSG51akZQNXl5b0ZLNGE5MEYzUXIzWkRtRDdWN3hjSzEzLU9zU0lDM3lyVW9KYkx2MkFTdjIwdVFRc2NIZEhQcUVWX0FVQlY2TDZXQk8tT3RzdmVCNDltZmdza3k1bUt1bExKSXlJbHlMcE1hemhKeWJsY1ZBMG5MSzA?oc=5",
+        "published": "2026-11-09T17:00:21Z"
       },
       {
         "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
