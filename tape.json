@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T21:03:01Z",
+  "as_of": "2026-11-13T02:05:09Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -113,6 +113,12 @@
         "published": "2026-11-11T14:14:06Z"
       },
       {
+        "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
+        "outlet": "Infosecurity Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjRwSzllYjdsNEtsN1JWSWZKYVMzTWxxVWpVd2ZfSG5VbmxPdUg1RzctclVJaVZsdjRaM2w4QmVhVzdiYzVTS0toai1Oa244dElUcjVBYk9FZ0NsLUJXelplc2hCQzdDREVzR1hsaE05cmdIQjBBVGR1ZmRmaUxHcnJkbG0?oc=5",
+        "published": "2026-11-12T08:49:00Z"
+      },
+      {
         "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
         "outlet": "WRNJ Radio",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3lJUGpmenlJVHBsZG0tenYyYlRPTE5NMGdpeGdwOGczU21DTzJGV1FaaHo4QzY1REg2U09vWV9ibDUwd19VZkZjNlpGNEtPVG1MQ0phLS1fMTlGUGZHWlhsQ2xlbjNhYWl0R0ZZSW1PRTBDWmRTYTItSkZpdDAyd0xaczFPQmVjSUNJWTFWUTU2NVRwTVdvNk5RTzE2LWFERF9iOUFRbTg3N3hkTzd3T1ZOSmFhSFZkZkZMbTZobzdEMjdIVTE3VFV3?oc=5",
@@ -123,12 +129,6 @@
         "outlet": "SC Media",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmtXcFFWNzBueTdBZUZWWkw5ZDhObTVFT1VSWWx6d2RqNTR4M2dmdEdwanI2bFAtN3d2Z0hHOUdtYnM4Y051bTY3eXlhUU5pd1MybDYwbkxhY2tCaG9TTWFkTHBja2dMLXU5THotcEpQMENWQ1ZHQXZoeFFBTmUzbUZIN1RCeUpXdlNJN1V1OXRaUXhoenRuamFuR182X2FHVlJDNHZ2RjQ2eDJvZDIw?oc=5",
         "published": "2026-11-10T23:00:59Z"
-      },
-      {
-        "title": "Vanguard Faces Class Actions Over Data Breach",
-        "outlet": "ThinkAdvisor",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjZpUkRpZHlwTVU2WXdTSU9fRXpndG9sQjl1LXFXOEJndFQ3ZzRQb3NqQzNGLWo5d09abU5ud3pEZk5LSkNvU0V5SFJaMDhUSDVkWC0yQ0t0YzN2NFc1V0tna0xBQVQ3M0JvX2xodUt2aWdSR2tyMmZrczJNeHhaVjBzcFlzWE5wZnJ4QUVHVQ?oc=5",
-        "published": "2026-11-12T00:02:05Z"
       }
     ]
   },
