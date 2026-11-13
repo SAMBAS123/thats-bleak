@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13T17:59:38Z",
+  "as_of": "2026-11-13T23:49:15Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,28 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Arlington ISD personnel information affected by third-party national data breach",
-        "outlet": "Fort Worth Report",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazhsaEFONE1sQUtZSDA2WHQtY21nQ2NYams2cFBHRnVvbUJPSEpYd3VreGhHaWZFNmIxM0Z1ZXc2cURNS21RQmhlVFNKVHNoa3dGd1UtdHFQZE9OS3laWWtSeF80SnhJRWZ0ZWVxMDdUc21RRG9XekFSUXRqa3VFUGpRTnNfeUx6c3FnTmRVRXI5cDNpVEdXWEYwS01VVldGRVhGRXd3MkZ0cGdjaXZvcDBCUGEycmwzZTNmeg?oc=5",
-        "published": "2026-11-06T19:09:43Z"
-      },
-      {
         "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
         "outlet": "Nevada County (.gov)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVkhVTUs2c0lmRDlLTVY2bXZ5SWFsOGNBckxEbkpJUlYxVGlRN3ZWcGJKbXBTY3JZVnoxazNTbmRkYUIyVm1ISTdJazZwWVNrWWdyaDU5YmZOLXotVXhlX0FRTGYwRk12dHpJ?oc=5",
         "published": "2026-11-13T04:29:55Z"
+      },
+      {
+        "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUhHOS1jakpPRzJILWdsUVUwNWVjUTZKU2xNVXZ2dF9BTldoNWJTMGdNRDFvS3hQbDQ1ODNxSTRiczFYa1J5NDVIdnFMc3EzV3M0czc0VjhoSUtCRzBSRkFmVVY0S0VWdWhCNW9DRjRiZFBtZkNiSUNWT1BoX2lOMW52a3drNXA4T0FMMzNn?oc=5",
+        "published": "2026-11-09T10:09:02Z"
+      },
+      {
+        "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
+        "outlet": "Hartford Business Journal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcC1uY0hlcG40MDdrYXE0OFBDSGwxRDVrYW0wNF9FeXBRSUs1bTNQVXZYOUdqMUpsUnBRZXh1UW0yWVNLYThKVlNiSG5HSFUwbmZZQnZvdFFjOUJkOTVZbnB6YUVCZG9FLTRXb19TVTMyNUNna21tS3JfY0hRdTlWZFhVMll0Y2lRRHBPRTByUHJ3eDBoQXVSZHFTNk5yeHFBYXM4SGtrQzMzZnhUeUJGRmtmc0FsWmZmQmpWWS1CTmx2eEwxN1loLW9n?oc=5",
+        "published": "2026-11-13T16:54:52Z"
+      },
+      {
+        "title": "Uber Says Personal Data Was Exposed in Third-Party Data Breach",
+        "outlet": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWhDcExobzZzQjdnNVdQVHdDeklvbFlaY3Y1d1EzLVFvX3FaVVlaQXk0ZmhNYXVUYUtGNTB6ZXRiVnAzcnpTUDdDckhCOTduZ2xKZm04cVhHOHRXNTFqTzZvMW5jUllIbU5uM2hSN0hscHh6QnowN1NGX1J0d2M2ZTZkT3ZiVjdiTV9lLWV5YVk0TGtxdHM0bEc1WEI?oc=5",
+        "published": "2026-11-13T20:31:27Z"
       },
       {
         "title": "Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients",
@@ -101,22 +113,10 @@
         "published": "2026-11-13T12:25:21Z"
       },
       {
-        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
-        "published": "2026-11-13T14:57:55Z"
-      },
-      {
         "title": "Keep Smiling Dental Group Data Breach Exposes SSNs; Lawsuit Possible",
         "outlet": "ClassAction.org",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0RHUjNvbFZWbjBvUFY4UndWX0hycjdnNjRfVHRVNnVkLWJON0RJQnItYU1MMWJTR1Y2S3QxSzBnYU9VNGtyVGtqcTlUWGFwTkk4ZW5WRVdaR2VjTDZfcWJHaXlqM2w3MFo2T2ZRSmtjdHgzbEYzSEVRNkhqTzhaaUtBTk45UXdnRGRMX2w1OEp0Zw?oc=5",
         "published": "2026-11-11T14:33:21Z"
-      },
-      {
-        "title": "Thousands of NH residents impacted by HCIactive data breach",
-        "outlet": "WMUR",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzN2Z2FPOGRIUGJ3aEI3X2xZV3ppT0FST3lwaTBSejk0ZEl2a2M4WTM3bEJWLUgxQUs3OXFobGE4OHY2NDNZYU5OaTA4dWFvR2JBTWpuemlKcm56ZUF3TTRSODIyQ0tPSHd2TnZZMlVxUkJhcXBRSGtqaHU1YVVNbHlHNGlteHVfUmFneE4zWllXdw?oc=5",
-        "published": "2026-11-13T02:46:00Z"
       },
       {
         "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
