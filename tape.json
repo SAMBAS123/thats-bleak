@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13T09:54:54Z",
+  "as_of": "2026-11-13T17:59:38Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,22 +95,28 @@
         "published": "2026-11-13T04:29:55Z"
       },
       {
-        "title": "DigiCert Data Breach Impacts Business Customer Information",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPell4QlpibC0zZTcyaFVSWGJkbFk5VEtwQWFLRVZmeFFiMkM1UzNRYmZMeWExNzR1T1J6V20zSVdUR1B3VzRCLVJWRmZQQjVBYTNxOERoeWVIQktJUGI4Sm1ZVkFEMjV5NVlIT1dsR095R0xCbEh3NXRsRkhBbUltRkpXMHUwYXRjdjVUbWN3ZDFhUQ?oc=5",
-        "published": "2026-11-06T14:00:07Z"
-      },
-      {
-        "title": "Judge Approves $3.9M ArCare Data Breach Settlement",
+        "title": "Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients",
         "outlet": "The HIPAA Journal",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkcXIwRUI3M1NoekVKbVV3aUZUQ2FPMkM4UDZ1QVM1MXJVZ3ZtSzFTWDlndEdOREtEVnE4V0F4SS1oUUQ5VDR6amFZSzQyYlU0Ulk5Zm5uV3puZTAybENUUUlWLXM3TWEyMkVZ?oc=5",
-        "published": "2026-11-06T15:22:35Z"
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY241dVZkMFphY2JtTE9BTnA4aC1ySmU2ZGZDRTZPSl8wV3YtZzJ0S09mZG1LWkpZZlF0cGxfV0hnc0U5dHVScGp3eFR6U1pPVHlzQWpReDRqTXd4RENYWW1sWmJaYW1NWk5uTFZ1RVp2MG53dHNVaENId3NRakJpVlhJMDhGRXdpbno5cTJGNFVLYlJFc1N1Z3FHeUFKZzAtdmlQSmtmRHp6UQ?oc=5",
+        "published": "2026-11-13T12:25:21Z"
       },
       {
-        "title": "Pekin Insurance Data Breach? Lawyers Investigate Hackers' Claims",
+        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
+        "published": "2026-11-13T14:57:55Z"
+      },
+      {
+        "title": "Keep Smiling Dental Group Data Breach Exposes SSNs; Lawsuit Possible",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2FHSG51akZQNXl5b0ZLNGE5MEYzUXIzWkRtRDdWN3hjSzEzLU9zU0lDM3lyVW9KYkx2MkFTdjIwdVFRc2NIZEhQcUVWX0FVQlY2TDZXQk8tT3RzdmVCNDltZmdza3k1bUt1bExKSXlJbHlMcE1hemhKeWJsY1ZBMG5MSzA?oc=5",
-        "published": "2026-11-09T17:00:21Z"
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0RHUjNvbFZWbjBvUFY4UndWX0hycjdnNjRfVHRVNnVkLWJON0RJQnItYU1MMWJTR1Y2S3QxSzBnYU9VNGtyVGtqcTlUWGFwTkk4ZW5WRVdaR2VjTDZfcWJHaXlqM2w3MFo2T2ZRSmtjdHgzbEYzSEVRNkhqTzhaaUtBTk45UXdnRGRMX2w1OEp0Zw?oc=5",
+        "published": "2026-11-11T14:33:21Z"
+      },
+      {
+        "title": "Thousands of NH residents impacted by HCIactive data breach",
+        "outlet": "WMUR",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzN2Z2FPOGRIUGJ3aEI3X2xZV3ppT0FST3lwaTBSejk0ZEl2a2M4WTM3bEJWLUgxQUs3OXFobGE4OHY2NDNZYU5OaTA4dWFvR2JBTWpuemlKcm56ZUF3TTRSODIyQ0tPSHd2TnZZMlVxUkJhcXBRSGtqaHU1YVVNbHlHNGlteHVfUmFneE4zWllXdw?oc=5",
+        "published": "2026-11-13T02:46:00Z"
       },
       {
         "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
@@ -123,12 +129,6 @@
         "outlet": "WRNJ Radio",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3lJUGpmenlJVHBsZG0tenYyYlRPTE5NMGdpeGdwOGczU21DTzJGV1FaaHo4QzY1REg2U09vWV9ibDUwd19VZkZjNlpGNEtPVG1MQ0phLS1fMTlGUGZHWlhsQ2xlbjNhYWl0R0ZZSW1PRTBDWmRTYTItSkZpdDAyd0xaczFPQmVjSUNJWTFWUTU2NVRwTVdvNk5RTzE2LWFERF9iOUFRbTg3N3hkTzd3T1ZOSmFhSFZkZkZMbTZobzdEMjdIVTE3VFV3?oc=5",
         "published": "2026-11-07T09:04:33Z"
-      },
-      {
-        "title": "Amplifon Americas discloses data breach affecting sensitive customer information",
-        "outlet": "SC Media",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmtXcFFWNzBueTdBZUZWWkw5ZDhObTVFT1VSWWx6d2RqNTR4M2dmdEdwanI2bFAtN3d2Z0hHOUdtYnM4Y051bTY3eXlhUU5pd1MybDYwbkxhY2tCaG9TTWFkTHBja2dMLXU5THotcEpQMENWQ1ZHQXZoeFFBTmUzbUZIN1RCeUpXdlNJN1V1OXRaUXhoenRuamFuR182X2FHVlJDNHZ2RjQ2eDJvZDIw?oc=5",
-        "published": "2026-11-10T23:00:59Z"
       }
     ]
   },
