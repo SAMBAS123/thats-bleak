@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-14T14:26:29Z",
+  "as_of": "2026-11-14T19:26:21Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,28 +89,22 @@
         "published": "2026-11-13T04:29:55Z"
       },
       {
-        "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
-        "outlet": "Hartford Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcC1uY0hlcG40MDdrYXE0OFBDSGwxRDVrYW0wNF9FeXBRSUs1bTNQVXZYOUdqMUpsUnBRZXh1UW0yWVNLYThKVlNiSG5HSFUwbmZZQnZvdFFjOUJkOTVZbnB6YUVCZG9FLTRXb19TVTMyNUNna21tS3JfY0hRdTlWZFhVMll0Y2lRRHBPRTByUHJ3eDBoQXVSZHFTNk5yeHFBYXM4SGtrQzMzZnhUeUJGRmtmc0FsWmZmQmpWWS1CTmx2eEwxN1loLW9n?oc=5",
-        "published": "2026-11-13T16:54:52Z"
-      },
-      {
         "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
         "outlet": "CSIS | Center for Strategic and International Studies",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
         "published": "2026-11-13T17:29:49Z"
       },
       {
-        "title": "State agency requesting Eversource be audited for handling of April data breach",
-        "outlet": "NBC Connecticut",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM19GQzdDdU5kcFFVWFJFaU4xcVNsOEExVlJEY0Y1bUdwc1d5WXU0OFI5V0VtQV9CNEk4SUk5TTJ1NnhQd1VTN3BoLVk4YzFWM29FQUx6TmdhRTZGd0dQNml5R3p0ODYzdWRHYTZwM1dPbGNtWllCZWgyVG1oZG5Udm1sWEJTSURWV05GTkswVE5yVDE4ZjJSNEY2M09uUmhKcnZaYjZ5M0E2MjBJMU1LVFcxQk9rV19tUHktN2FXRU1wR2lwclVoSDVR0gHSAUFVX3lxTFB2WkNqTDZ4UGdXY2J5aVZ4dzNpWWh1N1l1SC1DblhkaHgzWHQ3ZHNUVTVVdWF4U2l2cE0wSlBuaFgzNHFTbWpHaE1ITVNJcFJVT3FLX1ljRTRzVmx0czg1QWRQMm9JTWd1X1ZGYWM3QmdjR09IWUY1X2VFOXJsc3YxZWVZdDk1a1lKSnpfS3AzamdjbURFRFpkdjZMQ2stR3JfelU2b2Y4NkkxLWNJUG1Hdm5PZ2IzRER6d0o0ZG5Qc1lIVmE1VC04TzRydjlVbGFWQQ?oc=5",
-        "published": "2026-11-13T23:00:57Z"
+        "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUhHOS1jakpPRzJILWdsUVUwNWVjUTZKU2xNVXZ2dF9BTldoNWJTMGdNRDFvS3hQbDQ1ODNxSTRiczFYa1J5NDVIdnFMc3EzV3M0czc0VjhoSUtCRzBSRkFmVVY0S0VWdWhCNW9DRjRiZFBtZkNiSUNWT1BoX2lOMW52a3drNXA4T0FMMzNn?oc=5",
+        "published": "2026-11-09T10:09:02Z"
       },
       {
-        "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWwzZndKY1VHQ2lCTWNwSnRBTnJLZXh3OUxVeHZFUHR6NVlXa2pJQlN1TGxfSzF3UVdTb0pSS1ozU1MzZGVBSDBRSEMxTmpuMmNwcTQ1VDFPeHNoTVI1dHNkTkE5VUJ5bFJmVVJaemw3T3BsZXVXZEVzdlJ2UTJkQ0wzTy0wQUhsU01IQVF2d3pFVl9IMHBld3o2dTJVbWNIRzczdXFvZ2lMRDBJNnpuUS1rc2RIQQ?oc=5",
-        "published": "2026-11-13T15:20:00Z"
+        "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
+        "outlet": "Hartford Business Journal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcC1uY0hlcG40MDdrYXE0OFBDSGwxRDVrYW0wNF9FeXBRSUs1bTNQVXZYOUdqMUpsUnBRZXh1UW0yWVNLYThKVlNiSG5HSFUwbmZZQnZvdFFjOUJkOTVZbnB6YUVCZG9FLTRXb19TVTMyNUNna21tS3JfY0hRdTlWZFhVMll0Y2lRRHBPRTByUHJ3eDBoQXVSZHFTNk5yeHFBYXM4SGtrQzMzZnhUeUJGRmtmc0FsWmZmQmpWWS1CTmx2eEwxN1loLW9n?oc=5",
+        "published": "2026-11-13T16:54:52Z"
       },
       {
         "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
@@ -119,10 +113,16 @@
         "published": "2026-11-13T14:57:55Z"
       },
       {
-        "title": "Keep Smiling Dental Group Data Breach Exposes SSNs; Lawsuit Possible",
+        "title": "State agency requesting Eversource be audited for handling of April data breach",
+        "outlet": "NBC Connecticut",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM19GQzdDdU5kcFFVWFJFaU4xcVNsOEExVlJEY0Y1bUdwc1d5WXU0OFI5V0VtQV9CNEk4SUk5TTJ1NnhQd1VTN3BoLVk4YzFWM29FQUx6TmdhRTZGd0dQNml5R3p0ODYzdWRHYTZwM1dPbGNtWllCZWgyVG1oZG5Udm1sWEJTSURWV05GTkswVE5yVDE4ZjJSNEY2M09uUmhKcnZaYjZ5M0E2MjBJMU1LVFcxQk9rV19tUHktN2FXRU1wR2lwclVoSDVR0gHSAUFVX3lxTFB2WkNqTDZ4UGdXY2J5aVZ4dzNpWWh1N1l1SC1DblhkaHgzWHQ3ZHNUVTVVdWF4U2l2cE0wSlBuaFgzNHFTbWpHaE1ITVNJcFJVT3FLX1ljRTRzVmx0czg1QWRQMm9JTWd1X1ZGYWM3QmdjR09IWUY1X2VFOXJsc3YxZWVZdDk1a1lKSnpfS3AzamdjbURFRFpkdjZMQ2stR3JfelU2b2Y4NkkxLWNJUG1Hdm5PZ2IzRER6d0o0ZG5Qc1lIVmE1VC04TzRydjlVbGFWQQ?oc=5",
+        "published": "2026-11-13T23:00:57Z"
+      },
+      {
+        "title": "Pekin Insurance Data Breach? Lawyers Investigate Hackers' Claims",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0RHUjNvbFZWbjBvUFY4UndWX0hycjdnNjRfVHRVNnVkLWJON0RJQnItYU1MMWJTR1Y2S3QxSzBnYU9VNGtyVGtqcTlUWGFwTkk4ZW5WRVdaR2VjTDZfcWJHaXlqM2w3MFo2T2ZRSmtjdHgzbEYzSEVRNkhqTzhaaUtBTk45UXdnRGRMX2w1OEp0Zw?oc=5",
-        "published": "2026-11-11T14:33:21Z"
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2FHSG51akZQNXl5b0ZLNGE5MEYzUXIzWkRtRDdWN3hjSzEzLU9zU0lDM3lyVW9KYkx2MkFTdjIwdVFRc2NIZEhQcUVWX0FVQlY2TDZXQk8tT3RzdmVCNDltZmdza3k1bUt1bExKSXlJbHlMcE1hemhKeWJsY1ZBMG5MSzA?oc=5",
+        "published": "2026-11-09T17:00:21Z"
       },
       {
         "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
