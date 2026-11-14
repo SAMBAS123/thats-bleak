@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-14T19:26:21Z",
+  "as_of": "2026-11-14T23:18:53Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,16 +101,16 @@
         "published": "2026-11-09T10:09:02Z"
       },
       {
-        "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
-        "outlet": "Hartford Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcC1uY0hlcG40MDdrYXE0OFBDSGwxRDVrYW0wNF9FeXBRSUs1bTNQVXZYOUdqMUpsUnBRZXh1UW0yWVNLYThKVlNiSG5HSFUwbmZZQnZvdFFjOUJkOTVZbnB6YUVCZG9FLTRXb19TVTMyNUNna21tS3JfY0hRdTlWZFhVMll0Y2lRRHBPRTByUHJ3eDBoQXVSZHFTNk5yeHFBYXM4SGtrQzMzZnhUeUJGRmtmc0FsWmZmQmpWWS1CTmx2eEwxN1loLW9n?oc=5",
-        "published": "2026-11-13T16:54:52Z"
-      },
-      {
         "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
         "outlet": "TechCrunch",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
         "published": "2026-11-13T14:57:55Z"
+      },
+      {
+        "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
+        "outlet": "Hartford Business Journal",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcC1uY0hlcG40MDdrYXE0OFBDSGwxRDVrYW0wNF9FeXBRSUs1bTNQVXZYOUdqMUpsUnBRZXh1UW0yWVNLYThKVlNiSG5HSFUwbmZZQnZvdFFjOUJkOTVZbnB6YUVCZG9FLTRXb19TVTMyNUNna21tS3JfY0hRdTlWZFhVMll0Y2lRRHBPRTByUHJ3eDBoQXVSZHFTNk5yeHFBYXM4SGtrQzMzZnhUeUJGRmtmc0FsWmZmQmpWWS1CTmx2eEwxN1loLW9n?oc=5",
+        "published": "2026-11-13T16:54:52Z"
       },
       {
         "title": "State agency requesting Eversource be audited for handling of April data breach",
