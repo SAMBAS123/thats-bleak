@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13T23:49:15Z",
+  "as_of": "2026-11-14T06:57:02Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,10 +89,10 @@
         "published": "2026-11-13T04:29:55Z"
       },
       {
-        "title": "Over 3 Million People Hit by Frontline Education Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUhHOS1jakpPRzJILWdsUVUwNWVjUTZKU2xNVXZ2dF9BTldoNWJTMGdNRDFvS3hQbDQ1ODNxSTRiczFYa1J5NDVIdnFMc3EzV3M0czc0VjhoSUtCRzBSRkFmVVY0S0VWdWhCNW9DRjRiZFBtZkNiSUNWT1BoX2lOMW52a3drNXA4T0FMMzNn?oc=5",
-        "published": "2026-11-09T10:09:02Z"
+        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
+        "published": "2026-11-13T14:57:55Z"
       },
       {
         "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
@@ -101,28 +101,28 @@
         "published": "2026-11-13T16:54:52Z"
       },
       {
-        "title": "Uber Says Personal Data Was Exposed in Third-Party Data Breach",
-        "outlet": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWhDcExobzZzQjdnNVdQVHdDeklvbFlaY3Y1d1EzLVFvX3FaVVlaQXk0ZmhNYXVUYUtGNTB6ZXRiVnAzcnpTUDdDckhCOTduZ2xKZm04cVhHOHRXNTFqTzZvMW5jUllIbU5uM2hSN0hscHh6QnowN1NGX1J0d2M2ZTZkT3ZiVjdiTV9lLWV5YVk0TGtxdHM0bEc1WEI?oc=5",
-        "published": "2026-11-13T20:31:27Z"
+        "title": "Uber drivers' licenses exposed in Fireworks AI data breach",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BVWtuQTVkOGFNVEtseW5QMHIwS0ZCcGlzaUN1eWZJeElzbktndG0wWE5PQ29FNGlsRERSczJYSXFVQnMyaWg0WUZTbllqTnA0UENKM1h2eUpxbG11LTFFNVpUMEg3c1BUSEIw?oc=5",
+        "published": "2026-11-14T05:47:10Z"
+      },
+      {
+        "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWwzZndKY1VHQ2lCTWNwSnRBTnJLZXh3OUxVeHZFUHR6NVlXa2pJQlN1TGxfSzF3UVdTb0pSS1ozU1MzZGVBSDBRSEMxTmpuMmNwcTQ1VDFPeHNoTVI1dHNkTkE5VUJ5bFJmVVJaemw3T3BsZXVXZEVzdlJ2UTJkQ0wzTy0wQUhsU01IQVF2d3pFVl9IMHBld3o2dTJVbWNIRzczdXFvZ2lMRDBJNnpuUS1rc2RIQQ?oc=5",
+        "published": "2026-11-13T15:20:00Z"
+      },
+      {
+        "title": "Pyramid Healthcare Data Breach? Attorneys Investigate Hackers' Claims",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWtfckxTeGVOQXlaaHZTaDllLVhwWFozeGJGZTdJVjZqbTVOWmlKTzQtdWVwQXpsbWVmVTBuY1FES0pMMFJ4TXlHMzd2dmMwY2NraUk4bjRRSFlSNUU2cHh0aFhsZU9COEJPNzB5SkMwbWs0bmp6SE9xSVU1bUxzcjVFdTROekhw?oc=5",
+        "published": "2026-11-11T15:55:56Z"
       },
       {
         "title": "Metabase Zero-Day Exploited in Dorsata Data Breach Affecting 58,000 Patients",
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY241dVZkMFphY2JtTE9BTnA4aC1ySmU2ZGZDRTZPSl8wV3YtZzJ0S09mZG1LWkpZZlF0cGxfV0hnc0U5dHVScGp3eFR6U1pPVHlzQWpReDRqTXd4RENYWW1sWmJaYW1NWk5uTFZ1RVp2MG53dHNVaENId3NRakJpVlhJMDhGRXdpbno5cTJGNFVLYlJFc1N1Z3FHeUFKZzAtdmlQSmtmRHp6UQ?oc=5",
         "published": "2026-11-13T12:25:21Z"
-      },
-      {
-        "title": "Keep Smiling Dental Group Data Breach Exposes SSNs; Lawsuit Possible",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0RHUjNvbFZWbjBvUFY4UndWX0hycjdnNjRfVHRVNnVkLWJON0RJQnItYU1MMWJTR1Y2S3QxSzBnYU9VNGtyVGtqcTlUWGFwTkk4ZW5WRVdaR2VjTDZfcWJHaXlqM2w3MFo2T2ZRSmtjdHgzbEYzSEVRNkhqTzhaaUtBTk45UXdnRGRMX2w1OEp0Zw?oc=5",
-        "published": "2026-11-11T14:33:21Z"
-      },
-      {
-        "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
-        "outlet": "Infosecurity Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjRwSzllYjdsNEtsN1JWSWZKYVMzTWxxVWpVd2ZfSG5VbmxPdUg1RzctclVJaVZsdjRaM2w4QmVhVzdiYzVTS0toai1Oa244dElUcjVBYk9FZ0NsLUJXelplc2hCQzdDREVzR1hsaE05cmdIQjBBVGR1ZmRmaUxHcnJkbG0?oc=5",
-        "published": "2026-11-12T08:49:00Z"
       },
       {
         "title": "Sussex County Prosecutor's Office reports data breach involving Social Security numbers, personal information",
