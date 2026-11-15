@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-15T11:25:56Z",
+  "as_of": "2026-11-15T17:56:54Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,12 +83,6 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
-        "published": "2026-11-13T14:57:55Z"
-      },
-      {
         "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
         "outlet": "CSIS | Center for Strategic and International Studies",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
@@ -107,6 +101,12 @@
         "published": "2026-11-13T15:20:00Z"
       },
       {
+        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
+        "published": "2026-11-13T14:57:55Z"
+      },
+      {
         "title": "State agency requesting Eversource be audited for handling of April data breach",
         "outlet": "NBC Connecticut",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM19GQzdDdU5kcFFVWFJFaU4xcVNsOEExVlJEY0Y1bUdwc1d5WXU0OFI5V0VtQV9CNEk4SUk5TTJ1NnhQd1VTN3BoLVk4YzFWM29FQUx6TmdhRTZGd0dQNml5R3p0ODYzdWRHYTZwM1dPbGNtWllCZWgyVG1oZG5Udm1sWEJTSURWV05GTkswVE5yVDE4ZjJSNEY2M09uUmhKcnZaYjZ5M0E2MjBJMU1LVFcxQk9rV19tUHktN2FXRU1wR2lwclVoSDVR0gHSAUFVX3lxTFB2WkNqTDZ4UGdXY2J5aVZ4dzNpWWh1N1l1SC1DblhkaHgzWHQ3ZHNUVTVVdWF4U2l2cE0wSlBuaFgzNHFTbWpHaE1ITVNJcFJVT3FLX1ljRTRzVmx0czg1QWRQMm9JTWd1X1ZGYWM3QmdjR09IWUY1X2VFOXJsc3YxZWVZdDk1a1lKSnpfS3AzamdjbURFRFpkdjZMQ2stR3JfelU2b2Y4NkkxLWNJUG1Hdm5PZ2IzRER6d0o0ZG5Qc1lIVmE1VC04TzRydjlVbGFWQQ?oc=5",
@@ -119,10 +119,10 @@
         "published": "2026-11-13T16:54:52Z"
       },
       {
-        "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
-        "outlet": "The Hacker News",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5",
-        "published": "2026-11-15T08:22:00Z"
+        "title": "Uber says drivers’ license data stolen in data breach",
+        "outlet": "The Journal Record",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUxCMEFETUdPcUszNnVXeDU2MGpNYUtjLUJyc2RqWnd1djJ3d1loaG9HUHlFTGZ6MTl0MXF4YVNTRHpDNUVSSmFNcEhzUWlOUlBjQXRUOW5fcWotRmtERXREb1FGbzBMd3IwTnZvZFFwTENrdkNlNjNfbVJOQWVVVlhnX3A5MU1SYmdJcnh4SVQ?oc=5",
+        "published": "2026-11-13T08:00:00Z"
       },
       {
         "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
