@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-15T03:00:15Z",
+  "as_of": "2026-11-15T11:25:56Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,6 +83,18 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
+        "published": "2026-11-13T14:57:55Z"
+      },
+      {
+        "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
+        "outlet": "CSIS | Center for Strategic and International Studies",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
+        "published": "2026-11-13T17:29:49Z"
+      },
+      {
         "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
         "outlet": "Nevada County (.gov)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVkhVTUs2c0lmRDlLTVY2bXZ5SWFsOGNBckxEbkpJUlYxVGlRN3ZWcGJKbXBTY3JZVnoxazNTbmRkYUIyVm1ISTdJazZwWVNrWWdyaDU5YmZOLXotVXhlX0FRTGYwRk12dHpJ?oc=5",
@@ -93,12 +105,6 @@
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWwzZndKY1VHQ2lCTWNwSnRBTnJLZXh3OUxVeHZFUHR6NVlXa2pJQlN1TGxfSzF3UVdTb0pSS1ozU1MzZGVBSDBRSEMxTmpuMmNwcTQ1VDFPeHNoTVI1dHNkTkE5VUJ5bFJmVVJaemw3T3BsZXVXZEVzdlJ2UTJkQ0wzTy0wQUhsU01IQVF2d3pFVl9IMHBld3o2dTJVbWNIRzczdXFvZ2lMRDBJNnpuUS1rc2RIQQ?oc=5",
         "published": "2026-11-13T15:20:00Z"
-      },
-      {
-        "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
-        "outlet": "CSIS | Center for Strategic and International Studies",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
-        "published": "2026-11-13T17:29:49Z"
       },
       {
         "title": "State agency requesting Eversource be audited for handling of April data breach",
@@ -113,22 +119,16 @@
         "published": "2026-11-13T16:54:52Z"
       },
       {
-        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
-        "published": "2026-11-13T14:57:55Z"
+        "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+        "outlet": "The Hacker News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5",
+        "published": "2026-11-15T08:22:00Z"
       },
       {
         "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
         "outlet": "Infosecurity Magazine",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjRwSzllYjdsNEtsN1JWSWZKYVMzTWxxVWpVd2ZfSG5VbmxPdUg1RzctclVJaVZsdjRaM2w4QmVhVzdiYzVTS0toai1Oa244dElUcjVBYk9FZ0NsLUJXelplc2hCQzdDREVzR1hsaE05cmdIQjBBVGR1ZmRmaUxHcnJkbG0?oc=5",
         "published": "2026-11-12T08:49:00Z"
-      },
-      {
-        "title": "Pekin Insurance Data Breach? Lawyers Investigate Hackers' Claims",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2FHSG51akZQNXl5b0ZLNGE5MEYzUXIzWkRtRDdWN3hjSzEzLU9zU0lDM3lyVW9KYkx2MkFTdjIwdVFRc2NIZEhQcUVWX0FVQlY2TDZXQk8tT3RzdmVCNDltZmdza3k1bUt1bExKSXlJbHlMcE1hemhKeWJsY1ZBMG5MSzA?oc=5",
-        "published": "2026-11-09T17:00:21Z"
       }
     ]
   },
