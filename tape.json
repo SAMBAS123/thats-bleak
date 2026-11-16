@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-16T11:58:23Z",
+  "as_of": "2026-11-16T22:27:50Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,34 +101,34 @@
         "published": "2026-11-13T15:20:00Z"
       },
       {
+        "title": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXluOFZmNHZveDdnU1J2Q3VIZzZzZ2wySWR4bGJ3Y0RyWERLekdJbDlLRlFzSnNCMFlHYlNjbFVqcklveFo1dVVVVUpzN0J5bG8tZGtZbDJUZnp5Vzc2ckZlY19ZcW1WdXJMMkMxbEhVelNYYjVTOEpkTXJ4V3M3aUtoWUkwc2YwUmhWdnowbGJNcDFkMjduZUVsSG9vSlBIbjJzd0R0emVuM2lrUFhJQTU2YkdpMUl0dUE?oc=5",
+        "published": "2026-11-16T19:53:00Z"
+      },
+      {
+        "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6bUQ4RVZjbHFyMEFGeEJTb0JTLUcyZ01hUG9LWU5TVGtEVGlEeW9GSTRGWnlGNGEtRzVZdGd6UHd5NHoycVU2amZRRTdXTGc2LTdJTHg3MXBvcXV1bHpSVFozRVh4R3dYQjRrdg?oc=5",
+        "published": "2026-11-16T14:24:34Z"
+      },
+      {
+        "title": "State agency requesting Eversource be audited for handling of April data breach",
+        "outlet": "NBC Connecticut",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM19GQzdDdU5kcFFVWFJFaU4xcVNsOEExVlJEY0Y1bUdwc1d5WXU0OFI5V0VtQV9CNEk4SUk5TTJ1NnhQd1VTN3BoLVk4YzFWM29FQUx6TmdhRTZGd0dQNml5R3p0ODYzdWRHYTZwM1dPbGNtWllCZWgyVG1oZG5Udm1sWEJTSURWV05GTkswVE5yVDE4ZjJSNEY2M09uUmhKcnZaYjZ5M0E2MjBJMU1LVFcxQk9rV19tUHktN2FXRU1wR2lwclVoSDVR0gHSAUFVX3lxTFB2WkNqTDZ4UGdXY2J5aVZ4dzNpWWh1N1l1SC1DblhkaHgzWHQ3ZHNUVTVVdWF4U2l2cE0wSlBuaFgzNHFTbWpHaE1ITVNJcFJVT3FLX1ljRTRzVmx0czg1QWRQMm9JTWd1X1ZGYWM3QmdjR09IWUY1X2VFOXJsc3YxZWVZdDk1a1lKSnpfS3AzamdjbURFRFpkdjZMQ2stR3JfelU2b2Y4NkkxLWNJUG1Hdm5PZ2IzRER6d0o0ZG5Qc1lIVmE1VC04TzRydjlVbGFWQQ?oc=5",
+        "published": "2026-11-13T23:00:57Z"
+      },
+      {
         "title": "Uber says drivers’ license data stolen in data breach",
         "outlet": "The Journal Record",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUxCMEFETUdPcUszNnVXeDU2MGpNYUtjLUJyc2RqWnd1djJ3d1loaG9HUHlFTGZ6MTl0MXF4YVNTRHpDNUVSSmFNcEhzUWlOUlBjQXRUOW5fcWotRmtERXREb1FGbzBMd3IwTnZvZFFwTENrdkNlNjNfbVJOQWVVVlhnX3A5MU1SYmdJcnh4SVQ?oc=5",
         "published": "2026-11-13T08:00:00Z"
       },
       {
-        "title": "Call for stronger cybersecurity measures after Eversource data breach in April",
-        "outlet": "NBC Connecticut",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObW5LODgxUGdqOEh6dzZsZEpDQ0FBTEJJQTZ6Zmo3U0ZBak5fcXZYei1hRG40R29GTDl2c2c0cHVuQkxONmQxdU53RkNsb1d3aUlXMVpCOUZLYnRfeW5jUEM5c09EOC1oZVZBbGRlb1BDbl93SWIzTWZaUktycGRNdnZsOTJQemNSNkszajRXTlJPanBjY3ZjTjFvVExNQ3VJOXVEbElkaHZhUFdORGVubHg5aUJreHhKQzMyVEJtUERfRGZJWlk4Z1NzQkU5WDFh0gHYAUFVX3lxTE5nWTdndHFaRmQ0Q1MzQXVzb0g2ZXBMR01INXctX1h3UEFVTWZIOEJlNTNJUEI3VjM1T0hrdDJOV2JFVTl1OHdpQzlhcnd6ZlBaUEhrZW10S0pjU2laMk5oblc5dXpfc3ZtOFpDMU1hT2hiamZBMHktSGVCM0UzVmN6TFA3T00yMEcwOTNWa1l5c2VxMEdyT3dIV0ExYWZLTE5wMmVjcHdnNFBJbERpalZWWHotTmt1dWNQNkR6d05ncFBBSlJTeEhkeWMxWjFMUzFqandwMDRCSw?oc=5",
-        "published": "2026-11-13T21:25:04Z"
-      },
-      {
         "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
         "outlet": "Hartford Business Journal",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcC1uY0hlcG40MDdrYXE0OFBDSGwxRDVrYW0wNF9FeXBRSUs1bTNQVXZYOUdqMUpsUnBRZXh1UW0yWVNLYThKVlNiSG5HSFUwbmZZQnZvdFFjOUJkOTVZbnB6YUVCZG9FLTRXb19TVTMyNUNna21tS3JfY0hRdTlWZFhVMll0Y2lRRHBPRTByUHJ3eDBoQXVSZHFTNk5yeHFBYXM4SGtrQzMzZnhUeUJGRmtmc0FsWmZmQmpWWS1CTmx2eEwxN1loLW9n?oc=5",
         "published": "2026-11-13T16:54:52Z"
-      },
-      {
-        "title": "Pekin Insurance Data Breach? Lawyers Investigate Hackers' Claims",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2FHSG51akZQNXl5b0ZLNGE5MEYzUXIzWkRtRDdWN3hjSzEzLU9zU0lDM3lyVW9KYkx2MkFTdjIwdVFRc2NIZEhQcUVWX0FVQlY2TDZXQk8tT3RzdmVCNDltZmdza3k1bUt1bExKSXlJbHlMcE1hemhKeWJsY1ZBMG5MSzA?oc=5",
-        "published": "2026-11-09T17:00:21Z"
-      },
-      {
-        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VrWGJ1SDZGWXZRT1VZZmpoSEV6a184dTd2WkpqeFNkNzdxbmxMcU1leVJnT2xXLTVhS2pxcWtPTkw0ZmN5OFgwel9NN3JaTnJyTFl0RHZSZVlIcVZxMDhjWE5IWUVfbVA4VFlUcVVQUVU1QUU4OTZiNGpJQmpIVVpfXzJzMFFFeVN2TjdDRjJkZEt1NTlBWTF3U1FidEVXRk9YTXhBbEZ6bXN2RUFlbVpDTzlDQy1FV2c?oc=5",
-        "published": "2026-11-13T14:57:55Z"
       }
     ]
   },
