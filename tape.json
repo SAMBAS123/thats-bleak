@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17T04:44:18Z",
+  "as_of": "2026-11-17T14:50:18Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 297135446,
     "added_2026": 117,
     "added_7d": 3,
-    "added_30d": 7,
+    "added_30d": 6,
     "latest": [
       {
         "name": "CastleRAT",
@@ -89,34 +89,10 @@
         "published": "2026-11-13T17:29:49Z"
       },
       {
-        "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
-        "outlet": "Nevada County (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVkhVTUs2c0lmRDlLTVY2bXZ5SWFsOGNBckxEbkpJUlYxVGlRN3ZWcGJKbXBTY3JZVnoxazNTbmRkYUIyVm1ISTdJazZwWVNrWWdyaDU5YmZOLXotVXhlX0FRTGYwRk12dHpJ?oc=5",
-        "published": "2026-11-13T04:29:55Z"
-      },
-      {
-        "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWwzZndKY1VHQ2lCTWNwSnRBTnJLZXh3OUxVeHZFUHR6NVlXa2pJQlN1TGxfSzF3UVdTb0pSS1ozU1MzZGVBSDBRSEMxTmpuMmNwcTQ1VDFPeHNoTVI1dHNkTkE5VUJ5bFJmVVJaemw3T3BsZXVXZEVzdlJ2UTJkQ0wzTy0wQUhsU01IQVF2d3pFVl9IMHBld3o2dTJVbWNIRzczdXFvZ2lMRDBJNnpuUS1rc2RIQQ?oc=5",
-        "published": "2026-11-13T15:20:00Z"
-      },
-      {
-        "title": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXluOFZmNHZveDdnU1J2Q3VIZzZzZ2wySWR4bGJ3Y0RyWERLekdJbDlLRlFzSnNCMFlHYlNjbFVqcklveFo1dVVVVUpzN0J5bG8tZGtZbDJUZnp5Vzc2ckZlY19ZcW1WdXJMMkMxbEhVelNYYjVTOEpkTXJ4V3M3aUtoWUkwc2YwUmhWdnowbGJNcDFkMjduZUVsSG9vSlBIbjJzd0R0emVuM2lrUFhJQTU2YkdpMUl0dUE?oc=5",
-        "published": "2026-11-16T19:53:00Z"
-      },
-      {
-        "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
-        "outlet": "The Record from Recorded Future News",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6bUQ4RVZjbHFyMEFGeEJTb0JTLUcyZ01hUG9LWU5TVGtEVGlEeW9GSTRGWnlGNGEtRzVZdGd6UHd5NHoycVU2amZRRTdXTGc2LTdJTHg3MXBvcXV1bHpSVFozRVh4R3dYQjRrdg?oc=5",
-        "published": "2026-11-16T14:24:34Z"
-      },
-      {
-        "title": "State agency requesting Eversource be audited for handling of April data breach",
-        "outlet": "NBC Connecticut",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM19GQzdDdU5kcFFVWFJFaU4xcVNsOEExVlJEY0Y1bUdwc1d5WXU0OFI5V0VtQV9CNEk4SUk5TTJ1NnhQd1VTN3BoLVk4YzFWM29FQUx6TmdhRTZGd0dQNml5R3p0ODYzdWRHYTZwM1dPbGNtWllCZWgyVG1oZG5Udm1sWEJTSURWV05GTkswVE5yVDE4ZjJSNEY2M09uUmhKcnZaYjZ5M0E2MjBJMU1LVFcxQk9rV19tUHktN2FXRU1wR2lwclVoSDVR0gHSAUFVX3lxTFB2WkNqTDZ4UGdXY2J5aVZ4dzNpWWh1N1l1SC1DblhkaHgzWHQ3ZHNUVTVVdWF4U2l2cE0wSlBuaFgzNHFTbWpHaE1ITVNJcFJVT3FLX1ljRTRzVmx0czg1QWRQMm9JTWd1X1ZGYWM3QmdjR09IWUY1X2VFOXJsc3YxZWVZdDk1a1lKSnpfS3AzamdjbURFRFpkdjZMQ2stR3JfelU2b2Y4NkkxLWNJUG1Hdm5PZ2IzRER6d0o0ZG5Qc1lIVmE1VC04TzRydjlVbGFWQQ?oc=5",
-        "published": "2026-11-13T23:00:57Z"
+        "title": "Geisinger: Email data breach affects information of nearly 2,000 patients",
+        "outlet": "Scranton Times-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFkybkVNZHptcU1LdXFQNWI2czlCRUVsaUI2d1BUT3RHQ0pqRzNjNV9oVmpfYjhEYmI5eUxxSVp1Zk56YmRJSUZXMGh3UkRfQTlOakF3RE1EQmU4RUNNbG9NSld2cU9nREZXNlZwMFNDTTRfd2lFc2dPS0pZcjBjdjFNRWhsSTdVeUtrTUZndUdoQ1pwRVhWVDFwSGJkeE5DcU9uMk13ZlJmMmEwM0RFTkRyZERlRUE?oc=5",
+        "published": "2026-11-16T21:39:30Z"
       },
       {
         "title": "Uber says drivers’ license data stolen in data breach",
@@ -125,10 +101,34 @@
         "published": "2026-11-13T08:00:00Z"
       },
       {
-        "title": "Eversource missed data breach for 13 days until hacker emailed the company, state report says",
-        "outlet": "Hartford Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcC1uY0hlcG40MDdrYXE0OFBDSGwxRDVrYW0wNF9FeXBRSUs1bTNQVXZYOUdqMUpsUnBRZXh1UW0yWVNLYThKVlNiSG5HSFUwbmZZQnZvdFFjOUJkOTVZbnB6YUVCZG9FLTRXb19TVTMyNUNna21tS3JfY0hRdTlWZFhVMll0Y2lRRHBPRTByUHJ3eDBoQXVSZHFTNk5yeHFBYXM4SGtrQzMzZnhUeUJGRmtmc0FsWmZmQmpWWS1CTmx2eEwxN1loLW9n?oc=5",
-        "published": "2026-11-13T16:54:52Z"
+        "title": "Over Easy Office Data Breach? Attorneys Investigate Hackers' Claims",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODNwQ0x2Z2JxakVxcVI0am5rNm94WHJLa0NOc2xWUDJEbUN5UjIwaVk5X1kxT2ZFSG55dlhxVnVyQTF0X2V6X2xWZTcwaFBDbWJqY2JQWlBhSzN6VmUyRjBCYUtUUzU3VlN1ZUo1d25Ka0UxZ205VzRfRHd2M3VhX09oYlpjUQ?oc=5",
+        "published": "2026-11-16T17:46:13Z"
+      },
+      {
+        "title": "Fandango Media reports data breach involving payment card information",
+        "outlet": "SC Media",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTB3SXhCbWc5S2ZnelhyTGdMVF82VXdCTWJ6T1FDNVdqdEtMS1dXNk04bF9hMUFfY29UT2VCcHFHeHZ1ajBjMzM5OHRBN0RvdnNWYVp1dG13MjVMdjU3cjFCVTdDa0x6Wmc0YlZ5MldIb2F4STF6Q0owWEZCUW5xVGJDTW84Wmxia3RSV3lOSXhtQjZwaXJPUUxQTUJiSWtp?oc=5",
+        "published": "2026-11-17T01:06:55Z"
+      },
+      {
+        "title": "Consumer counsel calls for independent audit in wake of Eversource data breach",
+        "outlet": "WFSB",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFZyWnZlSVZkQmpLckZLS0h4SFZLXzVEWlZqXzliNTNleWY1emtnOHkyNUk3Tlk4QXdoLUZZTUdlNGk5a2dOc0RmM2lwbWdFZnRYNTlMQ2VKamdxNV9reW1iMzVxV0FNalBRdUdTY0FHVWNwY0RMQk1DTzJHVTE4UEMtcC1fOTNDb2Z5NmNqaklZSEZfU3FGT2tHcW9wVXZxQldZ?oc=5",
+        "published": "2026-11-16T18:56:00Z"
+      },
+      {
+        "title": "Uber Data Breach Impacts 150,000 People",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GTWI4ZFJkRFlkZU5RTU11ckkxZTlhYjBuY0JvT3FIN3E1cWs4ZFNZZWtWbUpBc2h0czEzLWlRSk9WMUZPV0lRNUR0dFhrYWxwSWxuOUFteEFyUllNTFU1ZHhzTlVGQ2ZONHZhT0hxd2IwRHJaaV9V?oc=5",
+        "published": "2026-11-16T11:02:48Z"
+      },
+      {
+        "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6bUQ4RVZjbHFyMEFGeEJTb0JTLUcyZ01hUG9LWU5TVGtEVGlEeW9GSTRGWnlGNGEtRzVZdGd6UHd5NHoycVU2amZRRTdXTGc2LTdJTHg3MXBvcXV1bHpSVFozRVh4R3dYQjRrdg?oc=5",
+        "published": "2026-11-16T14:24:34Z"
       }
     ]
   },
@@ -176,7 +176,5 @@
       "url": "https://cybernews.com/security/millions-login-records-allegedly-stolen-from-roblox/"
     }
   ],
-  "errors": [
-    "news: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
