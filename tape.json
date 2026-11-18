@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17T23:06:19Z",
+  "as_of": "2026-11-18T04:40:37Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 92,
     "pwn_2026": 297135446,
     "added_2026": 117,
-    "added_7d": 3,
+    "added_7d": 2,
     "added_30d": 6,
     "latest": [
       {
@@ -89,46 +89,46 @@
         "published": "2026-11-17T20:54:27Z"
       },
       {
-        "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
-        "outlet": "CSIS | Center for Strategic and International Studies",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
-        "published": "2026-11-13T17:29:49Z"
-      },
-      {
         "title": "Geisinger notifies patients of data security incident",
         "outlet": "Geisinger",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3hRdHA2NkItRHlubEp1OVJ5QTNiUHVZaEppMDlESnRlTVZEVG41WEJrN1pxN2t3UTljcjVzbUlKeHZLUG9SMS15UkM2ZWQwMi1nRWZadG1UbUxobVYxR1JnRTVsT21XaXhLTjl2dHB0cHFsY2o1QkhkbjJlUEs0UmF0T0xkemNIX01ucHRPYzh5NzVVZEpGbU5hamZ5LVc3cFZmVEhhR1NWYnlKSXhBeWdjVjNNU1NCQ1BJaVI4SkhqQWpYNkRSRG5SdjZCeUNVWHFTdUxsZDM?oc=5",
         "published": "2026-11-16T14:33:47Z"
       },
       {
-        "title": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXluOFZmNHZveDdnU1J2Q3VIZzZzZ2wySWR4bGJ3Y0RyWERLekdJbDlLRlFzSnNCMFlHYlNjbFVqcklveFo1dVVVVUpzN0J5bG8tZGtZbDJUZnp5Vzc2ckZlY19ZcW1WdXJMMkMxbEhVelNYYjVTOEpkTXJ4V3M3aUtoWUkwc2YwUmhWdnowbGJNcDFkMjduZUVsSG9vSlBIbjJzd0R0emVuM2lrUFhJQTU2YkdpMUl0dUE?oc=5",
-        "published": "2026-11-16T19:53:00Z"
+        "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
+        "outlet": "CSIS | Center for Strategic and International Studies",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
+        "published": "2026-11-13T17:29:49Z"
       },
       {
-        "title": "Over Easy Office Data Breach? Attorneys Investigate Hackers' Claims",
+        "title": "California education department sued over data breach affecting millions of students",
+        "outlet": "Sacramento Bee",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG_SAXNBVV95cUxNR3JONzAzOUZpT3hrTzdXX282N0lGMEhkb0dqYUhicVBNcm5XcWpVOWphUFdMbUlEQ2xGeXIwOVhrN3JqQmZGZ3J4SVpGRkRwOEQ0WHNEYnNFaEJzX3JQbC1rTzVGYnZCQ0VVemNzclIyMlVn?oc=5",
+        "published": "2026-11-17T23:15:10Z"
+      },
+      {
+        "title": "Vanderbilt Faces Class-Action Lawsuit Over Data Breach",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHlkY3ZCTTNfZjNsWkdOSjBLQ3dpWk9aRC1lQzl2WXRlQVlZQm5JOUE5SExHM2MtcHptU1B3NGZTaG5OeHEwY25SRmZtaTczRE1aekdZdWpuMXJSdlRDMzJLLVo1NUFLMERFMTNKRlBCYXJwcU56OVBSdElFVDVoMk9EcEVtSXBobGRGRlJXRWtkNkZUa2twUV9aTFRZQTA?oc=5",
+        "published": "2026-11-17T20:09:36Z"
+      },
+      {
+        "title": "Behavior Intervention Services Data Breach? Attorneys Investigate",
         "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODNwQ0x2Z2JxakVxcVI0am5rNm94WHJLa0NOc2xWUDJEbUN5UjIwaVk5X1kxT2ZFSG55dlhxVnVyQTF0X2V6X2xWZTcwaFBDbWJqY2JQWlBhSzN6VmUyRjBCYUtUUzU3VlN1ZUo1d25Ka0UxZ205VzRfRHd2M3VhX09oYlpjUQ?oc=5",
-        "published": "2026-11-16T17:46:13Z"
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmtHdkZBbkp0elNTMFFBcEV2NGd3MlpOZUR6STRCVWdzV0lKY183OWFrQXZ0T3JhbG5YQ1VBVWVKelJHbU44UjhXdWxIR3llSmxoY0tOYVRNSlVCaFFtTzJmb3ZfaWVOSF95ZXFEREZsVEN2aHNJYzJyT0NON0Z1aVJucGFyR3BVRkNacUZGMzk5TENRSTFHNg?oc=5",
+        "published": "2026-11-17T19:53:00Z"
       },
       {
-        "title": "Consumer counsel calls for independent audit in wake of Eversource data breach",
-        "outlet": "WFSB",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFZyWnZlSVZkQmpLckZLS0h4SFZLXzVEWlZqXzliNTNleWY1emtnOHkyNUk3Tlk4QXdoLUZZTUdlNGk5a2dOc0RmM2lwbWdFZnRYNTlMQ2VKamdxNV9reW1iMzVxV0FNalBRdUdTY0FHVWNwY0RMQk1DTzJHVTE4UEMtcC1fOTNDb2Z5NmNqaklZSEZfU3FGT2tHcW9wVXZxQldZ?oc=5",
-        "published": "2026-11-16T18:56:00Z"
+        "title": "Uber says drivers’ license data stolen in data breach",
+        "outlet": "The Journal Record",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUxCMEFETUdPcUszNnVXeDU2MGpNYUtjLUJyc2RqWnd1djJ3d1loaG9HUHlFTGZ6MTl0MXF4YVNTRHpDNUVSSmFNcEhzUWlOUlBjQXRUOW5fcWotRmtERXREb1FGbzBMd3IwTnZvZFFwTENrdkNlNjNfbVJOQWVVVlhnX3A5MU1SYmdJcnh4SVQ?oc=5",
+        "published": "2026-11-13T08:00:00Z"
       },
       {
         "title": "Fandango Media reports data breach involving payment card information",
         "outlet": "SC Media",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTB3SXhCbWc5S2ZnelhyTGdMVF82VXdCTWJ6T1FDNVdqdEtMS1dXNk04bF9hMUFfY29UT2VCcHFHeHZ1ajBjMzM5OHRBN0RvdnNWYVp1dG13MjVMdjU3cjFCVTdDa0x6Wmc0YlZ5MldIb2F4STF6Q0owWEZCUW5xVGJDTW84Wmxia3RSV3lOSXhtQjZwaXJPUUxQTUJiSWtp?oc=5",
         "published": "2026-11-17T01:06:55Z"
-      },
-      {
-        "title": "Uber Data Breach Impacts 150,000 People",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GTWI4ZFJkRFlkZU5RTU11ckkxZTlhYjBuY0JvT3FIN3E1cWs4ZFNZZWtWbUpBc2h0czEzLWlRSk9WMUZPV0lRNUR0dFhrYWxwSWxuOUFteEFyUllNTFU1ZHhzTlVGQ2ZONHZhT0hxd2IwRHJaaV9V?oc=5",
-        "published": "2026-11-16T11:02:48Z"
       }
     ]
   },
