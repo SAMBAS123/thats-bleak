@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18T13:24:59Z",
+  "as_of": "2026-11-18T21:32:58Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,22 +95,28 @@
         "published": "2026-11-17T13:05:20Z"
       },
       {
-        "title": "Geisinger notifies patients of data security incident",
-        "outlet": "Geisinger",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3hRdHA2NkItRHlubEp1OVJ5QTNiUHVZaEppMDlESnRlTVZEVG41WEJrN1pxN2t3UTljcjVzbUlKeHZLUG9SMS15UkM2ZWQwMi1nRWZadG1UbUxobVYxR1JnRTVsT21XaXhLTjl2dHB0cHFsY2o1QkhkbjJlUEs0UmF0T0xkemNIX01ucHRPYzh5NzVVZEpGbU5hamZ5LVc3cFZmVEhhR1NWYnlKSXhBeWdjVjNNU1NCQ1BJaVI4SkhqQWpYNkRSRG5SdjZCeUNVWHFTdUxsZDM?oc=5",
-        "published": "2026-11-16T14:33:47Z"
-      },
-      {
         "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
         "outlet": "CSIS | Center for Strategic and International Studies",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
         "published": "2026-11-13T17:29:49Z"
       },
       {
-        "title": "Cuyahoga County Public Library says 3rd-party data breach led to cardholders' info being compromised",
-        "outlet": "WKYC",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUllSZGZ4MEo5cm5IODFIYUxrTFNKUU5EcFlMZ09TcVNxMHk3R3JkcHNTQ3R3cVVwaWhYWTFuQVczVWRYVHp1ZmFIbDllRDROTUQtUnp4SThiZkVsZk9QaldUcnhlV2lsdWtlWG00TTR1dW5hdkphQ3ZhaDN0RUJnX1IwVXRxVzR1YnBlSE5VSERUU2Rua1c3dkl0NXI2MDhFQWtKYmdjYmxqdW44bzNVTHJXVldmYUdCLXpVU2U0aTNpZVZiTF9ULTlRTDRlVUI3SFB4em41UXZiR200QnRia1hjckVfYjE0djRUOHJPaTdEQXdWNEFqM3lHQ0RqNGVCdm4wZGF0ZGU?oc=5",
-        "published": "2026-11-18T03:44:00Z"
+        "title": "Europe’s New Data Breach Reporting Rules: The Cyber Resilience Act | Pillsbury - Global Sourcing Practice",
+        "outlet": "JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZlVvZ3JQVmdWZ3dNcVR5dmcyZ2RjWmFTelUyREllLWhwc3owU3U3NkNVVE5JbzlfWmMxQ3ByWFNMQ3pyR0NRbnpHTW8xMGxONFBjV3FYcldSZmZTZklCMU9NU0RyckE0cXJMOXJBMzZPcXZmMjFzM3NnaGJwaW5kMTREYw?oc=5",
+        "published": "2026-11-16T16:58:17Z"
+      },
+      {
+        "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWo5REZBZlZsZjNhREs3WVN6TUlHRmgyZlpvMHVJcHBSYWVjV043dzNreHlPSG9VM2NManhWWmlTZmdqMFJRcHRJVFM0eHJCb1owYWhrMXZ5SmhJVVRaTlc0MnM3OEFqQldfdjhtZHdhdzF0bE9VLXh2R1JXQ1hBVlVNNVJpVlljM2FjOXl1c0I4amVKWUlIeUZGLWQwSVNXbUp0TQ?oc=5",
+        "published": "2026-11-18T14:55:13Z"
+      },
+      {
+        "title": "Geisinger: Email data breach affects information of nearly 2,000 patients",
+        "outlet": "Scranton Times-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFkybkVNZHptcU1LdXFQNWI2czlCRUVsaUI2d1BUT3RHQ0pqRzNjNV9oVmpfYjhEYmI5eUxxSVp1Zk56YmRJSUZXMGh3UkRfQTlOakF3RE1EQmU4RUNNbG9NSld2cU9nREZXNlZwMFNDTTRfd2lFc2dPS0pZcjBjdjFNRWhsSTdVeUtrTUZndUdoQ1pwRVhWVDFwSGJkeE5DcU9uMk13ZlJmMmEwM0RFTkRyZERlRUE?oc=5",
+        "published": "2026-11-16T21:39:30Z"
       },
       {
         "title": "California education department sued over data breach affecting millions of students",
@@ -123,12 +129,6 @@
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHlkY3ZCTTNfZjNsWkdOSjBLQ3dpWk9aRC1lQzl2WXRlQVlZQm5JOUE5SExHM2MtcHptU1B3NGZTaG5OeHEwY25SRmZtaTczRE1aekdZdWpuMXJSdlRDMzJLLVo1NUFLMERFMTNKRlBCYXJwcU56OVBSdElFVDVoMk9EcEVtSXBobGRGRlJXRWtkNkZUa2twUV9aTFRZQTA?oc=5",
         "published": "2026-11-17T20:09:36Z"
-      },
-      {
-        "title": "Behavior Intervention Services Data Breach? Attorneys Investigate",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmtHdkZBbkp0elNTMFFBcEV2NGd3MlpOZUR6STRCVWdzV0lKY183OWFrQXZ0T3JhbG5YQ1VBVWVKelJHbU44UjhXdWxIR3llSmxoY0tOYVRNSlVCaFFtTzJmb3ZfaWVOSF95ZXFEREZsVEN2aHNJYzJyT0NON0Z1aVJucGFyR3BVRkNacUZGMzk5TENRSTFHNg?oc=5",
-        "published": "2026-11-17T19:53:00Z"
       }
     ]
   },
