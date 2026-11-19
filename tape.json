@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19T12:03:34Z",
+  "as_of": "2026-11-19T20:55:33Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,10 +95,16 @@
         "published": "2026-11-17T13:05:20Z"
       },
       {
-        "title": "Europe’s New Data Breach Reporting Rules: The Cyber Resilience Act | Pillsbury - Global Sourcing Practice",
-        "outlet": "JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZlVvZ3JQVmdWZ3dNcVR5dmcyZ2RjWmFTelUyREllLWhwc3owU3U3NkNVVE5JbzlfWmMxQ3ByWFNMQ3pyR0NRbnpHTW8xMGxONFBjV3FYcldSZmZTZklCMU9NU0RyckE0cXJMOXJBMzZPcXZmMjFzM3NnaGJwaW5kMTREYw?oc=5",
-        "published": "2026-11-16T16:58:17Z"
+        "title": "Roper Center Data Breach Policy and Incident Response Plan",
+        "outlet": "Roper Center for Public Opinion Research",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXBJcFJ5Y2JJaDZZdjIwR01fTDMzSGE2Y2pZM0Y2NEtmYVdDSTBQVlZuUjhacUdmRUFYNzEyQ0tROFVuRjJFMklLMjBUS0NRWGpmS1g3SHIwdE9ianV6ZWdkV18yc2VOLWpQVG9kcUR5aVJzSU8tc0lwdElnNFNMQWZRZWJoU2xDd3g0SEx6d2lyNW5pVG5qNjh3MWZYeXVN?oc=5",
+        "published": "2026-11-19T17:38:19Z"
+      },
+      {
+        "title": "California education department sued over data breach affecting millions of students",
+        "outlet": "Sacramento Bee",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG8?oc=5",
+        "published": "2026-11-17T23:15:10Z"
       },
       {
         "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
@@ -113,22 +119,16 @@
         "published": "2026-11-18T22:04:15Z"
       },
       {
-        "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWo5REZBZlZsZjNhREs3WVN6TUlHRmgyZlpvMHVJcHBSYWVjV043dzNreHlPSG9VM2NManhWWmlTZmdqMFJRcHRJVFM0eHJCb1owYWhrMXZ5SmhJVVRaTlc0MnM3OEFqQldfdjhtZHdhdzF0bE9VLXh2R1JXQ1hBVlVNNVJpVlljM2FjOXl1c0I4amVKWUlIeUZGLWQwSVNXbUp0TQ?oc=5",
-        "published": "2026-11-18T14:55:13Z"
+        "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
+        "outlet": "McAfee",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
+        "published": "2026-11-18T00:15:19Z"
       },
       {
         "title": "Geisinger: Email data breach affects information of nearly 2,000 patients",
         "outlet": "Scranton Times-Tribune",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFkybkVNZHptcU1LdXFQNWI2czlCRUVsaUI2d1BUT3RHQ0pqRzNjNV9oVmpfYjhEYmI5eUxxSVp1Zk56YmRJSUZXMGh3UkRfQTlOakF3RE1EQmU4RUNNbG9NSld2cU9nREZXNlZwMFNDTTRfd2lFc2dPS0pZcjBjdjFNRWhsSTdVeUtrTUZndUdoQ1pwRVhWVDFwSGJkeE5DcU9uMk13ZlJmMmEwM0RFTkRyZERlRUE?oc=5",
         "published": "2026-11-16T21:39:30Z"
-      },
-      {
-        "title": "California education department sued over data breach affecting millions of students",
-        "outlet": "Sacramento Bee",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG8?oc=5",
-        "published": "2026-11-17T23:15:10Z"
       }
     ]
   },
