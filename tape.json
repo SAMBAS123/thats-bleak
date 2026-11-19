@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18T21:32:58Z",
+  "as_of": "2026-11-19T02:45:51Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -9,7 +9,7 @@
     "pwn_2026": 297135446,
     "added_2026": 117,
     "added_7d": 1,
-    "added_30d": 6,
+    "added_30d": 5,
     "latest": [
       {
         "name": "CastleRAT",
@@ -119,16 +119,16 @@
         "published": "2026-11-16T21:39:30Z"
       },
       {
+        "title": "Behavior Intervention Services Data Breach? Attorneys Investigate",
+        "outlet": "ClassAction.org",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmtHdkZBbkp0elNTMFFBcEV2NGd3MlpOZUR6STRCVWdzV0lKY183OWFrQXZ0T3JhbG5YQ1VBVWVKelJHbU44UjhXdWxIR3llSmxoY0tOYVRNSlVCaFFtTzJmb3ZfaWVOSF95ZXFEREZsVEN2aHNJYzJyT0NON0Z1aVJucGFyR3BVRkNacUZGMzk5TENRSTFHNg?oc=5",
+        "published": "2026-11-17T19:53:00Z"
+      },
+      {
         "title": "California education department sued over data breach affecting millions of students",
         "outlet": "Sacramento Bee",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG_SAXNBVV95cUxNR3JONzAzOUZpT3hrTzdXX282N0lGMEhkb0dqYUhicVBNcm5XcWpVOWphUFdMbUlEQ2xGeXIwOVhrN3JqQmZGZ3J4SVpGRkRwOEQ0WHNEYnNFaEJzX3JQbC1rTzVGYnZCQ0VVemNzclIyMlVn?oc=5",
         "published": "2026-11-17T23:15:10Z"
-      },
-      {
-        "title": "Vanderbilt Faces Class-Action Lawsuit Over Data Breach",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHlkY3ZCTTNfZjNsWkdOSjBLQ3dpWk9aRC1lQzl2WXRlQVlZQm5JOUE5SExHM2MtcHptU1B3NGZTaG5OeHEwY25SRmZtaTczRE1aekdZdWpuMXJSdlRDMzJLLVo1NUFLMERFMTNKRlBCYXJwcU56OVBSdElFVDVoMk9EcEVtSXBobGRGRlJXRWtkNkZUa2twUV9aTFRZQTA?oc=5",
-        "published": "2026-11-17T20:09:36Z"
       }
     ]
   },
