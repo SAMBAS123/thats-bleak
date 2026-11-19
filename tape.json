@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19T02:45:51Z",
+  "as_of": "2026-11-19T12:03:34Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,16 +95,22 @@
         "published": "2026-11-17T13:05:20Z"
       },
       {
+        "title": "Europe’s New Data Breach Reporting Rules: The Cyber Resilience Act | Pillsbury - Global Sourcing Practice",
+        "outlet": "JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZlVvZ3JQVmdWZ3dNcVR5dmcyZ2RjWmFTelUyREllLWhwc3owU3U3NkNVVE5JbzlfWmMxQ3ByWFNMQ3pyR0NRbnpHTW8xMGxONFBjV3FYcldSZmZTZklCMU9NU0RyckE0cXJMOXJBMzZPcXZmMjFzM3NnaGJwaW5kMTREYw?oc=5",
+        "published": "2026-11-16T16:58:17Z"
+      },
+      {
         "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
         "outlet": "CSIS | Center for Strategic and International Studies",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
         "published": "2026-11-13T17:29:49Z"
       },
       {
-        "title": "Europe’s New Data Breach Reporting Rules: The Cyber Resilience Act | Pillsbury - Global Sourcing Practice",
-        "outlet": "JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZlVvZ3JQVmdWZ3dNcVR5dmcyZ2RjWmFTelUyREllLWhwc3owU3U3NkNVVE5JbzlfWmMxQ3ByWFNMQ3pyR0NRbnpHTW8xMGxONFBjV3FYcldSZmZTZklCMU9NU0RyckE0cXJMOXJBMzZPcXZmMjFzM3NnaGJwaW5kMTREYw?oc=5",
-        "published": "2026-11-16T16:58:17Z"
+        "title": "Data Breach Leads Ohio County Libraries to Shutter App",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVJaQjhyNjgtOWNzRUxYTTFkeXFIX3BaazRmZWd3dGxlQUhaT0trUmt4UWFCUDhaWWlEdU1oVHNibTA1TUtnNFkwYnVyWFlNeGQyZlNCamVpYk9BZGRnajdIZmFfWmJiUTFPdlpzb2RwT1I5cUxXcVBOLWZERjVmY2FrNEVZRHg4RHlmaXVPNVE?oc=5",
+        "published": "2026-11-18T22:04:15Z"
       },
       {
         "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
@@ -119,15 +125,9 @@
         "published": "2026-11-16T21:39:30Z"
       },
       {
-        "title": "Behavior Intervention Services Data Breach? Attorneys Investigate",
-        "outlet": "ClassAction.org",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmtHdkZBbkp0elNTMFFBcEV2NGd3MlpOZUR6STRCVWdzV0lKY183OWFrQXZ0T3JhbG5YQ1VBVWVKelJHbU44UjhXdWxIR3llSmxoY0tOYVRNSlVCaFFtTzJmb3ZfaWVOSF95ZXFEREZsVEN2aHNJYzJyT0NON0Z1aVJucGFyR3BVRkNacUZGMzk5TENRSTFHNg?oc=5",
-        "published": "2026-11-17T19:53:00Z"
-      },
-      {
         "title": "California education department sued over data breach affecting millions of students",
         "outlet": "Sacramento Bee",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG_SAXNBVV95cUxNR3JONzAzOUZpT3hrTzdXX282N0lGMEhkb0dqYUhicVBNcm5XcWpVOWphUFdMbUlEQ2xGeXIwOVhrN3JqQmZGZ3J4SVpGRkRwOEQ0WHNEYnNFaEJzX3JQbC1rTzVGYnZCQ0VVemNzclIyMlVn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG8?oc=5",
         "published": "2026-11-17T23:15:10Z"
       }
     ]
