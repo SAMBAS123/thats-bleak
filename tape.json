@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T10:24:17Z",
+  "as_of": "2026-11-20T18:46:09Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,10 +89,10 @@
         "published": "2026-11-19T17:38:19Z"
       },
       {
-        "title": "Hacker Behind GTA 6 Leak Pleads Guilty to Rockstar Games Breach",
-        "outlet": "80 Level",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQV9mSmJFN0R3UDQ1VVlVbGZOMEZwdnF4VVVtNU51VUY3Sl9vY2s4RHJOS0U4RmROcXZyMlU0eVNkcVAtSXhQZ3VWb1ZoejduTk9zSnVLZjRLTWRjSGJfWlBweFZJM0ZtU011VDZfV2pPWFZpVFRLbmEzRVcyZG5TVDNRNTIzNHJKb2tRdndRZw?oc=5",
-        "published": "2026-11-17T13:05:20Z"
+        "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
+        "outlet": "Notebookcheck",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkhMaW5IY1dPMGJhb01LM0I2TndOTVZUeDFjSDBFdEZiQ3Q3clloalR5VmpKOVRoRVdsZy1uTnN5cWJPMzVERWF3YUhIck82d3BvVERuS2k0TFdfVHZiTzV5clFiZ282QTVwWFRhS1lka0ZoRWNqY3RJX3RXRHZGOXdfckxpN1VnRHVKTXZ5Q3FsN2dKS2pwdlMwX013TGg2R2hRZ2tfcVBqOGZNVjdXUnpiUzgwOXhaVVJv?oc=5",
+        "published": "2026-11-19T21:40:00Z"
       },
       {
         "title": "California education department sued over data breach affecting millions of students",
@@ -101,10 +101,10 @@
         "published": "2026-11-17T23:15:10Z"
       },
       {
-        "title": "Data Breach Leads Ohio County Libraries to Shutter App",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVJaQjhyNjgtOWNzRUxYTTFkeXFIX3BaazRmZWd3dGxlQUhaT0trUmt4UWFCUDhaWWlEdU1oVHNibTA1TUtnNFkwYnVyWFlNeGQyZlNCamVpYk9BZGRnajdIZmFfWmJiUTFPdlpzb2RwT1I5cUxXcVBOLWZERjVmY2FrNEVZRHg4RHlmaXVPNVE?oc=5",
-        "published": "2026-11-18T22:04:15Z"
+        "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5",
+        "published": "2026-11-20T11:36:51Z"
       },
       {
         "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet",
@@ -113,22 +113,22 @@
         "published": "2026-11-19T21:05:13Z"
       },
       {
-        "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-        "outlet": "TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWo5REZBZlZsZjNhREs3WVN6TUlHRmgyZlpvMHVJcHBSYWVjV043dzNreHlPSG9VM2NManhWWmlTZmdqMFJRcHRJVFM0eHJCb1owYWhrMXZ5SmhJVVRaTlc0MnM3OEFqQldfdjhtZHdhdzF0bE9VLXh2R1JXQ1hBVlVNNVJpVlljM2FjOXl1c0I4amVKWUlIeUZGLWQwSVNXbUp0TQ?oc=5",
-        "published": "2026-11-18T14:55:13Z"
+        "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
+        "outlet": "McAfee",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
+        "published": "2026-11-18T00:15:19Z"
       },
       {
-        "title": "World Triathlon Data Breach Exposed Athlete Medical Information and More",
-        "outlet": "Slowtwitch News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0prVXlUczg4aU1GMGpVWFpwdk1TYm5yOGJTNERVWUpBNGNlX0wtWm9wWnB0TXNmSHBfdHF6dF9Hbm0tbzg0TXFXM2dNb3A5MW52ckRxUG13WVkzaG9HLUtMaDNOdjNNWjU2VjliRENoclduRjZaWjJyVjd4QjhmNFYxTmxhMFgzUVBVeGN2QW1Tb2M2RVZBYnFNUk51bnNhWHFtQ3ZuNDlPQQ?oc=5",
-        "published": "2026-11-15T00:22:14Z"
+        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
+        "published": "2026-11-20T10:11:07Z"
       },
       {
-        "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWwzZndKY1VHQ2lCTWNwSnRBTnJLZXh3OUxVeHZFUHR6NVlXa2pJQlN1TGxfSzF3UVdTb0pSS1ozU1MzZGVBSDBRSEMxTmpuMmNwcTQ1VDFPeHNoTVI1dHNkTkE5VUJ5bFJmVVJaemw3T3BsZXVXZEVzdlJ2UTJkQ0wzTy0wQUhsU01IQVF2d3pFVl9IMHBld3o2dTJVbWNIRzczdXFvZ2lMRDBJNnpuUS1rc2RIQQ?oc=5",
-        "published": "2026-11-13T15:20:00Z"
+        "title": "Cirrus data breach exposed financial, medical, ID records",
+        "outlet": "AOPA",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBvRkZCYmFOQ1JHOER3LXJGdWo4dmpmNVF4TjZsR0g5WTlWYTRPdHNKOGlhcVllSEVvYjFIZHBpbk5wMWJmOTBnLUVxRnhJaVJvSEJpNEg3OFRJdFo2V09vNFRCakF4djQ0TmFxbkRROU1pbzA3UXpEWlRnejVreG14d3RGZVE?oc=5",
+        "published": "2026-11-19T17:51:52Z"
       }
     ]
   },
