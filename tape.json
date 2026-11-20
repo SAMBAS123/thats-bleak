@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-11-20T02:32:43Z",
+  "as_of": "2026-11-20T10:24:17Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1052,
-    "breaches_2026": 92,
-    "pwn_2026": 297135446,
-    "added_2026": 117,
+    "catalog_total": 1053,
+    "breaches_2026": 93,
+    "pwn_2026": 300744867,
+    "added_2026": 118,
     "added_7d": 1,
-    "added_30d": 5,
+    "added_30d": 6,
     "latest": [
+      {
+        "name": "Careers360",
+        "title": "Careers360",
+        "added": "2026-11-20T03:44:54Z",
+        "breach_date": "2026-11-14",
+        "pwn_count": 3609421,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#Careers360"
+      },
       {
         "name": "CastleRAT",
         "title": "CastleRAT",
@@ -66,14 +74,6 @@
         "breach_date": "2026-05-16",
         "pwn_count": 117574,
         "url": "https://haveibeenpwned.com/PwnedWebsites#GitesDeFrance"
-      },
-      {
-        "name": "Crunchbase",
-        "title": "Crunchbase",
-        "added": "2026-10-14T06:01:26Z",
-        "breach_date": "2026-01-22",
-        "pwn_count": 559908,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#Crunchbase"
       }
     ]
   },
@@ -82,12 +82,6 @@
     "source": "Google News RSS",
     "hits_7d": 100,
     "latest": [
-      {
-        "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
-        "outlet": "Nevada County (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVkhVTUs2c0lmRDlLTVY2bXZ5SWFsOGNBckxEbkpJUlYxVGlRN3ZWcGJKbXBTY3JZVnoxazNTbmRkYUIyVm1ISTdJazZwWVNrWWdyaDU5YmZOLXotVXhlX0FRTGYwRk12dHpJ?oc=5",
-        "published": "2026-11-17T20:54:27Z"
-      },
       {
         "title": "Roper Center Data Breach Policy and Incident Response Plan",
         "outlet": "Roper Center for Public Opinion Research",
@@ -107,28 +101,34 @@
         "published": "2026-11-17T23:15:10Z"
       },
       {
-        "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
-        "outlet": "CSIS | Center for Strategic and International Studies",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTEwUWlWQXNlUzdsclZHbkE3TG1DWmhYUXd0VUtaeVZYcW9uTy1POUd3a3ZxS3luNDdFZTRqME95UDFqdTlvdjJ1cnBaaEJkR0VJeWJJNXJTZTNkNGVlQXlPS2h3XzV3ekRRM01lUUNHU01qeFQxZnN3dFJYbHdoanVR?oc=5",
-        "published": "2026-11-13T17:29:49Z"
-      },
-      {
         "title": "Data Breach Leads Ohio County Libraries to Shutter App",
         "outlet": "GovTech",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVJaQjhyNjgtOWNzRUxYTTFkeXFIX3BaazRmZWd3dGxlQUhaT0trUmt4UWFCUDhaWWlEdU1oVHNibTA1TUtnNFkwYnVyWFlNeGQyZlNCamVpYk9BZGRnajdIZmFfWmJiUTFPdlpzb2RwT1I5cUxXcVBOLWZERjVmY2FrNEVZRHg4RHlmaXVPNVE?oc=5",
         "published": "2026-11-18T22:04:15Z"
       },
       {
-        "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
-        "outlet": "PC Gamer",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnNvSnlaVXowajBDU0lvc1VUMGVKa2xmV0taVFR2UlVyVHFyekJBMWR2dkRCY1JycG55SDdUYUh6V2RRdEYyVGpkREJ2aUJPNEdsZDA3NHFHenVYX0FPbzRIWW5wSXpNZ0o1VnFFYm40OW5TcnMyVW5nTFQ4UlZWQlBLTGV3eDdNRmxBR0JzLXB6VzMwRVhFcnpUaHVXYWw0MFVXLTFkVS1SbEVDa2c5WEJ3dURzWTVpalVNLVRCNA?oc=5",
-        "published": "2026-11-19T23:17:00Z"
+        "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet",
+        "outlet": "Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeHY0eUFlbERJbzgzNnVNejFnVlZjUDlGaVk5VWl1NUd6VzZ1Q1VrSW9SOGhzOWU3cVdueGhsQ3pmNjlRNVBuQWRIZHdTY2tVMndEN29RZ21PZjMwTV9tVHJnaWZuZ0dEeGU1STdCNnlPNVktR0NFTmlZazRWYXUwMkdtR3ZvYUpGTDkwU1pJTTNjZ3liaHd2YzF1WS1CRy0zR3JIV2NsT21yN3BTOF9oSnhOOURvNmNIbW45R0ZEWG9hZEt4dDViejRGRXJydnIzRUN5Y0Rscw?oc=5",
+        "published": "2026-11-19T21:05:13Z"
       },
       {
-        "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
-        "outlet": "McAfee",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
-        "published": "2026-11-18T00:15:19Z"
+        "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+        "outlet": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWo5REZBZlZsZjNhREs3WVN6TUlHRmgyZlpvMHVJcHBSYWVjV043dzNreHlPSG9VM2NManhWWmlTZmdqMFJRcHRJVFM0eHJCb1owYWhrMXZ5SmhJVVRaTlc0MnM3OEFqQldfdjhtZHdhdzF0bE9VLXh2R1JXQ1hBVlVNNVJpVlljM2FjOXl1c0I4amVKWUlIeUZGLWQwSVNXbUp0TQ?oc=5",
+        "published": "2026-11-18T14:55:13Z"
+      },
+      {
+        "title": "World Triathlon Data Breach Exposed Athlete Medical Information and More",
+        "outlet": "Slowtwitch News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0prVXlUczg4aU1GMGpVWFpwdk1TYm5yOGJTNERVWUpBNGNlX0wtWm9wWnB0TXNmSHBfdHF6dF9Hbm0tbzg0TXFXM2dNb3A5MW52ckRxUG13WVkzaG9HLUtMaDNOdjNNWjU2VjliRENoclduRjZaWjJyVjd4QjhmNFYxTmxhMFgzUVBVeGN2QW1Tb2M2RVZBYnFNUk51bnNhWHFtQ3ZuNDlPQQ?oc=5",
+        "published": "2026-11-15T00:22:14Z"
+      },
+      {
+        "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWwzZndKY1VHQ2lCTWNwSnRBTnJLZXh3OUxVeHZFUHR6NVlXa2pJQlN1TGxfSzF3UVdTb0pSS1ozU1MzZGVBSDBRSEMxTmpuMmNwcTQ1VDFPeHNoTVI1dHNkTkE5VUJ5bFJmVVJaemw3T3BsZXVXZEVzdlJ2UTJkQ0wzTy0wQUhsU01IQVF2d3pFVl9IMHBld3o2dTJVbWNIRzczdXFvZ2lMRDBJNnpuUS1rc2RIQQ?oc=5",
+        "published": "2026-11-13T15:20:00Z"
       }
     ]
   },
