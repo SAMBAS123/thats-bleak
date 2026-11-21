@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-11-20T18:46:09Z",
+  "as_of": "2026-11-21T00:56:00Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1053,
-    "breaches_2026": 93,
-    "pwn_2026": 300744867,
-    "added_2026": 118,
-    "added_7d": 1,
-    "added_30d": 6,
+    "catalog_total": 1054,
+    "breaches_2026": 94,
+    "pwn_2026": 301469190,
+    "added_2026": 119,
+    "added_7d": 2,
+    "added_30d": 7,
     "latest": [
+      {
+        "name": "TooLost",
+        "title": "Too Lost",
+        "added": "2026-11-20T19:17:16Z",
+        "breach_date": "2026-11-02",
+        "pwn_count": 724323,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#TooLost"
+      },
       {
         "name": "Careers360",
         "title": "Careers360",
@@ -66,14 +74,6 @@
         "breach_date": "2024-09-01",
         "pwn_count": 70372,
         "url": "https://haveibeenpwned.com/PwnedWebsites#AssuranceRetraite"
-      },
-      {
-        "name": "GitesDeFrance",
-        "title": "Gîtes de France",
-        "added": "2026-10-18T04:50:13Z",
-        "breach_date": "2026-05-16",
-        "pwn_count": 117574,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#GitesDeFrance"
       }
     ]
   },
@@ -89,10 +89,10 @@
         "published": "2026-11-19T17:38:19Z"
       },
       {
-        "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
-        "outlet": "Notebookcheck",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkhMaW5IY1dPMGJhb01LM0I2TndOTVZUeDFjSDBFdEZiQ3Q3clloalR5VmpKOVRoRVdsZy1uTnN5cWJPMzVERWF3YUhIck82d3BvVERuS2k0TFdfVHZiTzV5clFiZ282QTVwWFRhS1lka0ZoRWNqY3RJX3RXRHZGOXdfckxpN1VnRHVKTXZ5Q3FsN2dKS2pwdlMwX013TGg2R2hRZ2tfcVBqOGZNVjdXUnpiUzgwOXhaVVJv?oc=5",
-        "published": "2026-11-19T21:40:00Z"
+        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
+        "published": "2026-11-20T10:11:07Z"
       },
       {
         "title": "California education department sued over data breach affecting millions of students",
@@ -101,34 +101,34 @@
         "published": "2026-11-17T23:15:10Z"
       },
       {
+        "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
+        "outlet": "Notebookcheck",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkhMaW5IY1dPMGJhb01LM0I2TndOTVZUeDFjSDBFdEZiQ3Q3clloalR5VmpKOVRoRVdsZy1uTnN5cWJPMzVERWF3YUhIck82d3BvVERuS2k0TFdfVHZiTzV5clFiZ282QTVwWFRhS1lka0ZoRWNqY3RJX3RXRHZGOXdfckxpN1VnRHVKTXZ5Q3FsN2dKS2pwdlMwX013TGg2R2hRZ2tfcVBqOGZNVjdXUnpiUzgwOXhaVVJv?oc=5",
+        "published": "2026-11-19T21:40:00Z"
+      },
+      {
+        "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
+        "outlet": "PC Gamer",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnNvSnlaVXowajBDU0lvc1VUMGVKa2xmV0taVFR2UlVyVHFyekJBMWR2dkRCY1JycG55SDdUYUh6V2RRdEYyVGpkREJ2aUJPNEdsZDA3NHFHenVYX0FPbzRIWW5wSXpNZ0o1VnFFYm40OW5TcnMyVW5nTFQ4UlZWQlBLTGV3eDdNRmxBR0JzLXB6VzMwRVhFcnpUaHVXYWw0MFVXLTFkVS1SbEVDa2c5WEJ3dURzWTVpalVNLVRCNA?oc=5",
+        "published": "2026-11-19T23:17:00Z"
+      },
+      {
         "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
         "outlet": "SecurityWeek",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5",
         "published": "2026-11-20T11:36:51Z"
       },
       {
-        "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet",
-        "outlet": "Kotaku",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeHY0eUFlbERJbzgzNnVNejFnVlZjUDlGaVk5VWl1NUd6VzZ1Q1VrSW9SOGhzOWU3cVdueGhsQ3pmNjlRNVBuQWRIZHdTY2tVMndEN29RZ21PZjMwTV9tVHJnaWZuZ0dEeGU1STdCNnlPNVktR0NFTmlZazRWYXUwMkdtR3ZvYUpGTDkwU1pJTTNjZ3liaHd2YzF1WS1CRy0zR3JIV2NsT21yN3BTOF9oSnhOOURvNmNIbW45R0ZEWG9hZEt4dDViejRGRXJydnIzRUN5Y0Rscw?oc=5",
-        "published": "2026-11-19T21:05:13Z"
+        "title": "Cirrus data breach exposed financial, medical, ID records",
+        "outlet": "AOPA",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBvRkZCYmFOQ1JHOER3LXJGdWo4dmpmNVF4TjZsR0g5WTlWYTRPdHNKOGlhcVllSEVvYjFIZHBpbk5wMWJmOTBnLUVxRnhJaVJvSEJpNEg3OFRJdFo2V09vNFRCakF4djQ0TmFxbkRROU1pbzA3UXpEWlRnejVreG14d3RGZVE?oc=5",
+        "published": "2026-11-19T17:51:52Z"
       },
       {
         "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
         "outlet": "McAfee",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
         "published": "2026-11-18T00:15:19Z"
-      },
-      {
-        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
-        "published": "2026-11-20T10:11:07Z"
-      },
-      {
-        "title": "Cirrus data breach exposed financial, medical, ID records",
-        "outlet": "AOPA",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBvRkZCYmFOQ1JHOER3LXJGdWo4dmpmNVF4TjZsR0g5WTlWYTRPdHNKOGlhcVllSEVvYjFIZHBpbk5wMWJmOTBnLUVxRnhJaVJvSEJpNEg3OFRJdFo2V09vNFRCakF4djQ0TmFxbkRROU1pbzA3UXpEWlRnejVreG14d3RGZVE?oc=5",
-        "published": "2026-11-19T17:51:52Z"
       }
     ]
   },
