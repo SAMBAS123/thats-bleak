@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-21T00:56:00Z",
+  "as_of": "2026-11-21T08:43:26Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,28 +89,10 @@
         "published": "2026-11-19T17:38:19Z"
       },
       {
-        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
-        "published": "2026-11-20T10:11:07Z"
-      },
-      {
-        "title": "California education department sued over data breach affecting millions of students",
-        "outlet": "Sacramento Bee",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG8?oc=5",
-        "published": "2026-11-17T23:15:10Z"
-      },
-      {
         "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
         "outlet": "Notebookcheck",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkhMaW5IY1dPMGJhb01LM0I2TndOTVZUeDFjSDBFdEZiQ3Q3clloalR5VmpKOVRoRVdsZy1uTnN5cWJPMzVERWF3YUhIck82d3BvVERuS2k0TFdfVHZiTzV5clFiZ282QTVwWFRhS1lka0ZoRWNqY3RJX3RXRHZGOXdfckxpN1VnRHVKTXZ5Q3FsN2dKS2pwdlMwX013TGg2R2hRZ2tfcVBqOGZNVjdXUnpiUzgwOXhaVVJv?oc=5",
         "published": "2026-11-19T21:40:00Z"
-      },
-      {
-        "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
-        "outlet": "PC Gamer",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnNvSnlaVXowajBDU0lvc1VUMGVKa2xmV0taVFR2UlVyVHFyekJBMWR2dkRCY1JycG55SDdUYUh6V2RRdEYyVGpkREJ2aUJPNEdsZDA3NHFHenVYX0FPbzRIWW5wSXpNZ0o1VnFFYm40OW5TcnMyVW5nTFQ4UlZWQlBLTGV3eDdNRmxBR0JzLXB6VzMwRVhFcnpUaHVXYWw0MFVXLTFkVS1SbEVDa2c5WEJ3dURzWTVpalVNLVRCNA?oc=5",
-        "published": "2026-11-19T23:17:00Z"
       },
       {
         "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
@@ -119,16 +101,34 @@
         "published": "2026-11-20T11:36:51Z"
       },
       {
-        "title": "Cirrus data breach exposed financial, medical, ID records",
-        "outlet": "AOPA",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBvRkZCYmFOQ1JHOER3LXJGdWo4dmpmNVF4TjZsR0g5WTlWYTRPdHNKOGlhcVllSEVvYjFIZHBpbk5wMWJmOTBnLUVxRnhJaVJvSEJpNEg3OFRJdFo2V09vNFRCakF4djQ0TmFxbkRROU1pbzA3UXpEWlRnejVreG14d3RGZVE?oc=5",
-        "published": "2026-11-19T17:51:52Z"
+        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
+        "published": "2026-11-20T10:11:07Z"
       },
       {
         "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
         "outlet": "McAfee",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
         "published": "2026-11-18T00:15:19Z"
+      },
+      {
+        "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet",
+        "outlet": "Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeHY0eUFlbERJbzgzNnVNejFnVlZjUDlGaVk5VWl1NUd6VzZ1Q1VrSW9SOGhzOWU3cVdueGhsQ3pmNjlRNVBuQWRIZHdTY2tVMndEN29RZ21PZjMwTV9tVHJnaWZuZ0dEeGU1STdCNnlPNVktR0NFTmlZazRWYXUwMkdtR3ZvYUpGTDkwU1pJTTNjZ3liaHd2YzF1WS1CRy0zR3JIV2NsT21yN3BTOF9oSnhOOURvNmNIbW45R0ZEWG9hZEt4dDViejRGRXJydnIzRUN5Y0Rscw?oc=5",
+        "published": "2026-11-19T21:05:13Z"
+      },
+      {
+        "title": "California education department sued over data breach affecting millions of students",
+        "outlet": "Sacramento Bee",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG_SAXNBVV95cUxNR3JONzAzOUZpT3hrTzdXX282N0lGMEhkb0dqYUhicVBNcm5XcWpVOWphUFdMbUlEQ2xGeXIwOVhrN3JqQmZGZ3J4SVpGRkRwOEQ0WHNEYnNFaEJzX3JQbC1rTzVGYnZCQ0VVemNzclIyMlVn?oc=5",
+        "published": "2026-11-17T23:15:10Z"
+      },
+      {
+        "title": "Cirrus data breach exposed financial, medical, ID records",
+        "outlet": "AOPA",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBvRkZCYmFOQ1JHOER3LXJGdWo4dmpmNVF4TjZsR0g5WTlWYTRPdHNKOGlhcVllSEVvYjFIZHBpbk5wMWJmOTBnLUVxRnhJaVJvSEJpNEg3OFRJdFo2V09vNFRCakF4djQ0TmFxbkRROU1pbzA3UXpEWlRnejVreG14d3RGZVE?oc=5",
+        "published": "2026-11-19T17:51:52Z"
       }
     ]
   },
