@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-22T02:36:25Z",
+  "as_of": "2026-11-22T10:12:15Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -101,22 +101,16 @@
         "published": "2026-11-19T21:40:00Z"
       },
       {
-        "title": "Phoebe Confirms Legitimacy of Data Breach Notification Letters Issued by Former Third-Party Vendor",
-        "outlet": "Phoebe Putney Health System",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmZzZTlvN2NqTndLT19Xd2hTZVVOazhZRFh0dVpFR19kUHRiRkIzbm4tcV9CSzJuU0l5NGxoakxIWmZKMXgwb3ZiOWF6TWU5U0tVenFZZ1Nucms1aUZGZ3dVTnhQWmEtTlFNVk5NMEJqTDcwdmM3WEstcUF3WUYwcGF1ZDEtdXZVZW5iWG5iS1ZDckpNZzctY2lBSS1LZXlGWVA5VVhxTjJHekY2dklBc0tzYy1fTURIQjJFUV9EanVNakp4RmRnOUR3T29xUQ?oc=5",
-        "published": "2026-11-20T21:41:21Z"
-      },
-      {
         "title": "California education department sued over data breach affecting millions of students",
         "outlet": "Sacramento Bee",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG_SAXNBVV95cUxNR3JONzAzOUZpT3hrTzdXX282N0lGMEhkb0dqYUhicVBNcm5XcWpVOWphUFdMbUlEQ2xGeXIwOVhrN3JqQmZGZ3J4SVpGRkRwOEQ0WHNEYnNFaEJzX3JQbC1rTzVGYnZCQ0VVemNzclIyMlVn?oc=5",
         "published": "2026-11-17T23:15:10Z"
       },
       {
-        "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
-        "published": "2026-11-21T20:20:47Z"
+        "title": "Could This Major GTA VI Leak Make It Playable On PC?",
+        "outlet": "RockstarINTEL",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGNXUkNaYUU3aDhkWERHbHF5LUd5VmRJSjdXWW5wd1J1c0FOOFlCeFBVLXJXRVd3ZEdoLXl6WmxTUDlEOXJWd293NlM1clVtZU1laVIyTk05LTZ6bURsM2d1dWVlRDJDeVdsamlLcWJncVRTM0gta2t2d2laWFZoZUJkWDQ?oc=5",
+        "published": "2026-11-21T13:35:08Z"
       },
       {
         "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
@@ -129,6 +123,12 @@
         "outlet": "IGN",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
         "published": "2026-11-20T10:11:07Z"
+      },
+      {
+        "title": "Geisinger: Email data breach affects information of nearly 2,000 patients",
+        "outlet": "Scranton Times-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFkybkVNZHptcU1LdXFQNWI2czlCRUVsaUI2d1BUT3RHQ0pqRzNjNV9oVmpfYjhEYmI5eUxxSVp1Zk56YmRJSUZXMGh3UkRfQTlOakF3RE1EQmU4RUNNbG9NSld2cU9nREZXNlZwMFNDTTRfd2lFc2dPS0pZcjBjdjFNRWhsSTdVeUtrTUZndUdoQ1pwRVhWVDFwSGJkeE5DcU9uMk13ZlJmMmEwM0RFTkRyZERlRUE?oc=5",
+        "published": "2026-11-16T21:39:30Z"
       }
     ]
   },
