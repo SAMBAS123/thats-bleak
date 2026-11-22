@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-22T10:12:15Z",
+  "as_of": "2026-11-22T17:59:50Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,22 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5",
-        "published": "2026-11-20T11:36:51Z"
+        "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
+        "published": "2026-11-21T19:17:49Z"
       },
       {
         "title": "Roper Center Data Breach Policy and Incident Response Plan",
         "outlet": "Roper Center for Public Opinion Research",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXBJcFJ5Y2JJaDZZdjIwR01fTDMzSGE2Y2pZM0Y2NEtmYVdDSTBQVlZuUjhacUdmRUFYNzEyQ0tROFVuRjJFMklLMjBUS0NRWGpmS1g3SHIwdE9ianV6ZWdkV18yc2VOLWpQVG9kcUR5aVJzSU8tc0lwdElnNFNMQWZRZWJoU2xDd3g0SEx6d2lyNW5pVG5qNjh3MWZYeXVN?oc=5",
         "published": "2026-11-19T17:38:19Z"
+      },
+      {
+        "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5",
+        "published": "2026-11-20T11:36:51Z"
       },
       {
         "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
@@ -113,22 +119,16 @@
         "published": "2026-11-21T13:35:08Z"
       },
       {
+        "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
+        "outlet": "TweakTown",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTBSZGdpTDFwZEhrNVAxNkxMWS1Ta1Z0TDhlTFpqNi11RHdfdjRHcGZXUGdGVEZBOWNXMWtpMXhUYU92Yzk1ckNVb2dFYV9mUU1fVEp6TEZoMXNkNFNWRjk5Vl9xS0JIanRIcFZmMUZELVhwcnhkZHdsZy1xdFRBWUhCYlE0SnJsVkY0bFlOMHBBU1NMb3pDeVIwLS1tc0RFRFA0eWlPVzJnN3ZMTUNoUmlFMVRZRW9wTVVxN2NCM0laVEVFRkYxc2RlTlVlN0JXV2duUkxOTkZzV2VrdWM3bExR?oc=5",
+        "published": "2026-11-22T16:10:02Z"
+      },
+      {
         "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
         "outlet": "McAfee",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
         "published": "2026-11-18T00:15:19Z"
-      },
-      {
-        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
-        "published": "2026-11-20T10:11:07Z"
-      },
-      {
-        "title": "Geisinger: Email data breach affects information of nearly 2,000 patients",
-        "outlet": "Scranton Times-Tribune",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFkybkVNZHptcU1LdXFQNWI2czlCRUVsaUI2d1BUT3RHQ0pqRzNjNV9oVmpfYjhEYmI5eUxxSVp1Zk56YmRJSUZXMGh3UkRfQTlOakF3RE1EQmU4RUNNbG9NSld2cU9nREZXNlZwMFNDTTRfd2lFc2dPS0pZcjBjdjFNRWhsSTdVeUtrTUZndUdoQ1pwRVhWVDFwSGJkeE5DcU9uMk13ZlJmMmEwM0RFTkRyZERlRUE?oc=5",
-        "published": "2026-11-16T21:39:30Z"
       }
     ]
   },
