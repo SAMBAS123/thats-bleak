@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-21T22:18:37Z",
+  "as_of": "2026-11-22T02:36:25Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -89,28 +89,16 @@
         "published": "2026-11-20T11:36:51Z"
       },
       {
+        "title": "Roper Center Data Breach Policy and Incident Response Plan",
+        "outlet": "Roper Center for Public Opinion Research",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXBJcFJ5Y2JJaDZZdjIwR01fTDMzSGE2Y2pZM0Y2NEtmYVdDSTBQVlZuUjhacUdmRUFYNzEyQ0tROFVuRjJFMklLMjBUS0NRWGpmS1g3SHIwdE9ianV6ZWdkV18yc2VOLWpQVG9kcUR5aVJzSU8tc0lwdElnNFNMQWZRZWJoU2xDd3g0SEx6d2lyNW5pVG5qNjh3MWZYeXVN?oc=5",
+        "published": "2026-11-19T17:38:19Z"
+      },
+      {
         "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
         "outlet": "Notebookcheck",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkhMaW5IY1dPMGJhb01LM0I2TndOTVZUeDFjSDBFdEZiQ3Q3clloalR5VmpKOVRoRVdsZy1uTnN5cWJPMzVERWF3YUhIck82d3BvVERuS2k0TFdfVHZiTzV5clFiZ282QTVwWFRhS1lka0ZoRWNqY3RJX3RXRHZGOXdfckxpN1VnRHVKTXZ5Q3FsN2dKS2pwdlMwX013TGg2R2hRZ2tfcVBqOGZNVjdXUnpiUzgwOXhaVVJv?oc=5",
         "published": "2026-11-19T21:40:00Z"
-      },
-      {
-        "title": "World Triathlon Data Breach Exposed Athlete Medical Information and More",
-        "outlet": "Slowtwitch News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0prVXlUczg4aU1GMGpVWFpwdk1TYm5yOGJTNERVWUpBNGNlX0wtWm9wWnB0TXNmSHBfdHF6dF9Hbm0tbzg0TXFXM2dNb3A5MW52ckRxUG13WVkzaG9HLUtMaDNOdjNNWjU2VjliRENoclduRjZaWjJyVjd4QjhmNFYxTmxhMFgzUVBVeGN2QW1Tb2M2RVZBYnFNUk51bnNhWHFtQ3ZuNDlPQQ?oc=5",
-        "published": "2026-11-15T00:22:14Z"
-      },
-      {
-        "title": "Hacker Behind GTA 6 Leak Pleads Guilty to Rockstar Games Breach",
-        "outlet": "80 Level",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQV9mSmJFN0R3UDQ1VVlVbGZOMEZwdnF4VVVtNU51VUY3Sl9vY2s4RHJOS0U4RmROcXZyMlU0eVNkcVAtSXhQZ3VWb1ZoejduTk9zSnVLZjRLTWRjSGJfWlBweFZJM0ZtU011VDZfV2pPWFZpVFRLbmEzRVcyZG5TVDNRNTIzNHJKb2tRdndRZw?oc=5",
-        "published": "2026-11-17T13:05:20Z"
-      },
-      {
-        "title": "California education department sued over data breach affecting millions of students",
-        "outlet": "Sacramento Bee",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG_SAXNBVV95cUxNR3JONzAzOUZpT3hrTzdXX282N0lGMEhkb0dqYUhicVBNcm5XcWpVOWphUFdMbUlEQ2xGeXIwOVhrN3JqQmZGZ3J4SVpGRkRwOEQ0WHNEYnNFaEJzX3JQbC1rTzVGYnZCQ0VVemNzclIyMlVn?oc=5",
-        "published": "2026-11-17T23:15:10Z"
       },
       {
         "title": "Phoebe Confirms Legitimacy of Data Breach Notification Letters Issued by Former Third-Party Vendor",
@@ -119,16 +107,28 @@
         "published": "2026-11-20T21:41:21Z"
       },
       {
-        "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet",
-        "outlet": "Kotaku",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeHY0eUFlbERJbzgzNnVNejFnVlZjUDlGaVk5VWl1NUd6VzZ1Q1VrSW9SOGhzOWU3cVdueGhsQ3pmNjlRNVBuQWRIZHdTY2tVMndEN29RZ21PZjMwTV9tVHJnaWZuZ0dEeGU1STdCNnlPNVktR0NFTmlZazRWYXUwMkdtR3ZvYUpGTDkwU1pJTTNjZ3liaHd2YzF1WS1CRy0zR3JIV2NsT21yN3BTOF9oSnhOOURvNmNIbW45R0ZEWG9hZEt4dDViejRGRXJydnIzRUN5Y0Rscw?oc=5",
-        "published": "2026-11-19T21:05:13Z"
+        "title": "California education department sued over data breach affecting millions of students",
+        "outlet": "Sacramento Bee",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDbnVwa3U3VEdvMDFzRng0bUlmY1ZVUU56NkNSZlRzZHVXUVNWSGhFU1pfUVZyR01WcFVvVlA4QkxVdExsMzktYjd2S1VDTzVqS2xUam1UWTRtaklxT1pzTks4OWtQdWlzRzFOODRkbTNfeG_SAXNBVV95cUxNR3JONzAzOUZpT3hrTzdXX282N0lGMEhkb0dqYUhicVBNcm5XcWpVOWphUFdMbUlEQ2xGeXIwOVhrN3JqQmZGZ3J4SVpGRkRwOEQ0WHNEYnNFaEJzX3JQbC1rTzVGYnZCQ0VVemNzclIyMlVn?oc=5",
+        "published": "2026-11-17T23:15:10Z"
       },
       {
-        "title": "Expert weighs in after Ochsner Health reports data breach exposing patient information",
-        "outlet": "WDSU",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDlEeGZ5MXR1ZlpmdUVDUUVPMUlJNGUzM2lHVmRnbkpGb1ZyS3U4UnFUVWlkSGFJWDRnYmMxZHVsSDZLZUFWY3JFbTJjTFF6a25pRUlELXRkN01WaFF2V2g4M1ZLVHhHajQ2MTRzZG9CNXREQzhvNWphSHJJTmJOblFWSkd3dDBhMEI4eHhOeEpYazNqWWlHa2xnUQ?oc=5",
-        "published": "2026-11-21T04:34:00Z"
+        "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
+        "published": "2026-11-21T20:20:47Z"
+      },
+      {
+        "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
+        "outlet": "McAfee",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
+        "published": "2026-11-18T00:15:19Z"
+      },
+      {
+        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
+        "published": "2026-11-20T10:11:07Z"
       }
     ]
   },
