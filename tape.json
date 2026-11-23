@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-23T08:06:14Z",
+  "as_of": "2026-11-23T20:29:34Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,6 +83,12 @@
     "hits_7d": 100,
     "latest": [
       {
+        "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
+        "published": "2026-11-21T19:17:49Z"
+      },
+      {
         "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
         "outlet": "Nevada County (.gov)",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92ODAycXAyTDQ5dFp1a2Jxd1RLdzV1T0JTQklQYXE1bmNiQ0RlSERwcG5WSlpGZFJ2OWdfN1QxU1pxMTR6aU1McEYxSENKNzlOdGZjNU1UMXdITWZ1ZGM0VWZyd3VaZzk1RUE?oc=5",
@@ -95,10 +101,10 @@
         "published": "2026-11-22T16:10:02Z"
       },
       {
-        "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5",
-        "published": "2026-11-20T11:36:51Z"
+        "title": "Cyberleek Posts Alleged 209 GB GTA 6 Xbox Build",
+        "outlet": "shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjc1MWVCd1AtNlA0SElYOGl5dm9VSUVQWnM3M1I5TDVBNFVTVDViOTAwSHhxVVpXSFh3aXJnYUx2cGpFWnh4LXk2ZTRJWnJOUVFSeTk3aXhITlNjT0xSbjVpazlKakNfTnN6T0dReXhZRkI1QXRfSGVLdy1oWlVfOUxGSQ?oc=5",
+        "published": "2026-11-20T03:01:42Z"
       },
       {
         "title": "Roper Center Data Breach Policy and Incident Response Plan",
@@ -107,28 +113,22 @@
         "published": "2026-11-19T17:38:19Z"
       },
       {
-        "title": "Could This Major GTA VI Leak Make It Playable On PC?",
-        "outlet": "RockstarINTEL",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGNXUkNaYUU3aDhkWERHbHF5LUd5VmRJSjdXWW5wd1J1c0FOOFlCeFBVLXJXRVd3ZEdoLXl6WmxTUDlEOXJWd293NlM1clVtZU1laVIyTk05LTZ6bURsM2d1dWVlRDJDeVdsamlLcWJncVRTM0gta2t2d2laWFZoZUJkWDQ?oc=5",
-        "published": "2026-11-21T13:35:08Z"
+        "title": "GTA 6 Leaker Releases All Files for Alleged Xbox Build of Game",
+        "outlet": "PCMag",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczZaRFpBMk1SbHEzZTgxUlpjN3UxREc4TzBvWGdPQWJfQlJLSnF5Zm14R0tYV0hvVHgzYWNlUTY0eGpmdzU5ZXRhcG5mZ2hOU1d6NlRueHFaMUU3SnJfTzFaaFhIY2d2Y2pJSHh4V0kzVVNjQWRCSFNaNTlsRlQ1dE1hV3hCdV9NZzJvZHBOc3hFX28?oc=5",
+        "published": "2026-11-23T17:55:35Z"
       },
       {
-        "title": "GTA VI Leak by CyberLeek: 5 Claims, 1 Missing File",
-        "outlet": "shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdS1QOTZjY0thVTlDUndYUTJPc3ZiUlFHUlV6R2R4Mm5TY05hcV9sWm9mUXUzRXZSdm9wcWd5OHVoR1ozQ1UzbXR2WG5GTGRCNElUUV9hMVdIVXo4bHplZ0MzUjJvV0xvOEFZVmlzWUhWOTJQQjZ0RzhyVnRydHdmdDB2bm4?oc=5",
-        "published": "2026-11-21T17:47:53Z"
+        "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
+        "outlet": "TechRadar",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZQS1nLTkzVlBBTjl1bVVqaUtxNHdZUlNYMFNveUtSRHlrMDhVdVM4d05XamV6Y0ktVktjTnFva2Y0Z1h5SnhFNHF3a2tFOGlPUlBBbnZQR0l5YWJCd0toVFRuZ1RrQXEyS1QtVlJIMVlpRFo1TE9EUVVhLVpuVUhmc2lFOU9ONXhFazdDeDZQZ1JkalBvN3Q0SGVUVDQycE42TnI5MEhDaURDcW1tUVhFdmt0OHVjVDlERWNhTHRwTTMwWWlRa3pHTEFnRDVHa2taWGZWazZVS3g0dnVDRE1UbHVNRHF2?oc=5",
+        "published": "2026-11-23T13:07:36Z"
       },
       {
-        "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
-        "outlet": "Notebookcheck",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkhMaW5IY1dPMGJhb01LM0I2TndOTVZUeDFjSDBFdEZiQ3Q3clloalR5VmpKOVRoRVdsZy1uTnN5cWJPMzVERWF3YUhIck82d3BvVERuS2k0TFdfVHZiTzV5clFiZ282QTVwWFRhS1lka0ZoRWNqY3RJX3RXRHZGOXdfckxpN1VnRHVKTXZ5Q3FsN2dKS2pwdlMwX013TGg2R2hRZ2tfcVBqOGZNVjdXUnpiUzgwOXhaVVJv?oc=5",
-        "published": "2026-11-19T21:40:00Z"
-      },
-      {
-        "title": "Phoebe Confirms Legitimacy of Data Breach Notification Letters Issued by Former Third-Party Vendor",
-        "outlet": "Phoebe Putney Health System",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmZzZTlvN2NqTndLT19Xd2hTZVVOazhZRFh0dVpFR19kUHRiRkIzbm4tcV9CSzJuU0l5NGxoakxIWmZKMXgwb3ZiOWF6TWU5U0tVenFZZ1Nucms1aUZGZ3dVTnhQWmEtTlFNVk5NMEJqTDcwdmM3WEstcUF3WUYwcGF1ZDEtdXZVZW5iWG5iS1ZDckpNZzctY2lBSS1LZXlGWVA5VVhxTjJHekY2dklBc0tzYy1fTURIQjJFUV9EanVNakp4RmRnOUR3T29xUQ?oc=5",
-        "published": "2026-11-20T21:41:21Z"
+        "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+        "outlet": "Troy Hunt",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEJxbmFtQXJkX3VQMzNEajFSMVpkZ1pRbkVtbUJLSDBaaWt0dS0xNlRURHd5RTQtdVBMeEZaQ3lGUkRxVzYxaGtLRlBUdjU4ODF2R1o3MTJSOW1Qd0xPOGFaYS1oZzh4MHNhbm84anhhQ1czRHBwdXdYQU84bnBxVmIydUdxRmQzdmdvcTlUdEFWS28wUHNWLVRkVjg3Z1FUdmp2NGNUR2lLN29BRGZhT2hJODVIVlBXMTBPenl3V2s?oc=5",
+        "published": "2026-11-23T07:59:09Z"
       }
     ]
   },
