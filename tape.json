@@ -1,16 +1,24 @@
 {
-  "as_of": "2026-11-22T23:46:01Z",
+  "as_of": "2026-11-23T08:06:14Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
     "api": "https://haveibeenpwned.com/api/v3/breaches",
-    "catalog_total": 1054,
-    "breaches_2026": 94,
-    "pwn_2026": 301469190,
-    "added_2026": 119,
-    "added_7d": 2,
-    "added_30d": 7,
+    "catalog_total": 1055,
+    "breaches_2026": 95,
+    "pwn_2026": 301824241,
+    "added_2026": 120,
+    "added_7d": 3,
+    "added_30d": 8,
     "latest": [
+      {
+        "name": "Bromcom",
+        "title": "Bromcom",
+        "added": "2026-11-23T06:36:04Z",
+        "breach_date": "2026-09-06",
+        "pwn_count": 355051,
+        "url": "https://haveibeenpwned.com/PwnedWebsites#Bromcom"
+      },
       {
         "name": "TooLost",
         "title": "Too Lost",
@@ -66,14 +74,6 @@
         "breach_date": "2026-09-09",
         "pwn_count": 345439,
         "url": "https://haveibeenpwned.com/PwnedWebsites#AfD"
-      },
-      {
-        "name": "AssuranceRetraite",
-        "title": "Assurance Retraite",
-        "added": "2026-10-20T02:29:36Z",
-        "breach_date": "2024-09-01",
-        "pwn_count": 70372,
-        "url": "https://haveibeenpwned.com/PwnedWebsites#AssuranceRetraite"
       }
     ]
   },
@@ -82,6 +82,12 @@
     "source": "Google News RSS",
     "hits_7d": 100,
     "latest": [
+      {
+        "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
+        "outlet": "Nevada County (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92ODAycXAyTDQ5dFp1a2Jxd1RLdzV1T0JTQklQYXE1bmNiQ0RlSERwcG5WSlpGZFJ2OWdfN1QxU1pxMTR6aU1McEYxSENKNzlOdGZjNU1UMXdITWZ1ZGM0VWZyd3VaZzk1RUE?oc=5",
+        "published": "2026-11-22T23:17:37Z"
+      },
       {
         "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
         "outlet": "TweakTown",
@@ -101,6 +107,12 @@
         "published": "2026-11-19T17:38:19Z"
       },
       {
+        "title": "Could This Major GTA VI Leak Make It Playable On PC?",
+        "outlet": "RockstarINTEL",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGNXUkNaYUU3aDhkWERHbHF5LUd5VmRJSjdXWW5wd1J1c0FOOFlCeFBVLXJXRVd3ZEdoLXl6WmxTUDlEOXJWd293NlM1clVtZU1laVIyTk05LTZ6bURsM2d1dWVlRDJDeVdsamlLcWJncVRTM0gta2t2d2laWFZoZUJkWDQ?oc=5",
+        "published": "2026-11-21T13:35:08Z"
+      },
+      {
         "title": "GTA VI Leak by CyberLeek: 5 Claims, 1 Missing File",
         "outlet": "shattered.io",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdS1QOTZjY0thVTlDUndYUTJPc3ZiUlFHUlV6R2R4Mm5TY05hcV9sWm9mUXUzRXZSdm9wcWd5OHVoR1ozQ1UzbXR2WG5GTGRCNElUUV9hMVdIVXo4bHplZ0MzUjJvV0xvOEFZVmlzWUhWOTJQQjZ0RzhyVnRydHdmdDB2bm4?oc=5",
@@ -113,22 +125,10 @@
         "published": "2026-11-19T21:40:00Z"
       },
       {
-        "title": "Could This Major GTA VI Leak Make It Playable On PC?",
-        "outlet": "RockstarINTEL",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGNXUkNaYUU3aDhkWERHbHF5LUd5VmRJSjdXWW5wd1J1c0FOOFlCeFBVLXJXRVd3ZEdoLXl6WmxTUDlEOXJWd293NlM1clVtZU1laVIyTk05LTZ6bURsM2d1dWVlRDJDeVdsamlLcWJncVRTM0gta2t2d2laWFZoZUJkWDQ?oc=5",
-        "published": "2026-11-21T13:35:08Z"
-      },
-      {
-        "title": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
-        "outlet": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzBwS3QyR0NEMkpWWWZTc24yS2JQLUJxUzNwSHZmcnFzUzA0eWdaQTNpMG13RUp5Q3o2dnpKTUVIWnk4eDN6NC1oTVY3aWx3b0wtQmdHeWdDVXpRLWNkeERVR3JabW80aWhsdGpEUVdESWNrcTFRWTJNM3hSc2I0NzU2QWxRaWhyVDlfMFhmcldBNXFRZnE2LXdvSmFnOXdjZk03c0JpeFVkakhPRk1waGd2S3lfOHVYZ3NCWkMwMjZQdm8wRUdjNVV2NExPUGN4SXlyamdhWlZ5WVh2WlFOSlN4eThzMFpva2E0OEc5T25mX2st?oc=5",
-        "published": "2026-11-20T10:11:07Z"
-      },
-      {
-        "title": "Uber Data Breach: Cyberscout Letter & Next Steps",
-        "outlet": "McAfee",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlc3OWZCQzRjbHdNR2tPVXJIdnNNSklwMjk3amVGM2dSQUlteXFXZ3Vnbjl4SnFBNnZzOWVfbzFiNi1zOFctdEYzYUVxREZZbEtLQkdkX2ROT0x1R3pNZ3daV2ctMk9tRXlPelhyNjNzUDRDMEVRR1NJUmlkbEhodjdEUGdBT0xsSk5pdEpn?oc=5",
-        "published": "2026-11-18T00:15:19Z"
+        "title": "Phoebe Confirms Legitimacy of Data Breach Notification Letters Issued by Former Third-Party Vendor",
+        "outlet": "Phoebe Putney Health System",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmZzZTlvN2NqTndLT19Xd2hTZVVOazhZRFh0dVpFR19kUHRiRkIzbm4tcV9CSzJuU0l5NGxoakxIWmZKMXgwb3ZiOWF6TWU5U0tVenFZZ1Nucms1aUZGZ3dVTnhQWmEtTlFNVk5NMEJqTDcwdmM3WEstcUF3WUYwcGF1ZDEtdXZVZW5iWG5iS1ZDckpNZzctY2lBSS1LZXlGWVA5VVhxTjJHekY2dklBc0tzYy1fTURIQjJFUV9EanVNakp4RmRnOUR3T29xUQ?oc=5",
+        "published": "2026-11-20T21:41:21Z"
       }
     ]
   },
