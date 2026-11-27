@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-26T22:32:44Z",
+  "as_of": "2026-11-27T04:29:01Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 95,
     "pwn_2026": 302075053,
     "added_2026": 120,
-    "added_7d": 3,
+    "added_7d": 2,
     "added_30d": 7,
     "latest": [
       {
@@ -89,16 +89,22 @@
         "published": "2026-11-21T19:17:49Z"
       },
       {
+        "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+        "outlet": "Troy Hunt",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEJxbmFtQXJkX3VQMzNEajFSMVpkZ1pRbkVtbUJLSDBaaWt0dS0xNlRURHd5RTQtdVBMeEZaQ3lGUkRxVzYxaGtLRlBUdjU4ODF2R1o3MTJSOW1Qd0xPOGFaYS1oZzh4MHNhbm84anhhQ1czRHBwdXdYQU84bnBxVmIydUdxRmQzdmdvcTlUdEFWS28wUHNWLVRkVjg3Z1FUdmp2NGNUR2lLN29BRGZhT2hJODVIVlBXMTBPenl3V2s?oc=5",
+        "published": "2026-11-23T07:59:09Z"
+      },
+      {
         "title": "Catastrophic GTA 6 leak officially kickstarts race for PC port",
         "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWdwSHRyMk81NWhEWE5RaGpyXzh6azhnWWVva2ZoaFFZN3RqNGU3cWpjSHVuWnBFd2RlWlhxWU5JSThBRGFNS1E1Z2Q3M0RCTklUQmxlcU9CWnVLNGxLdHhveF9MY0MtZHVtN2RCdEdZamdvb3EwU2hmUjduZkhhS2M4cnVlMWpyNjY4WXgwYXZHWUUxZnV3cXE2SQ?oc=5",
         "published": "2026-11-24T18:24:27Z"
       },
       {
-        "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
-        "outlet": "Troy Hunt",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEJxbmFtQXJkX3VQMzNEajFSMVpkZ1pRbkVtbUJLSDBaaWt0dS0xNlRURHd5RTQtdVBMeEZaQ3lGUkRxVzYxaGtLRlBUdjU4ODF2R1o3MTJSOW1Qd0xPOGFaYS1oZzh4MHNhbm84anhhQ1czRHBwdXdYQU84bnBxVmIydUdxRmQzdmdvcTlUdEFWS28wUHNWLVRkVjg3Z1FUdmp2NGNUR2lLN29BRGZhT2hJODVIVlBXMTBPenl3V2s?oc=5",
-        "published": "2026-11-23T07:59:09Z"
+        "title": "Leaker Cyberleek Releases The Xbox Build Executable for GTA 6",
+        "outlet": "80 Level",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVc1ZmdkX0JXSFVTUkZSa3VrSGl3QVFwaWhCVkozU2VMSE90ejBJQUlRUmpMaFlzVjlqdU1LVHJKUVJrcThtNExWR2ltZV93SzdOeVdlSE5jc055MWswT1NucUhSRDViLWFDRmRocVM4N0pZeFkyck5kWXpuNnRscTlKZzZjT2RjU0lhQg?oc=5",
+        "published": "2026-11-24T12:38:35Z"
       },
       {
         "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
@@ -107,10 +113,10 @@
         "published": "2026-11-23T13:07:36Z"
       },
       {
-        "title": "Leaker Cyberleek Releases The Xbox Build Executable for GTA 6",
-        "outlet": "80 Level",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVc1ZmdkX0JXSFVTUkZSa3VrSGl3QVFwaWhCVkozU2VMSE90ejBJQUlRUmpMaFlzVjlqdU1LVHJKUVJrcThtNExWR2ltZV93SzdOeVdlSE5jc055MWswT1NucUhSRDViLWFDRmRocVM4N0pZeFkyck5kWXpuNnRscTlKZzZjT2RjU0lhQg?oc=5",
-        "published": "2026-11-24T12:38:35Z"
+        "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5",
+        "published": "2026-11-20T11:36:51Z"
       },
       {
         "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
@@ -123,12 +129,6 @@
         "outlet": "TweakTown",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTBSZGdpTDFwZEhrNVAxNkxMWS1Ta1Z0TDhlTFpqNi11RHdfdjRHcGZXUGdGVEZBOWNXMWtpMXhUYU92Yzk1ckNVb2dFYV9mUU1fVEp6TEZoMXNkNFNWRjk5Vl9xS0JIanRIcFZmMUZELVhwcnhkZHdsZy1xdFRBWUhCYlE0SnJsVkY0bFlOMHBBU1NMb3pDeVIwLS1tc0RFRFA0eWlPVzJnN3ZMTUNoUmlFMVRZRW9wTVVxN2NCM0laVEVFRkYxc2RlTlVlN0JXV2duUkxOTkZzV2VrdWM3bExR?oc=5",
         "published": "2026-11-22T16:10:02Z"
-      },
-      {
-        "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-        "outlet": "SecurityWeek",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5",
-        "published": "2026-11-20T11:36:51Z"
       }
     ]
   },
