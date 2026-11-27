@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27T14:14:24Z",
+  "as_of": "2026-11-27T22:53:24Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -8,7 +8,7 @@
     "breaches_2026": 95,
     "pwn_2026": 302075053,
     "added_2026": 120,
-    "added_7d": 2,
+    "added_7d": 1,
     "added_30d": 7,
     "latest": [
       {
@@ -89,10 +89,10 @@
         "published": "2026-11-21T19:17:49Z"
       },
       {
-        "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
-        "outlet": "Nevada County (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92ODAycXAyTDQ5dFp1a2Jxd1RLdzV1T0JTQklQYXE1bmNiQ0RlSERwcG5WSlpGZFJ2OWdfN1QxU1pxMTR6aU1McEYxSENKNzlOdGZjNU1UMXdITWZ1ZGM0VWZyd3VaZzk1RUE?oc=5",
-        "published": "2026-11-22T23:17:37Z"
+        "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+        "outlet": "Troy Hunt",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEJxbmFtQXJkX3VQMzNEajFSMVpkZ1pRbkVtbUJLSDBaaWt0dS0xNlRURHd5RTQtdVBMeEZaQ3lGUkRxVzYxaGtLRlBUdjU4ODF2R1o3MTJSOW1Qd0xPOGFaYS1oZzh4MHNhbm84anhhQ1czRHBwdXdYQU84bnBxVmIydUdxRmQzdmdvcTlUdEFWS28wUHNWLVRkVjg3Z1FUdmp2NGNUR2lLN29BRGZhT2hJODVIVlBXMTBPenl3V2s?oc=5",
+        "published": "2026-11-23T07:59:09Z"
       },
       {
         "title": "Catastrophic GTA 6 leak officially kickstarts race for PC port",
@@ -101,34 +101,34 @@
         "published": "2026-11-24T18:24:27Z"
       },
       {
-        "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
-        "outlet": "TechRadar",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZQS1nLTkzVlBBTjl1bVVqaUtxNHdZUlNYMFNveUtSRHlrMDhVdVM4d05XamV6Y0ktVktjTnFva2Y0Z1h5SnhFNHF3a2tFOGlPUlBBbnZQR0l5YWJCd0toVFRuZ1RrQXEyS1QtVlJIMVlpRFo1TE9EUVVhLVpuVUhmc2lFOU9ONXhFazdDeDZQZ1JkalBvN3Q0SGVUVDQycE42TnI5MEhDaURDcW1tUVhFdmt0OHVjVDlERWNhTHRwTTMwWWlRa3pHTEFnRDVHa2taWGZWazZVS3g0dnVDRE1UbHVNRHF2?oc=5",
-        "published": "2026-11-23T13:07:36Z"
-      },
-      {
         "title": "Leaker Cyberleek Releases The Xbox Build Executable for GTA 6",
         "outlet": "80 Level",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVc1ZmdkX0JXSFVTUkZSa3VrSGl3QVFwaWhCVkozU2VMSE90ejBJQUlRUmpMaFlzVjlqdU1LVHJKUVJrcThtNExWR2ltZV93SzdOeVdlSE5jc055MWswT1NucUhSRDViLWFDRmRocVM4N0pZeFkyck5kWXpuNnRscTlKZzZjT2RjU0lhQg?oc=5",
         "published": "2026-11-24T12:38:35Z"
       },
       {
-        "title": "GTA VI Leak by CyberLeek: 5 Claims, 1 Missing File",
-        "outlet": "shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdS1QOTZjY0thVTlDUndYUTJPc3ZiUlFHUlV6R2R4Mm5TY05hcV9sWm9mUXUzRXZSdm9wcWd5OHVoR1ozQ1UzbXR2WG5GTGRCNElUUV9hMVdIVXo4bHplZ0MzUjJvV0xvOEFZVmlzWUhWOTJQQjZ0RzhyVnRydHdmdDB2bm4?oc=5",
-        "published": "2026-11-21T12:39:22Z"
+        "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
+        "outlet": "TechRadar",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZQS1nLTkzVlBBTjl1bVVqaUtxNHdZUlNYMFNveUtSRHlrMDhVdVM4d05XamV6Y0ktVktjTnFva2Y0Z1h5SnhFNHF3a2tFOGlPUlBBbnZQR0l5YWJCd0toVFRuZ1RrQXEyS1QtVlJIMVlpRFo1TE9EUVVhLVpuVUhmc2lFOU9ONXhFazdDeDZQZ1JkalBvN3Q0SGVUVDQycE42TnI5MEhDaURDcW1tUVhFdmt0OHVjVDlERWNhTHRwTTMwWWlRa3pHTEFnRDVHa2taWGZWazZVS3g0dnVDRE1UbHVNRHF2?oc=5",
+        "published": "2026-11-23T13:07:36Z"
+      },
+      {
+        "title": "Manchester School Officials Discover Data Breach Via TikTok",
+        "outlet": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWJiR1ZiVWxhbXFNY0U2djk4RmdZLW1tcDFxbHdZM3FwUmJpZngxT0NfYU9UZERDdTVhTWhGOGRBMlBZRXA4MjNRX2t0aWdqcHFLUFJJOGtmVVFkQzFoMVNScFBpS2xzaF9Ta1poLUVxNnVJVUhpRXJUdVFwMFNnbHVpNFhqanZRQ0ljUU1lc0N1VVo4bzh6YmUxWlI0YU0?oc=5",
+        "published": "2026-11-25T19:20:25Z"
+      },
+      {
+        "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+        "outlet": "GamesIndustry.biz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWi1TNlMzX2pabjF5djdEcUlPWjlnSWhUOW11MTVWTFlaZmhGLXRfZ3hSOC1BRVJ1U2x3Y0NCaXowOFlpUkFlc1lVSW5hbmM1UkpvOWNnd1pYejBKRlRWSmpMNEY3TXFfLXZ3TTRKR1BDOE54R3R3MmtRUTJrUnB2Wi1yMlVNXzA0V3dqYnI0aGxpT2F3SUY4ZVh0M0l3RkRU?oc=5",
+        "published": "2026-11-23T19:43:30Z"
       },
       {
         "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
         "outlet": "TweakTown",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTBSZGdpTDFwZEhrNVAxNkxMWS1Ta1Z0TDhlTFpqNi11RHdfdjRHcGZXUGdGVEZBOWNXMWtpMXhUYU92Yzk1ckNVb2dFYV9mUU1fVEp6TEZoMXNkNFNWRjk5Vl9xS0JIanRIcFZmMUZELVhwcnhkZHdsZy1xdFRBWUhCYlE0SnJsVkY0bFlOMHBBU1NMb3pDeVIwLS1tc0RFRFA0eWlPVzJnN3ZMTUNoUmlFMVRZRW9wTVVxN2NCM0laVEVFRkYxc2RlTlVlN0JXV2duUkxOTkZzV2VrdWM3bExR?oc=5",
         "published": "2026-11-22T16:10:02Z"
-      },
-      {
-        "title": "Could This Major GTA VI Leak Make It Playable On PC?",
-        "outlet": "RockstarINTEL",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGNXUkNaYUU3aDhkWERHbHF5LUd5VmRJSjdXWW5wd1J1c0FOOFlCeFBVLXJXRVd3ZEdoLXl6WmxTUDlEOXJWd293NlM1clVtZU1laVIyTk05LTZ6bURsM2d1dWVlRDJDeVdsamlLcWJncVRTM0gta2t2d2laWFZoZUJkWDQ?oc=5",
-        "published": "2026-11-21T13:35:08Z"
       }
     ]
   },
