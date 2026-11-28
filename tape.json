@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27T22:53:24Z",
+  "as_of": "2026-11-28T04:55:21Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -95,6 +95,12 @@
         "published": "2026-11-23T07:59:09Z"
       },
       {
+        "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
+        "outlet": "TechRadar",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZQS1nLTkzVlBBTjl1bVVqaUtxNHdZUlNYMFNveUtSRHlrMDhVdVM4d05XamV6Y0ktVktjTnFva2Y0Z1h5SnhFNHF3a2tFOGlPUlBBbnZQR0l5YWJCd0toVFRuZ1RrQXEyS1QtVlJIMVlpRFo1TE9EUVVhLVpuVUhmc2lFOU9ONXhFazdDeDZQZ1JkalBvN3Q0SGVUVDQycE42TnI5MEhDaURDcW1tUVhFdmt0OHVjVDlERWNhTHRwTTMwWWlRa3pHTEFnRDVHa2taWGZWazZVS3g0dnVDRE1UbHVNRHF2?oc=5",
+        "published": "2026-11-23T13:07:36Z"
+      },
+      {
         "title": "Catastrophic GTA 6 leak officially kickstarts race for PC port",
         "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWdwSHRyMk81NWhEWE5RaGpyXzh6azhnWWVva2ZoaFFZN3RqNGU3cWpjSHVuWnBFd2RlWlhxWU5JSThBRGFNS1E1Z2Q3M0RCTklUQmxlcU9CWnVLNGxLdHhveF9MY0MtZHVtN2RCdEdZamdvb3EwU2hmUjduZkhhS2M4cnVlMWpyNjY4WXgwYXZHWUUxZnV3cXE2SQ?oc=5",
@@ -107,18 +113,6 @@
         "published": "2026-11-24T12:38:35Z"
       },
       {
-        "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
-        "outlet": "TechRadar",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZQS1nLTkzVlBBTjl1bVVqaUtxNHdZUlNYMFNveUtSRHlrMDhVdVM4d05XamV6Y0ktVktjTnFva2Y0Z1h5SnhFNHF3a2tFOGlPUlBBbnZQR0l5YWJCd0toVFRuZ1RrQXEyS1QtVlJIMVlpRFo1TE9EUVVhLVpuVUhmc2lFOU9ONXhFazdDeDZQZ1JkalBvN3Q0SGVUVDQycE42TnI5MEhDaURDcW1tUVhFdmt0OHVjVDlERWNhTHRwTTMwWWlRa3pHTEFnRDVHa2taWGZWazZVS3g0dnVDRE1UbHVNRHF2?oc=5",
-        "published": "2026-11-23T13:07:36Z"
-      },
-      {
-        "title": "Manchester School Officials Discover Data Breach Via TikTok",
-        "outlet": "GovTech",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWJiR1ZiVWxhbXFNY0U2djk4RmdZLW1tcDFxbHdZM3FwUmJpZngxT0NfYU9UZERDdTVhTWhGOGRBMlBZRXA4MjNRX2t0aWdqcHFLUFJJOGtmVVFkQzFoMVNScFBpS2xzaF9Ta1poLUVxNnVJVUhpRXJUdVFwMFNnbHVpNFhqanZRQ0ljUU1lc0N1VVo4bzh6YmUxWlI0YU0?oc=5",
-        "published": "2026-11-25T19:20:25Z"
-      },
-      {
         "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
         "outlet": "GamesIndustry.biz",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWi1TNlMzX2pabjF5djdEcUlPWjlnSWhUOW11MTVWTFlaZmhGLXRfZ3hSOC1BRVJ1U2x3Y0NCaXowOFlpUkFlc1lVSW5hbmM1UkpvOWNnd1pYejBKRlRWSmpMNEY3TXFfLXZ3TTRKR1BDOE54R3R3MmtRUTJrUnB2Wi1yMlVNXzA0V3dqYnI0aGxpT2F3SUY4ZVh0M0l3RkRU?oc=5",
@@ -129,6 +123,12 @@
         "outlet": "TweakTown",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTBSZGdpTDFwZEhrNVAxNkxMWS1Ta1Z0TDhlTFpqNi11RHdfdjRHcGZXUGdGVEZBOWNXMWtpMXhUYU92Yzk1ckNVb2dFYV9mUU1fVEp6TEZoMXNkNFNWRjk5Vl9xS0JIanRIcFZmMUZELVhwcnhkZHdsZy1xdFRBWUhCYlE0SnJsVkY0bFlOMHBBU1NMb3pDeVIwLS1tc0RFRFA0eWlPVzJnN3ZMTUNoUmlFMVRZRW9wTVVxN2NCM0laVEVFRkYxc2RlTlVlN0JXV2duUkxOTkZzV2VrdWM3bExR?oc=5",
         "published": "2026-11-22T16:10:02Z"
+      },
+      {
+        "title": "September 2026 Healthcare Data Breach Report",
+        "outlet": "The HIPAA Journal",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZTRTOVhFMG03WVhGRVJGMmY5MFd1R1Y1b3QwRm5uZHExXzVuaWRWM0FxaDVOcVNPSVpQR1hmTVJIRDJKUHpGNEpJU1h3dllicjVCOUFSRGVFbmI5cEZJYVRuMEJ1bFZEejlwWmswbnc4S3BfNVBsUWJycUx0MVU?oc=5",
+        "published": "2026-11-27T15:50:06Z"
       }
     ]
   },
