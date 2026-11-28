@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-28T04:55:21Z",
+  "as_of": "2026-11-28T14:28:11Z",
   "token": null,
   "catalog": {
     "source": "https://haveibeenpwned.com/PwnedWebsites",
@@ -83,16 +83,10 @@
     "hits_7d": 100,
     "latest": [
       {
-        "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
-        "published": "2026-11-21T19:17:49Z"
-      },
-      {
-        "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
-        "outlet": "Troy Hunt",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEJxbmFtQXJkX3VQMzNEajFSMVpkZ1pRbkVtbUJLSDBaaWt0dS0xNlRURHd5RTQtdVBMeEZaQ3lGUkRxVzYxaGtLRlBUdjU4ODF2R1o3MTJSOW1Qd0xPOGFaYS1oZzh4MHNhbm84anhhQ1czRHBwdXdYQU84bnBxVmIydUdxRmQzdmdvcTlUdEFWS28wUHNWLVRkVjg3Z1FUdmp2NGNUR2lLN29BRGZhT2hJODVIVlBXMTBPenl3V2s?oc=5",
-        "published": "2026-11-23T07:59:09Z"
+        "title": "Important Notice of Data Breach for ECM/HOME Team Clients",
+        "outlet": "Nevada County (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92ODAycXAyTDQ5dFp1a2Jxd1RLdzV1T0JTQklQYXE1bmNiQ0RlSERwcG5WSlpGZFJ2OWdfN1QxU1pxMTR6aU1McEYxSENKNzlOdGZjNU1UMXdITWZ1ZGM0VWZyd3VaZzk1RUE?oc=5",
+        "published": "2026-11-22T23:17:37Z"
       },
       {
         "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
@@ -113,12 +107,6 @@
         "published": "2026-11-24T12:38:35Z"
       },
       {
-        "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
-        "outlet": "GamesIndustry.biz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWi1TNlMzX2pabjF5djdEcUlPWjlnSWhUOW11MTVWTFlaZmhGLXRfZ3hSOC1BRVJ1U2x3Y0NCaXowOFlpUkFlc1lVSW5hbmM1UkpvOWNnd1pYejBKRlRWSmpMNEY3TXFfLXZ3TTRKR1BDOE54R3R3MmtRUTJrUnB2Wi1yMlVNXzA0V3dqYnI0aGxpT2F3SUY4ZVh0M0l3RkRU?oc=5",
-        "published": "2026-11-23T19:43:30Z"
-      },
-      {
         "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
         "outlet": "TweakTown",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTBSZGdpTDFwZEhrNVAxNkxMWS1Ta1Z0TDhlTFpqNi11RHdfdjRHcGZXUGdGVEZBOWNXMWtpMXhUYU92Yzk1ckNVb2dFYV9mUU1fVEp6TEZoMXNkNFNWRjk5Vl9xS0JIanRIcFZmMUZELVhwcnhkZHdsZy1xdFRBWUhCYlE0SnJsVkY0bFlOMHBBU1NMb3pDeVIwLS1tc0RFRFA0eWlPVzJnN3ZMTUNoUmlFMVRZRW9wTVVxN2NCM0laVEVFRkYxc2RlTlVlN0JXV2duUkxOTkZzV2VrdWM3bExR?oc=5",
@@ -129,6 +117,18 @@
         "outlet": "The HIPAA Journal",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZTRTOVhFMG03WVhGRVJGMmY5MFd1R1Y1b3QwRm5uZHExXzVuaWRWM0FxaDVOcVNPSVpQR1hmTVJIRDJKUHpGNEpJU1h3dllicjVCOUFSRGVFbmI5cEZJYVRuMEJ1bFZEejlwWmswbnc4S3BfNVBsUWJycUx0MVU?oc=5",
         "published": "2026-11-27T15:50:06Z"
+      },
+      {
+        "title": "Cyberleek Reportedly Releases .exe File for Xbox Build",
+        "outlet": "IGN",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVzdFQWF2UjZrOWpDQVpzd3ZTcTQzTGk2N2NTNHpIZ3JMMGpDaTE4UDduWk9ERjZZYllXRjJmMm5EdTRJeUhTQjNLZ2UxMmUzbmdodENzWEtjbDduWTVSNWJBTml1QnVQeUZtNE9rMDB3V3NsU0l5b2U4b3AtZzZGVnkxR0thUm5hYUJRN3d5dkNUS2tGaVpLcHNVLWxjX2VGclFmOURmWmF0NVkybEFUeGtIREtiaVNGRXNjSG1HZlBhd2d5cVpmanNTdHB3RjZFUDVjcnVaN0ZLQWY2SThWdGNxVENYY3lDNDEzc1BfeWhOcGM?oc=5",
+        "published": "2026-11-23T16:59:54Z"
+      },
+      {
+        "title": "Hex Package Manager Warns of Potential Data Breach",
+        "outlet": "SecurityWeek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnJvaElyVzd6UE1JWEI3ckZWZzQ4dkNtNVBUd21nUklmLVVKVHJiSEZ5azA4c004V0pHTFBLUUNzLTBMUHlpRElwcmRnWW54NThnQ0l4VHJ5MnhVdUZoUXZHN0xMY0NSRjVOaXh2bFo1RmNDQnNWMnVNT3FSbjJBblV2cWNTOTQ?oc=5",
+        "published": "2026-11-27T07:44:49Z"
       }
     ]
   },
